@@ -4,6 +4,8 @@
 
 This repository contains ready-to-use fonts, original drawing source and masters, the creation methodology, validation reports and a prompt you can adapt to create a type family for your own company.
 
+Read how the family was made: [A corporate typeface of our own with Codex: the FlyOptima case, 2026](https://sabynin.com/en/blog/corporate-font-with-codex/).
+
 ## Families
 
 | Family | Purpose | Static TTF styles | Internal OFL version |

@@ -1,0 +1,34 @@
+{
+  "status": "RECHECKED_WITH_DOCUMENTED_LIMITATIONS",
+  "date": "2026-10-13",
+  "delivered_fonts": 154,
+  "source_fonts": 202,
+  "ots": {
+    "PASS": 154
+  },
+  "fontbakery": {
+    "profile_runs": 27,
+    "raw_counts": {
+      "(not finished)": 0,
+      "INFO": 753,
+      "PASS": 16649,
+      "SKIP": 14187,
+      "FAIL": 302,
+      "WARN": 797,
+      "ERROR": 44
+    },
+    "checker_patch": "SAB-Modul-1.0/source/fix_fontbakery_cff.py; original and fixed behavior regression-tested including a deliberately wrong advance width."
+  },
+  "fontvalidator": {
+    "reports": 154,
+    "raw_E": 6183,
+    "same_raw_E_records_as_accepted_baseline": 154,
+    "raster_tests": false
+  },
+  "scope": "Previously accepted corporate RU/EN use, drawing unchanged. Not Google Fonts catalogue submission.",
+  "not_repeated": [
+    "Full source drawing rebuild of the OFL package",
+    "All native GUI and web inspector sessions",
+    "Full expanded-language design acceptance"
+  ]
+}

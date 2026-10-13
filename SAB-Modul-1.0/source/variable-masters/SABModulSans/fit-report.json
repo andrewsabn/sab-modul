@@ -1,0 +1,1867 @@
+{
+  "original_points_after_deduplication": 23135,
+  "original_points": 23135,
+  "fitted_points": 14965,
+  "deduplicated_glyphs": {
+    "uni0405": "uni0053",
+    "uni0406": "uni0049",
+    "uni0408": "uni004A",
+    "uni0410": "uni0041",
+    "uni0412": "uni0042",
+    "uni0415": "uni0045",
+    "uni041A": "uni004B",
+    "uni041D": "uni0048",
+    "uni041E": "uni004F",
+    "uni0420": "uni0050",
+    "uni0421": "uni0043",
+    "uni0422": "uni0054",
+    "uni0425": "uni0058",
+    "uni0430": "uni0061",
+    "uni0435": "uni0065",
+    "uni043A": "uni0138",
+    "uni043E": "uni006F",
+    "uni0440": "uni0070",
+    "uni0441": "uni0063",
+    "uni0443": "uni0079",
+    "uni0445": "uni0078",
+    "uni0456": "uni0069",
+    "uni0458": "uni006A",
+    "uni2010": "uni002D",
+    "uni2011": "uni002D",
+    "uni2013": "uni2012",
+    "uni201A": "uni002C",
+    "uni2022": "uni00B7",
+    "uni0030.pnum": "uni0030",
+    "uni0031.pnum": "uni0031",
+    "uni0032.pnum": "uni0032",
+    "uni0033.pnum": "uni0033",
+    "uni0034.pnum": "uni0034",
+    "uni0035.pnum": "uni0035",
+    "uni0036.pnum": "uni0036",
+    "uni0037.pnum": "uni0037",
+    "uni0038.pnum": "uni0038",
+    "uni0039.pnum": "uni0039",
+    "uni005B.case": "uni005B",
+    "uni005D.case": "uni005D",
+    "uni007B.case": "uni007B",
+    "uni007D.case": "uni007D"
+  },
+  "glyphs": {
+    ".notdef": {
+      "max_fit_error_units": 0.0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni0021": {
+      "max_fit_error_units": 0.7887,
+      "segments": 16,
+      "original_points": 52,
+      "fitted_points": 25
+    },
+    "uni0022": {
+      "max_fit_error_units": 0.0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni0023": {
+      "max_fit_error_units": 0.0,
+      "segments": 33,
+      "original_points": 32,
+      "fitted_points": 33
+    },
+    "uni0024": {
+      "max_fit_error_units": 0.7855,
+      "segments": 57,
+      "original_points": 152,
+      "fitted_points": 95
+    },
+    "uni0025": {
+      "max_fit_error_units": 0.7813,
+      "segments": 72,
+      "original_points": 255,
+      "fitted_points": 128
+    },
+    "uni0026": {
+      "max_fit_error_units": 0.7933,
+      "segments": 70,
+      "original_points": 182,
+      "fitted_points": 117
+    },
+    "uni0027": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0028": {
+      "max_fit_error_units": 0.7469,
+      "segments": 18,
+      "original_points": 50,
+      "fitted_points": 30
+    },
+    "uni0029": {
+      "max_fit_error_units": 0.7603,
+      "segments": 19,
+      "original_points": 50,
+      "fitted_points": 33
+    },
+    "uni002A": {
+      "max_fit_error_units": 0.0,
+      "segments": 18,
+      "original_points": 18,
+      "fitted_points": 18
+    },
+    "uni002B": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni002C": {
+      "max_fit_error_units": 0.5554,
+      "segments": 7,
+      "original_points": 7,
+      "fitted_points": 7
+    },
+    "uni002D": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni002E": {
+      "max_fit_error_units": 0.7373,
+      "segments": 14,
+      "original_points": 48,
+      "fitted_points": 24
+    },
+    "uni002F": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0030": {
+      "max_fit_error_units": 0.7883,
+      "segments": 49,
+      "original_points": 192,
+      "fitted_points": 90
+    },
+    "uni0031": {
+      "max_fit_error_units": 0.7759,
+      "segments": 17,
+      "original_points": 22,
+      "fitted_points": 22
+    },
+    "uni0032": {
+      "max_fit_error_units": 0.7887,
+      "segments": 45,
+      "original_points": 104,
+      "fitted_points": 77
+    },
+    "uni0033": {
+      "max_fit_error_units": 0.7951,
+      "segments": 66,
+      "original_points": 184,
+      "fitted_points": 115
+    },
+    "uni0034": {
+      "max_fit_error_units": 0.7865,
+      "segments": 26,
+      "original_points": 36,
+      "fitted_points": 37
+    },
+    "uni0035": {
+      "max_fit_error_units": 0.7875,
+      "segments": 54,
+      "original_points": 116,
+      "fitted_points": 87
+    },
+    "uni0036": {
+      "max_fit_error_units": 0.7999,
+      "segments": 61,
+      "original_points": 227,
+      "fitted_points": 111
+    },
+    "uni0037": {
+      "max_fit_error_units": 0.6668,
+      "segments": 15,
+      "original_points": 16,
+      "fitted_points": 19
+    },
+    "uni0038": {
+      "max_fit_error_units": 0.7987,
+      "segments": 81,
+      "original_points": 292,
+      "fitted_points": 142
+    },
+    "uni0039": {
+      "max_fit_error_units": 0.8,
+      "segments": 62,
+      "original_points": 227,
+      "fitted_points": 111
+    },
+    "uni003A": {
+      "max_fit_error_units": 0.7719,
+      "segments": 24,
+      "original_points": 96,
+      "fitted_points": 43
+    },
+    "uni003B": {
+      "max_fit_error_units": 0.686,
+      "segments": 20,
+      "original_points": 56,
+      "fitted_points": 30
+    },
+    "uni003C": {
+      "max_fit_error_units": 0.7483,
+      "segments": 12,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni003D": {
+      "max_fit_error_units": 0.0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni003E": {
+      "max_fit_error_units": 0.7483,
+      "segments": 12,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni003F": {
+      "max_fit_error_units": 0.7937,
+      "segments": 48,
+      "original_points": 150,
+      "fitted_points": 86
+    },
+    "uni0040": {
+      "max_fit_error_units": 0.7946,
+      "segments": 100,
+      "original_points": 379,
+      "fitted_points": 179
+    },
+    "uni0041": {
+      "max_fit_error_units": 0.7792,
+      "segments": 20,
+      "original_points": 22,
+      "fitted_points": 28
+    },
+    "uni0042": {
+      "max_fit_error_units": 0.795,
+      "segments": 53,
+      "original_points": 148,
+      "fitted_points": 86
+    },
+    "uni0043": {
+      "max_fit_error_units": 0.7669,
+      "segments": 45,
+      "original_points": 194,
+      "fitted_points": 78
+    },
+    "uni0044": {
+      "max_fit_error_units": 0.7826,
+      "segments": 55,
+      "original_points": 69,
+      "fitted_points": 90
+    },
+    "uni0045": {
+      "max_fit_error_units": 0.6784,
+      "segments": 26,
+      "original_points": 28,
+      "fitted_points": 35
+    },
+    "uni0046": {
+      "max_fit_error_units": 0.6052,
+      "segments": 18,
+      "original_points": 18,
+      "fitted_points": 21
+    },
+    "uni0047": {
+      "max_fit_error_units": 0.7834,
+      "segments": 59,
+      "original_points": 207,
+      "fitted_points": 103
+    },
+    "uni0048": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0049": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni004A": {
+      "max_fit_error_units": 0.7948,
+      "segments": 30,
+      "original_points": 60,
+      "fitted_points": 47
+    },
+    "uni004B": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni004C": {
+      "max_fit_error_units": 0.6025,
+      "segments": 14,
+      "original_points": 14,
+      "fitted_points": 17
+    },
+    "uni004D": {
+      "max_fit_error_units": 0.769,
+      "segments": 34,
+      "original_points": 46,
+      "fitted_points": 52
+    },
+    "uni004E": {
+      "max_fit_error_units": 0.5871,
+      "segments": 28,
+      "original_points": 34,
+      "fitted_points": 39
+    },
+    "uni004F": {
+      "max_fit_error_units": 0.7726,
+      "segments": 54,
+      "original_points": 192,
+      "fitted_points": 99
+    },
+    "uni0050": {
+      "max_fit_error_units": 0.7821,
+      "segments": 36,
+      "original_points": 64,
+      "fitted_points": 58
+    },
+    "uni0051": {
+      "max_fit_error_units": 0.7991,
+      "segments": 56,
+      "original_points": 191,
+      "fitted_points": 98
+    },
+    "uni0052": {
+      "max_fit_error_units": 0.781,
+      "segments": 44,
+      "original_points": 66,
+      "fitted_points": 66
+    },
+    "uni0053": {
+      "max_fit_error_units": 0.789,
+      "segments": 69,
+      "original_points": 159,
+      "fitted_points": 124
+    },
+    "uni0054": {
+      "max_fit_error_units": 0.0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni0055": {
+      "max_fit_error_units": 0.7921,
+      "segments": 38,
+      "original_points": 65,
+      "fitted_points": 60
+    },
+    "uni0056": {
+      "max_fit_error_units": 0.7962,
+      "segments": 15,
+      "original_points": 18,
+      "fitted_points": 21
+    },
+    "uni0057": {
+      "max_fit_error_units": 0.7692,
+      "segments": 39,
+      "original_points": 48,
+      "fitted_points": 57
+    },
+    "uni0058": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0059": {
+      "max_fit_error_units": 0.0,
+      "segments": 9,
+      "original_points": 9,
+      "fitted_points": 9
+    },
+    "uni005A": {
+      "max_fit_error_units": 0.7335,
+      "segments": 28,
+      "original_points": 30,
+      "fitted_points": 40
+    },
+    "uni005B": {
+      "max_fit_error_units": 0.7545,
+      "segments": 19,
+      "original_points": 24,
+      "fitted_points": 27
+    },
+    "uni005C": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni005D": {
+      "max_fit_error_units": 0.7556,
+      "segments": 18,
+      "original_points": 24,
+      "fitted_points": 27
+    },
+    "uni005E": {
+      "max_fit_error_units": 0.705,
+      "segments": 13,
+      "original_points": 16,
+      "fitted_points": 17
+    },
+    "uni005F": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0060": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0061": {
+      "max_fit_error_units": 0.7947,
+      "segments": 51,
+      "original_points": 166,
+      "fitted_points": 85
+    },
+    "uni0062": {
+      "max_fit_error_units": 0.7972,
+      "segments": 43,
+      "original_points": 171,
+      "fitted_points": 75
+    },
+    "uni0063": {
+      "max_fit_error_units": 0.7628,
+      "segments": 41,
+      "original_points": 155,
+      "fitted_points": 76
+    },
+    "uni0064": {
+      "max_fit_error_units": 0.7545,
+      "segments": 35,
+      "original_points": 171,
+      "fitted_points": 60
+    },
+    "uni0065": {
+      "max_fit_error_units": 0.7757,
+      "segments": 50,
+      "original_points": 169,
+      "fitted_points": 82
+    },
+    "uni0066": {
+      "max_fit_error_units": 0.7798,
+      "segments": 26,
+      "original_points": 55,
+      "fitted_points": 39
+    },
+    "uni0067": {
+      "max_fit_error_units": 0.7961,
+      "segments": 67,
+      "original_points": 217,
+      "fitted_points": 115
+    },
+    "uni0068": {
+      "max_fit_error_units": 0.7646,
+      "segments": 25,
+      "original_points": 81,
+      "fitted_points": 39
+    },
+    "uni0069": {
+      "max_fit_error_units": 0.7807,
+      "segments": 20,
+      "original_points": 38,
+      "fitted_points": 28
+    },
+    "uni006A": {
+      "max_fit_error_units": 0.787,
+      "segments": 38,
+      "original_points": 81,
+      "fitted_points": 56
+    },
+    "uni006B": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni006C": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni006D": {
+      "max_fit_error_units": 0.793,
+      "segments": 47,
+      "original_points": 121,
+      "fitted_points": 73
+    },
+    "uni006E": {
+      "max_fit_error_units": 0.7646,
+      "segments": 25,
+      "original_points": 81,
+      "fitted_points": 39
+    },
+    "uni006F": {
+      "max_fit_error_units": 0.7831,
+      "segments": 46,
+      "original_points": 192,
+      "fitted_points": 85
+    },
+    "uni0070": {
+      "max_fit_error_units": 0.7972,
+      "segments": 43,
+      "original_points": 171,
+      "fitted_points": 75
+    },
+    "uni0071": {
+      "max_fit_error_units": 0.7545,
+      "segments": 38,
+      "original_points": 171,
+      "fitted_points": 65
+    },
+    "uni0072": {
+      "max_fit_error_units": 0.7745,
+      "segments": 17,
+      "original_points": 42,
+      "fitted_points": 25
+    },
+    "uni0073": {
+      "max_fit_error_units": 0.7918,
+      "segments": 61,
+      "original_points": 159,
+      "fitted_points": 107
+    },
+    "uni0074": {
+      "max_fit_error_units": 0.7845,
+      "segments": 26,
+      "original_points": 47,
+      "fitted_points": 35
+    },
+    "uni0075": {
+      "max_fit_error_units": 0.7729,
+      "segments": 27,
+      "original_points": 76,
+      "fitted_points": 43
+    },
+    "uni0076": {
+      "max_fit_error_units": 0.7491,
+      "segments": 15,
+      "original_points": 18,
+      "fitted_points": 21
+    },
+    "uni0077": {
+      "max_fit_error_units": 0.7857,
+      "segments": 38,
+      "original_points": 48,
+      "fitted_points": 51
+    },
+    "uni0078": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0079": {
+      "max_fit_error_units": 0.7653,
+      "segments": 22,
+      "original_points": 44,
+      "fitted_points": 35
+    },
+    "uni007A": {
+      "max_fit_error_units": 0.779,
+      "segments": 24,
+      "original_points": 30,
+      "fitted_points": 34
+    },
+    "uni007B": {
+      "max_fit_error_units": 0.7509,
+      "segments": 52,
+      "original_points": 125,
+      "fitted_points": 88
+    },
+    "uni007C": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni007D": {
+      "max_fit_error_units": 0.789,
+      "segments": 57,
+      "original_points": 125,
+      "fitted_points": 93
+    },
+    "uni007E": {
+      "max_fit_error_units": 0.7615,
+      "segments": 29,
+      "original_points": 59,
+      "fitted_points": 50
+    },
+    "uni00A1": {
+      "max_fit_error_units": 0.7366,
+      "segments": 16,
+      "original_points": 52,
+      "fitted_points": 26
+    },
+    "uni00A2": {
+      "max_fit_error_units": 0.7957,
+      "segments": 42,
+      "original_points": 140,
+      "fitted_points": 66
+    },
+    "uni00A3": {
+      "max_fit_error_units": 0.7954,
+      "segments": 39,
+      "original_points": 91,
+      "fitted_points": 58
+    },
+    "uni00A4": {
+      "max_fit_error_units": 0.7815,
+      "segments": 41,
+      "original_points": 140,
+      "fitted_points": 59
+    },
+    "uni00A5": {
+      "max_fit_error_units": 0.0,
+      "segments": 23,
+      "original_points": 23,
+      "fitted_points": 23
+    },
+    "uni00A6": {
+      "max_fit_error_units": 0.0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni00A7": {
+      "max_fit_error_units": 0.7868,
+      "segments": 96,
+      "original_points": 259,
+      "fitted_points": 175
+    },
+    "uni00A8": {
+      "max_fit_error_units": 0.7993,
+      "segments": 28,
+      "original_points": 96,
+      "fitted_points": 49
+    },
+    "uni00A9": {
+      "max_fit_error_units": 0.7786,
+      "segments": 83,
+      "original_points": 310,
+      "fitted_points": 155
+    },
+    "uni00AA": {
+      "max_fit_error_units": 0.7997,
+      "segments": 46,
+      "original_points": 124,
+      "fitted_points": 76
+    },
+    "uni00AB": {
+      "max_fit_error_units": 0.5579,
+      "segments": 18,
+      "original_points": 24,
+      "fitted_points": 24
+    },
+    "uni00AC": {
+      "max_fit_error_units": 0.7922,
+      "segments": 11,
+      "original_points": 14,
+      "fitted_points": 15
+    },
+    "uni00AE": {
+      "max_fit_error_units": 0.7998,
+      "segments": 76,
+      "original_points": 253,
+      "fitted_points": 139
+    },
+    "uni00AF": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni00B0": {
+      "max_fit_error_units": 0.8,
+      "segments": 36,
+      "original_points": 125,
+      "fitted_points": 60
+    },
+    "uni00B1": {
+      "max_fit_error_units": 0.0,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni00B2": {
+      "max_fit_error_units": 0.7996,
+      "segments": 38,
+      "original_points": 85,
+      "fitted_points": 59
+    },
+    "uni00B3": {
+      "max_fit_error_units": 0.7961,
+      "segments": 53,
+      "original_points": 152,
+      "fitted_points": 93
+    },
+    "uni00B4": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni00B5": {
+      "max_fit_error_units": 0.703,
+      "segments": 25,
+      "original_points": 63,
+      "fitted_points": 38
+    },
+    "uni00B6": {
+      "max_fit_error_units": 0.7783,
+      "segments": 30,
+      "original_points": 73,
+      "fitted_points": 48
+    },
+    "uni00B7": {
+      "max_fit_error_units": 0.7683,
+      "segments": 14,
+      "original_points": 48,
+      "fitted_points": 23
+    },
+    "uni00B8": {
+      "max_fit_error_units": 0.7563,
+      "segments": 34,
+      "original_points": 74,
+      "fitted_points": 51
+    },
+    "uni00B9": {
+      "max_fit_error_units": 0.6452,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 19
+    },
+    "uni00BA": {
+      "max_fit_error_units": 0.7827,
+      "segments": 39,
+      "original_points": 128,
+      "fitted_points": 73
+    },
+    "uni00BB": {
+      "max_fit_error_units": 0.759,
+      "segments": 16,
+      "original_points": 24,
+      "fitted_points": 20
+    },
+    "uni00BC": {
+      "max_fit_error_units": 0.773,
+      "segments": 44,
+      "original_points": 62,
+      "fitted_points": 59
+    },
+    "uni00BD": {
+      "max_fit_error_units": 0.7737,
+      "segments": 57,
+      "original_points": 109,
+      "fitted_points": 84
+    },
+    "uni00BE": {
+      "max_fit_error_units": 0.7907,
+      "segments": 77,
+      "original_points": 190,
+      "fitted_points": 123
+    },
+    "uni00BF": {
+      "max_fit_error_units": 0.7894,
+      "segments": 53,
+      "original_points": 147,
+      "fitted_points": 87
+    },
+    "uni00C6": {
+      "max_fit_error_units": 0.7641,
+      "segments": 50,
+      "original_points": 47,
+      "fitted_points": 68
+    },
+    "uni00D0": {
+      "max_fit_error_units": 0.7992,
+      "segments": 63,
+      "original_points": 77,
+      "fitted_points": 100
+    },
+    "uni00D7": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni00D8": {
+      "max_fit_error_units": 0.7945,
+      "segments": 75,
+      "original_points": 190,
+      "fitted_points": 124
+    },
+    "uni00DE": {
+      "max_fit_error_units": 0.7759,
+      "segments": 41,
+      "original_points": 66,
+      "fitted_points": 67
+    },
+    "uni00DF": {
+      "max_fit_error_units": 0.784,
+      "segments": 74,
+      "original_points": 155,
+      "fitted_points": 123
+    },
+    "uni00E6": {
+      "max_fit_error_units": 0.7966,
+      "segments": 88,
+      "original_points": 294,
+      "fitted_points": 150
+    },
+    "uni00F0": {
+      "max_fit_error_units": 0.7642,
+      "segments": 67,
+      "original_points": 207,
+      "fitted_points": 113
+    },
+    "uni00F7": {
+      "max_fit_error_units": 0.7749,
+      "segments": 30,
+      "original_points": 100,
+      "fitted_points": 48
+    },
+    "uni00F8": {
+      "max_fit_error_units": 0.7587,
+      "segments": 58,
+      "original_points": 180,
+      "fitted_points": 98
+    },
+    "uni00FE": {
+      "max_fit_error_units": 0.799,
+      "segments": 44,
+      "original_points": 171,
+      "fitted_points": 76
+    },
+    "uni0104": {
+      "max_fit_error_units": 0.7792,
+      "segments": 37,
+      "original_points": 73,
+      "fitted_points": 57
+    },
+    "uni0105": {
+      "max_fit_error_units": 0.7947,
+      "segments": 68,
+      "original_points": 217,
+      "fitted_points": 114
+    },
+    "uni0110": {
+      "max_fit_error_units": 0.7974,
+      "segments": 60,
+      "original_points": 77,
+      "fitted_points": 91
+    },
+    "uni0111": {
+      "max_fit_error_units": 0.7545,
+      "segments": 43,
+      "original_points": 179,
+      "fitted_points": 68
+    },
+    "uni0118": {
+      "max_fit_error_units": 0.7801,
+      "segments": 42,
+      "original_points": 79,
+      "fitted_points": 61
+    },
+    "uni0119": {
+      "max_fit_error_units": 0.7991,
+      "segments": 68,
+      "original_points": 216,
+      "fitted_points": 114
+    },
+    "uni0126": {
+      "max_fit_error_units": 0.0,
+      "segments": 24,
+      "original_points": 24,
+      "fitted_points": 24
+    },
+    "uni0127": {
+      "max_fit_error_units": 0.7902,
+      "segments": 38,
+      "original_points": 62,
+      "fitted_points": 53
+    },
+    "uni012E": {
+      "max_fit_error_units": 0.7333,
+      "segments": 21,
+      "original_points": 55,
+      "fitted_points": 33
+    },
+    "uni012F": {
+      "max_fit_error_units": 0.7807,
+      "segments": 40,
+      "original_points": 89,
+      "fitted_points": 60
+    },
+    "uni0131": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0132": {
+      "max_fit_error_units": 0.7273,
+      "segments": 31,
+      "original_points": 64,
+      "fitted_points": 49
+    },
+    "uni0133": {
+      "max_fit_error_units": 0.7949,
+      "segments": 60,
+      "original_points": 120,
+      "fitted_points": 87
+    },
+    "uni0138": {
+      "max_fit_error_units": 0.0,
+      "segments": 13,
+      "original_points": 13,
+      "fitted_points": 13
+    },
+    "uni013F": {
+      "max_fit_error_units": 0.7762,
+      "segments": 28,
+      "original_points": 62,
+      "fitted_points": 42
+    },
+    "uni0140": {
+      "max_fit_error_units": 0.767,
+      "segments": 17,
+      "original_points": 52,
+      "fitted_points": 27
+    },
+    "uni0141": {
+      "max_fit_error_units": 0.6624,
+      "segments": 20,
+      "original_points": 21,
+      "fitted_points": 26
+    },
+    "uni0142": {
+      "max_fit_error_units": 0.7559,
+      "segments": 27,
+      "original_points": 36,
+      "fitted_points": 35
+    },
+    "uni0149": {
+      "max_fit_error_units": 0.7837,
+      "segments": 33,
+      "original_points": 85,
+      "fitted_points": 49
+    },
+    "uni014A": {
+      "max_fit_error_units": 0.6825,
+      "segments": 34,
+      "original_points": 70,
+      "fitted_points": 54
+    },
+    "uni014B": {
+      "max_fit_error_units": 0.7687,
+      "segments": 43,
+      "original_points": 132,
+      "fitted_points": 70
+    },
+    "uni0152": {
+      "max_fit_error_units": 0.7794,
+      "segments": 68,
+      "original_points": 195,
+      "fitted_points": 114
+    },
+    "uni0153": {
+      "max_fit_error_units": 0.7957,
+      "segments": 80,
+      "original_points": 320,
+      "fitted_points": 141
+    },
+    "uni0166": {
+      "max_fit_error_units": 0.0,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni0167": {
+      "max_fit_error_units": 0.7599,
+      "segments": 34,
+      "original_points": 55,
+      "fitted_points": 45
+    },
+    "uni0172": {
+      "max_fit_error_units": 0.7921,
+      "segments": 50,
+      "original_points": 113,
+      "fitted_points": 81
+    },
+    "uni0173": {
+      "max_fit_error_units": 0.7729,
+      "segments": 44,
+      "original_points": 127,
+      "fitted_points": 72
+    },
+    "uni017F": {
+      "max_fit_error_units": 0.7826,
+      "segments": 27,
+      "original_points": 58,
+      "fitted_points": 41
+    },
+    "uni0192": {
+      "max_fit_error_units": 0.7744,
+      "segments": 100,
+      "original_points": 107,
+      "fitted_points": 139
+    },
+    "uni0237": {
+      "max_fit_error_units": 0.7863,
+      "segments": 22,
+      "original_points": 47,
+      "fitted_points": 33
+    },
+    "uni02C6": {
+      "max_fit_error_units": 0.595,
+      "segments": 10,
+      "original_points": 15,
+      "fitted_points": 13
+    },
+    "uni02C7": {
+      "max_fit_error_units": 0.7119,
+      "segments": 11,
+      "original_points": 15,
+      "fitted_points": 13
+    },
+    "uni02D8": {
+      "max_fit_error_units": 0.7772,
+      "segments": 16,
+      "original_points": 50,
+      "fitted_points": 28
+    },
+    "uni02D9": {
+      "max_fit_error_units": 0.7851,
+      "segments": 15,
+      "original_points": 34,
+      "fitted_points": 23
+    },
+    "uni02DA": {
+      "max_fit_error_units": 0.7722,
+      "segments": 29,
+      "original_points": 96,
+      "fitted_points": 48
+    },
+    "uni02DB": {
+      "max_fit_error_units": 0.7877,
+      "segments": 17,
+      "original_points": 51,
+      "fitted_points": 28
+    },
+    "uni02DC": {
+      "max_fit_error_units": 0.7669,
+      "segments": 18,
+      "original_points": 51,
+      "fitted_points": 30
+    },
+    "uni02DD": {
+      "max_fit_error_units": 0.0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni0300": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0301": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0302": {
+      "max_fit_error_units": 0.7179,
+      "segments": 11,
+      "original_points": 15,
+      "fitted_points": 14
+    },
+    "uni0303": {
+      "max_fit_error_units": 0.7841,
+      "segments": 20,
+      "original_points": 52,
+      "fitted_points": 32
+    },
+    "uni0304": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0306": {
+      "max_fit_error_units": 0.7122,
+      "segments": 19,
+      "original_points": 50,
+      "fitted_points": 33
+    },
+    "uni0307": {
+      "max_fit_error_units": 0.5695,
+      "segments": 16,
+      "original_points": 34,
+      "fitted_points": 25
+    },
+    "uni0308": {
+      "max_fit_error_units": 0.7708,
+      "segments": 33,
+      "original_points": 68,
+      "fitted_points": 46
+    },
+    "uni030A": {
+      "max_fit_error_units": 0.7936,
+      "segments": 26,
+      "original_points": 100,
+      "fitted_points": 47
+    },
+    "uni030B": {
+      "max_fit_error_units": 0.0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni030C": {
+      "max_fit_error_units": 0.6786,
+      "segments": 11,
+      "original_points": 15,
+      "fitted_points": 14
+    },
+    "uni0312": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0326": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0327": {
+      "max_fit_error_units": 0.7668,
+      "segments": 33,
+      "original_points": 77,
+      "fitted_points": 56
+    },
+    "uni0328": {
+      "max_fit_error_units": 0.7333,
+      "segments": 18,
+      "original_points": 51,
+      "fitted_points": 30
+    },
+    "uni0402": {
+      "max_fit_error_units": 0.7987,
+      "segments": 54,
+      "original_points": 108,
+      "fitted_points": 84
+    },
+    "uni0404": {
+      "max_fit_error_units": 0.7896,
+      "segments": 50,
+      "original_points": 193,
+      "fitted_points": 87
+    },
+    "uni0409": {
+      "max_fit_error_units": 0.7995,
+      "segments": 67,
+      "original_points": 97,
+      "fitted_points": 101
+    },
+    "uni040A": {
+      "max_fit_error_units": 0.7921,
+      "segments": 45,
+      "original_points": 77,
+      "fitted_points": 68
+    },
+    "uni040B": {
+      "max_fit_error_units": 0.7494,
+      "segments": 35,
+      "original_points": 60,
+      "fitted_points": 49
+    },
+    "uni040F": {
+      "max_fit_error_units": 0.7709,
+      "segments": 24,
+      "original_points": 28,
+      "fitted_points": 31
+    },
+    "uni0411": {
+      "max_fit_error_units": 0.7973,
+      "segments": 44,
+      "original_points": 74,
+      "fitted_points": 75
+    },
+    "uni0413": {
+      "max_fit_error_units": 0.7171,
+      "segments": 14,
+      "original_points": 14,
+      "fitted_points": 18
+    },
+    "uni0414": {
+      "max_fit_error_units": 0.7802,
+      "segments": 46,
+      "original_points": 52,
+      "fitted_points": 65
+    },
+    "uni0416": {
+      "max_fit_error_units": 0.0,
+      "segments": 20,
+      "original_points": 20,
+      "fitted_points": 20
+    },
+    "uni0417": {
+      "max_fit_error_units": 0.7945,
+      "segments": 71,
+      "original_points": 187,
+      "fitted_points": 125
+    },
+    "uni0418": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni041B": {
+      "max_fit_error_units": 0.7896,
+      "segments": 34,
+      "original_points": 33,
+      "fitted_points": 49
+    },
+    "uni041C": {
+      "max_fit_error_units": 0.0,
+      "segments": 13,
+      "original_points": 13,
+      "fitted_points": 13
+    },
+    "uni041F": {
+      "max_fit_error_units": 0.7644,
+      "segments": 25,
+      "original_points": 24,
+      "fitted_points": 30
+    },
+    "uni0423": {
+      "max_fit_error_units": 0.7751,
+      "segments": 19,
+      "original_points": 52,
+      "fitted_points": 28
+    },
+    "uni0424": {
+      "max_fit_error_units": 0.7799,
+      "segments": 59,
+      "original_points": 192,
+      "fitted_points": 99
+    },
+    "uni0426": {
+      "max_fit_error_units": 0.715,
+      "segments": 21,
+      "original_points": 28,
+      "fitted_points": 27
+    },
+    "uni0427": {
+      "max_fit_error_units": 0.7338,
+      "segments": 25,
+      "original_points": 58,
+      "fitted_points": 38
+    },
+    "uni0428": {
+      "max_fit_error_units": 0.7926,
+      "segments": 24,
+      "original_points": 28,
+      "fitted_points": 32
+    },
+    "uni0429": {
+      "max_fit_error_units": 0.7589,
+      "segments": 25,
+      "original_points": 32,
+      "fitted_points": 32
+    },
+    "uni042A": {
+      "max_fit_error_units": 0.7871,
+      "segments": 44,
+      "original_points": 66,
+      "fitted_points": 69
+    },
+    "uni042B": {
+      "max_fit_error_units": 0.7805,
+      "segments": 36,
+      "original_points": 84,
+      "fitted_points": 59
+    },
+    "uni042C": {
+      "max_fit_error_units": 0.7973,
+      "segments": 36,
+      "original_points": 64,
+      "fitted_points": 62
+    },
+    "uni042D": {
+      "max_fit_error_units": 0.7896,
+      "segments": 44,
+      "original_points": 193,
+      "fitted_points": 80
+    },
+    "uni042E": {
+      "max_fit_error_units": 0.7852,
+      "segments": 55,
+      "original_points": 197,
+      "fitted_points": 98
+    },
+    "uni042F": {
+      "max_fit_error_units": 0.7935,
+      "segments": 41,
+      "original_points": 66,
+      "fitted_points": 66
+    },
+    "uni0431": {
+      "max_fit_error_units": 0.7772,
+      "segments": 59,
+      "original_points": 220,
+      "fitted_points": 106
+    },
+    "uni0432": {
+      "max_fit_error_units": 0.7761,
+      "segments": 37,
+      "original_points": 117,
+      "fitted_points": 59
+    },
+    "uni0433": {
+      "max_fit_error_units": 0.7053,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 16
+    },
+    "uni0434": {
+      "max_fit_error_units": 0.7651,
+      "segments": 39,
+      "original_points": 50,
+      "fitted_points": 57
+    },
+    "uni0436": {
+      "max_fit_error_units": 0.0,
+      "segments": 22,
+      "original_points": 22,
+      "fitted_points": 22
+    },
+    "uni0437": {
+      "max_fit_error_units": 0.7849,
+      "segments": 62,
+      "original_points": 185,
+      "fitted_points": 110
+    },
+    "uni0438": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni043B": {
+      "max_fit_error_units": 0.796,
+      "segments": 35,
+      "original_points": 56,
+      "fitted_points": 51
+    },
+    "uni043C": {
+      "max_fit_error_units": 0.0,
+      "segments": 13,
+      "original_points": 13,
+      "fitted_points": 13
+    },
+    "uni043D": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni043F": {
+      "max_fit_error_units": 0.7947,
+      "segments": 20,
+      "original_points": 24,
+      "fitted_points": 26
+    },
+    "uni0442": {
+      "max_fit_error_units": 0.0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni0444": {
+      "max_fit_error_units": 0.7972,
+      "segments": 46,
+      "original_points": 180,
+      "fitted_points": 82
+    },
+    "uni0446": {
+      "max_fit_error_units": 0.7591,
+      "segments": 19,
+      "original_points": 28,
+      "fitted_points": 26
+    },
+    "uni0447": {
+      "max_fit_error_units": 0.7734,
+      "segments": 26,
+      "original_points": 57,
+      "fitted_points": 36
+    },
+    "uni0448": {
+      "max_fit_error_units": 0.7959,
+      "segments": 26,
+      "original_points": 28,
+      "fitted_points": 31
+    },
+    "uni0449": {
+      "max_fit_error_units": 0.7913,
+      "segments": 22,
+      "original_points": 32,
+      "fitted_points": 29
+    },
+    "uni044A": {
+      "max_fit_error_units": 0.7622,
+      "segments": 35,
+      "original_points": 66,
+      "fitted_points": 54
+    },
+    "uni044B": {
+      "max_fit_error_units": 0.7691,
+      "segments": 30,
+      "original_points": 81,
+      "fitted_points": 48
+    },
+    "uni044C": {
+      "max_fit_error_units": 0.7933,
+      "segments": 33,
+      "original_points": 64,
+      "fitted_points": 51
+    },
+    "uni044D": {
+      "max_fit_error_units": 0.7894,
+      "segments": 43,
+      "original_points": 152,
+      "fitted_points": 74
+    },
+    "uni044E": {
+      "max_fit_error_units": 0.7856,
+      "segments": 51,
+      "original_points": 195,
+      "fitted_points": 89
+    },
+    "uni044F": {
+      "max_fit_error_units": 0.7601,
+      "segments": 30,
+      "original_points": 76,
+      "fitted_points": 46
+    },
+    "uni0452": {
+      "max_fit_error_units": 0.7725,
+      "segments": 64,
+      "original_points": 137,
+      "fitted_points": 96
+    },
+    "uni0454": {
+      "max_fit_error_units": 0.788,
+      "segments": 41,
+      "original_points": 152,
+      "fitted_points": 73
+    },
+    "uni0455": {
+      "max_fit_error_units": 0.7992,
+      "segments": 58,
+      "original_points": 154,
+      "fitted_points": 98
+    },
+    "uni0459": {
+      "max_fit_error_units": 0.79,
+      "segments": 56,
+      "original_points": 115,
+      "fitted_points": 89
+    },
+    "uni045A": {
+      "max_fit_error_units": 0.7677,
+      "segments": 40,
+      "original_points": 72,
+      "fitted_points": 62
+    },
+    "uni045B": {
+      "max_fit_error_units": 0.7684,
+      "segments": 39,
+      "original_points": 89,
+      "fitted_points": 54
+    },
+    "uni045F": {
+      "max_fit_error_units": 0.7496,
+      "segments": 20,
+      "original_points": 28,
+      "fitted_points": 28
+    },
+    "uni0490": {
+      "max_fit_error_units": 0.7812,
+      "segments": 15,
+      "original_points": 16,
+      "fitted_points": 18
+    },
+    "uni0491": {
+      "max_fit_error_units": 0.7828,
+      "segments": 12,
+      "original_points": 16,
+      "fitted_points": 17
+    },
+    "uni0492": {
+      "max_fit_error_units": 0.5896,
+      "segments": 21,
+      "original_points": 22,
+      "fitted_points": 26
+    },
+    "uni0493": {
+      "max_fit_error_units": 0.6953,
+      "segments": 18,
+      "original_points": 22,
+      "fitted_points": 22
+    },
+    "uni049A": {
+      "max_fit_error_units": 0.7791,
+      "segments": 19,
+      "original_points": 28,
+      "fitted_points": 24
+    },
+    "uni049B": {
+      "max_fit_error_units": 0.6219,
+      "segments": 21,
+      "original_points": 28,
+      "fitted_points": 27
+    },
+    "uni04A2": {
+      "max_fit_error_units": 0.6414,
+      "segments": 18,
+      "original_points": 24,
+      "fitted_points": 21
+    },
+    "uni04A3": {
+      "max_fit_error_units": 0.4524,
+      "segments": 18,
+      "original_points": 23,
+      "fitted_points": 21
+    },
+    "uni04AE": {
+      "max_fit_error_units": 0.0,
+      "segments": 9,
+      "original_points": 9,
+      "fitted_points": 9
+    },
+    "uni04AF": {
+      "max_fit_error_units": 0.0,
+      "segments": 9,
+      "original_points": 9,
+      "fitted_points": 9
+    },
+    "uni04B0": {
+      "max_fit_error_units": 0.0,
+      "segments": 17,
+      "original_points": 17,
+      "fitted_points": 17
+    },
+    "uni04B1": {
+      "max_fit_error_units": 0.0,
+      "segments": 17,
+      "original_points": 15,
+      "fitted_points": 17
+    },
+    "uni04BA": {
+      "max_fit_error_units": 0.7919,
+      "segments": 35,
+      "original_points": 57,
+      "fitted_points": 53
+    },
+    "uni04BB": {
+      "max_fit_error_units": 0.7995,
+      "segments": 34,
+      "original_points": 57,
+      "fitted_points": 49
+    },
+    "uni04D8": {
+      "max_fit_error_units": 0.7909,
+      "segments": 47,
+      "original_points": 191,
+      "fitted_points": 83
+    },
+    "uni04D9": {
+      "max_fit_error_units": 0.7903,
+      "segments": 44,
+      "original_points": 155,
+      "fitted_points": 76
+    },
+    "uni04E8": {
+      "max_fit_error_units": 0.7869,
+      "segments": 50,
+      "original_points": 190,
+      "fitted_points": 92
+    },
+    "uni04E9": {
+      "max_fit_error_units": 0.7863,
+      "segments": 44,
+      "original_points": 182,
+      "fitted_points": 83
+    },
+    "uni1E9E": {
+      "max_fit_error_units": 0.7807,
+      "segments": 84,
+      "original_points": 154,
+      "fitted_points": 135
+    },
+    "uni2012": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2014": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2018": {
+      "max_fit_error_units": 0.5001,
+      "segments": 8,
+      "original_points": 9,
+      "fitted_points": 9
+    },
+    "uni2019": {
+      "max_fit_error_units": 0.7618,
+      "segments": 7,
+      "original_points": 9,
+      "fitted_points": 10
+    },
+    "uni201C": {
+      "max_fit_error_units": 0.7725,
+      "segments": 15,
+      "original_points": 18,
+      "fitted_points": 18
+    },
+    "uni201D": {
+      "max_fit_error_units": 0.7618,
+      "segments": 14,
+      "original_points": 18,
+      "fitted_points": 19
+    },
+    "uni201E": {
+      "max_fit_error_units": 0.7702,
+      "segments": 15,
+      "original_points": 18,
+      "fitted_points": 18
+    },
+    "uni2020": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2021": {
+      "max_fit_error_units": 0.0,
+      "segments": 20,
+      "original_points": 20,
+      "fitted_points": 20
+    },
+    "uni2026": {
+      "max_fit_error_units": 0.7887,
+      "segments": 39,
+      "original_points": 144,
+      "fitted_points": 69
+    },
+    "uni2030": {
+      "max_fit_error_units": 0.7966,
+      "segments": 118,
+      "original_points": 369,
+      "fitted_points": 209
+    },
+    "uni2039": {
+      "max_fit_error_units": 0.5579,
+      "segments": 9,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni203A": {
+      "max_fit_error_units": 0.759,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni20AC": {
+      "max_fit_error_units": 0.7874,
+      "segments": 50,
+      "original_points": 156,
+      "fitted_points": 88
+    },
+    "uni20B8": {
+      "max_fit_error_units": 0.0,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni20BD": {
+      "max_fit_error_units": 0.7961,
+      "segments": 54,
+      "original_points": 73,
+      "fitted_points": 81
+    },
+    "uni2113": {
+      "max_fit_error_units": 0.7912,
+      "segments": 56,
+      "original_points": 100,
+      "fitted_points": 88
+    },
+    "uni2116": {
+      "max_fit_error_units": 0.7903,
+      "segments": 68,
+      "original_points": 159,
+      "fitted_points": 111
+    },
+    "uni2122": {
+      "max_fit_error_units": 0.7787,
+      "segments": 41,
+      "original_points": 55,
+      "fitted_points": 53
+    },
+    "uni2190": {
+      "max_fit_error_units": 0.7849,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 15
+    },
+    "uni2191": {
+      "max_fit_error_units": 0.7663,
+      "segments": 17,
+      "original_points": 19,
+      "fitted_points": 21
+    },
+    "uni2192": {
+      "max_fit_error_units": 0.6806,
+      "segments": 12,
+      "original_points": 17,
+      "fitted_points": 14
+    },
+    "uni2193": {
+      "max_fit_error_units": 0.6451,
+      "segments": 18,
+      "original_points": 19,
+      "fitted_points": 21
+    },
+    "uni2212": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni221A": {
+      "max_fit_error_units": 0.7637,
+      "segments": 32,
+      "original_points": 38,
+      "fitted_points": 47
+    },
+    "uni221E": {
+      "max_fit_error_units": 0.784,
+      "segments": 71,
+      "original_points": 206,
+      "fitted_points": 131
+    },
+    "uni2248": {
+      "max_fit_error_units": 0.7951,
+      "segments": 55,
+      "original_points": 118,
+      "fitted_points": 95
+    },
+    "uni2260": {
+      "max_fit_error_units": 0.0,
+      "segments": 20,
+      "original_points": 20,
+      "fitted_points": 20
+    },
+    "uni2264": {
+      "max_fit_error_units": 0.7474,
+      "segments": 17,
+      "original_points": 20,
+      "fitted_points": 22
+    },
+    "uni2265": {
+      "max_fit_error_units": 0.7474,
+      "segments": 17,
+      "original_points": 20,
+      "fitted_points": 22
+    },
+    "caron.alt": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0028.case": {
+      "max_fit_error_units": 0.7044,
+      "segments": 21,
+      "original_points": 50,
+      "fitted_points": 35
+    },
+    "uni0029.case": {
+      "max_fit_error_units": 0.7763,
+      "segments": 20,
+      "original_points": 50,
+      "fitted_points": 35
+    },
+    "uni002D.case": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2013.case": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2014.case": {
+      "max_fit_error_units": 0.0,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    }
+  },
+  "tolerance_units": 0.8,
+  "sources": {
+    "source/masters/SABModulSans-Thin.ttf": "4453433b7f59ba1e2eaf2084a233b7a0845edc894de2ed063fb8415040a68ddd",
+    "source/masters/SABModulSans-Light.ttf": "4562ae322c7ad78d12d230d2ea398a10308e4898ff722b98ad5548c51e5a9aa3",
+    "source/masters/SABModulSans-Regular.ttf": "7cc7cb2ce857619480cf549eab7e0fb3c651334a67ddd2347d7dcd5a94b715ee",
+    "source/masters/SABModulSans-Medium.ttf": "6ae9d73a6121cfbfa2931294be4a258f61b96c9733ce22d0551ec574a617439b",
+    "source/masters/SABModulSans-SemiBold.ttf": "640ea88af657a8f4f7711cdf101ca19f96a12ac294d57e33866b173540c25bc9",
+    "source/masters/SABModulSans-Bold.ttf": "a8bf3d1e2121760b424f879a2865c49c799672418b493cb8a715366e359d3904",
+    "source/masters/SABModulSans-Black.ttf": "f9e0dd2cc19c685d572f9b5a58607627a308d8366db41c836d2b64b16a0ce9e8"
+  }
+}

@@ -1,0 +1,60 @@
+Start ... running 619 individual check executions.
+
+Total:
+    ERROR: 0
+    FATAL: 0
+    FAIL: 0
+    WARN: 10
+    INFO: 10
+    SKIP: 200
+    PASS: 399
+
+
+
+    Meaning of check results:
+
+    An ERROR is something wrong with FontBakery itself, possibly a bug.
+    A  FATAL is an extremely severe issue that must be addressed immediately.
+    A  FAIL is a problem with the font that must be fixed.
+    A  WARN is something that you should consider addressing.
+    An INFO result simply prints something useful. Typically stats.
+    A  PASS means the font looks good for the given checking routine.
+And a  SKIP happens when the check does not apply to the given font.
+
+    If you get ERRORs, please help us improve the tool by reporting them at
+    https://github.com/fonttools/fontbakery/issues (but other kinds of bug
+    reports and/or feature requests are also always welcome, of course!)
+
+
+
+
+                           ,@.
+                         ,@.@@,.
+                   ,@@,.@@@.  @.@@@,.
+                 ,@@. @@@.     @@. @@,.
+         ,@@@.@,.@.              @.  @@@@,.@.@@,.
+    ,@@.@.     @@.@@.            @,.    .@’ @’  @@,
+  ,@@. @.          .@@.@@@.  @@’                  @,
+ ,@.  @@.                                          @,
+ @.     @,@@,.     ,                             .@@,
+ @,.       .@,@@,.         .@@,.  ,       .@@,  @, @,
+ @.                             .@. @ @@,.    ,      @
+  @,.@@.     @,.      @@,.      @.           @,.    @’
+   @@||@,.  @’@,.       @@,.  @@ @,.        @’@@,  @’
+      \\@@@@’  @,.      @’@@@@’   @@,.   @@@’ //@@@’
+       |||||||| @@,.  @@’ |||||||  |@@@|@||  ||
+        \\\\\\\  ||@@@||  |||||||  |||||||  //
+         |||||||  ||||||  ||||||   ||||||  ||
+          \\\\\\  ||||||  ||||||  ||||||  //
+           ||||||  |||||  |||||   |||||  ||
+            \\\\\  |||||  |||||  |||||  //
+             |||||  ||||  |||||  ||||  ||
+              \\\\  ||||  ||||  ||||  //
+               ||||||||||||||||||||||||
+
+         No check is failing. Get a cupcake!
+       <<Art by Tony de Marco, July 26, 2018>>
+
+DONE!
+A report in JSON format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Code-TTF-adobefonts.json"
+A report in html format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Code-TTF-adobefonts.html"

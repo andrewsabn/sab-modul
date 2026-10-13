@@ -1,0 +1,772 @@
+[
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-Black.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-BlackOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-Bold.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-BoldOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-Light.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-LightOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-Medium.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-MediumOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-Regular.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-RegularOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBold.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBoldOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-Thin.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulMono-ThinOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Black.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-BlackOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Bold.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-BoldOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Light.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-LightOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Medium.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-MediumOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Regular.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-RegularOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBold.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBoldOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Thin.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-ThinOblique.otf",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf",
+    "same_raw_error_records": true,
+    "old_E": 16,
+    "new_E": 16,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+    "same_raw_error_records": true,
+    "old_E": 16,
+    "new_E": 16,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/VF/SABModulMono[wght].ttf",
+    "same_raw_error_records": true,
+    "old_E": 10,
+    "new_E": 10,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+    "same_raw_error_records": true,
+    "old_E": 10,
+    "new_E": 10,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf",
+    "same_raw_error_records": true,
+    "old_E": 18,
+    "new_E": 18,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+    "same_raw_error_records": true,
+    "old_E": 18,
+    "new_E": 18,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/VF/SABModulSans[wght].ttf",
+    "same_raw_error_records": true,
+    "old_E": 123,
+    "new_E": 123,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+    "same_raw_error_records": true,
+    "old_E": 123,
+    "new_E": 123,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+    "same_raw_error_records": true,
+    "old_E": 10,
+    "new_E": 10,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+    "same_raw_error_records": true,
+    "old_E": 9,
+    "new_E": 9,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+    "same_raw_error_records": true,
+    "old_E": 13,
+    "new_E": 13,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+    "same_raw_error_records": true,
+    "old_E": 35,
+    "new_E": 35,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+    "same_raw_error_records": true,
+    "old_E": 4,
+    "new_E": 4,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+    "same_raw_error_records": true,
+    "old_E": 6,
+    "new_E": 6,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+    "same_raw_error_records": true,
+    "old_E": 8,
+    "new_E": 8,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+    "same_raw_error_records": true,
+    "old_E": 18,
+    "new_E": 18,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+    "same_raw_error_records": true,
+    "old_E": 991,
+    "new_E": 991,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+    "same_raw_error_records": true,
+    "old_E": 422,
+    "new_E": 422,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+    "same_raw_error_records": true,
+    "old_E": 86,
+    "new_E": 86,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+    "same_raw_error_records": true,
+    "old_E": 77,
+    "new_E": 77,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+    "same_raw_error_records": true,
+    "old_E": 18,
+    "new_E": 18,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+    "same_raw_error_records": true,
+    "old_E": 1429,
+    "new_E": 1429,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+    "same_raw_error_records": true,
+    "old_E": 68,
+    "new_E": 68,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+    "same_raw_error_records": true,
+    "old_E": 71,
+    "new_E": 71,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+    "same_raw_error_records": true,
+    "old_E": 67,
+    "new_E": 67,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+    "same_raw_error_records": true,
+    "old_E": 123,
+    "new_E": 123,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  },
+  {
+    "file": "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2",
+    "same_raw_error_records": true,
+    "old_E": 3,
+    "new_E": 3,
+    "added_E": []
+  }
+]

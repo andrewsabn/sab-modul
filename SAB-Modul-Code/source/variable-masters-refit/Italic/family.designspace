@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="700" default="400"/>
+  </axes>
+  <sources>
+    <source filename="SABModulCode-LightItalic.ttf" name="Light" familyname="SAB Modul Code" stylename="Light Italic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="SABModulCode-RegularItalic.ttf" name="Regular" familyname="SAB Modul Code" stylename="Italic">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="SABModulCode-MediumItalic.ttf" name="Medium" familyname="SAB Modul Code" stylename="Medium Italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="SABModulCode-SemiBoldItalic.ttf" name="SemiBold" familyname="SAB Modul Code" stylename="SemiBold Italic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="SABModulCode-BoldItalic.ttf" name="Bold" familyname="SAB Modul Code" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Light Italic" familyname="SAB Modul Code" stylename="Light Italic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="Italic" familyname="SAB Modul Code" stylename="Italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance name="Medium Italic" familyname="SAB Modul Code" stylename="Medium Italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance name="SemiBold Italic" familyname="SAB Modul Code" stylename="SemiBold Italic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance name="Bold Italic" familyname="SAB Modul Code" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

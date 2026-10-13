@@ -1,0 +1,15 @@
+/* Choose WEB/fonts.css or WEB/fonts-critical.css separately. */
+:root{--sab-tone:0;--sab-bg:#fff;--sab-fg:#17191b}
+@media(prefers-color-scheme:dark){:root:not([data-theme]){--sab-tone:50;--sab-bg:#0b0e10;--sab-fg:#f5f7f9}}
+[data-theme=light]{--sab-tone:0;--sab-bg:#fff;--sab-fg:#17191b}
+[data-theme=dark]{--sab-tone:50;--sab-bg:#0b0e10;--sab-fg:#f5f7f9}
+.sab-text{font-family:'SAB Modul Sans',sans-serif;font-synthesis:none;font-kerning:normal;font-variant-numeric:proportional-nums;background:var(--sab-bg);color:var(--sab-fg)}
+.sab-body-sm{font-size:16px;line-height:1.5;font-weight:calc(500 + var(--sab-tone));--sab-number-size:14px}
+.sab-body-md{font-size:20px;line-height:1.45;font-weight:calc(450 + var(--sab-tone));--sab-number-size:18px}
+.sab-body-lg{font-size:30px;line-height:1.4;font-weight:calc(400 + var(--sab-tone));--sab-number-size:24px}
+.sab-heading{font-size:48px;line-height:1.1;font-weight:calc(600 + var(--sab-tone));letter-spacing:-.012em;--sab-number-size:40px}
+.sab-number{font-family:'SAB Modul Mono',monospace;font-variant-numeric:tabular-nums;font-size:var(--sab-number-size,0.875em);font-synthesis:none}
+.sab-oblique{font-style:oblique 10deg}
+/* Classes define sizes explicitly. For another size select the matching
+   weight: <=16px 500, 17-24px 450, >=25px 400; dark +50 once.
+   Text markup must use U+2212 minus and U+202F before percent. */

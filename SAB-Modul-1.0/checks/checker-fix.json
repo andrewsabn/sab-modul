@@ -1,0 +1,303 @@
+{
+  "fontbakery_version": "1.1.0",
+  "local_patch": "Enumerate glyphs through getGlyphOrder for both glyf and CFF; all conditions retained",
+  "original_sha256": "6f4ef85ed47dec417744e489767fc42af5381065147783b48adb60c214782ad9",
+  "patched_sha256": "8a9af30a9698aef75e6f45d540e5e040094824b705100f06c1e0a6dcc857e0db",
+  "negative_control": "bad-advanceWidthMax still fails",
+  "files": [
+    {
+      "file": "TTF/SABModulMono-Black.ttf",
+      "sha256": "332b741b8e0a8696836206decfaa186bc38e2f8f9f747ffe66c2cfc27731eb5a",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-BlackOblique.ttf",
+      "sha256": "e203fbd43e3dbba7dad0aade1bc1c3f7e956153fc01e85793ea636c53d535b50",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-Bold.ttf",
+      "sha256": "90ffafff9b1302e26878d17816a88888fe153d7b16abe134a2aba62c68b09bab",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-BoldOblique.ttf",
+      "sha256": "7b53adb99846a989d4e4e97a167448012e159f52fa7d69af1768f01dbcc213c9",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-Light.ttf",
+      "sha256": "8fdf3a14489ce39f11500b034df13821cc2ffbe6259b70b181801d5ed61270a5",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-LightOblique.ttf",
+      "sha256": "945f357e989ae48987e777335329eb00297339802106a10b54a34b0a710e4fa5",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-Medium.ttf",
+      "sha256": "fb98bc692200e2be66ad6c6dd2171dedf50960f3a2a7a83ee82cd9970557639d",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-MediumOblique.ttf",
+      "sha256": "666346fbc398e1727b9d353ce0c140d79515e99399d7abca664546659a40dbcc",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-Regular.ttf",
+      "sha256": "560baafad21b78296783eb792df984e1ce41188c910465e32a72f89748be77cc",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-RegularOblique.ttf",
+      "sha256": "42b68056d7538fb01751e40ec97acf09ecc2ab862382bf10c3abfdb7ae8f2d0c",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-SemiBold.ttf",
+      "sha256": "39d89e2e06408c0f6ed859d45636524d4129a383ef95999b36b4d501c912b1b9",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-SemiBoldOblique.ttf",
+      "sha256": "33c989adfc2288257e48f112ad1bafff035da9cc692b70ea1415dfd8ad999393",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-Thin.ttf",
+      "sha256": "e7f1a563a25d4787f5f6b082d3c7d4e61d7d08e139835c42b0f945cf5c723b8d",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulMono-ThinOblique.ttf",
+      "sha256": "6d5db4699bb10261a9b45f9ef6ce59f2aab5d97d248e5a479ac2ae3d381becdd",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-Black.ttf",
+      "sha256": "6cb793d7468ac624ae1a48377ff5069c97a5019a49910dad3df4a96435bc40c7",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-BlackOblique.ttf",
+      "sha256": "a3a1854338534e59b6c9fdc2763baabbc4df79b5e43da47ce107c8e0af70e443",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-Bold.ttf",
+      "sha256": "7a8140d7d51efc750f42be5a0ee2f3aa24078ec9c75b48f579db16bfbfb25fcb",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-BoldOblique.ttf",
+      "sha256": "e2db6436225850d9c33b405e67160f334765f26253435b82758f32aab0f3ba3a",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-Light.ttf",
+      "sha256": "693958be2c2431dd2ff1547af994666116bfb4181bc5ae9f7aff69aafe181dca",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-LightOblique.ttf",
+      "sha256": "0a98451afda2d96b8618e5a4773c7341ba619b945dbf1523bfb13e1e931ce721",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-Medium.ttf",
+      "sha256": "aebb35889530a520e82d4249389d13e7de44390b9bad32ba4ccc9ba254c17085",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-MediumOblique.ttf",
+      "sha256": "06c7ab264d29401beb904f0bcaf2d395f5a9b257d5f8261faecefacf477914d7",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-Regular.ttf",
+      "sha256": "80fe6b330da85f8c734a0d73169db98f5f6b8c9cbba505d6d5cbc89b4929305d",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-RegularOblique.ttf",
+      "sha256": "75fc3b683823d58ec401abea71d4ecc334d7805406acb965f6ba55e51e34436b",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-SemiBold.ttf",
+      "sha256": "688c7bf7777b96380edff84c32c561ce2a0fb8bfd7eaed526b936232211df8db",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-SemiBoldOblique.ttf",
+      "sha256": "3d6e7a8eb48362f6202eaf07b3af742eae222041a33cee4045d506887482f04c",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-Thin.ttf",
+      "sha256": "cd073dfb15a8299f330f1c9486bb2996b4f13f76434bb39cce610e153163407c",
+      "unchanged_result": true
+    },
+    {
+      "file": "TTF/SABModulSans-ThinOblique.ttf",
+      "sha256": "74abac97f04feadc2a392031686e96ac19e110d950a5eda999303374c2b0b054",
+      "unchanged_result": true
+    },
+    {
+      "file": "OTF/SABModulMono-Black.otf",
+      "sha256": "de0d7b01238520fc4cb0b5aa35b7936c5f115d8d2caeec56e6872f3da46ba172",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-BlackOblique.otf",
+      "sha256": "c42d4fffcb4c1c96cd6e72965148a2c1aa4839009bab80ca87cda4e530770009",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-Bold.otf",
+      "sha256": "38c4955a742d7445ba6793be772e03a0319038172a8f05afec658fb0bc05e884",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-BoldOblique.otf",
+      "sha256": "849dbf397e288eccd8894420205a1561b9c832e3b099871620f38e7974b5d12f",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-Light.otf",
+      "sha256": "9c453a4a861f255e815cbbf35526e22cb0b06130eea1de302a85d0755458217e",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-LightOblique.otf",
+      "sha256": "cf1cef843f6428e252f2ccd69684aa22d4be3883328984afbcf6a292a493f6e0",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-Medium.otf",
+      "sha256": "e9b5d9ee87a5029aa2a1f9262af2c520f22b9aa43eaaddb044c21369f88d0f66",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-MediumOblique.otf",
+      "sha256": "f2866c8ffee3784d095fc82cd065ddc70364cd1952378c67eff9eec347c7a563",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-Regular.otf",
+      "sha256": "04eda287ba13d19deb8ff3a3fc29939cf9157d0138dd014c45be1c47461e2052",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-RegularOblique.otf",
+      "sha256": "0b1521d2a52a21e5d1642e6fd472424eca698c4a30fb8fd3d1b6621e3d7b28e2",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-SemiBold.otf",
+      "sha256": "e643964851cd86daa898176ce179eced2b15670ff9ac35923b505a26f3c2213c",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-SemiBoldOblique.otf",
+      "sha256": "77ed96fefdaa775e3e7376660f9f9ac8c88e69b9da39fe18bd6972bffaa7fb5b",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-Thin.otf",
+      "sha256": "24f74c62f048cab7ef289097063a0a70d621e38bea095c26d420e819cac1e2a7",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    },
+    {
+      "file": "OTF/SABModulMono-ThinOblique.otf",
+      "sha256": "d237554b6afee947251e7fe0de7071fd1d5931760a561f446498def862206cd6",
+      "result": [
+        [
+          "WARN",
+          "bad-numberOfHMetrics",
+          "The OpenType spec recommends at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 349 instead.\nPlease read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font."
+        ]
+      ]
+    }
+  ]
+}

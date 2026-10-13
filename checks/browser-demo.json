@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "scope": "Fresh local browser smoke test of shipped CSS and demo, not a complete browser matrix.",
+  "http_font_resources": {
+    "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2": "569f27dc3448be8a2eb7ba094631151fd4a6b6f15ad17416acfffc002118a82e",
+    "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2": "36b9d9021307d672af2b85af5e1adeb812b24e520c10e0c6a59c4e200541a445",
+    "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2": "f30afcb618a68d1cbdff9123e0c866fe658357d1b2fdfb7fc9f5cafcaf805c7b",
+    "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2": "abe7c1f715ff514337b1bca64535c8c7131ed930aa614696f141ac0eeb6b2736",
+    "SAB-Modul-Code/WEB/SABModulCode[wght].woff2": "c1b75b55a5054fef0a0813a2ef139ff51e9818b6d05cb4fdc50c61756d84c143"
+  },
+  "rendered_fonts": [
+    {
+      "selector": "h1",
+      "fonts": [
+        {
+          "familyName": "SAB Modul Sans",
+          "glyphCount": 28,
+          "isCustomFont": true,
+          "postScriptName": "SABModulSans-Regular_Bold"
+        }
+      ]
+    },
+    {
+      "selector": "p",
+      "fonts": [
+        {
+          "familyName": "SAB Modul Sans",
+          "glyphCount": 113,
+          "isCustomFont": true,
+          "postScriptName": "SABModulSans-Regular"
+        }
+      ]
+    },
+    {
+      "selector": "p.number",
+      "fonts": [
+        {
+          "familyName": "SAB Modul Mono",
+          "glyphCount": 40,
+          "isCustomFont": true,
+          "postScriptName": "SABModulMono-Regular"
+        }
+      ]
+    },
+    {
+      "selector": "pre",
+      "fonts": [
+        {
+          "familyName": "SAB Modul Code",
+          "glyphCount": 138,
+          "isCustomFont": true,
+          "postScriptName": "SABModulCode-Regular_wght1C20000"
+        }
+      ]
+    }
+  ],
+  "no_system_font_fallback_in_inspected_nodes": true
+}

@@ -1,0 +1,1232 @@
+Start ... running 2207 individual check executions.
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-BoldItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Light.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-LightItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Medium.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-MediumItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-SemiBoldItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-BoldItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-Light.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-LightItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-Medium.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-MediumItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulCode-SemiBoldItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Code" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-BoldItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-Light.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-LightItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-Medium.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-MediumItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulCode-SemiBoldItalic.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+
+Total:
+    ERROR: 10
+    FATAL: 0
+    FAIL: 20
+    WARN: 105
+    INFO: 61
+    SKIP: 1053
+    PASS: 958
+
+
+
+    Meaning of check results:
+
+    An ERROR is something wrong with FontBakery itself, possibly a bug.
+    A  FATAL is an extremely severe issue that must be addressed immediately.
+    A  FAIL is a problem with the font that must be fixed.
+    A  WARN is something that you should consider addressing.
+    An INFO result simply prints something useful. Typically stats.
+    A  PASS means the font looks good for the given checking routine.
+And a  SKIP happens when the check does not apply to the given font.
+
+    If you get ERRORs, please help us improve the tool by reporting them at
+    https://github.com/fonttools/fontbakery/issues (but other kinds of bug
+    reports and/or feature requests are also always welcome, of course!)
+
+
+
+DONE!
+A report in JSON format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Code-TTF-googlefonts.json"
+A report in html format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Code-TTF-googlefonts.html"

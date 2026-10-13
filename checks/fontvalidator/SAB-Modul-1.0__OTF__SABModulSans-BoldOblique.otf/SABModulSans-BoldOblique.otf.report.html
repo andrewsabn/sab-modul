@@ -1,0 +1,1169 @@
+﻿<HTML>
+  <HEAD>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><script language="JavaScript">
+		function cbInfo_onclick()
+		{
+			display_row(document.FORM1.cbInfo, "class_I");
+		}
+		function cbPass_onclick()
+		{
+			display_row(document.FORM1.cbPass, "class_P");
+		}
+		function cbWarn_onclick()
+		{
+			display_row(document.FORM1.cbWarn, "class_W");
+		}
+		function cbErr_onclick()
+		{
+			display_row(document.FORM1.cbErr, "class_E");
+		}
+		function display_table(table_id)
+		{
+			table_id.style.display = (table_id.style.display == "none" ) ? "" : "none";
+		}
+		function display_row(cb_id, row_classname)
+		{
+			if (typeof document.all != "undefined")
+			{
+				rowColl = document.all.tags("TR");
+				for (i=0; i!=rowColl.length; i++) {
+					if (rowColl(i).className == row_classname)
+					{
+						if (cb_id.checked)
+						{
+							rowColl(i).style.display = "";
+						}
+						else
+						{
+							rowColl(i).style.display = "none";
+						}
+					}
+				}
+			}
+			else
+			{
+				rowColl = document.getElementsByClassName(row_classname);
+				for (i=0; i!=rowColl.length; i++) {
+					if (cb_id.checked)
+					{
+						rowColl[i].style.display = "";
+					}
+					else
+					{
+						rowColl[i].style.display = "none";
+					}
+				}
+			}
+		}
+		</script><STYLE>
+			body 	{font-family: Trebuchet MS;
+				font-size: 10pt;
+				}
+			TABLE 	{font-family: Trebuchet MS;
+				font-size: 10pt;
+				}
+			H2	{font-family: Trebuchet MS;
+				font-weight:bold;
+				font-size: 14pt;
+				color: #000000;
+				}
+			TR	{background-color: #f0f0f0;
+				}
+			TR.caption {background-color: #cccccc}
+			TR.class_A {background-color: #000000; color: #ffff00}
+			TR.class_E {background-color: #ff9999}
+			TR.class_W {background-color: #ffff99}
+			TR.class_P {background-color: #99ff99}
+			TR.class_I {background-color: #ccffff}
+		</STYLE>
+  </HEAD>
+  <BODY>
+    <FORM NAME="FORM1">
+      <H2>
+			Font Validator Report -
+			SABModulSans-BoldOblique.otf</H2>
+      <TABLE WIDTH="450">
+        <TR>
+          <TD BGCOLOR="#ffffff" WIDTH="50">
+		Show
+		</TD>
+          <TD BGCOLOR="#ccffff" WIDTH="100"><INPUT
+		id='cbInfo' type='checkbox' name='cbInfo' onclick='cbInfo_onclick()'
+		checked>
+		Info
+		</TD>
+          <TD BGCOLOR="#99ff99" WIDTH="100"><INPUT
+		id='cbPass' type='checkbox' name='cbPass' onclick='cbPass_onclick()'
+		checked >
+		Pass
+		</TD>
+          <TD BGCOLOR="#ffff99" WIDTH="100"><INPUT
+		id='cbWarn' type='checkbox' name='cbWarn' onclick='cbWarn_onclick()'
+		checked >
+		Warning
+		</TD>
+          <TD BGCOLOR="#ff9999" WIDTH="100"><INPUT
+		id='cbErr' type='checkbox' name='cbErr' onclick='cbErr_onclick()'
+		checked >
+		Error
+		</TD>
+        </TR>
+      </TABLE>
+    </FORM>
+    <TABLE WIDTH="100%">
+      <TR>
+        <TD WIDTH="15%"><I>Run DateTime: </I></TD>
+        <TD>Tuesday, October 13, 2026 12:40 PM</TD>
+      </TR>
+      <TR>
+        <TD WIDTH="15%"><I>Machine Name: </I></TD>
+        <TD>Mac</TD>
+      </TR>
+      <TR>
+        <TD WIDTH="15%"><I>Font file: </I></TD>
+        <TD>/privateSAB-Modul-OFL/SAB-Modul-1.0/OTF/SABModulSans-BoldOblique.otf</TD>
+      </TR>
+    </TABLE>
+    <TABLE WIDTH="100%">
+      <TR CLASS="caption">
+        <TD WIDTH="10%"><I>Error code</I></TD>
+        <TD WIDTH="50%"><I>Message</I></TD>
+        <TD WIDTH="40%"><I>Details</I></TD>
+      </TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0004</TD>
+      <TD VALIGN="TOP">The file begins with an Offset Table (file contains a single font)</TD>
+      <TD VALIGN="TOP">
+      </TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0005</TD>
+      <TD VALIGN="TOP">Total time validating file</TD>
+      <TD VALIGN="TOP">0:00:08</TD></TR><BR></TABLE>
+    <HR><BR><P><B><I>Index: </I>0, SAB Modul Sans Bold Oblique, Version 1.101, 9/27/2026</B></P><BR><TABLE WIDTH="100%">
+      <TR CLASS="caption">
+        <TD WIDTH="25%"><I>Table Tag</I></TD>
+        <TD WIDTH="25%"><I>Table Offset</I></TD>
+        <TD WIDTH="25%"><I>Table Length</I></TD>
+        <TD WIDTH="25%"><I>Table Checksum</I></TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#CFF__0'
+				>CFF </A></TD>
+        <TD>0x000007f8</TD>
+        <TD>0x00019738</TD>
+        <TD>0xafa7aa5d</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#GPOS_0'
+				>GPOS</A></TD>
+        <TD>0x00019f30</TD>
+        <TD>0x000135da</TD>
+        <TD>0xa1b2f3d4</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#GSUB_0'
+				>GSUB</A></TD>
+        <TD>0x0002d50c</TD>
+        <TD>0x000007f8</TD>
+        <TD>0x2bd856f8</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#OS_2_0'
+				>OS/2</A></TD>
+        <TD>0x00000130</TD>
+        <TD>0x00000060</TD>
+        <TD>0x4fbd0962</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#STAT_0'
+				>STAT</A></TD>
+        <TD>0x0002dd04</TD>
+        <TD>0x00000040</TD>
+        <TD>0xe5cfcc0f</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#cmap_0'
+				>cmap</A></TD>
+        <TD>0x0000063c</TD>
+        <TD>0x0000019c</TD>
+        <TD>0x0c03b635</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#head_0'
+				>head</A></TD>
+        <TD>0x000000cc</TD>
+        <TD>0x00000036</TD>
+        <TD>0x30a33084</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#hhea_0'
+				>hhea</A></TD>
+        <TD>0x00000104</TD>
+        <TD>0x00000024</TD>
+        <TD>0x088d0858</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#hmtx_0'
+				>hmtx</A></TD>
+        <TD>0x0002dd44</TD>
+        <TD>0x00000844</TD>
+        <TD>0xaa7c6043</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#maxp_0'
+				>maxp</A></TD>
+        <TD>0x00000128</TD>
+        <TD>0x00000006</TD>
+        <TD>0x02115000</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#name_0'
+				>name</A></TD>
+        <TD>0x00000190</TD>
+        <TD>0x000004ac</TD>
+        <TD>0x7c65a1e8</TD>
+      </TR>
+      <TR>
+        <TD><A
+				HREF='#post_0'
+				>post</A></TD>
+        <TD>0x000007d8</TD>
+        <TD>0x00000020</TD>
+        <TD>0xff8b0032</TD>
+      </TR>
+    </TABLE><BR><B>General Font Information</B><TABLE WIDTH="100%">
+      <TR CLASS="caption">
+        <TD WIDTH="10%"><I>Error code</I></TD>
+        <TD WIDTH="50%"><I>Message</I></TD>
+        <TD WIDTH="40%"><I>Details</I></TD>
+      </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0011</TD>
+      <TD VALIGN="TOP">The numTables field is non-zero</TD>
+      <TD VALIGN="TOP">12</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0010</TD>
+      <TD VALIGN="TOP">The searchRange, entrySelector, and rangeShift fields are all valid</TD>
+      <TD VALIGN="TOP">
+      </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0032</TD>
+      <TD VALIGN="TOP">The directory entry tags are in ascending order</TD>
+      <TD VALIGN="TOP">
+      </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0031</TD>
+      <TD VALIGN="TOP">The directory entry tag names are valid</TD>
+      <TD VALIGN="TOP">
+      </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0030</TD>
+      <TD VALIGN="TOP">The directory entry table offsets are all multiples of 4</TD>
+      <TD VALIGN="TOP">
+      </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0020</TD>
+      <TD VALIGN="TOP">All required tables are present</TD>
+      <TD VALIGN="TOP">
+      </TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W0022</TD>
+      <TD VALIGN="TOP">Recommended table is missing</TD>
+      <TD VALIGN="TOP">DSIG</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0022</TD>
+      <TD VALIGN="TOP">No unnecessary tables are present</TD>
+      <TD VALIGN="TOP">
+      </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0021</TD>
+      <TD VALIGN="TOP">Tables are in optimal order</TD>
+      <TD VALIGN="TOP">
+      </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_CFF__0' type='checkbox' name='cb_CFF__0' onclick='display_table(table_CFF__0)'
+				checked ><B><A
+				NAME='CFF__0'
+				>CFF </A></B><BR><TABLE
+				WIDTH='100%' id='table_CFF__0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0201</TD>
+    <TD VALIGN="TOP">The CFF major.minor version for this table</TD>
+    <TD VALIGN="TOP">1.0</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0202</TD>
+    <TD VALIGN="TOP">The header for the CFF table is okay</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0203</TD>
+    <TD VALIGN="TOP">Parse and Count items in the 4 main INDEX</TD>
+    <TD VALIGN="TOP">Name=1, TopDICT=1, String=531, GlobalSubr=0</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0204</TD>
+    <TD VALIGN="TOP">Name and TopDICT have exactly 1 item each.</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0212</TD>
+    <TD VALIGN="TOP">Names and Strings are us-ascii</TD>
+    <TD VALIGN="TOP">Name INDEX</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0212</TD>
+    <TD VALIGN="TOP">Names and Strings are us-ascii</TD>
+    <TD VALIGN="TOP">String INDEX</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0207</TD>
+    <TD VALIGN="TOP">Top/FD Dictionary Unwind Passed</TD>
+    <TD VALIGN="TOP">SAB Modul Sans Bold Oblique</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0208</TD>
+    <TD VALIGN="TOP">Private Dictionary Unwind Passed</TD>
+    <TD VALIGN="TOP">topPrivateDict</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0209</TD>
+    <TD VALIGN="TOP">Number of items in an INDEX</TD>
+    <TD VALIGN="TOP">CharStrings: 529</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0210</TD>
+    <TD VALIGN="TOP">Count of CharStrings is equal to numGlyphs in maxp</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0200</TD>
+    <TD VALIGN="TOP">Validation for the CFF table is not completedly implemented</TD>
+    <TD VALIGN="TOP">Tested Region: 0-4981;4986-104248 of 104248, not testing Charset: 4981</TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_GPOS_0' type='checkbox' name='cb_GPOS_0' onclick='display_table(table_GPOS_0)'
+				checked ><B><A
+				NAME='GPOS_0'
+				>GPOS</A></B><BR><TABLE
+				WIDTH='100%' id='table_GPOS_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4132</TD>
+    <TD VALIGN="TOP">The version number is 0x00010000</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4115</TD>
+    <TD VALIGN="TOP">All header offsets point within the table</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5500</TD>
+    <TD VALIGN="TOP">The LangSysTable is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[0](DFLT), ScriptTable, DefaultLangSysTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5900</TD>
+    <TD VALIGN="TOP">The Script Table is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[0](DFLT), ScriptTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5500</TD>
+    <TD VALIGN="TOP">The LangSysTable is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[1](cyrl), ScriptTable, DefaultLangSysTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5900</TD>
+    <TD VALIGN="TOP">The Script Table is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[1](cyrl), ScriptTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5500</TD>
+    <TD VALIGN="TOP">The LangSysTable is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[2](latn), ScriptTable, DefaultLangSysTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5900</TD>
+    <TD VALIGN="TOP">The Script Table is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[2](latn), ScriptTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5800</TD>
+    <TD VALIGN="TOP">The ScriptList Table is valid</TD>
+    <TD VALIGN="TOP">ScriptList</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5400</TD>
+    <TD VALIGN="TOP">The Feature table is valid</TD>
+    <TD VALIGN="TOP">FeatureList, FeatureRecord[0](kern), FeatureTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5400</TD>
+    <TD VALIGN="TOP">The Feature table is valid</TD>
+    <TD VALIGN="TOP">FeatureList, FeatureRecord[1](mark), FeatureTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5300</TD>
+    <TD VALIGN="TOP">The FeatureList table is valid</TD>
+    <TD VALIGN="TOP">FeatureList</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4101</TD>
+    <TD VALIGN="TOP">The BaseArray table is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[0], SubTable[0](MarkBasePos), BaseArray</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4121</TD>
+    <TD VALIGN="TOP">The MarkBasePos subtable is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[0], SubTable[0](MarkBasePos)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4114</TD>
+    <TD VALIGN="TOP">The ExtensiontPos subtable is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[1], SubTable[0](ExtensionPos)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4124</TD>
+    <TD VALIGN="TOP">The PairPos subtable is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[1], SubTable[0](ExtensionPos)(PairPos, fmt 2)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4114</TD>
+    <TD VALIGN="TOP">The ExtensiontPos subtable is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[1], SubTable[1](ExtensionPos)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4124</TD>
+    <TD VALIGN="TOP">The PairPos subtable is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[1], SubTable[1](ExtensionPos)(PairPos, fmt 2)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5600</TD>
+    <TD VALIGN="TOP">The LookupList table is valid</TD>
+    <TD VALIGN="TOP">LookupList</TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_GSUB_0' type='checkbox' name='cb_GSUB_0' onclick='display_table(table_GSUB_0)'
+				checked ><B><A
+				NAME='GSUB_0'
+				>GSUB</A></B><BR><TABLE
+				WIDTH='100%' id='table_GSUB_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4208</TD>
+    <TD VALIGN="TOP">The version number is 0x00010000</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4204</TD>
+    <TD VALIGN="TOP">All header offsets point within the table</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5500</TD>
+    <TD VALIGN="TOP">The LangSysTable is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[0](DFLT), ScriptTable, DefaultLangSysTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5900</TD>
+    <TD VALIGN="TOP">The Script Table is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[0](DFLT), ScriptTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5500</TD>
+    <TD VALIGN="TOP">The LangSysTable is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[1](cyrl), ScriptTable, DefaultLangSysTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5900</TD>
+    <TD VALIGN="TOP">The Script Table is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[1](cyrl), ScriptTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5500</TD>
+    <TD VALIGN="TOP">The LangSysTable is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[2](latn), ScriptTable, DefaultLangSysTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5900</TD>
+    <TD VALIGN="TOP">The Script Table is valid</TD>
+    <TD VALIGN="TOP">ScriptList, ScriptRecord[2](latn), ScriptTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5800</TD>
+    <TD VALIGN="TOP">The ScriptList Table is valid</TD>
+    <TD VALIGN="TOP">ScriptList</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5400</TD>
+    <TD VALIGN="TOP">The Feature table is valid</TD>
+    <TD VALIGN="TOP">FeatureList, FeatureRecord[0](case), FeatureTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5400</TD>
+    <TD VALIGN="TOP">The Feature table is valid</TD>
+    <TD VALIGN="TOP">FeatureList, FeatureRecord[1](ccmp), FeatureTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5400</TD>
+    <TD VALIGN="TOP">The Feature table is valid</TD>
+    <TD VALIGN="TOP">FeatureList, FeatureRecord[2](pnum), FeatureTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5400</TD>
+    <TD VALIGN="TOP">The Feature table is valid</TD>
+    <TD VALIGN="TOP">FeatureList, FeatureRecord[3](tnum), FeatureTable</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5300</TD>
+    <TD VALIGN="TOP">The FeatureList table is valid</TD>
+    <TD VALIGN="TOP">FeatureList</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4205</TD>
+    <TD VALIGN="TOP">The LigatureSubst subtable is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[0], SubTable[0](LigatureSubst, fmt 1)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4207</TD>
+    <TD VALIGN="TOP">The SingleSubst subtable is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[1], SubTable[0](SingleSubst, fmt 1)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4207</TD>
+    <TD VALIGN="TOP">The SingleSubst subtable is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[2], SubTable[0](SingleSubst, fmt 1)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P4207</TD>
+    <TD VALIGN="TOP">The SingleSubst subtable is valid</TD>
+    <TD VALIGN="TOP">LookupList, Lookup[3], SubTable[0](SingleSubst, fmt 2)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P5600</TD>
+    <TD VALIGN="TOP">The LookupList table is valid</TD>
+    <TD VALIGN="TOP">LookupList</TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_OS_2_0' type='checkbox' name='cb_OS_2_0' onclick='display_table(table_OS_2_0)'
+				checked ><B><A
+				NAME='OS_2_0'
+				>OS/2</A></B><BR><TABLE
+				WIDTH='100%' id='table_OS_2_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2106</TD>
+    <TD VALIGN="TOP">The version number is valid, but less than 5</TD>
+    <TD VALIGN="TOP">4</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2112</TD>
+    <TD VALIGN="TOP">The table length matches the expected length for this version</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0050</TD>
+    <TD VALIGN="TOP">Cannot perform test since this is a CFF font</TD>
+    <TD VALIGN="TOP">test = OS/2_xAvgCharWidth</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2118</TD>
+    <TD VALIGN="TOP">The usWeightClass is a valid value</TD>
+    <TD VALIGN="TOP">700</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2119</TD>
+    <TD VALIGN="TOP">The width class is a valid value</TD>
+    <TD VALIGN="TOP">5</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2103</TD>
+    <TD VALIGN="TOP">The fsType field is valid</TD>
+    <TD VALIGN="TOP">0x0000, Installable Embedding</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2109</TD>
+    <TD VALIGN="TOP">ySubscriptXSize has unlikely value</TD>
+    <TD VALIGN="TOP">0</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2111</TD>
+    <TD VALIGN="TOP">ySubscriptYSize has unlikely value</TD>
+    <TD VALIGN="TOP">0</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2112</TD>
+    <TD VALIGN="TOP">ySuperscriptXSize has unlikely value</TD>
+    <TD VALIGN="TOP">0</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2114</TD>
+    <TD VALIGN="TOP">ySuperscriptYSize has unlikely value</TD>
+    <TD VALIGN="TOP">0</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2107</TD>
+    <TD VALIGN="TOP">yStrikeoutPosition has unlikely value</TD>
+    <TD VALIGN="TOP">0</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2107</TD>
+    <TD VALIGN="TOP">The sFamilyClass Class ID and Subclass ID values are in a valid range</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2104</TD>
+    <TD VALIGN="TOP">All panose values are in a valid range</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2113</TD>
+    <TD VALIGN="TOP">The Unicode Range fields' bits are all allowable values</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_E'
+		><TD VALIGN="TOP">E2101</TD>
+    <TD VALIGN="TOP">There are undefined bits set in fsSelection field</TD>
+    <TD VALIGN="TOP">Bit(s) 7</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2100</TD>
+    <TD VALIGN="TOP">The usFirstCharIndex and usLastCharIndex fields are valid</TD>
+    <TD VALIGN="TOP">first = 0x0020, last = 0x2265</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2117</TD>
+    <TD VALIGN="TOP">The value of sTypoAscender minus sTypoDescender is greater than unitsPerEm</TD>
+    <TD VALIGN="TOP">sTypoAscender = 1040, sTypoDescender = -320</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2101</TD>
+    <TD VALIGN="TOP">A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage</TD>
+    <TD VALIGN="TOP">bit #0, Latin 1 (missing chars: U00AD)</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2101</TD>
+    <TD VALIGN="TOP">A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage</TD>
+    <TD VALIGN="TOP">bit #1, Latin 2 (missing chars: U00AD)</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2101</TD>
+    <TD VALIGN="TOP">A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage</TD>
+    <TD VALIGN="TOP">bit #2, Cyrillic (missing chars: U00AD)</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2101</TD>
+    <TD VALIGN="TOP">A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage</TD>
+    <TD VALIGN="TOP">bit #4, Turkish (missing chars: U00AD)</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2101</TD>
+    <TD VALIGN="TOP">A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage</TD>
+    <TD VALIGN="TOP">bit #7, Baltic (missing chars: U00AD)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2101</TD>
+    <TD VALIGN="TOP">The CodePage Range fields' bits are all allowable values</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2110</TD>
+    <TD VALIGN="TOP">The sxHeight field is nonzero</TD>
+    <TD VALIGN="TOP">500</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2105</TD>
+    <TD VALIGN="TOP">The sCapHeight field is nonzero</TD>
+    <TD VALIGN="TOP">700</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2116</TD>
+    <TD VALIGN="TOP">The usDefaultChar field is zero</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2114</TD>
+    <TD VALIGN="TOP">The usBreakChar is mapped to a glyf</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2124</TD>
+    <TD VALIGN="TOP">The usMaxContext field matches the calculated value</TD>
+    <TD VALIGN="TOP">2</TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_STAT_0' type='checkbox' name='cb_STAT_0' onclick='display_table(table_STAT_0)'
+				checked ><B><A
+				NAME='STAT_0'
+				>STAT</A></B><BR><TABLE
+				WIDTH='100%' id='table_STAT_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0040</TD>
+    <TD VALIGN="TOP">Not an OpenType table, contents not validated</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_cmap_0' type='checkbox' name='cb_cmap_0' onclick='display_table(table_cmap_0)'
+				checked ><B><A
+				NAME='cmap_0'
+				>cmap</A></B><BR><TABLE
+				WIDTH='100%' id='table_cmap_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0312</TD>
+    <TD VALIGN="TOP">The table version number is 0</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0307</TD>
+    <TD VALIGN="TOP">Each subtable offset is within the table</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0306</TD>
+    <TD VALIGN="TOP">Each subtable length is within the table</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0309</TD>
+    <TD VALIGN="TOP">The subtables are in the correct order</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0302</TD>
+    <TD VALIGN="TOP">There are no duplicate subtables</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0308</TD>
+    <TD VALIGN="TOP">No overlapping subtables were found</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0310</TD>
+    <TD VALIGN="TOP">Each subtable's format number is valid</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0305</TD>
+    <TD VALIGN="TOP">The subtable internal format appears valid</TD>
+    <TD VALIGN="TOP">PlatID = 0, EncID = 3, Fmt = 4</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0305</TD>
+    <TD VALIGN="TOP">The subtable internal format appears valid</TD>
+    <TD VALIGN="TOP">PlatID = 3, EncID = 1, Fmt = 4</TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W0302</TD>
+    <TD VALIGN="TOP">The table does not contain any Apple subtables</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W0301</TD>
+    <TD VALIGN="TOP">Apple logo mapping test not performed, cmap 1,0 not present</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0304</TD>
+    <TD VALIGN="TOP">Character code U+20AC, the euro character, is mapped for cmap 3,1</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0311</TD>
+    <TD VALIGN="TOP">No characters are mapped in the Unicode Private Use area</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P0314</TD>
+    <TD VALIGN="TOP">All non mac subtables have a language field of zero</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_head_0' type='checkbox' name='cb_head_0' onclick='display_table(table_head_0)'
+				checked ><B><A
+				NAME='head_0'
+				>head</A></B><BR><TABLE
+				WIDTH='100%' id='table_head_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1323</TD>
+    <TD VALIGN="TOP">Table length is 54 bytes</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1324</TD>
+    <TD VALIGN="TOP">The table version number is 0x00010000</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1330</TD>
+    <TD VALIGN="TOP">fontRevision is consistent with the font's version string</TD>
+    <TD VALIGN="TOP">1.101</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1307</TD>
+    <TD VALIGN="TOP">Font checksum is correct</TD>
+    <TD VALIGN="TOP">0xc3efc26c</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1321</TD>
+    <TD VALIGN="TOP">The magic number is 0x5f0f3cf5</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1303</TD>
+    <TD VALIGN="TOP">Non-linear scaling flag (bit 4) is clear, and hdmx table is not present</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1304</TD>
+    <TD VALIGN="TOP">Non-linear scaling flag (bit 4) is clear, and LTSH table is not present</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1301</TD>
+    <TD VALIGN="TOP">Reserved bit 14 of the flags field is clear</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1302</TD>
+    <TD VALIGN="TOP">Reserved bit 15 of the flags field is clear</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1300</TD>
+    <TD VALIGN="TOP">The created time is not zero</TD>
+    <TD VALIGN="TOP">created = 3873368440 (Sunday, September 27, 2026 3:40 PM)</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1322</TD>
+    <TD VALIGN="TOP">The modified time is not zero</TD>
+    <TD VALIGN="TOP">modified = 3873368440 (Sunday, September 27, 2026 3:40 PM)</TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0050</TD>
+    <TD VALIGN="TOP">Cannot perform test since this is a CFF font</TD>
+    <TD VALIGN="TOP">test = head_MinMaxValues</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1316</TD>
+    <TD VALIGN="TOP">The macStyle bold bit matches the name table's font subfamily string</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1320</TD>
+    <TD VALIGN="TOP">The macStyle italic bit matches the name table's font subfamily string</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1314</TD>
+    <TD VALIGN="TOP">The macStyle bold bit matches the OS/2 fsSelection bit</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1318</TD>
+    <TD VALIGN="TOP">The macStyle italic bit matches the OS/2 fsSelection bit</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1319</TD>
+    <TD VALIGN="TOP">The macStyle italic bit matches the post table italic angle</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W1305</TD>
+    <TD VALIGN="TOP">The lowestRecPPEM value may be unreasonably small</TD>
+    <TD VALIGN="TOP">lowestRecPPEM = 3</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1308</TD>
+    <TD VALIGN="TOP">The fontDirectionHint is in the range -2..2</TD>
+    <TD VALIGN="TOP">2</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1310</TD>
+    <TD VALIGN="TOP">The indexToLocFormat value is ignored in a CFF font</TD>
+    <TD VALIGN="TOP">indexToLocFormat = 0</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1309</TD>
+    <TD VALIGN="TOP">The glyphDataFormat value is 0</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_hhea_0' type='checkbox' name='cb_hhea_0' onclick='display_table(table_hhea_0)'
+				checked ><B><A
+				NAME='hhea_0'
+				>hhea</A></B><BR><TABLE
+				WIDTH='100%' id='table_hhea_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1406</TD>
+    <TD VALIGN="TOP">The table version number is 0x00010000</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1409</TD>
+    <TD VALIGN="TOP">The Ascender value is greater than zero</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1411</TD>
+    <TD VALIGN="TOP">The Descender is less than zero</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I1401</TD>
+    <TD VALIGN="TOP">Ascender should be less than or equal to head.yMax</TD>
+    <TD VALIGN="TOP">Ascender = 1040, head.yMax = 961</TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I1402</TD>
+    <TD VALIGN="TOP">Descender should be greater than or equal to head.yMin</TD>
+    <TD VALIGN="TOP">Descender = -320, head.yMin = -232</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1413</TD>
+    <TD VALIGN="TOP">LineGap is greater than or equal to 0</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1415</TD>
+    <TD VALIGN="TOP">Ascender is same value as OS/2.usWinAscent</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1416</TD>
+    <TD VALIGN="TOP">Descender value is the same as OS/2.usWinDescent</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1414</TD>
+    <TD VALIGN="TOP">The LineGap is greater to or equal the minimum recommended value</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0050</TD>
+    <TD VALIGN="TOP">Cannot perform test since this is a CFF font</TD>
+    <TD VALIGN="TOP">test = hhea_MinMax</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1405</TD>
+    <TD VALIGN="TOP">The reserved fields are all set to zero</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1401</TD>
+    <TD VALIGN="TOP">The metricDataFormat field is set to zero</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1404</TD>
+    <TD VALIGN="TOP">The numberOfHMetrics value is consistent with the length of the hmtx table</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1408</TD>
+    <TD VALIGN="TOP">The caretSlope angle matches the post.italicAngle</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_hmtx_0' type='checkbox' name='cb_hmtx_0' onclick='display_table(table_hmtx_0)'
+				checked ><B><A
+				NAME='hmtx_0'
+				>hmtx</A></B><BR><TABLE
+				WIDTH='100%' id='table_hmtx_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1501</TD>
+    <TD VALIGN="TOP">The size of the table matches the calculated size</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1500</TD>
+    <TD VALIGN="TOP">The horizontal metrics are all within an allowable range of values</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_maxp_0' type='checkbox' name='cb_maxp_0' onclick='display_table(table_maxp_0)'
+				checked ><B><A
+				NAME='maxp_0'
+				>maxp</A></B><BR><TABLE
+				WIDTH='100%' id='table_maxp_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1904</TD>
+    <TD VALIGN="TOP">Table version is 0x00005000, CFF table is present, no glyf table is present</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P1901</TD>
+    <TD VALIGN="TOP">Table version is 0x00005000 and the table is 6 bytes long</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0051</TD>
+    <TD VALIGN="TOP">Cannot perform test, table is wrong version!</TD>
+    <TD VALIGN="TOP">test = maxp_NumGlyphsMatchLoca</TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0051</TD>
+    <TD VALIGN="TOP">Cannot perform test, table is wrong version!</TD>
+    <TD VALIGN="TOP">test = maxp_GlyphStats</TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_name_0' type='checkbox' name='cb_name_0' onclick='display_table(table_name_0)'
+				checked ><B><A
+				NAME='name_0'
+				>name</A></B><BR><TABLE
+				WIDTH='100%' id='table_name_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2001</TD>
+    <TD VALIGN="TOP">The format selector field is 0</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2007</TD>
+    <TD VALIGN="TOP">No strings extended past the end of the table</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2003</TD>
+    <TD VALIGN="TOP">The NameRecords array is in sorted order</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2006</TD>
+    <TD VALIGN="TOP">No name records are using reserved Name IDs</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_E'
+		><TD VALIGN="TOP">E2003</TD>
+    <TD VALIGN="TOP">The table doesn't contain strings for Mac platform</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2009</TD>
+    <TD VALIGN="TOP">The version string is in the correct format</TD>
+    <TD VALIGN="TOP">platID = 3, encID = 1, langID = 1033, "Version 1.101"</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2004</TD>
+    <TD VALIGN="TOP">All strings had valid Platform Specific Encoding IDs</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2002</TD>
+    <TD VALIGN="TOP">All Microsoft unicode strings had valid Language IDs</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2008</TD>
+    <TD VALIGN="TOP">The length of every unicode string is an even # of bytes</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_E'
+		><TD VALIGN="TOP">E2008</TD>
+    <TD VALIGN="TOP">The PostScript string is not present for both required platforms</TD>
+    <TD VALIGN="TOP">Mac Postscript string is missing, but MS Postscript string is present</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2010</TD>
+    <TD VALIGN="TOP">The subfamily string is consistent with the style of the font</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2015</TD>
+    <TD VALIGN="TOP">No name record specified Unicode Variation Sequences cmap subtable</TD>
+    <TD VALIGN="TOP">PlatformID=0, EncodingID=5 is for Variation Sequences (Format 14)</TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I2001</TD>
+    <TD VALIGN="TOP">Found Typographic Family name (Name ID 16)</TD>
+    <TD VALIGN="TOP">platID = 3, encID = 1, langID = 1033, nameID = 16, "SAB Modul Sans"</TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I2003</TD>
+    <TD VALIGN="TOP">Found Typographic Subfamily name (Name ID 17)</TD>
+    <TD VALIGN="TOP">platID = 3, encID = 1, langID = 1033, nameID = 17, "Bold Oblique"</TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2012</TD>
+    <TD VALIGN="TOP">No inconsistencies were found for Copyright strings</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2014</TD>
+    <TD VALIGN="TOP">No inconsistencies were found for Trademark strings</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2013</TD>
+    <TD VALIGN="TOP">No inconsistencies were found for Description strings</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb_post_0' type='checkbox' name='cb_post_0' onclick='display_table(table_post_0)'
+				checked ><B><A
+				NAME='post_0'
+				>post</A></B><BR><TABLE
+				WIDTH='100%' id='table_post_0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2304</TD>
+    <TD VALIGN="TOP">The table length is valid</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_W'
+		><TD VALIGN="TOP">W2304</TD>
+    <TD VALIGN="TOP">Apple recommends against using post table format 3 under most circumstances</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2302</TD>
+    <TD VALIGN="TOP">The italicAngle value is reasonable and consistent with other tables</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2305</TD>
+    <TD VALIGN="TOP">The underlinePosition value is not less than hhea.Descender</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2306</TD>
+    <TD VALIGN="TOP">The underlineThickness value is reasonable</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_P'
+		><TD VALIGN="TOP">P2301</TD>
+    <TD VALIGN="TOP">The isFixedPitch field is consistent with other table(s)</TD>
+    <TD VALIGN="TOP">matches the hmtx and OS/2 tables</TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I2304</TD>
+    <TD VALIGN="TOP">The numberOfGlyphs field was not tested since version != 2</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I2302</TD>
+    <TD VALIGN="TOP">The glyphNameIndex array was not tested since version != 2</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I2303</TD>
+    <TD VALIGN="TOP">The post name was not tested since version != 2</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb__0' type='checkbox' name='cb__0' onclick='display_table(table__0)'
+				checked ><B>Rasterization Test, BW</B><BR><TABLE
+				WIDTH='100%' id='table__0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0052</TD>
+    <TD VALIGN="TOP">Rasterization not selected for validation</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb__0' type='checkbox' name='cb__0' onclick='display_table(table__0)'
+				checked ><B>Rasterization Test, Grayscale</B><BR><TABLE
+				WIDTH='100%' id='table__0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0052</TD>
+    <TD VALIGN="TOP">Rasterization not selected for validation</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><INPUT
+				id='cb__0' type='checkbox' name='cb__0' onclick='display_table(table__0)'
+				checked ><B>Rasterization Test, ClearType</B><BR><TABLE
+				WIDTH='100%' id='table__0'
+				><TR CLASS="caption">
+      <TD WIDTH="10%"><I>Error code</I></TD>
+      <TD WIDTH="50%"><I>Message</I></TD>
+      <TD WIDTH="40%"><I>Details</I></TD>
+    </TR><TR
+		class='class_I'
+		><TD VALIGN="TOP">I0052</TD>
+    <TD VALIGN="TOP">Rasterization not selected for validation</TD>
+    <TD VALIGN="TOP">
+    </TD></TR><BR></TABLE><BR><BR><P>
+			Note: The Font Validator's helpfile contains detailed information about each error message.
+			The latest OpenType specification is available at the
+			<A TARGET="TOP" HREF="http://www.microsoft.com/typography">Microsoft Typography website</A>.
+		</P>
+  </BODY>
+</HTML>

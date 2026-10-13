@@ -1,0 +1,744 @@
+Start ... running 1162 individual check executions.
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Bold.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-BoldItalic.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Italic.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Light.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-LightItalic.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Medium.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-MediumItalic.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-Regular.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-SemiBold.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulCode-SemiBoldItalic.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "qa-environment/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-Bold.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-BoldItalic.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-Italic.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-Light.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 16 [code: mac-names]                             
+    FAIL Please remove name ID 17 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-LightItalic.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 16 [code: mac-names]                             
+    FAIL Please remove name ID 17 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-Medium.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 16 [code: mac-names]                             
+    FAIL Please remove name ID 17 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-MediumItalic.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 16 [code: mac-names]                             
+    FAIL Please remove name ID 17 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-Regular.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-SemiBold.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 16 [code: mac-names]                             
+    FAIL Please remove name ID 17 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+ >> no_mac_entries
+    Ensure font doesn't have Mac name table entries (platform=1).
+    with SABModulCode-SemiBoldItalic.otf
+
+    Rationale:                                                                
+                                                                                
+    Mac name table entries are not needed anymore. Even Apple stopped           
+    producing name tables with platform 1. Please see for example the           
+    following system font:                                                      
+                                                                                
+    /System/Library/Fonts/SFCompact.ttf                                         
+                                                                                
+    Also, Dave Opstad, who developed Apple's TrueType specifications, told      
+    Olli Meier a couple years ago (as of January/2022) that these entries are   
+    outdated and should not be produced anymore.                                
+                                                                                
+    More info: https://github.com/googlefonts/gftools/issues/469
+
+    FAIL Please remove name ID 0 [code: mac-names]                              
+    FAIL Please remove name ID 1 [code: mac-names]                              
+    FAIL Please remove name ID 2 [code: mac-names]                              
+    FAIL Please remove name ID 3 [code: mac-names]                              
+    FAIL Please remove name ID 4 [code: mac-names]                              
+    FAIL Please remove name ID 5 [code: mac-names]                              
+    FAIL Please remove name ID 6 [code: mac-names]                              
+    FAIL Please remove name ID 8 [code: mac-names]                              
+    FAIL Please remove name ID 9 [code: mac-names]                              
+    FAIL Please remove name ID 10 [code: mac-names]                             
+    FAIL Please remove name ID 13 [code: mac-names]                             
+    FAIL Please remove name ID 14 [code: mac-names]                             
+    FAIL Please remove name ID 16 [code: mac-names]                             
+    FAIL Please remove name ID 17 [code: mac-names]                             
+    FAIL Please remove name ID 256 [code: mac-names]                            
+    FAIL Please remove name ID 257 [code: mac-names]                            
+    FAIL Please remove name ID 258 [code: mac-names]                            
+    FAIL Please remove name ID 259 [code: mac-names]                            
+    FAIL Please remove name ID 260 [code: mac-names]                            
+    FAIL Please remove name ID 261 [code: mac-names]                            
+
+    Result: FAIL
+
+
+Total:
+    ERROR: 10
+    FATAL: 0
+    FAIL: 10
+    WARN: 20
+    INFO: 30
+    SKIP: 437
+    PASS: 655
+
+
+
+    Meaning of check results:
+
+    An ERROR is something wrong with FontBakery itself, possibly a bug.
+    A  FATAL is an extremely severe issue that must be addressed immediately.
+    A  FAIL is a problem with the font that must be fixed.
+    A  WARN is something that you should consider addressing.
+    An INFO result simply prints something useful. Typically stats.
+    A  PASS means the font looks good for the given checking routine.
+And a  SKIP happens when the check does not apply to the given font.
+
+    If you get ERRORs, please help us improve the tool by reporting them at
+    https://github.com/fonttools/fontbakery/issues (but other kinds of bug
+    reports and/or feature requests are also always welcome, of course!)
+
+
+
+DONE!
+A report in JSON format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Code-OTF-universal.json"
+A report in html format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Code-OTF-universal.html"

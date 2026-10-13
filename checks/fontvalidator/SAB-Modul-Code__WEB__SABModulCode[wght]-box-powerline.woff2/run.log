@@ -1,0 +1,26 @@
+/privateSAB-Modul-OFL/checks/fontvalidator/SAB-Modul-Code__WEB__SABModulCode[wght]-box-powerline.woff2/SABModulCode[wght]-box-powerline.ttf (file 1 of 1)
+Table Test: GDEF
+Table Test: GPOS
+Table Test: GSUB
+Table Test: HVAR
+Table Test: OS/2
+Table Test: STAT
+Table Test: cmap
+Table Test: fvar
+Table Test: gasp
+Table Test: glyf
+Progress: Validating glyph with index 0 (out of 313 glyphs)
+Progress: Validating glyph with index 100 (out of 313 glyphs)
+Progress: Validating glyph with index 200 (out of 313 glyphs)
+Progress: Validating glyph with index 300 (out of 313 glyphs)
+Table Test: gvar
+Table Test: head
+Table Test: hhea
+Table Test: hmtx
+Table Test: loca
+Table Test: maxp
+Table Test: name
+Table Test: post
+Table Test: prep
+Complete: /privateSAB-Modul-OFL/checks/fontvalidator/SAB-Modul-Code__WEB__SABModulCode[wght]-box-powerline.woff2/SABModulCode[wght]-box-powerline.ttf.report.xml
+Reports are ready!

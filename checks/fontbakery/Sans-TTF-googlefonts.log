@@ -1,0 +1,1986 @@
+Start ... running 3083 individual check executions.
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-Black.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҳ, ҷ, ӯ, ӣ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-BlackOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҳ, ҷ, ӣ, ӯ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҷ, ӣ, ҳ, ӯ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-BoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӯ, ҳ, ҷ, ӣ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-Light.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӯ, ӣ, ҷ, ҳ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-LightOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӯ, ҳ, ҷ, ӣ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-Medium.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӣ, ӯ, ҳ, ҷ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-MediumOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӯ, ҷ, ҳ, ӣ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӣ, ӯ, ҳ, ҷ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-RegularOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҳ, ӣ, ҷ, ӯ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӯ, ҳ, ӣ, ҷ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-SemiBoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӣ, ҷ, ӯ, ҳ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-Thin.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҷ, ӯ, ӣ, ҳ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulSans-ThinOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӣ, ҷ, ҳ, ӯ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-Black.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-BlackOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-BoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-Light.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-LightOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-Medium.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-MediumOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-RegularOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-SemiBoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-Thin.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulSans-ThinOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Sans" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-Black.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-BlackOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-BoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-Light.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-LightOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-Medium.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-MediumOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-RegularOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-SemiBoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-Thin.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulSans-ThinOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulSans-BlackOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current               expected                 
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Sans Black  SAB Modul Sans Oblique   
+                                                       Black                    
+          Subfamily Name         Italic                Regular                  
+          Full Name              SAB Modul Sans Black  SAB Modul Sans Oblique   
+                                 Oblique               Black                    
+          Postscript Name        SABModulSans-BlackO…  SABModulSansOblique-B…   
+          Typographic Family     SAB Modul Sans        SAB Modul Sans Oblique   
+          Name                                                                  
+          Typographic Subfamily  Black Oblique         Black                    
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulSans-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                     current              expected              
+          ───────────────────────────────────────────────────────────────────   
+          Family Name                SAB Modul Sans       SAB Modul Sans        
+          Subfamily Name             Bold                 Bold                  
+          Full Name                  SAB Modul Sans Bold  SAB Modul Sans Bold   
+          Postscript Name            SABModulSans-Bold    SABModulSans-Bold     
+          Typographic Family Name    SAB Modul Sans       N/A                   
+          Typographic Subfamily      Bold                 N/A                   
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulSans-BoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current               expected                 
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Sans        SAB Modul Sans Oblique   
+          Subfamily Name         Bold Italic           Bold                     
+          Full Name              SAB Modul Sans Bold   SAB Modul Sans Oblique   
+                                 Oblique               Bold                     
+          Postscript Name        SABModulSans-BoldOb…  SABModulSansOblique-B…   
+          Typographic Family     SAB Modul Sans        N/A                      
+          Name                                                                  
+          Typographic Subfamily  Bold Oblique          N/A                      
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulSans-LightOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current               expected                 
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Sans Light  SAB Modul Sans Oblique   
+                                                       Light                    
+          Subfamily Name         Italic                Regular                  
+          Full Name              SAB Modul Sans Light  SAB Modul Sans Oblique   
+                                 Oblique               Light                    
+          Postscript Name        SABModulSans-LightO…  SABModulSansOblique-L…   
+          Typographic Family     SAB Modul Sans        SAB Modul Sans Oblique   
+          Name                                                                  
+          Typographic Subfamily  Light Oblique         Light                    
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulSans-MediumOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current               expected                 
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Sans        SAB Modul Sans Oblique   
+                                 Medium                Medium                   
+          Subfamily Name         Italic                Regular                  
+          Full Name              SAB Modul Sans        SAB Modul Sans Oblique   
+                                 Medium Oblique        Medium                   
+          Postscript Name        SABModulSans-Medium…  SABModulSansOblique-M…   
+          Typographic Family     SAB Modul Sans        SAB Modul Sans Oblique   
+          Name                                                                  
+          Typographic Subfamily  Medium Oblique        Medium                   
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulSans-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current                expected                
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Sans         SAB Modul Sans          
+          Subfamily Name         Regular                Regular                 
+          Full Name              SAB Modul Sans         SAB Modul Sans          
+                                 Regular                Regular                 
+          Postscript Name        SABModulSans-Regular   SABModulSans-Regular    
+          Typographic Family     SAB Modul Sans         N/A                     
+          Name                                                                  
+          Typographic Subfamily  Regular                N/A                     
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulSans-RegularOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current               expected                 
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Sans        SAB Modul Sans Oblique   
+          Subfamily Name         Italic                Regular                  
+          Full Name              SAB Modul Sans        SAB Modul Sans Oblique   
+                                 Regular Oblique       Regular                  
+          Postscript Name        SABModulSans-Regula…  SABModulSansOblique-R…   
+          Typographic Family     SAB Modul Sans        N/A                      
+          Name                                                                  
+          Typographic Subfamily  Regular Oblique       N/A                      
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulSans-SemiBoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current               expected                 
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Sans        SAB Modul Sans Oblique   
+                                 SemiBold              SemiBold                 
+          Subfamily Name         Italic                Regular                  
+          Full Name              SAB Modul Sans        SAB Modul Sans Oblique   
+                                 SemiBold Oblique      SemiBold                 
+          Postscript Name        SABModulSans-SemiBo…  SABModulSansOblique-S…   
+          Typographic Family     SAB Modul Sans        SAB Modul Sans Oblique   
+          Name                                                                  
+          Typographic Subfamily  SemiBold Oblique      SemiBold                 
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulSans-ThinOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current               expected                 
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Sans Thin   SAB Modul Sans Oblique   
+                                                       Thin                     
+          Subfamily Name         Italic                Regular                  
+          Full Name              SAB Modul Sans Thin   SAB Modul Sans Oblique   
+                                 Oblique               Thin                     
+          Postscript Name        SABModulSans-ThinOb…  SABModulSansOblique-T…   
+          Typographic Family     SAB Modul Sans        SAB Modul Sans Oblique   
+          Name                                                                  
+          Typographic Subfamily  Thin Oblique          Thin                     
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/weightclass
+    Check the OS/2 usWeightClass is appropriate for the font's best SubFamily 
+name.
+    with SABModulSans-Thin.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts expects variable fonts, static ttfs and static otfs to have    
+    differing OS/2 usWeightClass values.                                        
+                                                                                
+    - For Variable Fonts, Thin-Black must be 100-900                            
+                                                                                
+    - For static ttfs, Thin-Black can be 100-900 or 250-900                     
+                                                                                
+    - For static otfs, Thin-Black must be 250-900                               
+                                                                                
+    If static otfs are set lower than 250, text may appear blurry in legacy     
+    Windows applications.                                                       
+                                                                                
+    Glyphsapp users can change the usWeightClass value of an instance by        
+    adding a 'weightClass' customParameter.                                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Best SubFamily name is 'Thin'. Expected OS/2 usWeightClass is 100,     
+         got 200. [code: bad-value]                                             
+
+    Result: FAIL
+
+ >> googlefonts/weightclass
+    Check the OS/2 usWeightClass is appropriate for the font's best SubFamily 
+name.
+    with SABModulSans-ThinOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts expects variable fonts, static ttfs and static otfs to have    
+    differing OS/2 usWeightClass values.                                        
+                                                                                
+    - For Variable Fonts, Thin-Black must be 100-900                            
+                                                                                
+    - For static ttfs, Thin-Black can be 100-900 or 250-900                     
+                                                                                
+    - For static otfs, Thin-Black must be 250-900                               
+                                                                                
+    If static otfs are set lower than 250, text may appear blurry in legacy     
+    Windows applications.                                                       
+                                                                                
+    Glyphsapp users can change the usWeightClass value of an instance by        
+    adding a 'weightClass' customParameter.                                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Best SubFamily name is 'Thin Oblique'. Expected OS/2 usWeightClass is  
+         100, got 200. [code: bad-value]                                        
+
+    Result: FAIL
+
+
+Total:
+    ERROR: 0
+    FATAL: 0
+    FAIL: 53
+    WARN: 104
+    INFO: 85
+    SKIP: 1516
+    PASS: 1325
+
+
+
+    Meaning of check results:
+
+    An ERROR is something wrong with FontBakery itself, possibly a bug.
+    A  FATAL is an extremely severe issue that must be addressed immediately.
+    A  FAIL is a problem with the font that must be fixed.
+    A  WARN is something that you should consider addressing.
+    An INFO result simply prints something useful. Typically stats.
+    A  PASS means the font looks good for the given checking routine.
+And a  SKIP happens when the check does not apply to the given font.
+
+    If you get ERRORs, please help us improve the tool by reporting them at
+    https://github.com/fonttools/fontbakery/issues (but other kinds of bug
+    reports and/or feature requests are also always welcome, of course!)
+
+
+
+DONE!
+A report in JSON format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Sans-TTF-googlefonts.json"
+A report in html format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Sans-TTF-googlefonts.html"

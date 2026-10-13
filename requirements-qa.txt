@@ -1,0 +1,4 @@
+fonttools[woff]==4.66.1
+fontbakery[googlefonts]==1.1.0
+glyphsets==1.1.0
+opentype-sanitizer==9.2.0

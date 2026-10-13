@@ -1,0 +1,3583 @@
+{
+  "input_sha256": {
+    "SABModulCode-Light.ttf": "815619ecc05f39ef8e84a540f0448c11a3fda1ba7627ea16a1e06b7fdfb3c579",
+    "SABModulCode-Regular.ttf": "64e53aa5cd90f5f893f3d83b9651347e89555d27d8a158e1b54985c9bc7edd9a",
+    "SABModulCode-Medium.ttf": "5f3c4e8025b0d95d5c01c6c578ca302232b3af6215811783b7c91caa7bf8734e",
+    "SABModulCode-SemiBold.ttf": "79a8508568384cee5fd7234e53171f2eff299817d5a7f67331bfc80d50a8039e",
+    "SABModulCode-Bold.ttf": "e31c8e86163eb75f507b74b1b848c36fe242bb638e588ced8735e41fb26d693b"
+  },
+  "fitted": {
+    "uni0024": {
+      "max_error_units": 0.79107110758809,
+      "segments": 53,
+      "original_points": 102,
+      "fitted_points": 87
+    },
+    "uni0026": {
+      "max_error_units": 0.7864636155837351,
+      "segments": 57,
+      "original_points": 116,
+      "fitted_points": 100
+    },
+    "uni0028": {
+      "max_error_units": 0.796135374192221,
+      "segments": 42,
+      "original_points": 175,
+      "fitted_points": 72
+    },
+    "uni0029": {
+      "max_error_units": 0.7961353741922332,
+      "segments": 42,
+      "original_points": 175,
+      "fitted_points": 72
+    },
+    "uni002C": {
+      "max_error_units": 0.7942887223190949,
+      "segments": 24,
+      "original_points": 77,
+      "fitted_points": 37
+    },
+    "uni002D": {
+      "max_error_units": 2.842170943040401e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0030": {
+      "max_error_units": 0.754818423787813,
+      "segments": 42,
+      "original_points": 95,
+      "fitted_points": 72
+    },
+    "uni0031": {
+      "max_error_units": 0.7961174866503012,
+      "segments": 15,
+      "original_points": 23,
+      "fitted_points": 20
+    },
+    "uni0032": {
+      "max_error_units": 0.7813876161221306,
+      "segments": 40,
+      "original_points": 80,
+      "fitted_points": 64
+    },
+    "uni0033": {
+      "max_error_units": 0.7850596149260822,
+      "segments": 57,
+      "original_points": 191,
+      "fitted_points": 98
+    },
+    "uni0034": {
+      "max_error_units": 0.7888121001259096,
+      "segments": 21,
+      "original_points": 40,
+      "fitted_points": 30
+    },
+    "uni0035": {
+      "max_error_units": 0.7509683808041716,
+      "segments": 41,
+      "original_points": 87,
+      "fitted_points": 69
+    },
+    "uni0036": {
+      "max_error_units": 0.7736799305868539,
+      "segments": 53,
+      "original_points": 115,
+      "fitted_points": 98
+    },
+    "uni0037": {
+      "max_error_units": 0.4611536282313086,
+      "segments": 11,
+      "original_points": 19,
+      "fitted_points": 14
+    },
+    "uni0038": {
+      "max_error_units": 0.7949722388634352,
+      "segments": 70,
+      "original_points": 138,
+      "fitted_points": 124
+    },
+    "uni0039": {
+      "max_error_units": 0.7770307967250027,
+      "segments": 50,
+      "original_points": 112,
+      "fitted_points": 92
+    },
+    "uni003B": {
+      "max_error_units": 0.7942887223190949,
+      "segments": 34,
+      "original_points": 141,
+      "fitted_points": 55
+    },
+    "uni003F": {
+      "max_error_units": 0.19807884666218675,
+      "segments": 219,
+      "original_points": 216,
+      "fitted_points": 331
+    },
+    "uni0040": {
+      "max_error_units": 0.7710997670970795,
+      "segments": 94,
+      "original_points": 183,
+      "fitted_points": 156
+    },
+    "uni0041": {
+      "max_error_units": 0.717165761307714,
+      "segments": 17,
+      "original_points": 26,
+      "fitted_points": 20
+    },
+    "uni0042": {
+      "max_error_units": 0.7739019300170159,
+      "segments": 46,
+      "original_points": 90,
+      "fitted_points": 76
+    },
+    "uni0043": {
+      "max_error_units": 0.7977627078051109,
+      "segments": 34,
+      "original_points": 72,
+      "fitted_points": 63
+    },
+    "uni0044": {
+      "max_error_units": 0.7931777096588926,
+      "segments": 40,
+      "original_points": 82,
+      "fitted_points": 64
+    },
+    "uni0045": {
+      "max_error_units": 0.5882782742134625,
+      "segments": 19,
+      "original_points": 32,
+      "fitted_points": 25
+    },
+    "uni0046": {
+      "max_error_units": 0.6050845375072639,
+      "segments": 14,
+      "original_points": 19,
+      "fitted_points": 17
+    },
+    "uni0047": {
+      "max_error_units": 0.791278262645419,
+      "segments": 47,
+      "original_points": 96,
+      "fitted_points": 83
+    },
+    "uni0049": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni004A": {
+      "max_error_units": 0.7977782758228672,
+      "segments": 19,
+      "original_points": 38,
+      "fitted_points": 32
+    },
+    "uni004B": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni004C": {
+      "max_error_units": 0.333833632447343,
+      "segments": 10,
+      "original_points": 13,
+      "fitted_points": 13
+    },
+    "uni004D": {
+      "max_error_units": 0.7826864129893258,
+      "segments": 36,
+      "original_points": 64,
+      "fitted_points": 48
+    },
+    "uni004E": {
+      "max_error_units": 0.7197117785159807,
+      "segments": 24,
+      "original_points": 48,
+      "fitted_points": 34
+    },
+    "uni004F": {
+      "max_error_units": 0.7970222131801755,
+      "segments": 43,
+      "original_points": 95,
+      "fitted_points": 78
+    },
+    "uni0050": {
+      "max_error_units": 0.7620644632100545,
+      "segments": 31,
+      "original_points": 65,
+      "fitted_points": 53
+    },
+    "uni0051": {
+      "max_error_units": 0.7518487878766382,
+      "segments": 54,
+      "original_points": 111,
+      "fitted_points": 95
+    },
+    "uni0052": {
+      "max_error_units": 0.7850652086607317,
+      "segments": 29,
+      "original_points": 60,
+      "fitted_points": 48
+    },
+    "uni0053": {
+      "max_error_units": 0.752794487133467,
+      "segments": 48,
+      "original_points": 110,
+      "fitted_points": 86
+    },
+    "uni0054": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni0055": {
+      "max_error_units": 0.7880699190062859,
+      "segments": 29,
+      "original_points": 52,
+      "fitted_points": 48
+    },
+    "uni0056": {
+      "max_error_units": 0.7171657613077403,
+      "segments": 13,
+      "original_points": 22,
+      "fitted_points": 16
+    },
+    "uni0057": {
+      "max_error_units": 0.7484118388551095,
+      "segments": 39,
+      "original_points": 79,
+      "fitted_points": 64
+    },
+    "uni0058": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0059": {
+      "max_error_units": 0.6004762201146705,
+      "segments": 13,
+      "original_points": 15,
+      "fitted_points": 15
+    },
+    "uni005A": {
+      "max_error_units": 0.6546569758289427,
+      "segments": 18,
+      "original_points": 32,
+      "fitted_points": 22
+    },
+    "uni005B": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 8
+    },
+    "uni005D": {
+      "max_error_units": 1.9895196601282805e-13,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 8
+    },
+    "uni005F": {
+      "max_error_units": 5.684341886080802e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0061": {
+      "max_error_units": 0.7631487902277038,
+      "segments": 45,
+      "original_points": 88,
+      "fitted_points": 76
+    },
+    "uni0062": {
+      "max_error_units": 0.7225728056501523,
+      "segments": 36,
+      "original_points": 71,
+      "fitted_points": 61
+    },
+    "uni0063": {
+      "max_error_units": 0.7564882273410907,
+      "segments": 37,
+      "original_points": 64,
+      "fitted_points": 65
+    },
+    "uni0064": {
+      "max_error_units": 0.7713849193083655,
+      "segments": 34,
+      "original_points": 71,
+      "fitted_points": 60
+    },
+    "uni0065": {
+      "max_error_units": 0.7915346084306195,
+      "segments": 43,
+      "original_points": 77,
+      "fitted_points": 75
+    },
+    "uni0066": {
+      "max_error_units": 0.7133575005795004,
+      "segments": 23,
+      "original_points": 37,
+      "fitted_points": 34
+    },
+    "uni0067": {
+      "max_error_units": 0.7603646868520917,
+      "segments": 60,
+      "original_points": 113,
+      "fitted_points": 105
+    },
+    "uni0068": {
+      "max_error_units": 0.7950244462111501,
+      "segments": 30,
+      "original_points": 42,
+      "fitted_points": 45
+    },
+    "uni0069": {
+      "max_error_units": 0.7489265925388324,
+      "segments": 30,
+      "original_points": 45,
+      "fitted_points": 37
+    },
+    "uni006A": {
+      "max_error_units": 0.7854197623001844,
+      "segments": 30,
+      "original_points": 53,
+      "fitted_points": 44
+    },
+    "uni006B": {
+      "max_error_units": 1.1506624801925828e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni006D": {
+      "max_error_units": 0.7542919634942378,
+      "segments": 36,
+      "original_points": 67,
+      "fitted_points": 54
+    },
+    "uni006E": {
+      "max_error_units": 0.7950244462111501,
+      "segments": 30,
+      "original_points": 42,
+      "fitted_points": 45
+    },
+    "uni006F": {
+      "max_error_units": 0.599708649839495,
+      "segments": 41,
+      "original_points": 89,
+      "fitted_points": 81
+    },
+    "uni0070": {
+      "max_error_units": 0.7487574841708688,
+      "segments": 35,
+      "original_points": 70,
+      "fitted_points": 61
+    },
+    "uni0071": {
+      "max_error_units": 0.7558217841481811,
+      "segments": 36,
+      "original_points": 71,
+      "fitted_points": 61
+    },
+    "uni0072": {
+      "max_error_units": 0.7811725905601051,
+      "segments": 16,
+      "original_points": 24,
+      "fitted_points": 23
+    },
+    "uni0073": {
+      "max_error_units": 0.7857146650678608,
+      "segments": 52,
+      "original_points": 103,
+      "fitted_points": 89
+    },
+    "uni0074": {
+      "max_error_units": 0.715682247671343,
+      "segments": 23,
+      "original_points": 37,
+      "fitted_points": 32
+    },
+    "uni0075": {
+      "max_error_units": 0.7215346392147561,
+      "segments": 25,
+      "original_points": 40,
+      "fitted_points": 38
+    },
+    "uni0076": {
+      "max_error_units": 0.6782478812053364,
+      "segments": 11,
+      "original_points": 22,
+      "fitted_points": 15
+    },
+    "uni0077": {
+      "max_error_units": 0.7144708880688482,
+      "segments": 31,
+      "original_points": 66,
+      "fitted_points": 42
+    },
+    "uni0079": {
+      "max_error_units": 0.7828203150348992,
+      "segments": 19,
+      "original_points": 34,
+      "fitted_points": 28
+    },
+    "uni007A": {
+      "max_error_units": 0.7791255726178614,
+      "segments": 18,
+      "original_points": 34,
+      "fitted_points": 28
+    },
+    "uni007B": {
+      "max_error_units": 0.7879616436086037,
+      "segments": 73,
+      "original_points": 251,
+      "fitted_points": 111
+    },
+    "uni007C": {
+      "max_error_units": 8.526512829121202e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni007D": {
+      "max_error_units": 0.7879616436086448,
+      "segments": 73,
+      "original_points": 251,
+      "fitted_points": 111
+    },
+    "uni007E": {
+      "max_error_units": 0,
+      "segments": 686,
+      "original_points": 138,
+      "fitted_points": 686
+    },
+    "uni00A1": {
+      "max_error_units": 0.7497657348061361,
+      "segments": 17,
+      "original_points": 28,
+      "fitted_points": 23
+    },
+    "uni00A2": {
+      "max_error_units": 0.7516554985258008,
+      "segments": 33,
+      "original_points": 62,
+      "fitted_points": 53
+    },
+    "uni00A3": {
+      "max_error_units": 0.784760405840864,
+      "segments": 39,
+      "original_points": 67,
+      "fitted_points": 55
+    },
+    "uni00A4": {
+      "max_error_units": 0.7728170180649517,
+      "segments": 38,
+      "original_points": 61,
+      "fitted_points": 48
+    },
+    "uni00A5": {
+      "max_error_units": 1.6077746776921858e-13,
+      "segments": 23,
+      "original_points": 23,
+      "fitted_points": 23
+    },
+    "uni00A7": {
+      "max_error_units": 0.7680895919157082,
+      "segments": 94,
+      "original_points": 185,
+      "fitted_points": 158
+    },
+    "uni00A8": {
+      "max_error_units": 0.7800891977154161,
+      "segments": 21,
+      "original_points": 48,
+      "fitted_points": 37
+    },
+    "uni00A9": {
+      "max_error_units": 0.7841399481301866,
+      "segments": 71,
+      "original_points": 144,
+      "fitted_points": 127
+    },
+    "uni00AA": {
+      "max_error_units": 0.7999966716101696,
+      "segments": 43,
+      "original_points": 83,
+      "fitted_points": 70
+    },
+    "uni00AB": {
+      "max_error_units": 0.7409175800815513,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 20
+    },
+    "uni00AC": {
+      "max_error_units": 0.7567658694185418,
+      "segments": 8,
+      "original_points": 13,
+      "fitted_points": 10
+    },
+    "uni00AE": {
+      "max_error_units": 0.7296756419197529,
+      "segments": 70,
+      "original_points": 130,
+      "fitted_points": 123
+    },
+    "uni00AF": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni00B0": {
+      "max_error_units": 0.7335253925538883,
+      "segments": 31,
+      "original_points": 64,
+      "fitted_points": 56
+    },
+    "uni00B1": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni00B2": {
+      "max_error_units": 0.7819677153178826,
+      "segments": 31,
+      "original_points": 58,
+      "fitted_points": 49
+    },
+    "uni00B3": {
+      "max_error_units": 0.771016565520873,
+      "segments": 51,
+      "original_points": 92,
+      "fitted_points": 86
+    },
+    "uni00B4": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni00B5": {
+      "max_error_units": 0.7895758654992463,
+      "segments": 29,
+      "original_points": 112,
+      "fitted_points": 42
+    },
+    "uni00B6": {
+      "max_error_units": 0.773926442287784,
+      "segments": 27,
+      "original_points": 48,
+      "fitted_points": 42
+    },
+    "uni00B7": {
+      "max_error_units": 0.6798073350586891,
+      "segments": 9,
+      "original_points": 22,
+      "fitted_points": 16
+    },
+    "uni00B8": {
+      "max_error_units": 0.7965067089249541,
+      "segments": 28,
+      "original_points": 54,
+      "fitted_points": 44
+    },
+    "uni00B9": {
+      "max_error_units": 0.7948920319147887,
+      "segments": 14,
+      "original_points": 20,
+      "fitted_points": 16
+    },
+    "uni00BA": {
+      "max_error_units": 0.7878561798416575,
+      "segments": 33,
+      "original_points": 69,
+      "fitted_points": 59
+    },
+    "uni00BB": {
+      "max_error_units": 0.7633812062208557,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 20
+    },
+    "uni00BC": {
+      "max_error_units": 0.7568886007485143,
+      "segments": 38,
+      "original_points": 57,
+      "fitted_points": 47
+    },
+    "uni00BD": {
+      "max_error_units": 0.7931375935366819,
+      "segments": 48,
+      "original_points": 86,
+      "fitted_points": 69
+    },
+    "uni00BE": {
+      "max_error_units": 0.7844059970486821,
+      "segments": 83,
+      "original_points": 121,
+      "fitted_points": 124
+    },
+    "uni00BF": {
+      "max_error_units": 0.7768120051292629,
+      "segments": 45,
+      "original_points": 90,
+      "fitted_points": 75
+    },
+    "uni00C6": {
+      "max_error_units": 0.724687364584813,
+      "segments": 28,
+      "original_points": 38,
+      "fitted_points": 32
+    },
+    "uni00D0": {
+      "max_error_units": 0.7982975051038076,
+      "segments": 50,
+      "original_points": 96,
+      "fitted_points": 72
+    },
+    "uni00D8": {
+      "max_error_units": 0.6804810085090105,
+      "segments": 56,
+      "original_points": 109,
+      "fitted_points": 89
+    },
+    "uni00DE": {
+      "max_error_units": 0.7753488416697987,
+      "segments": 31,
+      "original_points": 61,
+      "fitted_points": 47
+    },
+    "uni00DF": {
+      "max_error_units": 0.7941843672301855,
+      "segments": 54,
+      "original_points": 120,
+      "fitted_points": 95
+    },
+    "uni00E6": {
+      "max_error_units": 0.7989055460340903,
+      "segments": 77,
+      "original_points": 149,
+      "fitted_points": 127
+    },
+    "uni00F0": {
+      "max_error_units": 0.7717824286129545,
+      "segments": 51,
+      "original_points": 107,
+      "fitted_points": 85
+    },
+    "uni00F7": {
+      "max_error_units": 0.7957332446907043,
+      "segments": 26,
+      "original_points": 48,
+      "fitted_points": 41
+    },
+    "uni00F8": {
+      "max_error_units": 0.7958101970838566,
+      "segments": 56,
+      "original_points": 108,
+      "fitted_points": 91
+    },
+    "uni00FE": {
+      "max_error_units": 0.7665445430378469,
+      "segments": 40,
+      "original_points": 80,
+      "fitted_points": 71
+    },
+    "uni010F": {
+      "max_error_units": 0.6252226112204641,
+      "segments": 38,
+      "original_points": 70,
+      "fitted_points": 65
+    },
+    "uni0110": {
+      "max_error_units": 0.7913625747884778,
+      "segments": 47,
+      "original_points": 94,
+      "fitted_points": 72
+    },
+    "uni0111": {
+      "max_error_units": 0.7466990589312891,
+      "segments": 43,
+      "original_points": 76,
+      "fitted_points": 69
+    },
+    "uni0126": {
+      "max_error_units": 0.5250802310120617,
+      "segments": 32,
+      "original_points": 24,
+      "fitted_points": 32
+    },
+    "uni0127": {
+      "max_error_units": 0.7948024672957912,
+      "segments": 31,
+      "original_points": 50,
+      "fitted_points": 42
+    },
+    "uni0131": {
+      "max_error_units": 0.4923772221433598,
+      "segments": 15,
+      "original_points": 19,
+      "fitted_points": 18
+    },
+    "uni0132": {
+      "max_error_units": 0.774848068754066,
+      "segments": 35,
+      "original_points": 54,
+      "fitted_points": 50
+    },
+    "uni0133": {
+      "max_error_units": 0.752848883857474,
+      "segments": 65,
+      "original_points": 103,
+      "fitted_points": 87
+    },
+    "uni0138": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 13,
+      "original_points": 13,
+      "fitted_points": 13
+    },
+    "uni013D": {
+      "max_error_units": 0.333833632447343,
+      "segments": 14,
+      "original_points": 17,
+      "fitted_points": 17
+    },
+    "uni013E": {
+      "max_error_units": 0.7853211846690513,
+      "segments": 25,
+      "original_points": 39,
+      "fitted_points": 33
+    },
+    "uni013F": {
+      "max_error_units": 0.7866784716984099,
+      "segments": 20,
+      "original_points": 38,
+      "fitted_points": 29
+    },
+    "uni0140": {
+      "max_error_units": 0.7402179443854999,
+      "segments": 34,
+      "original_points": 58,
+      "fitted_points": 50
+    },
+    "uni0141": {
+      "max_error_units": 0.7887792079692484,
+      "segments": 17,
+      "original_points": 26,
+      "fitted_points": 20
+    },
+    "uni0142": {
+      "max_error_units": 0.7560750765175612,
+      "segments": 30,
+      "original_points": 44,
+      "fitted_points": 38
+    },
+    "uni0149": {
+      "max_error_units": 0.7439968673930878,
+      "segments": 30,
+      "original_points": 46,
+      "fitted_points": 41
+    },
+    "uni014A": {
+      "max_error_units": 0.7193384678644951,
+      "segments": 31,
+      "original_points": 56,
+      "fitted_points": 44
+    },
+    "uni014B": {
+      "max_error_units": 0.7701605949398737,
+      "segments": 40,
+      "original_points": 73,
+      "fitted_points": 67
+    },
+    "uni0152": {
+      "max_error_units": 0.7754688129017492,
+      "segments": 54,
+      "original_points": 105,
+      "fitted_points": 84
+    },
+    "uni0153": {
+      "max_error_units": 0.7821837772225236,
+      "segments": 67,
+      "original_points": 134,
+      "fitted_points": 121
+    },
+    "uni0165": {
+      "max_error_units": 0.715682247671343,
+      "segments": 27,
+      "original_points": 41,
+      "fitted_points": 36
+    },
+    "uni0166": {
+      "max_error_units": 1.1718571004216928e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni0167": {
+      "max_error_units": 0.7908925219494871,
+      "segments": 35,
+      "original_points": 46,
+      "fitted_points": 44
+    },
+    "uni017F": {
+      "max_error_units": 0.6977590167769168,
+      "segments": 23,
+      "original_points": 38,
+      "fitted_points": 35
+    },
+    "uni0192": {
+      "max_error_units": 0.7837359988756085,
+      "segments": 87,
+      "original_points": 145,
+      "fitted_points": 123
+    },
+    "uni0237": {
+      "max_error_units": 0.6816133411658416,
+      "segments": 16,
+      "original_points": 30,
+      "fitted_points": 25
+    },
+    "uni02C6": {
+      "max_error_units": 0.7913267865218457,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni02C7": {
+      "max_error_units": 0.6996600206483492,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni02D8": {
+      "max_error_units": 0.6208816372092303,
+      "segments": 14,
+      "original_points": 26,
+      "fitted_points": 25
+    },
+    "uni02D9": {
+      "max_error_units": 0.6187278024255,
+      "segments": 14,
+      "original_points": 24,
+      "fitted_points": 22
+    },
+    "uni02DA": {
+      "max_error_units": 0.7492356817637125,
+      "segments": 26,
+      "original_points": 51,
+      "fitted_points": 42
+    },
+    "uni02DB": {
+      "max_error_units": 0.7921488261188249,
+      "segments": 22,
+      "original_points": 51,
+      "fitted_points": 36
+    },
+    "uni02DC": {
+      "max_error_units": 0.7405109990823205,
+      "segments": 15,
+      "original_points": 25,
+      "fitted_points": 24
+    },
+    "uni02DD": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni0300": {
+      "max_error_units": 3.1776437161565096e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0301": {
+      "max_error_units": 3.1776437161565096e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0302": {
+      "max_error_units": 0.6163108042811282,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0303": {
+      "max_error_units": 0.7664301415650326,
+      "segments": 16,
+      "original_points": 34,
+      "fitted_points": 22
+    },
+    "uni0304": {
+      "max_error_units": 2.842170943040401e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0306": {
+      "max_error_units": 0.7552828775241809,
+      "segments": 16,
+      "original_points": 35,
+      "fitted_points": 28
+    },
+    "uni0307": {
+      "max_error_units": 0.6638330582115813,
+      "segments": 13,
+      "original_points": 25,
+      "fitted_points": 21
+    },
+    "uni0308": {
+      "max_error_units": 0.7395545106550788,
+      "segments": 27,
+      "original_points": 46,
+      "fitted_points": 40
+    },
+    "uni030A": {
+      "max_error_units": 0.7368296370618884,
+      "segments": 26,
+      "original_points": 46,
+      "fitted_points": 47
+    },
+    "uni030B": {
+      "max_error_units": 4.0194366942304644e-14,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni030C": {
+      "max_error_units": 0.6310351961562684,
+      "segments": 10,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0312": {
+      "max_error_units": 2.929642751054232e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0326": {
+      "max_error_units": 1.464821375527116e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0327": {
+      "max_error_units": 0.7975756695148798,
+      "segments": 24,
+      "original_points": 55,
+      "fitted_points": 39
+    },
+    "uni0328": {
+      "max_error_units": 0.7184259017739174,
+      "segments": 15,
+      "original_points": 28,
+      "fitted_points": 24
+    },
+    "uni0402": {
+      "max_error_units": 0.7892505124556731,
+      "segments": 38,
+      "original_points": 69,
+      "fitted_points": 58
+    },
+    "uni0404": {
+      "max_error_units": 0.6272497081369868,
+      "segments": 38,
+      "original_points": 79,
+      "fitted_points": 68
+    },
+    "uni0405": {
+      "max_error_units": 0.752794487133467,
+      "segments": 48,
+      "original_points": 110,
+      "fitted_points": 86
+    },
+    "uni0406": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0408": {
+      "max_error_units": 0.7977782758228672,
+      "segments": 19,
+      "original_points": 38,
+      "fitted_points": 32
+    },
+    "uni0409": {
+      "max_error_units": 0.7789904386054216,
+      "segments": 45,
+      "original_points": 84,
+      "fitted_points": 64
+    },
+    "uni040A": {
+      "max_error_units": 0.6481838121073404,
+      "segments": 30,
+      "original_points": 53,
+      "fitted_points": 45
+    },
+    "uni040B": {
+      "max_error_units": 0.6559400889146226,
+      "segments": 29,
+      "original_points": 45,
+      "fitted_points": 41
+    },
+    "uni040F": {
+      "max_error_units": 0.7355867906714112,
+      "segments": 23,
+      "original_points": 33,
+      "fitted_points": 28
+    },
+    "uni0410": {
+      "max_error_units": 0.717165761307714,
+      "segments": 17,
+      "original_points": 26,
+      "fitted_points": 20
+    },
+    "uni0411": {
+      "max_error_units": 0.7834363744541637,
+      "segments": 42,
+      "original_points": 85,
+      "fitted_points": 63
+    },
+    "uni0412": {
+      "max_error_units": 0.7739019300170159,
+      "segments": 46,
+      "original_points": 90,
+      "fitted_points": 76
+    },
+    "uni0413": {
+      "max_error_units": 0.6050845375072328,
+      "segments": 10,
+      "original_points": 15,
+      "fitted_points": 13
+    },
+    "uni0414": {
+      "max_error_units": 0.7834675742016682,
+      "segments": 35,
+      "original_points": 58,
+      "fitted_points": 46
+    },
+    "uni0415": {
+      "max_error_units": 0.5882782742134625,
+      "segments": 19,
+      "original_points": 32,
+      "fitted_points": 25
+    },
+    "uni0416": {
+      "max_error_units": 0.7801960018790242,
+      "segments": 18,
+      "original_points": 22,
+      "fitted_points": 20
+    },
+    "uni0417": {
+      "max_error_units": 0.650046311343039,
+      "segments": 56,
+      "original_points": 118,
+      "fitted_points": 102
+    },
+    "uni0418": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni041A": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni041B": {
+      "max_error_units": 0.717747477561362,
+      "segments": 29,
+      "original_points": 44,
+      "fitted_points": 38
+    },
+    "uni041C": {
+      "max_error_units": 0.662231583496558,
+      "segments": 17,
+      "original_points": 19,
+      "fitted_points": 17
+    },
+    "uni041D": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni041E": {
+      "max_error_units": 0.7970222131801755,
+      "segments": 43,
+      "original_points": 95,
+      "fitted_points": 78
+    },
+    "uni041F": {
+      "max_error_units": 0.749627911776711,
+      "segments": 18,
+      "original_points": 30,
+      "fitted_points": 23
+    },
+    "uni0420": {
+      "max_error_units": 0.7620644632100545,
+      "segments": 31,
+      "original_points": 65,
+      "fitted_points": 53
+    },
+    "uni0421": {
+      "max_error_units": 0.7977627078051109,
+      "segments": 34,
+      "original_points": 72,
+      "fitted_points": 63
+    },
+    "uni0422": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni0423": {
+      "max_error_units": 0.7770329831579676,
+      "segments": 16,
+      "original_points": 28,
+      "fitted_points": 24
+    },
+    "uni0424": {
+      "max_error_units": 0.6825540985241909,
+      "segments": 45,
+      "original_points": 80,
+      "fitted_points": 76
+    },
+    "uni0425": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0426": {
+      "max_error_units": 0.766275438751177,
+      "segments": 19,
+      "original_points": 28,
+      "fitted_points": 23
+    },
+    "uni0427": {
+      "max_error_units": 0.6298536341552674,
+      "segments": 23,
+      "original_points": 38,
+      "fitted_points": 34
+    },
+    "uni0428": {
+      "max_error_units": 0.7496279117766645,
+      "segments": 22,
+      "original_points": 34,
+      "fitted_points": 27
+    },
+    "uni0429": {
+      "max_error_units": 0.7497159163345749,
+      "segments": 24,
+      "original_points": 31,
+      "fitted_points": 28
+    },
+    "uni042A": {
+      "max_error_units": 0.7684684158568417,
+      "segments": 29,
+      "original_points": 67,
+      "fitted_points": 51
+    },
+    "uni042B": {
+      "max_error_units": 0.7608835866887477,
+      "segments": 30,
+      "original_points": 54,
+      "fitted_points": 46
+    },
+    "uni042C": {
+      "max_error_units": 0.7834363744541637,
+      "segments": 35,
+      "original_points": 72,
+      "fitted_points": 52
+    },
+    "uni042D": {
+      "max_error_units": 0.6681910287690972,
+      "segments": 38,
+      "original_points": 81,
+      "fitted_points": 68
+    },
+    "uni042E": {
+      "max_error_units": 0.7921761480808814,
+      "segments": 50,
+      "original_points": 94,
+      "fitted_points": 84
+    },
+    "uni042F": {
+      "max_error_units": 0.7850399724409947,
+      "segments": 30,
+      "original_points": 61,
+      "fitted_points": 49
+    },
+    "uni0430": {
+      "max_error_units": 0.7631487902277038,
+      "segments": 45,
+      "original_points": 88,
+      "fitted_points": 76
+    },
+    "uni0431": {
+      "max_error_units": 0.7911611866520263,
+      "segments": 57,
+      "original_points": 112,
+      "fitted_points": 97
+    },
+    "uni0432": {
+      "max_error_units": 0.7924043385280416,
+      "segments": 41,
+      "original_points": 57,
+      "fitted_points": 62
+    },
+    "uni0433": {
+      "max_error_units": 0.646578450094597,
+      "segments": 9,
+      "original_points": 14,
+      "fitted_points": 11
+    },
+    "uni0434": {
+      "max_error_units": 0.7792201964675971,
+      "segments": 36,
+      "original_points": 55,
+      "fitted_points": 49
+    },
+    "uni0435": {
+      "max_error_units": 0.7915346084306195,
+      "segments": 43,
+      "original_points": 77,
+      "fitted_points": 75
+    },
+    "uni0436": {
+      "max_error_units": 0.5592372902370581,
+      "segments": 25,
+      "original_points": 24,
+      "fitted_points": 26
+    },
+    "uni0437": {
+      "max_error_units": 0.7819545734243651,
+      "segments": 53,
+      "original_points": 105,
+      "fitted_points": 92
+    },
+    "uni0438": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni043A": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 13,
+      "original_points": 13,
+      "fitted_points": 13
+    },
+    "uni043B": {
+      "max_error_units": 0.7068703760161766,
+      "segments": 30,
+      "original_points": 51,
+      "fitted_points": 44
+    },
+    "uni043C": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 13,
+      "original_points": 13,
+      "fitted_points": 13
+    },
+    "uni043D": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni043E": {
+      "max_error_units": 0.599708649839495,
+      "segments": 41,
+      "original_points": 89,
+      "fitted_points": 81
+    },
+    "uni043F": {
+      "max_error_units": 0.6539888688528507,
+      "segments": 16,
+      "original_points": 30,
+      "fitted_points": 22
+    },
+    "uni0440": {
+      "max_error_units": 0.7487574841708688,
+      "segments": 35,
+      "original_points": 70,
+      "fitted_points": 61
+    },
+    "uni0441": {
+      "max_error_units": 0.7564882273410907,
+      "segments": 37,
+      "original_points": 64,
+      "fitted_points": 65
+    },
+    "uni0442": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni0443": {
+      "max_error_units": 0.7828203150348992,
+      "segments": 19,
+      "original_points": 34,
+      "fitted_points": 28
+    },
+    "uni0444": {
+      "max_error_units": 0.7701380068777276,
+      "segments": 42,
+      "original_points": 80,
+      "fitted_points": 70
+    },
+    "uni0445": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0446": {
+      "max_error_units": 0.5927133804024416,
+      "segments": 18,
+      "original_points": 27,
+      "fitted_points": 23
+    },
+    "uni0447": {
+      "max_error_units": 0.7882532221516539,
+      "segments": 24,
+      "original_points": 38,
+      "fitted_points": 33
+    },
+    "uni0448": {
+      "max_error_units": 0.6409071111286033,
+      "segments": 21,
+      "original_points": 34,
+      "fitted_points": 29
+    },
+    "uni0449": {
+      "max_error_units": 0.7915790958567958,
+      "segments": 22,
+      "original_points": 30,
+      "fitted_points": 28
+    },
+    "uni044A": {
+      "max_error_units": 0.7686438428006697,
+      "segments": 29,
+      "original_points": 57,
+      "fitted_points": 47
+    },
+    "uni044B": {
+      "max_error_units": 0.736716043804424,
+      "segments": 30,
+      "original_points": 48,
+      "fitted_points": 44
+    },
+    "uni044C": {
+      "max_error_units": 0.7757783667938262,
+      "segments": 27,
+      "original_points": 53,
+      "fitted_points": 46
+    },
+    "uni044D": {
+      "max_error_units": 0.7873835458305158,
+      "segments": 37,
+      "original_points": 75,
+      "fitted_points": 65
+    },
+    "uni044E": {
+      "max_error_units": 0.7563153513853933,
+      "segments": 50,
+      "original_points": 93,
+      "fitted_points": 86
+    },
+    "uni044F": {
+      "max_error_units": 0.7942929795875132,
+      "segments": 27,
+      "original_points": 43,
+      "fitted_points": 37
+    },
+    "uni0452": {
+      "max_error_units": 0.7957546813640968,
+      "segments": 51,
+      "original_points": 93,
+      "fitted_points": 76
+    },
+    "uni0454": {
+      "max_error_units": 0.7287924845742775,
+      "segments": 36,
+      "original_points": 74,
+      "fitted_points": 64
+    },
+    "uni0455": {
+      "max_error_units": 0.7674943696016171,
+      "segments": 45,
+      "original_points": 95,
+      "fitted_points": 76
+    },
+    "uni0456": {
+      "max_error_units": 0.7489265925388324,
+      "segments": 30,
+      "original_points": 45,
+      "fitted_points": 37
+    },
+    "uni0458": {
+      "max_error_units": 0.7854197623001844,
+      "segments": 30,
+      "original_points": 53,
+      "fitted_points": 44
+    },
+    "uni0459": {
+      "max_error_units": 0.7677585407453124,
+      "segments": 48,
+      "original_points": 96,
+      "fitted_points": 81
+    },
+    "uni045A": {
+      "max_error_units": 0.7092439537949933,
+      "segments": 30,
+      "original_points": 49,
+      "fitted_points": 47
+    },
+    "uni045B": {
+      "max_error_units": 0.778054762808643,
+      "segments": 33,
+      "original_points": 52,
+      "fitted_points": 47
+    },
+    "uni045F": {
+      "max_error_units": 0.7260154615304676,
+      "segments": 22,
+      "original_points": 30,
+      "fitted_points": 28
+    },
+    "uni0490": {
+      "max_error_units": 0.7557330798382583,
+      "segments": 13,
+      "original_points": 19,
+      "fitted_points": 17
+    },
+    "uni0491": {
+      "max_error_units": 0.6384469494082612,
+      "segments": 13,
+      "original_points": 18,
+      "fitted_points": 17
+    },
+    "uni0492": {
+      "max_error_units": 0.5896298628869728,
+      "segments": 17,
+      "original_points": 25,
+      "fitted_points": 20
+    },
+    "uni0493": {
+      "max_error_units": 0.641141220266866,
+      "segments": 18,
+      "original_points": 23,
+      "fitted_points": 21
+    },
+    "uni049A": {
+      "max_error_units": 0.5846998255961404,
+      "segments": 17,
+      "original_points": 23,
+      "fitted_points": 20
+    },
+    "uni049B": {
+      "max_error_units": 0.6675063015907159,
+      "segments": 20,
+      "original_points": 26,
+      "fitted_points": 24
+    },
+    "uni04A2": {
+      "max_error_units": 0.6860342496605759,
+      "segments": 17,
+      "original_points": 21,
+      "fitted_points": 18
+    },
+    "uni04A3": {
+      "max_error_units": 0.6124121544177835,
+      "segments": 18,
+      "original_points": 21,
+      "fitted_points": 20
+    },
+    "uni04AE": {
+      "max_error_units": 0.6004762201146705,
+      "segments": 13,
+      "original_points": 15,
+      "fitted_points": 15
+    },
+    "uni04AF": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 9,
+      "original_points": 9,
+      "fitted_points": 9
+    },
+    "uni04B0": {
+      "max_error_units": 0.34198217601830727,
+      "segments": 21,
+      "original_points": 23,
+      "fitted_points": 23
+    },
+    "uni04B1": {
+      "max_error_units": 0.7982257266928603,
+      "segments": 49,
+      "original_points": 93,
+      "fitted_points": 66
+    },
+    "uni04BA": {
+      "max_error_units": 0.7597571675147985,
+      "segments": 28,
+      "original_points": 45,
+      "fitted_points": 42
+    },
+    "uni04BB": {
+      "max_error_units": 0.7306790551033424,
+      "segments": 27,
+      "original_points": 53,
+      "fitted_points": 42
+    },
+    "uni04D8": {
+      "max_error_units": 0.7969556637841823,
+      "segments": 42,
+      "original_points": 81,
+      "fitted_points": 72
+    },
+    "uni04D9": {
+      "max_error_units": 0.7755833765787008,
+      "segments": 36,
+      "original_points": 75,
+      "fitted_points": 63
+    },
+    "uni04E8": {
+      "max_error_units": 0.7844599783344894,
+      "segments": 47,
+      "original_points": 92,
+      "fitted_points": 81
+    },
+    "uni04E9": {
+      "max_error_units": 0.7478293342547052,
+      "segments": 40,
+      "original_points": 84,
+      "fitted_points": 71
+    },
+    "uni1E9E": {
+      "max_error_units": 0.7854625589371729,
+      "segments": 58,
+      "original_points": 122,
+      "fitted_points": 102
+    },
+    "uni2010": {
+      "max_error_units": 4.0194366942304644e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2011": {
+      "max_error_units": 4.0194366942304644e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2012": {
+      "max_error_units": 5.684341886080802e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2013": {
+      "max_error_units": 6.355287432313019e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2014": {
+      "max_error_units": 5.684341886080802e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2018": {
+      "max_error_units": 0.7527080716134913,
+      "segments": 25,
+      "original_points": 79,
+      "fitted_points": 45
+    },
+    "uni2019": {
+      "max_error_units": 0.752708071613413,
+      "segments": 25,
+      "original_points": 79,
+      "fitted_points": 45
+    },
+    "uni201A": {
+      "max_error_units": 0.1966155541207419,
+      "segments": 7,
+      "original_points": 7,
+      "fitted_points": 7
+    },
+    "uni201C": {
+      "max_error_units": 0.6956765230280025,
+      "segments": 44,
+      "original_points": 158,
+      "fitted_points": 82
+    },
+    "uni201D": {
+      "max_error_units": 0.6956765230280025,
+      "segments": 44,
+      "original_points": 158,
+      "fitted_points": 82
+    },
+    "uni201E": {
+      "max_error_units": 0.712641169857772,
+      "segments": 14,
+      "original_points": 17,
+      "fitted_points": 14
+    },
+    "uni2020": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2021": {
+      "max_error_units": 1.1718571004216928e-13,
+      "segments": 20,
+      "original_points": 20,
+      "fitted_points": 20
+    },
+    "uni2026": {
+      "max_error_units": 0.7938706885566018,
+      "segments": 36,
+      "original_points": 65,
+      "fitted_points": 55
+    },
+    "uni2030": {
+      "max_error_units": 0.7884576008306877,
+      "segments": 76,
+      "original_points": 165,
+      "fitted_points": 133
+    },
+    "uni2039": {
+      "max_error_units": 0.5110920565922276,
+      "segments": 8,
+      "original_points": 11,
+      "fitted_points": 10
+    },
+    "uni203A": {
+      "max_error_units": 0.5110920565922056,
+      "segments": 8,
+      "original_points": 11,
+      "fitted_points": 10
+    },
+    "uni20AC": {
+      "max_error_units": 0.733831523201727,
+      "segments": 39,
+      "original_points": 73,
+      "fitted_points": 67
+    },
+    "uni20B8": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni20BD": {
+      "max_error_units": 0.7953891162633663,
+      "segments": 38,
+      "original_points": 66,
+      "fitted_points": 58
+    },
+    "uni2113": {
+      "max_error_units": 0.775535296951675,
+      "segments": 47,
+      "original_points": 89,
+      "fitted_points": 73
+    },
+    "uni2116": {
+      "max_error_units": 0.769073875073192,
+      "segments": 57,
+      "original_points": 117,
+      "fitted_points": 87
+    },
+    "uni2122": {
+      "max_error_units": 0.7818351737456409,
+      "segments": 33,
+      "original_points": 54,
+      "fitted_points": 43
+    },
+    "uni2190": {
+      "max_error_units": 0.5271897736808311,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 15
+    },
+    "uni2191": {
+      "max_error_units": 0.73928710814889,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 16
+    },
+    "uni2192": {
+      "max_error_units": 0.52718977368088,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 15
+    },
+    "uni2193": {
+      "max_error_units": 0.7392871081489415,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 16
+    },
+    "uni221A": {
+      "max_error_units": 0.7993951133730707,
+      "segments": 38,
+      "original_points": 66,
+      "fitted_points": 57
+    },
+    "uni221E": {
+      "max_error_units": 0.740809897659896,
+      "segments": 62,
+      "original_points": 218,
+      "fitted_points": 114
+    },
+    "uni2248": {
+      "max_error_units": 0.7594891075711744,
+      "segments": 84,
+      "original_points": 336,
+      "fitted_points": 134
+    },
+    "uni2260": {
+      "max_error_units": 0.7882159050582295,
+      "segments": 48,
+      "original_points": 106,
+      "fitted_points": 80
+    },
+    "uni2264": {
+      "max_error_units": 0.7747763927885443,
+      "segments": 34,
+      "original_points": 81,
+      "fitted_points": 56
+    },
+    "uni2265": {
+      "max_error_units": 0.7747763927885373,
+      "segments": 34,
+      "original_points": 81,
+      "fitted_points": 56
+    },
+    "uni0028.case": {
+      "max_error_units": 0.796135374192221,
+      "segments": 42,
+      "original_points": 175,
+      "fitted_points": 72
+    },
+    "uni0029.case": {
+      "max_error_units": 0.7961353741922332,
+      "segments": 42,
+      "original_points": 175,
+      "fitted_points": 72
+    },
+    "uni005B.case": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 8
+    },
+    "uni005D.case": {
+      "max_error_units": 1.9895196601282805e-13,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 8
+    },
+    "uni007B.case": {
+      "max_error_units": 0.7879616436086037,
+      "segments": 73,
+      "original_points": 251,
+      "fitted_points": 111
+    },
+    "uni007D.case": {
+      "max_error_units": 0.7879616436086448,
+      "segments": 73,
+      "original_points": 251,
+      "fitted_points": 111
+    },
+    "uni002D.case": {
+      "max_error_units": 5.684341886080802e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2013.case": {
+      "max_error_units": 5.684341886080802e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2014.case": {
+      "max_error_units": 5.684341886080802e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "zero.empty": {
+      "max_error_units": 0.7991333506477382,
+      "segments": 53,
+      "original_points": 339,
+      "fitted_points": 96
+    },
+    "zero.dotted": {
+      "max_error_units": 0.7944708504433545,
+      "segments": 61,
+      "original_points": 403,
+      "fitted_points": 107
+    },
+    "uni21D0": {
+      "max_error_units": 0.7590655055766506,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 20
+    },
+    "uni21D1": {
+      "max_error_units": 0.7590655055766301,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 20
+    },
+    "uni21D2": {
+      "max_error_units": 0.7590655055766301,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 20
+    },
+    "uni21D3": {
+      "max_error_units": 0.7590655055766712,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 20
+    },
+    "uni2194": {
+      "max_error_units": 0.7392871081489325,
+      "segments": 22,
+      "original_points": 30,
+      "fitted_points": 28
+    },
+    "uni21D4": {
+      "max_error_units": 0.7590655055766712,
+      "segments": 24,
+      "original_points": 36,
+      "fitted_points": 32
+    },
+    "uni2195": {
+      "max_error_units": 0.739287108149003,
+      "segments": 22,
+      "original_points": 30,
+      "fitted_points": 28
+    },
+    "uni21D5": {
+      "max_error_units": 0.7590655055766301,
+      "segments": 24,
+      "original_points": 36,
+      "fitted_points": 32
+    },
+    "uni2196": {
+      "max_error_units": 0.7475788195265222,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 15
+    },
+    "uni21D6": {
+      "max_error_units": 0.7963576360162847,
+      "segments": 17,
+      "original_points": 22,
+      "fitted_points": 19
+    },
+    "uni2197": {
+      "max_error_units": 0.7475788195265121,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 15
+    },
+    "uni21D7": {
+      "max_error_units": 0.7963576360162847,
+      "segments": 17,
+      "original_points": 22,
+      "fitted_points": 19
+    },
+    "uni2198": {
+      "max_error_units": 0.747578819526502,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 15
+    },
+    "uni21D8": {
+      "max_error_units": 0.7963576360161688,
+      "segments": 17,
+      "original_points": 22,
+      "fitted_points": 19
+    },
+    "uni2199": {
+      "max_error_units": 0.7475788195264891,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 15
+    },
+    "uni21D9": {
+      "max_error_units": 0.7963576360162191,
+      "segments": 17,
+      "original_points": 22,
+      "fitted_points": 19
+    },
+    "uni2200": {
+      "max_error_units": 0.7944611614651308,
+      "segments": 31,
+      "original_points": 57,
+      "fitted_points": 42
+    },
+    "uni2202": {
+      "max_error_units": 0.7780409170192767,
+      "segments": 57,
+      "original_points": 230,
+      "fitted_points": 104
+    },
+    "uni2203": {
+      "max_error_units": 0.7774172209614396,
+      "segments": 33,
+      "original_points": 74,
+      "fitted_points": 51
+    },
+    "uni2205": {
+      "max_error_units": 0.7113651213834826,
+      "segments": 44,
+      "original_points": 166,
+      "fitted_points": 74
+    },
+    "uni2206": {
+      "max_error_units": 0.762932902937082,
+      "segments": 20,
+      "original_points": 39,
+      "fitted_points": 32
+    },
+    "uni2207": {
+      "max_error_units": 0.7629329029370907,
+      "segments": 20,
+      "original_points": 39,
+      "fitted_points": 32
+    },
+    "uni2208": {
+      "max_error_units": 0.792933993646648,
+      "segments": 49,
+      "original_points": 108,
+      "fitted_points": 81
+    },
+    "uni2209": {
+      "max_error_units": 0.7973302824441041,
+      "segments": 63,
+      "original_points": 142,
+      "fitted_points": 112
+    },
+    "uni220B": {
+      "max_error_units": 0.7929339936467334,
+      "segments": 49,
+      "original_points": 108,
+      "fitted_points": 81
+    },
+    "uni220F": {
+      "max_error_units": 0.7726157832906821,
+      "segments": 33,
+      "original_points": 72,
+      "fitted_points": 49
+    },
+    "uni2211": {
+      "max_error_units": 0.6968992881834161,
+      "segments": 38,
+      "original_points": 76,
+      "fitted_points": 62
+    },
+    "uni2213": {
+      "max_error_units": 0.786342316011208,
+      "segments": 42,
+      "original_points": 106,
+      "fitted_points": 73
+    },
+    "uni2217": {
+      "max_error_units": 0.7308083023538384,
+      "segments": 54,
+      "original_points": 108,
+      "fitted_points": 92
+    },
+    "uni2218": {
+      "max_error_units": 0.7633115213491388,
+      "segments": 28,
+      "original_points": 160,
+      "fitted_points": 49
+    },
+    "uni221D": {
+      "max_error_units": 0.7902832689260069,
+      "segments": 56,
+      "original_points": 241,
+      "fitted_points": 96
+    },
+    "uni2220": {
+      "max_error_units": 0.7817739092627022,
+      "segments": 23,
+      "original_points": 48,
+      "fitted_points": 37
+    },
+    "uni2223": {
+      "max_error_units": 0.7842059756536918,
+      "segments": 14,
+      "original_points": 34,
+      "fitted_points": 21
+    },
+    "uni2225": {
+      "max_error_units": 0.6452127722635335,
+      "segments": 34,
+      "original_points": 68,
+      "fitted_points": 52
+    },
+    "uni2227": {
+      "max_error_units": 0.794141339737349,
+      "segments": 20,
+      "original_points": 46,
+      "fitted_points": 33
+    },
+    "uni2228": {
+      "max_error_units": 0.7941413397373578,
+      "segments": 20,
+      "original_points": 46,
+      "fitted_points": 33
+    },
+    "uni2229": {
+      "max_error_units": 0.7680819018033818,
+      "segments": 40,
+      "original_points": 91,
+      "fitted_points": 65
+    },
+    "uni222A": {
+      "max_error_units": 0.795271881554299,
+      "segments": 38,
+      "original_points": 91,
+      "fitted_points": 61
+    },
+    "uni222B": {
+      "max_error_units": 0.7836529499542427,
+      "segments": 35,
+      "original_points": 90,
+      "fitted_points": 58
+    },
+    "uni223C": {
+      "max_error_units": 0.759489135686055,
+      "segments": 42,
+      "original_points": 168,
+      "fitted_points": 67
+    },
+    "uni2261": {
+      "max_error_units": 0.7845114662511473,
+      "segments": 37,
+      "original_points": 102,
+      "fitted_points": 58
+    },
+    "uni2282": {
+      "max_error_units": 0.7947991858852582,
+      "segments": 41,
+      "original_points": 91,
+      "fitted_points": 71
+    },
+    "uni2283": {
+      "max_error_units": 0.7947991858852695,
+      "segments": 41,
+      "original_points": 91,
+      "fitted_points": 71
+    },
+    "uni2286": {
+      "max_error_units": 0.7996078074745822,
+      "segments": 56,
+      "original_points": 125,
+      "fitted_points": 93
+    },
+    "uni2287": {
+      "max_error_units": 0.7996078074745064,
+      "segments": 56,
+      "original_points": 125,
+      "fitted_points": 93
+    },
+    "uni2295": {
+      "max_error_units": 0.797541688657038,
+      "segments": 44,
+      "original_points": 168,
+      "fitted_points": 70
+    },
+    "uni2297": {
+      "max_error_units": 0.797541688657038,
+      "segments": 44,
+      "original_points": 168,
+      "fitted_points": 70
+    },
+    "uni22A5": {
+      "max_error_units": 0.7743927595729052,
+      "segments": 26,
+      "original_points": 54,
+      "fitted_points": 40
+    },
+    "uni2318": {
+      "max_error_units": 0.7720812236470467,
+      "segments": 116,
+      "original_points": 608,
+      "fitted_points": 172
+    },
+    "uni2325": {
+      "max_error_units": 0.5990691839371016,
+      "segments": 18,
+      "original_points": 24,
+      "fitted_points": 22
+    },
+    "uni21E7": {
+      "max_error_units": 0.7501310715426194,
+      "segments": 40,
+      "original_points": 78,
+      "fitted_points": 60
+    },
+    "uni2303": {
+      "max_error_units": 0.6571188456725402,
+      "segments": 8,
+      "original_points": 15,
+      "fitted_points": 10
+    },
+    "uni23CE": {
+      "max_error_units": 0.6803736416110209,
+      "segments": 18,
+      "original_points": 27,
+      "fitted_points": 23
+    },
+    "uni232B": {
+      "max_error_units": 0.7958952460889571,
+      "segments": 33,
+      "original_points": 55,
+      "fitted_points": 43
+    },
+    "uni2423": {
+      "max_error_units": 0.6920841507098832,
+      "segments": 17,
+      "original_points": 24,
+      "fitted_points": 21
+    },
+    "uni2713": {
+      "max_error_units": 0.751215106143099,
+      "segments": 21,
+      "original_points": 45,
+      "fitted_points": 35
+    },
+    "uni2717": {
+      "max_error_units": 0.7167495863587963,
+      "segments": 32,
+      "original_points": 72,
+      "fitted_points": 52
+    },
+    "uni25E6": {
+      "max_error_units": 0.7767976676659828,
+      "segments": 25,
+      "original_points": 160,
+      "fitted_points": 44
+    },
+    "uni25AB": {
+      "max_error_units": 0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni25CB": {
+      "max_error_units": 0.7832658057908533,
+      "segments": 25,
+      "original_points": 160,
+      "fitted_points": 45
+    },
+    "uni25C7": {
+      "max_error_units": 0,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni03BF": {
+      "max_error_units": 0.762639803472616,
+      "segments": 46,
+      "original_points": 329,
+      "fitted_points": 86
+    },
+    "uni03C1": {
+      "max_error_units": 0.7961569458602504,
+      "segments": 48,
+      "original_points": 250,
+      "fitted_points": 78
+    },
+    "uni03BD": {
+      "max_error_units": 0.794590344695262,
+      "segments": 18,
+      "original_points": 64,
+      "fitted_points": 23
+    },
+    "uni03C5": {
+      "max_error_units": 0.7676665236164711,
+      "segments": 29,
+      "original_points": 124,
+      "fitted_points": 44
+    },
+    "uni03B3": {
+      "max_error_units": 0.7753578670044252,
+      "segments": 23,
+      "original_points": 112,
+      "fitted_points": 31
+    },
+    "uni03B1": {
+      "max_error_units": 0.7953474078058155,
+      "segments": 57,
+      "original_points": 330,
+      "fitted_points": 99
+    },
+    "uni03B2": {
+      "max_error_units": 0.7952523406143451,
+      "segments": 67,
+      "original_points": 194,
+      "fitted_points": 110
+    },
+    "uni03B4": {
+      "max_error_units": 0.7931455886193515,
+      "segments": 69,
+      "original_points": 383,
+      "fitted_points": 123
+    },
+    "uni03B5": {
+      "max_error_units": 0.7910964956262861,
+      "segments": 63,
+      "original_points": 152,
+      "fitted_points": 113
+    },
+    "uni03B6": {
+      "max_error_units": 0.7947621233834435,
+      "segments": 70,
+      "original_points": 216,
+      "fitted_points": 115
+    },
+    "uni03B7": {
+      "max_error_units": 0.7979360988409775,
+      "segments": 34,
+      "original_points": 130,
+      "fitted_points": 51
+    },
+    "uni03B8": {
+      "max_error_units": 0.783390945446154,
+      "segments": 55,
+      "original_points": 345,
+      "fitted_points": 93
+    },
+    "uni03B9": {
+      "max_error_units": 0.7829212268174293,
+      "segments": 28,
+      "original_points": 94,
+      "fitted_points": 45
+    },
+    "uni03BA": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 11,
+      "original_points": 11,
+      "fitted_points": 11
+    },
+    "uni03BB": {
+      "max_error_units": 0.7991373845335851,
+      "segments": 29,
+      "original_points": 84,
+      "fitted_points": 42
+    },
+    "uni03BC": {
+      "max_error_units": 0.7895758654992463,
+      "segments": 29,
+      "original_points": 112,
+      "fitted_points": 42
+    },
+    "uni03BE": {
+      "max_error_units": 0.7977777204397228,
+      "segments": 82,
+      "original_points": 214,
+      "fitted_points": 144
+    },
+    "uni03C0": {
+      "max_error_units": 0.7567103233322525,
+      "segments": 23,
+      "original_points": 58,
+      "fitted_points": 29
+    },
+    "uni03C3": {
+      "max_error_units": 0.7738147159043757,
+      "segments": 53,
+      "original_points": 300,
+      "fitted_points": 89
+    },
+    "uni03C2": {
+      "max_error_units": 0.7990575019225397,
+      "segments": 59,
+      "original_points": 151,
+      "fitted_points": 105
+    },
+    "uni03C4": {
+      "max_error_units": 0.7328863340298624,
+      "segments": 19,
+      "original_points": 68,
+      "fitted_points": 26
+    },
+    "uni03C6": {
+      "max_error_units": 0.7931084034918093,
+      "segments": 51,
+      "original_points": 298,
+      "fitted_points": 84
+    },
+    "uni03C7": {
+      "max_error_units": 1.4210854715202004e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni03C8": {
+      "max_error_units": 0.7787580088417256,
+      "segments": 46,
+      "original_points": 64,
+      "fitted_points": 64
+    },
+    "uni03C9": {
+      "max_error_units": 0.7956126932954305,
+      "segments": 79,
+      "original_points": 239,
+      "fitted_points": 132
+    },
+    "uni0394": {
+      "max_error_units": 0.7960894906316711,
+      "segments": 17,
+      "original_points": 38,
+      "fitted_points": 26
+    },
+    "uni03A3": {
+      "max_error_units": 0.7090380367809406,
+      "segments": 22,
+      "original_points": 39,
+      "fitted_points": 32
+    },
+    "uni03A9": {
+      "max_error_units": 0.7987175663101816,
+      "segments": 62,
+      "original_points": 292,
+      "fitted_points": 94
+    },
+    "uni03A0": {
+      "max_error_units": 0.7597711686458622,
+      "segments": 19,
+      "original_points": 90,
+      "fitted_points": 25
+    },
+    "uni039B": {
+      "max_error_units": 0.7252342245215505,
+      "segments": 10,
+      "original_points": 19,
+      "fitted_points": 12
+    },
+    "uni03A6": {
+      "max_error_units": 0.7807962832947885,
+      "segments": 48,
+      "original_points": 278,
+      "fitted_points": 82
+    },
+    "uni03A8": {
+      "max_error_units": 0.7878593211589102,
+      "segments": 52,
+      "original_points": 94,
+      "fitted_points": 76
+    },
+    "uni2500": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 4,
+      "original_points": 8,
+      "fitted_points": 4
+    },
+    "uni2501": {
+      "max_error_units": 1.4874801064094584e-13,
+      "segments": 4,
+      "original_points": 8,
+      "fitted_points": 4
+    },
+    "uni2502": {
+      "max_error_units": 4.0194366942304643e-13,
+      "segments": 4,
+      "original_points": 8,
+      "fitted_points": 4
+    },
+    "uni2503": {
+      "max_error_units": 3.639754730461873e-13,
+      "segments": 4,
+      "original_points": 8,
+      "fitted_points": 4
+    },
+    "uni2504": {
+      "max_error_units": 8.038873388460929e-14,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2505": {
+      "max_error_units": 8.038873388460929e-14,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2506": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2507": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2508": {
+      "max_error_units": 5.684341886080802e-14,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni2509": {
+      "max_error_units": 5.859285502108464e-14,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni250A": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni250B": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni250C": {
+      "max_error_units": 2.5421149729252077e-13,
+      "segments": 6,
+      "original_points": 8,
+      "fitted_points": 6
+    },
+    "uni250D": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni250E": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni250F": {
+      "max_error_units": 2.5421149729252077e-13,
+      "segments": 6,
+      "original_points": 8,
+      "fitted_points": 6
+    },
+    "uni2510": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 6,
+      "original_points": 8,
+      "fitted_points": 6
+    },
+    "uni2511": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni2512": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni2513": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 6,
+      "original_points": 8,
+      "fitted_points": 6
+    },
+    "uni2514": {
+      "max_error_units": 3.4224270219716276e-13,
+      "segments": 6,
+      "original_points": 8,
+      "fitted_points": 6
+    },
+    "uni2515": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni2516": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni2517": {
+      "max_error_units": 2.8563464471519893e-13,
+      "segments": 6,
+      "original_points": 8,
+      "fitted_points": 6
+    },
+    "uni2518": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 6,
+      "original_points": 8,
+      "fitted_points": 6
+    },
+    "uni2519": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni251A": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni251B": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 6,
+      "original_points": 8,
+      "fitted_points": 6
+    },
+    "uni251C": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 8,
+      "original_points": 10,
+      "fitted_points": 8
+    },
+    "uni251D": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni251E": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni251F": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2520": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 8
+    },
+    "uni2521": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 10,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni2522": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 10,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni2523": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 8,
+      "original_points": 10,
+      "fitted_points": 8
+    },
+    "uni2524": {
+      "max_error_units": 3.8131724593878115e-13,
+      "segments": 8,
+      "original_points": 10,
+      "fitted_points": 8
+    },
+    "uni2525": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2526": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2527": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2528": {
+      "max_error_units": 4.582862941503293e-13,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 8
+    },
+    "uni2529": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 10,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni252A": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 10,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni252B": {
+      "max_error_units": 4.582862941503293e-13,
+      "segments": 8,
+      "original_points": 10,
+      "fitted_points": 8
+    },
+    "uni252C": {
+      "max_error_units": 3.1190328098063037e-13,
+      "segments": 8,
+      "original_points": 10,
+      "fitted_points": 8
+    },
+    "uni252D": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni252E": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni252F": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 8
+    },
+    "uni2530": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2531": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 10,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni2532": {
+      "max_error_units": 2.0495186137532011e-13,
+      "segments": 10,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni2533": {
+      "max_error_units": 2.0495186137532011e-13,
+      "segments": 8,
+      "original_points": 10,
+      "fitted_points": 8
+    },
+    "uni2534": {
+      "max_error_units": 3.410605131648481e-13,
+      "segments": 8,
+      "original_points": 10,
+      "fitted_points": 8
+    },
+    "uni2535": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2536": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2537": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 8,
+      "original_points": 12,
+      "fitted_points": 8
+    },
+    "uni2538": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni2539": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 10,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni253A": {
+      "max_error_units": 1.1718571004216928e-13,
+      "segments": 10,
+      "original_points": 12,
+      "fitted_points": 10
+    },
+    "uni253B": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 8,
+      "original_points": 10,
+      "fitted_points": 8
+    },
+    "uni253C": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni253D": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni253E": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni253F": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 16,
+      "fitted_points": 12
+    },
+    "uni2540": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni2541": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni2542": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 16,
+      "fitted_points": 12
+    },
+    "uni2543": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 14,
+      "original_points": 16,
+      "fitted_points": 14
+    },
+    "uni2544": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 14,
+      "original_points": 16,
+      "fitted_points": 14
+    },
+    "uni2545": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 14,
+      "original_points": 16,
+      "fitted_points": 14
+    },
+    "uni2546": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 14,
+      "original_points": 16,
+      "fitted_points": 14
+    },
+    "uni2547": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni2548": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni2549": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni254A": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni254B": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni254C": {
+      "max_error_units": 5.728578676879116e-14,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni254D": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni254E": {
+      "max_error_units": 5.684341886080802e-14,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni254F": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni2550": {
+      "max_error_units": 1.797546735911271e-13,
+      "segments": 8,
+      "original_points": 16,
+      "fitted_points": 8
+    },
+    "uni2551": {
+      "max_error_units": 4.764346674119284e-13,
+      "segments": 8,
+      "original_points": 16,
+      "fitted_points": 8
+    },
+    "uni2552": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni2553": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni2554": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 12,
+      "original_points": 16,
+      "fitted_points": 12
+    },
+    "uni2555": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni2556": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni2557": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 12,
+      "original_points": 16,
+      "fitted_points": 12
+    },
+    "uni2558": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni2559": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni255A": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 12,
+      "original_points": 16,
+      "fitted_points": 12
+    },
+    "uni255B": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni255C": {
+      "max_error_units": 2.3437142008433856e-13,
+      "segments": 12,
+      "original_points": 14,
+      "fitted_points": 12
+    },
+    "uni255D": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 12,
+      "original_points": 16,
+      "fitted_points": 12
+    },
+    "uni255E": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni255F": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 16
+    },
+    "uni2560": {
+      "max_error_units": 4.764346674119284e-13,
+      "segments": 16,
+      "original_points": 20,
+      "fitted_points": 16
+    },
+    "uni2561": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni2562": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 16
+    },
+    "uni2563": {
+      "max_error_units": 2.4158453015843406e-13,
+      "segments": 16,
+      "original_points": 20,
+      "fitted_points": 16
+    },
+    "uni2564": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 16
+    },
+    "uni2565": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni2566": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 16,
+      "original_points": 20,
+      "fitted_points": 16
+    },
+    "uni2567": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 16,
+      "original_points": 22,
+      "fitted_points": 16
+    },
+    "uni2568": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "uni2569": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 16,
+      "original_points": 20,
+      "fitted_points": 16
+    },
+    "uni256A": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 20,
+      "original_points": 24,
+      "fitted_points": 20
+    },
+    "uni256B": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 20,
+      "original_points": 24,
+      "fitted_points": 20
+    },
+    "uni256C": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 24,
+      "original_points": 24,
+      "fitted_points": 24
+    },
+    "uni256D": {
+      "max_error_units": 0.7523009566655944,
+      "segments": 19,
+      "original_points": 67,
+      "fitted_points": 26
+    },
+    "uni256E": {
+      "max_error_units": 0.7523009566655448,
+      "segments": 19,
+      "original_points": 67,
+      "fitted_points": 26
+    },
+    "uni256F": {
+      "max_error_units": 0.7523009566655379,
+      "segments": 19,
+      "original_points": 67,
+      "fitted_points": 26
+    },
+    "uni2570": {
+      "max_error_units": 0.7523009566654951,
+      "segments": 19,
+      "original_points": 67,
+      "fitted_points": 26
+    },
+    "uni2571": {
+      "max_error_units": 4.2251908630869667e-13,
+      "segments": 14,
+      "original_points": 6,
+      "fitted_points": 14
+    },
+    "uni2572": {
+      "max_error_units": 3.639754730461873e-13,
+      "segments": 14,
+      "original_points": 6,
+      "fitted_points": 14
+    },
+    "uni2573": {
+      "max_error_units": 2.5421149729252077e-13,
+      "segments": 32,
+      "original_points": 16,
+      "fitted_points": 32
+    },
+    "uni2574": {
+      "max_error_units": 5.728578676879116e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2575": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2576": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2577": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2578": {
+      "max_error_units": 6.750155989720952e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni2579": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni257A": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni257B": {
+      "max_error_units": 1.7053025658242404e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni257C": {
+      "max_error_units": 5.684341886080802e-14,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni257D": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni257E": {
+      "max_error_units": 8.038873388460929e-14,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni257F": {
+      "max_error_units": 2.2914314707516465e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uniE0A0": {
+      "max_error_units": 0.787677113423237,
+      "segments": 42,
+      "original_points": 119,
+      "fitted_points": 71
+    },
+    "uniE0A1": {
+      "max_error_units": 0.7990286476849284,
+      "segments": 80,
+      "original_points": 182,
+      "fitted_points": 122
+    },
+    "uniE0A2": {
+      "max_error_units": 0.7953827253919182,
+      "segments": 80,
+      "original_points": 182,
+      "fitted_points": 118
+    },
+    "uniE0A3": {
+      "max_error_units": 0.768109016223127,
+      "segments": 58,
+      "original_points": 119,
+      "fitted_points": 88
+    },
+    "uniE0B1": {
+      "max_error_units": 2.428351918216984e-13,
+      "segments": 9,
+      "original_points": 9,
+      "fitted_points": 9
+    },
+    "uniE0B3": {
+      "max_error_units": 1.6077746776921858e-13,
+      "segments": 9,
+      "original_points": 9,
+      "fitted_points": 9
+    },
+    "uniE0B5": {
+      "max_error_units": 0.7791264815088365,
+      "segments": 34,
+      "original_points": 66,
+      "fitted_points": 52
+    },
+    "uniE0B7": {
+      "max_error_units": 0.7791264815087414,
+      "segments": 34,
+      "original_points": 66,
+      "fitted_points": 52
+    },
+    "uniE0B9": {
+      "max_error_units": 1.9065862296939058e-13,
+      "segments": 6,
+      "original_points": 6,
+      "fitted_points": 6
+    },
+    "uniE0BB": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 6,
+      "original_points": 6,
+      "fitted_points": 6
+    },
+    "uniE0BD": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 6,
+      "original_points": 6,
+      "fitted_points": 6
+    },
+    "uniE0BF": {
+      "max_error_units": 2.4158453015843406e-13,
+      "segments": 6,
+      "original_points": 6,
+      "fitted_points": 6
+    },
+    "uniE0C1": {
+      "max_error_units": 2.5421149729252077e-13,
+      "segments": 18,
+      "original_points": 18,
+      "fitted_points": 18
+    },
+    "uniE0C3": {
+      "max_error_units": 2.2737367544323206e-13,
+      "segments": 18,
+      "original_points": 18,
+      "fitted_points": 18
+    },
+    "code.op0.0": {
+      "max_error_units": 1.1457157353758233e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.op0.1": {
+      "max_error_units": 1.1457157353758233e-13,
+      "segments": 16,
+      "original_points": 16,
+      "fitted_points": 16
+    },
+    "code.op0.2": {
+      "max_error_units": 1.1370071466249427e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.op1.0": {
+      "max_error_units": 1.1457157353758233e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.op1.1": {
+      "max_error_units": 1.1457157353758233e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.op1.2": {
+      "max_error_units": 1.1370071466249427e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.op3.0": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "code.op3.1": {
+      "max_error_units": 0.7407766281779248,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 15
+    },
+    "code.op4.0": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "code.op4.1": {
+      "max_error_units": 0.7407766281778845,
+      "segments": 18,
+      "original_points": 22,
+      "fitted_points": 20
+    },
+    "code.op5.0": {
+      "max_error_units": 0.7407766281779046,
+      "segments": 13,
+      "original_points": 17,
+      "fitted_points": 15
+    },
+    "code.op5.1": {
+      "max_error_units": 5.728578676879116e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "code.op6.0": {
+      "max_error_units": 0.7934541110724376,
+      "segments": 16,
+      "original_points": 24,
+      "fitted_points": 20
+    },
+    "code.op6.1": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.op7.0": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.op7.1": {
+      "max_error_units": 0.7934541110723381,
+      "segments": 16,
+      "original_points": 24,
+      "fitted_points": 20
+    },
+    "code.op8.0": {
+      "max_error_units": 1.797546735911271e-13,
+      "segments": 16,
+      "original_points": 12,
+      "fitted_points": 16
+    },
+    "code.op8.1": {
+      "max_error_units": 1.1718571004216928e-13,
+      "segments": 16,
+      "original_points": 12,
+      "fitted_points": 16
+    },
+    "code.op9.0": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "code.op9.1": {
+      "max_error_units": 6.355287432313019e-14,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "code.op11.0": {
+      "max_error_units": 8.038873388460929e-14,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.op11.1": {
+      "max_error_units": 8.038873388460929e-14,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.op12.0": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "code.op12.1": {
+      "max_error_units": 8.038873388460929e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "code.op13.0": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "code.op13.1": {
+      "max_error_units": 1.1718571004216928e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "code.op14.0": {
+      "max_error_units": 0.790162923485038,
+      "segments": 68,
+      "original_points": 422,
+      "fitted_points": 115
+    },
+    "code.op14.1": {
+      "max_error_units": 0.7901629234851337,
+      "segments": 68,
+      "original_points": 422,
+      "fitted_points": 115
+    },
+    "code.op15.0": {
+      "max_error_units": 0.7924131904743665,
+      "segments": 60,
+      "original_points": 216,
+      "fitted_points": 102
+    },
+    "code.op15.1": {
+      "max_error_units": 0.7924131904744072,
+      "segments": 60,
+      "original_points": 216,
+      "fitted_points": 102
+    },
+    "code.op16.0": {
+      "max_error_units": 2.842170943040401e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "code.op16.1": {
+      "max_error_units": 0.7726987053028944,
+      "segments": 10,
+      "original_points": 16,
+      "fitted_points": 12
+    },
+    "code.op17.0": {
+      "max_error_units": 0.772698705302923,
+      "segments": 10,
+      "original_points": 16,
+      "fitted_points": 12
+    },
+    "code.op17.1": {
+      "max_error_units": 5.695433295429594e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "code.op18.0": {
+      "max_error_units": 1.3349885981068564e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "code.op18.1": {
+      "max_error_units": 1.3349885981068564e-13,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    },
+    "uni0391": {
+      "max_error_units": 0.7594911932662375,
+      "segments": 18,
+      "original_points": 62,
+      "fitted_points": 23
+    },
+    "uni0392": {
+      "max_error_units": 0.789013388250364,
+      "segments": 57,
+      "original_points": 324,
+      "fitted_points": 92
+    },
+    "uni0393": {
+      "max_error_units": 0.7462179496062175,
+      "segments": 13,
+      "original_points": 33,
+      "fitted_points": 14
+    },
+    "uni0395": {
+      "max_error_units": 0.7754384704783502,
+      "segments": 21,
+      "original_points": 80,
+      "fitted_points": 26
+    },
+    "uni0396": {
+      "max_error_units": 0.7596153605244765,
+      "segments": 20,
+      "original_points": 80,
+      "fitted_points": 26
+    },
+    "uni0397": {
+      "max_error_units": 1.1368683772161603e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni0398": {
+      "max_error_units": 0.7912800635673067,
+      "segments": 63,
+      "original_points": 332,
+      "fitted_points": 97
+    },
+    "uni0399": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni039A": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni039C": {
+      "max_error_units": 0.7944350521512876,
+      "segments": 45,
+      "original_points": 202,
+      "fitted_points": 60
+    },
+    "uni039D": {
+      "max_error_units": 0.7579707763665576,
+      "segments": 32,
+      "original_points": 156,
+      "fitted_points": 48
+    },
+    "uni039F": {
+      "max_error_units": 0.788176521152207,
+      "segments": 57,
+      "original_points": 353,
+      "fitted_points": 95
+    },
+    "uni03A1": {
+      "max_error_units": 0.7944246878332571,
+      "segments": 37,
+      "original_points": 215,
+      "fitted_points": 60
+    },
+    "uni03A4": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 8,
+      "original_points": 8,
+      "fitted_points": 8
+    },
+    "uni03A5": {
+      "max_error_units": 0.6004762201146705,
+      "segments": 13,
+      "original_points": 15,
+      "fitted_points": 15
+    },
+    "uni03A7": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "uni039E": {
+      "max_error_units": 1.2710574864626038e-13,
+      "segments": 12,
+      "original_points": 12,
+      "fitted_points": 12
+    },
+    "code.cyrillic.descender": {
+      "max_error_units": 3.108624468950438e-14,
+      "segments": 4,
+      "original_points": 4,
+      "fitted_points": 4
+    }
+  },
+  "tolerance_units": 0.8,
+  "status": "PASS"
+}

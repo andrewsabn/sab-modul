@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="fval.xsl"?>
+<FontValidatorReport RunDateTime="Tuesday, October 13, 2026 12:48 PM" MachineName="Mac">
+<FontFile FileName="SABModulCode[wght]-symbols.ttf" FileNameAndPath="/privateSAB-Modul-OFL/checks/fontvalidator/SAB-Modul-Code__WEB__SABModulCode[wght]-symbols.woff2/SABModulCode[wght]-symbols.ttf">
+<Report ErrorType="I" ErrorCode="I0004" Message="The file begins with an Offset Table (file contains a single font)" />
+<Font FontIndex="0">
+<FontInfo FontName="SAB Modul Code Regular" FontVersion="Version 1.002" FontDate="9/29/2026" />
+<Report ErrorType="P" ErrorCode="P0011" Message="The numTables field is non-zero" Details="19" TestName="_OFFSET_numTables" />
+<Report ErrorType="P" ErrorCode="P0010" Message="The searchRange, entrySelector, and rangeShift fields are all valid" TestName="_OFFSET_BinarySearchFields" />
+<Report ErrorType="P" ErrorCode="P0032" Message="The directory entry tags are in ascending order" />
+<Report ErrorType="P" ErrorCode="P0031" Message="The directory entry tag names are valid" />
+<Report ErrorType="P" ErrorCode="P0030" Message="The directory entry table offsets are all multiples of 4" />
+<Report ErrorType="P" ErrorCode="P0020" Message="All required tables are present" />
+<Report ErrorType="W" ErrorCode="W0022" Message="Recommended table is missing" Details="VDMX" />
+<Report ErrorType="W" ErrorCode="W0022" Message="Recommended table is missing" Details="DSIG" />
+<Report ErrorType="P" ErrorCode="P0022" Message="No unnecessary tables are present" />
+<Report ErrorType="P" ErrorCode="P0021" Message="Tables are in optimal order" />
+<TableEntry Tag="GDEF" Offset="0x0000c964" Length="0x00000222" Checksum="0x5a984fff" CodeFriendlyTag="GDEF">
+<Report ErrorType="P" ErrorCode="P4006" Message="The version numbers 0x00010000 or 0x0001002 are okay" Details="0x00010003" TestName="GDEF_Version" />
+<Report ErrorType="P" ErrorCode="P4002" Message="All header offsets point within the table" TestName="GDEF_HeaderOffsets" />
+<Report ErrorType="I" ErrorCode="I4000" Message="The MarkSetCount of the GDEF table" Details="MarkGlyphSetsDef: MarkSetCount=1" />
+<Report ErrorType="P" ErrorCode="P4007" Message="The MarkGlyphSetsDefTable of the GDEF table is okay" Details="MarkGlyphSetsDef" />
+</TableEntry>
+<TableEntry Tag="GPOS" Offset="0x0000cb88" Length="0x00000a70" Checksum="0x1dd77836" CodeFriendlyTag="GPOS">
+<Report ErrorType="P" ErrorCode="P4132" Message="The version number is 0x00010000" TestName="GPOS_Version" />
+<Report ErrorType="P" ErrorCode="P4115" Message="All header offsets point within the table" TestName="GPOS_HeaderOffsets" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[1](cyrl), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[1](cyrl), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[2](grek), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[2](grek), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5800" Message="The ScriptList Table is valid" Details="ScriptList" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[0](mark), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[1](mkmk), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5300" Message="The FeatureList table is valid" Details="FeatureList" />
+<Report ErrorType="E" ErrorCode="E5202" Message="The device table StartSize is greater than the end size" Details="LookupList, Lookup[0], SubTable[0](MarkBasePos), BaseArray, BaseRecord[34], BaseAnchor[2], XDeviceTable" />
+<Report ErrorType="E" ErrorCode="E5202" Message="The device table StartSize is greater than the end size" Details="LookupList, Lookup[0], SubTable[0](MarkBasePos), BaseArray, BaseRecord[49], BaseAnchor[2], XDeviceTable" />
+<Report ErrorType="E" ErrorCode="E5202" Message="The device table StartSize is greater than the end size" Details="LookupList, Lookup[0], SubTable[0](MarkBasePos), BaseArray, BaseRecord[56], BaseAnchor[2], XDeviceTable" />
+<Report ErrorType="E" ErrorCode="E5202" Message="The device table StartSize is greater than the end size" Details="LookupList, Lookup[0], SubTable[0](MarkBasePos), BaseArray, BaseRecord[71], BaseAnchor[2], XDeviceTable" />
+<Report ErrorType="E" ErrorCode="E5202" Message="The device table StartSize is greater than the end size" Details="LookupList, Lookup[0], SubTable[0](MarkBasePos), BaseArray, BaseRecord[72], BaseAnchor[2], XDeviceTable" />
+<Report ErrorType="E" ErrorCode="E5201" Message="The device table's DeltaValue array extends past the end of the table" Details="LookupList, Lookup[0], SubTable[0](MarkBasePos), BaseArray, BaseRecord[75], BaseAnchor[2], XDeviceTable" />
+<Report ErrorType="P" ErrorCode="P4101" Message="The BaseArray table is valid" Details="LookupList, Lookup[0], SubTable[0](MarkBasePos), BaseArray" />
+<Report ErrorType="P" ErrorCode="P4121" Message="The MarkBasePos subtable is valid" Details="LookupList, Lookup[0], SubTable[0](MarkBasePos)" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[0], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[0], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[1], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[1], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[2], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[2], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[3], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[3], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[4], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[4], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[5], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[5], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[6], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[6], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[7], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[7], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[8], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[8], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[9], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[9], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[10], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[10], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[11], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[11], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[12], Mark2Anchor[0], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[12], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[13], Mark2Anchor[0], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[13], Mark2Anchor[2], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[14], Mark2Anchor[0], AnchorFormat = 15" />
+<Report ErrorType="E" ErrorCode="E4100" Message="The AnchorFormat field is invalid" Details="LookupList, Lookup[1], SubTable[0](MarkMarkPos), Mark2Array, Mark2Record[14], Mark2Anchor[1], AnchorFormat = 15" />
+<Report ErrorType="P" ErrorCode="P5600" Message="The LookupList table is valid" Details="LookupList" />
+</TableEntry>
+<TableEntry Tag="GSUB" Offset="0x0000d5f8" Length="0x000008e0" Checksum="0xe6c54846" CodeFriendlyTag="GSUB">
+<Report ErrorType="P" ErrorCode="P4208" Message="The version number is 0x00010000" TestName="GSUB_Version" />
+<Report ErrorType="P" ErrorCode="P4204" Message="All header offsets point within the table" TestName="GSUB_HeaderOffsets" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[1](cyrl), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[1](cyrl), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[2](grek), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[2](grek), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5800" Message="The ScriptList Table is valid" Details="ScriptList" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[0](calt), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[1](case), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[2](ccmp), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[3](ss01), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[4](ss02), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[5](ss10), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[6](tnum), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[7](zero), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5300" Message="The FeatureList table is valid" Details="FeatureList" />
+<Report ErrorType="P" ErrorCode="P4205" Message="The LigatureSubst subtable is valid" Details="LookupList, Lookup[0], SubTable[0](LigatureSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[1], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[2], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[3], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[4], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[5], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[6], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[7], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[8], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[9], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[10], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[11], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[12], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[13], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[14], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[15], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[16], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[17], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[18], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[19], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[20], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[21], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[22], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[23], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[24], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[25], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[26], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[27], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[28], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[29], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[30], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[31], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[32], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[33], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[34], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[35], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[36], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[37], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[38], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[39], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[40], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[41], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[42], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[43], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[44], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[45], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[46], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4201" Message="The ChainContextSubst subtable is valid" Details="LookupList, Lookup[47], SubTable[0](ChainContextSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[48], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P5600" Message="The LookupList table is valid" Details="LookupList" />
+</TableEntry>
+<TableEntry Tag="HVAR" Offset="0x0000ded8" Length="0x0000002a" Checksum="0x014d0025" CodeFriendlyTag="HVAR">
+<Report ErrorType="I" ErrorCode="I0040" Message="Not an OpenType table, contents not validated" Details="" />
+</TableEntry>
+<TableEntry Tag="OS/2" Offset="0x000001b8" Length="0x00000060" Checksum="0xf15e02f0" CodeFriendlyTag="OS_2">
+<Report ErrorType="W" ErrorCode="W2106" Message="The version number is valid, but less than 5" Details="4" TestName="OS_2_Version" />
+<Report ErrorType="P" ErrorCode="P2112" Message="The table length matches the expected length for this version" TestName="OS_2_TableLength" />
+<Report ErrorType="P" ErrorCode="P2120" Message="The xAvgCharWidth field equals the calculated value" TestName="OS_2_xAvgCharWidth" />
+<Report ErrorType="P" ErrorCode="P2118" Message="The usWeightClass is a valid value" Details="400" TestName="OS_2_WeightClass" />
+<Report ErrorType="P" ErrorCode="P2119" Message="The width class is a valid value" Details="5" TestName="OS_2_WidthClass" />
+<Report ErrorType="P" ErrorCode="P2103" Message="The fsType field is valid" Details="0x0000, Installable Embedding" TestName="OS_2_fsType" />
+<Report ErrorType="W" ErrorCode="W2109" Message="ySubscriptXSize has unlikely value" Details="0" TestName="OS_2_SubscriptSuperscript" />
+<Report ErrorType="W" ErrorCode="W2111" Message="ySubscriptYSize has unlikely value" Details="0" TestName="OS_2_SubscriptSuperscript" />
+<Report ErrorType="W" ErrorCode="W2112" Message="ySuperscriptXSize has unlikely value" Details="0" TestName="OS_2_SubscriptSuperscript" />
+<Report ErrorType="W" ErrorCode="W2114" Message="ySuperscriptYSize has unlikely value" Details="0" TestName="OS_2_SubscriptSuperscript" />
+<Report ErrorType="W" ErrorCode="W2107" Message="yStrikeoutPosition has unlikely value" Details="0" TestName="OS_2_Strikeout" />
+<Report ErrorType="P" ErrorCode="P2107" Message="The sFamilyClass Class ID and Subclass ID values are in a valid range" TestName="OS_2_FamilyClass" />
+<Report ErrorType="P" ErrorCode="P2104" Message="All panose values are in a valid range" TestName="OS_2_Panose" />
+<Report ErrorType="P" ErrorCode="P2113" Message="The Unicode Range fields' bits are all allowable values" />
+<Report ErrorType="E" ErrorCode="E2101" Message="There are undefined bits set in fsSelection field" Details="Bit(s) 7" TestName="OS_2_fsSelection" />
+<Report ErrorType="P" ErrorCode="P2100" Message="The usFirstCharIndex and usLastCharIndex fields are valid" Details="first = 0x0020, last = 0x2717" TestName="OS_2_CharIndexes" />
+<Report ErrorType="W" ErrorCode="W2117" Message="The value of sTypoAscender minus sTypoDescender is greater than unitsPerEm" Details="sTypoAscender = 1000, sTypoDescender = -300" TestName="OS_2_TypoMetrics" />
+<Report ErrorType="W" ErrorCode="W2101" Message="A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage" Details="bit #0, Latin 1 (135 missing, first ten missing chars are: U0022 U0023 U0024 U0025 U0027 U002A U002C U003B U0040 U0042)" />
+<Report ErrorType="P" ErrorCode="P2101" Message="The CodePage Range fields' bits are all allowable values" />
+<Report ErrorType="P" ErrorCode="P2110" Message="The sxHeight field is nonzero" Details="540" TestName="OS_2_sxHeight" />
+<Report ErrorType="P" ErrorCode="P2105" Message="The sCapHeight field is nonzero" Details="700" TestName="OS_2_sCapHeight" />
+<Report ErrorType="P" ErrorCode="P2116" Message="The usDefaultChar field is zero" TestName="OS_2_usDefaultChar" />
+<Report ErrorType="P" ErrorCode="P2114" Message="The usBreakChar is mapped to a glyf" TestName="OS_2_usBreakChar" />
+<Report ErrorType="P" ErrorCode="P2124" Message="The usMaxContext field matches the calculated value" Details="4" TestName="OS_2_usMaxContext" />
+</TableEntry>
+<TableEntry Tag="STAT" Offset="0x0000df04" Length="0x00000080" Checksum="0xf012cfb5" CodeFriendlyTag="STAT">
+<Report ErrorType="I" ErrorCode="I0040" Message="Not an OpenType table, contents not validated" Details="" />
+</TableEntry>
+<TableEntry Tag="cmap" Offset="0x0000056c" Length="0x00000362" Checksum="0x611dd0f3" CodeFriendlyTag="cmap">
+<Report ErrorType="P" ErrorCode="P0312" Message="The table version number is 0" TestName="cmap_Version" />
+<Report ErrorType="P" ErrorCode="P0307" Message="Each subtable offset is within the table" TestName="cmap_SubtableOffset" />
+<Report ErrorType="P" ErrorCode="P0306" Message="Each subtable length is within the table" TestName="cmap_SubtableLength" />
+<Report ErrorType="P" ErrorCode="P0309" Message="The subtables are in the correct order" TestName="cmap_SubtableSortOrder" />
+<Report ErrorType="P" ErrorCode="P0302" Message="There are no duplicate subtables" TestName="cmap_DuplicateSubtables" />
+<Report ErrorType="P" ErrorCode="P0308" Message="No overlapping subtables were found" TestName="cmap_SubtableOverlap" />
+<Report ErrorType="P" ErrorCode="P0310" Message="Each subtable's format number is valid" TestName="cmap_ValidFormat" />
+<Report ErrorType="P" ErrorCode="P0305" Message="The subtable internal format appears valid" Details="PlatID = 0, EncID = 3, Fmt = 4" TestName="cmap_SubtableInternalFormat" />
+<Report ErrorType="P" ErrorCode="P0305" Message="The subtable internal format appears valid" Details="PlatID = 3, EncID = 1, Fmt = 4" TestName="cmap_SubtableInternalFormat" />
+<Report ErrorType="W" ErrorCode="W0302" Message="The table does not contain any Apple subtables" TestName="cmap_AppleMSSupport" />
+<Report ErrorType="W" ErrorCode="W0301" Message="Apple logo mapping test not performed, cmap 1,0 not present" TestName="cmap_AppleLogo" />
+<Report ErrorType="P" ErrorCode="P0304" Message="Character code U+20AC, the euro character, is mapped for cmap 3,1" TestName="cmap_EuroGlyph" />
+<Report ErrorType="P" ErrorCode="P0311" Message="No characters are mapped in the Unicode Private Use area" TestName="cmap_PrivateUse" />
+<Report ErrorType="P" ErrorCode="P0314" Message="All non mac subtables have a language field of zero" TestName="cmap_SubtableLanguage" />
+</TableEntry>
+<TableEntry Tag="fvar" Offset="0x0000df84" Length="0x0000004c" Checksum="0x8ada6992" CodeFriendlyTag="fvar">
+<Report ErrorType="I" ErrorCode="I0040" Message="Not an OpenType table, contents not validated" Details="" />
+</TableEntry>
+<TableEntry Tag="gasp" Offset="0x0000c95c" Length="0x00000008" Checksum="0x00000010" CodeFriendlyTag="gasp">
+<Report ErrorType="P" ErrorCode="P1003" Message="The version number is valid" Details="version = 1" TestName="gasp_Version" />
+<Report ErrorType="P" ErrorCode="P1000" Message="All of the rangeGaspBehavior fields contain valid flags" TestName="gasp_rangeGaspBehavior" />
+<Report ErrorType="P" ErrorCode="P1002" Message="The gaspRange array is in sorted order" TestName="gasp_SortOrder" />
+<Report ErrorType="P" ErrorCode="P1001" Message="The gaspRange array has a 0xFFFF sentinel" TestName="gasp_Sentinel" />
+<Report ErrorType="P" ErrorCode="P1004" Message="No adjacent ranges have identical flags" TestName="gasp_AdjRangeIdenticalFlags" />
+</TableEntry>
+<TableEntry Tag="glyf" Offset="0x00000b58" Length="0x0000a876" Checksum="0xcf28c629" CodeFriendlyTag="glyf">
+<Report ErrorType="P" ErrorCode="P1700" Message="Correct format of loca (0 or 1)" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 3" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 4" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 5" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 10" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 11" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 12" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 13" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 15" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 16" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 17" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 18" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 19" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 24" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 25" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 28" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 29" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 31" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 33" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 34" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 39" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 40" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 41" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 42" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 44" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 45" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 47" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 49" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 50" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 53" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 54" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 55" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 56" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 57" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 59" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 60" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 61" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 62" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 65" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 66" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 70" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 71" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 72" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 73" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 74" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 75" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 76" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 78" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 80" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 81" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 82" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 83" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 84" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 85" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 86" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 87" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 88" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 89" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 93" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 94" />
+<Report ErrorType="W" ErrorCode="W1111" Message="Duplicated knots" Details="Glyph index 94" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 96" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 97" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 98" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 99" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 104" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 105" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 114" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 115" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 117" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 118" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 123" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 125" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 128" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 130" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 131" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 132" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 133" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 135" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 137" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 139" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 140" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 141" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 142" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 143" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 144" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 145" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 146" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 149" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 150" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 154" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 155" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 160" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 162" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 165" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 167" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 169" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 171" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 172" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 173" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 174" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 175" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 176" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 177" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 178" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 179" />
+<Report ErrorType="E" ErrorCode="E1111" Message="Intersecting contours" Details="Glyph index 179" />
+<Report ErrorType="I" ErrorCode="I1111" Message="Unable to perform test due to previously detected errors" Details="Glyph index 179 Test: ValidateSimpContMisor " />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 180" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 181" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 182" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 183" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 184" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 185" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 187" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 188" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 190" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 191" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 192" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 193" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 194" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 195" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 198" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 199" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 200" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 201" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 202" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 203" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 204" />
+<Report ErrorType="E" ErrorCode="E1111" Message="Intersecting contours" Details="Glyph index 204" />
+<Report ErrorType="I" ErrorCode="I1111" Message="Unable to perform test due to previously detected errors" Details="Glyph index 204 Test: ValidateSimpContMisor " />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 205" />
+<Report ErrorType="E" ErrorCode="E1111" Message="Intersecting contours" Details="Glyph index 205" />
+<Report ErrorType="I" ErrorCode="I1111" Message="Unable to perform test due to previously detected errors" Details="Glyph index 205 Test: ValidateSimpContMisor " />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 206" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 207" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 209" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 210" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 211" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 212" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 213" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 214" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 215" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 216" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 219" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 227" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 228" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 230" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 231" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 232" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 233" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 234" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 235" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 236" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 237" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 238" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 239" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 241" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 243" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 244" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 245" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 246" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 247" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 248" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 251" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 252" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 253" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 254" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 255" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 256" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 257" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 258" />
+<Report ErrorType="E" ErrorCode="E1111" Message="Intersecting contours" Details="Glyph index 260" />
+<Report ErrorType="I" ErrorCode="I1111" Message="Unable to perform test due to previously detected errors" Details="Glyph index 260 Test: ValidateSimpContMisor " />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 269" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 272" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 274" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 277" />
+<Report ErrorType="E" ErrorCode="E1111" Message="Intersecting contours" Details="Glyph index 278" />
+<Report ErrorType="I" ErrorCode="I1111" Message="Unable to perform test due to previously detected errors" Details="Glyph index 278 Test: ValidateSimpContMisor " />
+<Report ErrorType="E" ErrorCode="E1111" Message="Intersecting contours" Details="Glyph index 279" />
+<Report ErrorType="I" ErrorCode="I1111" Message="Unable to perform test due to previously detected errors" Details="Glyph index 279 Test: ValidateSimpContMisor " />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 290" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 291" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 292" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 293" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 295" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 296" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 300" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 301" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 303" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 306" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 311" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 312" />
+<Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 317" />
+</TableEntry>
+<TableEntry Tag="gvar" Offset="0x0000dfd0" Length="0x000115e4" Checksum="0x01345e72" CodeFriendlyTag="gvar">
+<Report ErrorType="I" ErrorCode="I0040" Message="Not an OpenType table, contents not validated" Details="This table type is defined in the Apple TrueType spec." />
+</TableEntry>
+<TableEntry Tag="head" Offset="0x0000013c" Length="0x00000036" Checksum="0x36a0373b" CodeFriendlyTag="head">
+<Report ErrorType="P" ErrorCode="P1323" Message="Table length is 54 bytes" TestName="head_TableLength" />
+<Report ErrorType="P" ErrorCode="P1324" Message="The table version number is 0x00010000" TestName="head_TableVersion" />
+<Report ErrorType="P" ErrorCode="P1330" Message="fontRevision is consistent with the font's version string" Details="1.002" TestName="head_fontRevision" />
+<Report ErrorType="P" ErrorCode="P1307" Message="Font checksum is correct" Details="0x2e35ecdd" TestName="head_ChecksumAdjustment" />
+<Report ErrorType="P" ErrorCode="P1321" Message="The magic number is 0x5f0f3cf5" TestName="head_MagicNumber" />
+<Report ErrorType="P" ErrorCode="P1303" Message="Non-linear scaling flag (bit 4) is clear, and hdmx table is not present" TestName="head_FlagTests" />
+<Report ErrorType="P" ErrorCode="P1304" Message="Non-linear scaling flag (bit 4) is clear, and LTSH table is not present" TestName="head_FlagTests" />
+<Report ErrorType="P" ErrorCode="P1301" Message="Reserved bit 14 of the flags field is clear" TestName="head_FlagTests" />
+<Report ErrorType="P" ErrorCode="P1302" Message="Reserved bit 15 of the flags field is clear" TestName="head_FlagTests" />
+<Report ErrorType="W" ErrorCode="W1313" Message="The unitsPerEm value is not a power of two" Details="1000" TestName="head_UnitsPerEmValues" />
+<Report ErrorType="P" ErrorCode="P1300" Message="The created time is not zero" Details="created = 3873368449 (Sunday, September 27, 2026 3:40 PM)" TestName="head_Dates" />
+<Report ErrorType="P" ErrorCode="P1322" Message="The modified time is not zero" Details="modified = 3873507739 (Tuesday, September 29, 2026 6:22 AM)" TestName="head_Dates" />
+<Report ErrorType="P" ErrorCode="P1327" Message="The xMin value matches the minimum glyph xMin" Details="xMin = -163" TestName="head_MinMaxValues" />
+<Report ErrorType="P" ErrorCode="P1329" Message="The yMin value matches the minimum glyph yMin" Details="yMin = -304" TestName="head_MinMaxValues" />
+<Report ErrorType="P" ErrorCode="P1326" Message="The xMax value matches the maximum glyph xMax" Details="xMax = 620" TestName="head_MinMaxValues" />
+<Report ErrorType="P" ErrorCode="P1328" Message="The yMax value matches the maximum glyph yMax" Details="yMax = 1004" TestName="head_MinMaxValues" />
+<Report ErrorType="P" ErrorCode="P1316" Message="The macStyle bold bit matches the name table's font subfamily string" TestName="head_MacStyleBits" />
+<Report ErrorType="P" ErrorCode="P1320" Message="The macStyle italic bit matches the name table's font subfamily string" TestName="head_MacStyleBits" />
+<Report ErrorType="P" ErrorCode="P1314" Message="The macStyle bold bit matches the OS/2 fsSelection bit" TestName="head_MacStyleBits" />
+<Report ErrorType="P" ErrorCode="P1318" Message="The macStyle italic bit matches the OS/2 fsSelection bit" TestName="head_MacStyleBits" />
+<Report ErrorType="P" ErrorCode="P1319" Message="The macStyle italic bit matches the post table italic angle" TestName="head_MacStyleBits" />
+<Report ErrorType="W" ErrorCode="W1305" Message="The lowestRecPPEM value may be unreasonably small" Details="lowestRecPPEM = 3" TestName="head_LowestRecSize" />
+<Report ErrorType="P" ErrorCode="P1308" Message="The fontDirectionHint is in the range -2..2" Details="2" TestName="head_FontDirectionHint" />
+<Report ErrorType="P" ErrorCode="P1312" Message="The indexToLocFormat value is 0 or 1" Details="0" TestName="head_IndexToLocFormat" />
+<Report ErrorType="P" ErrorCode="P1311" Message="The indexToLocFormat value matches the loca table" Details="0" TestName="head_IndexToLocFormat" />
+<Report ErrorType="P" ErrorCode="P1309" Message="The glyphDataFormat value is 0" TestName="head_GlyphDataFormat" />
+</TableEntry>
+<TableEntry Tag="hhea" Offset="0x00000174" Length="0x00000024" Checksum="0x05b400f4" CodeFriendlyTag="hhea">
+<Report ErrorType="P" ErrorCode="P1406" Message="The table version number is 0x00010000" TestName="hhea_version" />
+<Report ErrorType="P" ErrorCode="P1409" Message="The Ascender value is greater than zero" TestName="hhea_AscenderPositive" />
+<Report ErrorType="P" ErrorCode="P1411" Message="The Descender is less than zero" TestName="hhea_DescenderNegative" />
+<Report ErrorType="P" ErrorCode="P1410" Message="Ascender is less than or equal to head.yMax" TestName="hhea_Ascender_yMax" />
+<Report ErrorType="P" ErrorCode="P1412" Message="Descender is greater than or equal to head.yMin" TestName="hhea_Descender_yMin" />
+<Report ErrorType="P" ErrorCode="P1413" Message="LineGap is greater than or equal to 0" TestName="hhea_LineGapPositive" />
+<Report ErrorType="W" ErrorCode="W1405" Message="Ascender is different than OS/2.usWinAscent. Different line heights on Windows and Apple" Details="hhea.Ascender = 1000, OS/2.usWinAscent = 1150" TestName="hhea_Ascender_usWinAscent" />
+<Report ErrorType="W" ErrorCode="W1406" Message="Descender is different than OS/2.usWinDescent. Different line heights on Windows and Apple" Details="hhea.Descender = -300, OS/2.usWinDescent = 450" TestName="hhea_Descender_usWinDescent" />
+<Report ErrorType="W" ErrorCode="W1404" Message="The LineGap value is less than the recommended value" Details="LineGap = 0, recommended = 300" TestName="hhea_LineGap_minGap" />
+<Report ErrorType="P" ErrorCode="P1400" Message="The advanceWidthMax field equals the calculated value" TestName="hhea_MinMax" />
+<Report ErrorType="P" ErrorCode="P1402" Message="The minLeftSideBearing field equals the calculated value" TestName="hhea_MinMax" />
+<Report ErrorType="P" ErrorCode="P1403" Message="The minRightSideBearing field equals the calculated value" TestName="hhea_MinMax" />
+<Report ErrorType="P" ErrorCode="P1407" Message="The xMaxExtent field equals the calculated value" TestName="hhea_MinMax" />
+<Report ErrorType="P" ErrorCode="P1405" Message="The reserved fields are all set to zero" TestName="hhea_reserved" />
+<Report ErrorType="P" ErrorCode="P1401" Message="The metricDataFormat field is set to zero" TestName="hhea_metricDataFormat" />
+<Report ErrorType="P" ErrorCode="P1404" Message="The numberOfHMetrics value is consistent with the length of the hmtx table" TestName="hhea_numberOfHMetrics" />
+<Report ErrorType="P" ErrorCode="P1408" Message="The caretSlope angle matches the post.italicAngle" TestName="hhea_caretSlope" />
+</TableEntry>
+<TableEntry Tag="hmtx" Offset="0x00000218" Length="0x00000352" Checksum="0xfac74508" CodeFriendlyTag="hmtx">
+<Report ErrorType="P" ErrorCode="P1501" Message="The size of the table matches the calculated size" TestName="hmtx_TableSize" />
+<Report ErrorType="P" ErrorCode="P1500" Message="The horizontal metrics are all within an allowable range of values" TestName="hmtx_CheckMetrics" />
+</TableEntry>
+<TableEntry Tag="loca" Offset="0x000008d8" Length="0x0000027e" Checksum="0x537d283f" CodeFriendlyTag="loca">
+<Report ErrorType="P" ErrorCode="P1700" Message="Correct format of loca (0 or 1)" />
+<Report ErrorType="P" ErrorCode="P1704" Message="The number of entries is equal to (maxp.numGlyphs + 1)" />
+<Report ErrorType="P" ErrorCode="P1705" Message="The entries are sorted in ascending order" />
+<Report ErrorType="P" ErrorCode="P1706" Message="All entries point within range of the glyf table" />
+<Report ErrorType="W" ErrorCode="W1701" Message="Loca references a glyf entry which length is not a multiple of 4" Details="Number of glyphs with the warning = 161" />
+<Report ErrorType="I" ErrorCode="I1700" Message="Loca references a zero-length entry in the glyf table" Details="Number of glyphs that are empty = 6" />
+<Report ErrorType="P" ErrorCode="P1703" Message="All glyphs in the glyf table are referenced by the loca table" />
+</TableEntry>
+<TableEntry Tag="maxp" Offset="0x00000198" Length="0x00000020" Checksum="0x014f01c9" CodeFriendlyTag="maxp">
+<Report ErrorType="P" ErrorCode="P1905" Message="Table version is 1.0 and a glyf table is present and no CFF table is present" TestName="maxp_TableVersion" />
+<Report ErrorType="P" ErrorCode="P1902" Message="Table version is 1.0 and the table is 32 bytes long" TestName="maxp_TableLength" />
+<Report ErrorType="P" ErrorCode="P1903" Message="The numGlyphs value equals the number of entries in the loca array plus one" Details="numGlyphs = 318" TestName="maxp_NumGlyphsMatchLoca" />
+<Report ErrorType="I" ErrorCode="I1900" Message="maxSizeOfInstructions via method #1" Details="maxSizeOfInstructions=0, computed from the glyf table" TestName="maxp_GlyphStats" />
+<Report ErrorType="P" ErrorCode="P1900" Message="The points, contours, and component values match the calculated values" TestName="maxp_GlyphStats" />
+</TableEntry>
+<TableEntry Tag="name" Offset="0x0000b3d0" Length="0x00000843" Checksum="0xc7dc79b1" CodeFriendlyTag="name">
+<Report ErrorType="P" ErrorCode="P2001" Message="The format selector field is 0" TestName="name_FormatSelector" />
+<Report ErrorType="P" ErrorCode="P2007" Message="No strings extended past the end of the table" TestName="name_StringsWithinTable" />
+<Report ErrorType="P" ErrorCode="P2003" Message="The NameRecords array is in sorted order" TestName="name_NameRecordsSorted" />
+<Report ErrorType="P" ErrorCode="P2006" Message="No name records are using reserved Name IDs" TestName="name_ReservedNameIDs" />
+<Report ErrorType="P" ErrorCode="P2000" Message="The table contains strings for both Mac and Microsoft platforms" TestName="name_BothPlatforms" />
+<Report ErrorType="P" ErrorCode="P2009" Message="The version string is in the correct format" Details="platID = 3, encID = 1, langID = 1033, &quot;Version 1.002&quot;" TestName="name_VersionString" />
+<Report ErrorType="P" ErrorCode="P2004" Message="All strings had valid Platform Specific Encoding IDs" TestName="name_PlatformSpecificEncoding" />
+<Report ErrorType="P" ErrorCode="P2002" Message="All Microsoft unicode strings had valid Language IDs" TestName="name_MSLanguageIDs" />
+<Report ErrorType="P" ErrorCode="P2008" Message="The length of every unicode string is an even # of bytes" TestName="name_unicode_length" />
+<Report ErrorType="P" ErrorCode="P2005" Message="The PostScript strings are correctly formatted" TestName="name_Postscript" />
+<Report ErrorType="P" ErrorCode="P2010" Message="The subfamily string is consistent with the style of the font" TestName="name_Subfamily" />
+<Report ErrorType="P" ErrorCode="P2015" Message="No name record specified Unicode Variation Sequences cmap subtable" Details="PlatformID=0, EncodingID=5 is for Variation Sequences (Format 14)" TestName="name_NoFormat14" />
+<Report ErrorType="I" ErrorCode="I2002" Message="No string for Typographic Family name (Name ID 16)" TestName="name_PreferredFamily" />
+<Report ErrorType="I" ErrorCode="I2004" Message="No string for Typographic Subfamily name (Name ID 17)" TestName="name_PreferredSubfamily" />
+<Report ErrorType="P" ErrorCode="P2012" Message="No inconsistencies were found for Copyright strings" TestName="name_CopyrightConsistent" />
+<Report ErrorType="P" ErrorCode="P2014" Message="No inconsistencies were found for Trademark strings" TestName="name_TrademarkConsistent" />
+<Report ErrorType="P" ErrorCode="P2013" Message="No inconsistencies were found for Description strings" TestName="name_DescriptionConsistent" />
+</TableEntry>
+<TableEntry Tag="post" Offset="0x0000bc14" Length="0x00000d47" Checksum="0x75eacbb3" CodeFriendlyTag="post">
+<Report ErrorType="P" ErrorCode="P2304" Message="The table length is valid" TestName="post_TableLength" />
+<Report ErrorType="P" ErrorCode="P2308" Message="The version number is valid" TestName="post_Version" />
+<Report ErrorType="P" ErrorCode="P2302" Message="The italicAngle value is reasonable and consistent with other tables" TestName="post_italicAngle" />
+<Report ErrorType="P" ErrorCode="P2305" Message="The underlinePosition value is not less than hhea.Descender" TestName="post_underlinePosition" />
+<Report ErrorType="P" ErrorCode="P2306" Message="The underlineThickness value is reasonable" TestName="post_underlineThickness" />
+<Report ErrorType="P" ErrorCode="P2301" Message="The isFixedPitch field is consistent with other table(s)" Details="matches the hmtx and OS/2 tables" TestName="post_isFixedPitch" />
+<Report ErrorType="P" ErrorCode="P2307" Message="The numberOfGlyphs field equals maxp.numGlyphs" TestName="post_v2_numberOfGlyphs" />
+<Report ErrorType="P" ErrorCode="P2300" Message="The glyphNameIndex array contains valid indexes" TestName="post_v2_glyphNameIndex" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 63, char = U+FFFF, name = uni00C0" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 64, char = U+FFFF, name = uni00C1" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 65, char = U+FFFF, name = uni00C2" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 66, char = U+FFFF, name = uni00C3" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 67, char = U+FFFF, name = uni00C4" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 68, char = U+FFFF, name = uni00C5" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 70, char = U+FFFF, name = uni00E0" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 71, char = U+FFFF, name = uni00E1" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 72, char = U+FFFF, name = uni00E2" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 73, char = U+FFFF, name = uni00E3" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 74, char = U+FFFF, name = uni00E4" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 75, char = U+FFFF, name = uni00E5" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 77, char = U+FFFF, name = uni0100" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 78, char = U+FFFF, name = uni0101" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 79, char = U+FFFF, name = uni0102" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 80, char = U+FFFF, name = uni0103" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 81, char = U+FFFF, name = uni0104" TestName="post_v2_names" />
+<Report ErrorType="I" ErrorCode="I2305" Message="The post name has an unexpected value" Details="glyph = 82, char = U+FFFF, name = uni0105" TestName="post_v2_names" />
+<Report ErrorType="P" ErrorCode="P2303" Message="The names in the post table are consistent with the Adobe Glyph List names" TestName="post_v2_names" />
+</TableEntry>
+<TableEntry Tag="prep" Offset="0x000008d0" Length="0x00000007" Checksum="0x68068c85" CodeFriendlyTag="prep">
+<Report ErrorType="I" ErrorCode="I2400" Message="Validation for the prep table is not directly implemented, but rasterization testing will validate any executed hinting instructions" />
+</TableEntry>
+<RasterizationTest_BW>
+<Report ErrorType="I" ErrorCode="I0052" Message="Rasterization not selected for validation" />
+</RasterizationTest_BW>
+<RasterizationTest_Grayscale>
+<Report ErrorType="I" ErrorCode="I0052" Message="Rasterization not selected for validation" />
+</RasterizationTest_Grayscale>
+<RasterizationTest_ClearType>
+<Report ErrorType="I" ErrorCode="I0052" Message="Rasterization not selected for validation" />
+</RasterizationTest_ClearType>
+</Font>
+<Report ErrorType="I" ErrorCode="I0005" Message="Total time validating file" Details="0:00:11" />
+</FontFile>
+</FontValidatorReport>

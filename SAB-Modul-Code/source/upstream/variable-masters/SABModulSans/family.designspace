@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="200" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Thin.ttf" name="Thin" familyname="SAB Modul Sans" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+    <source filename="Light.ttf" name="Light" familyname="SAB Modul Sans" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Regular.ttf" name="Regular" familyname="SAB Modul Sans" stylename="Regular">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Medium.ttf" name="Medium" familyname="SAB Modul Sans" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="SemiBold.ttf" name="SemiBold" familyname="SAB Modul Sans" stylename="SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="Bold.ttf" name="Bold" familyname="SAB Modul Sans" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="Black.ttf" name="Black" familyname="SAB Modul Sans" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Thin" familyname="SAB Modul Sans" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance name="Light" familyname="SAB Modul Sans" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="Regular" familyname="SAB Modul Sans" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance name="Medium" familyname="SAB Modul Sans" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance name="SemiBold" familyname="SAB Modul Sans" stylename="SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance name="Bold" familyname="SAB Modul Sans" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance name="Black" familyname="SAB Modul Sans" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

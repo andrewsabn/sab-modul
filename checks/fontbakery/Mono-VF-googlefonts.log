@@ -1,0 +1,439 @@
+Start ... running 455 individual check executions.
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulMono-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҳ, ӣ, ӯ, ҷ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulMono.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҷ, ӯ, ӣ, ҳ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulMono-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Mono" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/family_name_compliance
+    Check family name for GF Guide compliance.
+    with SABModulMono.ttf
+
+    Rationale:                                                                
+                                                                                
+    Checks the family name for compliance with the Google Fonts Guide.          
+    https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts            
+                                                                                
+    If you want to have your family name added to the CamelCase exceptions      
+    list, please submit a pull request to the                                   
+    camelcased_familyname_exceptions.txt file.                                  
+                                                                                
+    Similarly, abbreviations can be submitted to the                            
+    abbreviations_familyname_exceptions.txt file.                               
+                                                                                
+    These are located in the Lib/fontbakery/data/googlefonts/ directory of the  
+    FontBakery source code currently hosted at                                  
+    https://github.com/fonttools/fontbakery/                                    
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4049
+
+    FAIL "SAB Modul Mono" contains an abbreviation. [code: abbreviation]        
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulMono-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_copyright
+    Copyright notices match canonical pattern in fonts
+    with SABModulMono.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check aims at ensuring a uniform and legally accurate copyright        
+    statement on the name table entries and METADATA.pb files of font files     
+    across the Google Fonts library.                                            
+                                                                                
+    We also check that the copyright field in METADATA.pb matches the contents  
+    of the name table nameID 0 (Copyright), and that the copyright notice       
+    within the METADATA.pb file is not too long; if it is more than 500         
+    characters, this may be an indication that either a full license or the     
+    font's description has been included in this field by mistake.              
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/2383
+               https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL Name Table entry: Copyright notices should match a pattern similar     
+         to:                                                                    
+                                                                                
+         "Copyright 2020 The Familyname Project Authors (git url)"              
+                                                                                
+         But instead we have got:                                               
+                                                                                
+         "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
+         bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulMono-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current                expected                
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Mono         SAB Modul Mono          
+          Subfamily Name         Italic                 Italic                  
+          Full Name              SAB Modul Mono         SAB Modul Mono Italic   
+                                 Regular Oblique                                
+          Postscript Name        SABModulMono-Regular…  SABModulMono-Italic     
+          Typographic Family     SAB Modul Mono         N/A                     
+          Name                                                                  
+          Typographic Subfamily  Regular Italic         N/A                     
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/font_names
+    Check font names are correct
+    with SABModulMono.ttf
+
+    Rationale:                                                                
+                                                                                
+    Google Fonts has several rules which need to be adhered to when setting a   
+    font's name table. Please read:                                             
+    https://googlefonts.github.io/gf-guide/statics.html#supported-styles        
+    https://googlefonts.github.io/gf-guide/statics.html#style-linking           
+    https://googlefonts.github.io/gf-guide/statics.html#unsupported-styles      
+    https://googlefonts.github.io/gf-guide/statics.html#single-weight-families  
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL Font names are incorrect:                                              
+                                                                                
+                                                                                
+          nameID                 current                expected                
+          ───────────────────────────────────────────────────────────────────   
+          Family Name            SAB Modul Mono         SAB Modul Mono          
+          Subfamily Name         Regular                Regular                 
+          Full Name              SAB Modul Mono         SAB Modul Mono          
+                                 Regular                Regular                 
+          Postscript Name        SABModulMono-Regular   SABModulMono-Regular    
+          Typographic Family     SAB Modul Mono         N/A                     
+          Name                                                                  
+          Typographic Subfamily  Regular                N/A                     
+          Name                                                                  
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/fvar_instances
+    Check variable font instances
+    with SABModulMono-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Check a font's fvar instance coordinates comply with our guidelines:        
+    https://googlefonts.github.io/gf-guide/variable.html#fvar-instances         
+                                                                                
+    This check is skipped for fonts that have a Morph (MORF) axis since we      
+    allow users to define their own custom instances.                           
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL fvar instances are incorrect:                                          
+                                                                                
+          • Add missing instances                                               
+          • Delete additional instances                                         
+                                                                                
+                                                                                
+          Name               current     expected                               
+          ─────────────────────────────────────────                             
+          Regular Italic     wght=400.0  N/A                                    
+          Thin Italic        wght=200.0  N/A                                    
+          ExtraLight Italic  N/A         wght=200.0                             
+          Light Italic       wght=300.0  wght=300.0                             
+          Italic             N/A         wght=400.0                             
+          Medium Italic      wght=500.0  wght=500.0                             
+          SemiBold Italic    wght=600.0  wght=600.0                             
+          Bold Italic        wght=700.0  wght=700.0                             
+          ExtraBold Italic   N/A         wght=800.0                             
+          Black Italic       wght=900.0  wght=900.0                             
+                                                                                
+                                                                                
+         [code: bad-fvar-instances]                                             
+
+    Result: FAIL
+
+ >> googlefonts/fvar_instances
+    Check variable font instances
+    with SABModulMono.ttf
+
+    Rationale:                                                                
+                                                                                
+    Check a font's fvar instance coordinates comply with our guidelines:        
+    https://googlefonts.github.io/gf-guide/variable.html#fvar-instances         
+                                                                                
+    This check is skipped for fonts that have a Morph (MORF) axis since we      
+    allow users to define their own custom instances.                           
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/pull/3800
+
+    FAIL fvar instances are incorrect:                                          
+                                                                                
+          • Add missing instances                                               
+          • Delete additional instances                                         
+                                                                                
+                                                                                
+          Name        current     expected                                      
+          ──────────────────────────────────                                    
+          Thin        wght=200.0  N/A                                           
+          ExtraLight  N/A         wght=200.0                                    
+          Light       wght=300.0  wght=300.0                                    
+          Regular     wght=400.0  wght=400.0                                    
+          Medium      wght=500.0  wght=500.0                                    
+          SemiBold    wght=600.0  wght=600.0                                    
+          Bold        wght=700.0  wght=700.0                                    
+          ExtraBold   N/A         wght=800.0                                    
+          Black       wght=900.0  wght=900.0                                    
+                                                                                
+                                                                                
+         [code: bad-fvar-instances]                                             
+
+    Result: FAIL
+
+ >> googlefonts/STAT/axisregistry
+    Validate STAT particle names and values match the fallback names in 
+GFAxisRegistry.
+    with SABModulMono-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Check that particle names and values on STAT table match the fallback       
+    names in each axis entry at the Google Fonts Axis Registry, available at    
+    https://github.com/google/fonts/tree/main/axisregistry                      
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/3022
+
+    FAIL Axis Value for 'wght':'Thin' is expected to be '100.0' but this font   
+         has 'Thin'='200.0'. [code: bad-coordinate]                             
+
+    Result: FAIL
+
+ >> googlefonts/STAT/axisregistry
+    Validate STAT particle names and values match the fallback names in 
+GFAxisRegistry.
+    with SABModulMono.ttf
+
+    Rationale:                                                                
+                                                                                
+    Check that particle names and values on STAT table match the fallback       
+    names in each axis entry at the Google Fonts Axis Registry, available at    
+    https://github.com/google/fonts/tree/main/axisregistry                      
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/3022
+
+    FAIL Axis Value for 'wght':'Thin' is expected to be '100.0' but this font   
+         has 'Thin'='200.0'. [code: bad-coordinate]                             
+
+    Result: FAIL
+
+qa-environment/lib/python3.12/site-packages/fontbakery/checks/vendorspecific/googlefonts/varfont/generate_static.py:39: UserWarning: 'instantiateVariableFont' is deprecated; use fontTools.varLib.instancer.instantiateVariableFont instead for either full or partial instancing
+  font = mutator.instantiateVariableFont(ttFont, loc)
+
+Total:
+    ERROR: 0
+    FATAL: 0
+    FAIL: 12
+    WARN: 17
+    INFO: 13
+    SKIP: 181
+    PASS: 232
+
+
+
+    Meaning of check results:
+
+    An ERROR is something wrong with FontBakery itself, possibly a bug.
+    A  FATAL is an extremely severe issue that must be addressed immediately.
+    A  FAIL is a problem with the font that must be fixed.
+    A  WARN is something that you should consider addressing.
+    An INFO result simply prints something useful. Typically stats.
+    A  PASS means the font looks good for the given checking routine.
+And a  SKIP happens when the check does not apply to the given font.
+
+    If you get ERRORs, please help us improve the tool by reporting them at
+    https://github.com/fonttools/fontbakery/issues (but other kinds of bug
+    reports and/or feature requests are also always welcome, of course!)
+
+
+
+DONE!
+A report in JSON format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Mono-VF-googlefonts.json"
+A report in html format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Mono-VF-googlefonts.html"

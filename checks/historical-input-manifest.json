@@ -1,0 +1,779 @@
+{
+  "scope": "Historical accepted private release, before OFL metadata transition. These hashes do not identify the current OFL files.",
+  "historical_data": {
+    "base": "static 46 / VF and WEB 49",
+    "changes": "Release name/head/CFF metadata, subset OS/2 corrections, personal license; Fable nameID0/10 and U+2022 only, see checks/fable-fixes.json",
+    "files": [
+      {
+        "file": "TTF/SABModulMono-Black.ttf",
+        "input_sha256": "2d53c76f7f1f59b90589c2d5bf11d6114e5b428daa9fb1516ccb550409cc556d",
+        "sha256": "2857a19bd9a386f65fc3818c2d585d239edd86f7d2d7d741b238658e7b47e71f",
+        "before_bytes": 106120,
+        "bytes": 105624
+      },
+      {
+        "file": "TTF/SABModulMono-BlackOblique.ttf",
+        "input_sha256": "e370b92015eca358855b27172d9b4ce78ae2ccca4705b9c7a8a9c8a02bdf87cd",
+        "sha256": "ec05730e53998ad94bc6c53b512b072fc54b5eea813fb89489df8feb30c2754f",
+        "before_bytes": 106796,
+        "bytes": 106328
+      },
+      {
+        "file": "TTF/SABModulMono-Bold.ttf",
+        "input_sha256": "839e28bdf62a3f93aa486698931a505713c5e4852fb53dbebd36b913e4796adf",
+        "sha256": "d4674cdf4327770d20516f0d1e46deaac59ed146014a89c1ee29acb6a34a0e00",
+        "before_bytes": 108588,
+        "bytes": 108072
+      },
+      {
+        "file": "TTF/SABModulMono-BoldOblique.ttf",
+        "input_sha256": "917e3fcffaeff11d2ffdfa155698699f25793a5a9cf60c0a9b062dc12ad103e1",
+        "sha256": "76d4c3cd5eabf9fc355d1f5259b9b020deef14e2d5f8b3ed1dd21e449746828f",
+        "before_bytes": 109592,
+        "bytes": 109048
+      },
+      {
+        "file": "TTF/SABModulMono-Light.ttf",
+        "input_sha256": "9159215c2f149d069c70c5ed8592ad3cf4de91be23b8592a4c96c3c7b9e44ce3",
+        "sha256": "4bb3236ef4897d9a72fe0e03a450886835ef6454d70291885dd728c399e074a9",
+        "before_bytes": 110472,
+        "bytes": 109968
+      },
+      {
+        "file": "TTF/SABModulMono-LightOblique.ttf",
+        "input_sha256": "6b7dbc489ea0663386092dcd3d8db65944992c1dc7349bab1c183d235fd6120a",
+        "sha256": "5ed1ba57076fbbe1771e889a8eb0ede2cccbfb5c69f5a19674b9221d3c0b2550",
+        "before_bytes": 111208,
+        "bytes": 110764
+      },
+      {
+        "file": "TTF/SABModulMono-Medium.ttf",
+        "input_sha256": "908c9f4fbd81deae59ccaaa7e0f349816307292f1efdba4673e24d9cba8c4ec4",
+        "sha256": "a0730a7e4acbfb604dc3147f396b46b2a88fa7e53dc3480e5a653c38ed9082b8",
+        "before_bytes": 111416,
+        "bytes": 110940
+      },
+      {
+        "file": "TTF/SABModulMono-MediumOblique.ttf",
+        "input_sha256": "f556f6416f45901abab324d7ec61afda3fa6dabbb548d08eaf1b210a44e8b802",
+        "sha256": "8fcc9b702883a21ba8d8dc0c520198068f5cf74d3d0e460c06eb3230aa3a756b",
+        "before_bytes": 112004,
+        "bytes": 111484
+      },
+      {
+        "file": "TTF/SABModulMono-Regular.ttf",
+        "input_sha256": "9f09ddd0d87811a35184208d6225275dd7934510f0db06b159e40e7ed4279ce2",
+        "sha256": "9b36598b45ed20447d43ee48f797acaf1a329abeb9b5043d4ff7406b8832b355",
+        "before_bytes": 111604,
+        "bytes": 111080
+      },
+      {
+        "file": "TTF/SABModulMono-RegularOblique.ttf",
+        "input_sha256": "6ad494e9cc823f1178ed422f4bc370f3890c7fe7e6e3a2676fb6b1561fe9f81f",
+        "sha256": "eb510f558ed15f7ba8e2543b95cbcd84f355d34983a341bddc935d5022bc4cec",
+        "before_bytes": 112504,
+        "bytes": 112028
+      },
+      {
+        "file": "TTF/SABModulMono-SemiBold.ttf",
+        "input_sha256": "a97e109cd7170ebb8f7b0e6678e1755b0fda3f2b606148e8be7d8dda4188eba7",
+        "sha256": "279d49a93d1e385dc71f964bb78e74511f25c3c035a2224389ac7038f34ea1f2",
+        "before_bytes": 110904,
+        "bytes": 110384
+      },
+      {
+        "file": "TTF/SABModulMono-SemiBoldOblique.ttf",
+        "input_sha256": "52ab5de6df5b7ade2f00d1699ce8386284a8263ebb65bf9bcebc42f1d3354234",
+        "sha256": "aa1827c8478b7794b71a6414222d358aa9e2a9bba0088f545a6f114141a615ee",
+        "before_bytes": 111636,
+        "bytes": 111132
+      },
+      {
+        "file": "TTF/SABModulMono-Thin.ttf",
+        "input_sha256": "d8c9591254d6ce5641a3a56b09e06cac89736b57f83d18270923d13eb25f889d",
+        "sha256": "f6c16fd26ca1faaaa957a6ced71e105a43dcc432d15692d42e0512c1397e3857",
+        "before_bytes": 109740,
+        "bytes": 109308
+      },
+      {
+        "file": "TTF/SABModulMono-ThinOblique.ttf",
+        "input_sha256": "33a35dbb9c61ebfdc8fe340c8315467747101745794805f723ceefea257ec7bf",
+        "sha256": "e0f0dcd3e05518155976ba16ecf843b2c9e443f66a4dfc16aaf29a0e63805b83",
+        "before_bytes": 110848,
+        "bytes": 110392
+      },
+      {
+        "file": "TTF/SABModulSans-Black.ttf",
+        "input_sha256": "17e8bf86f7e40f60da27f45058ff3dfe584da79088ee2a0e1fe3f33184daa5f8",
+        "sha256": "53aad45cb7c5660c2e01c054fa7c722d08cf167d944b3bac193294a7f5d2eec6",
+        "before_bytes": 180696,
+        "bytes": 180212
+      },
+      {
+        "file": "TTF/SABModulSans-BlackOblique.ttf",
+        "input_sha256": "eb7fb216490258ec845a64defb35b9434f1154bf6c26fa593ac75e4516190307",
+        "sha256": "4a1e6e36cc90f28279ef64421f4c5145e5ff14f8f8e990e3cc776809f3fd191b",
+        "before_bytes": 181140,
+        "bytes": 180656
+      },
+      {
+        "file": "TTF/SABModulSans-Bold.ttf",
+        "input_sha256": "0f19386b48457c56c3e343f14ae5071a57de36187ca39885aff38aebdadf0d7a",
+        "sha256": "1767f2b28f2504b40a51ad4c5cd6c9399d86296aac6b8a033e77c44882b9d21a",
+        "before_bytes": 182492,
+        "bytes": 181984
+      },
+      {
+        "file": "TTF/SABModulSans-BoldOblique.ttf",
+        "input_sha256": "8cac634f00807cd8854f6943956dbf7623591aa6c74b10892c420622e7c56d54",
+        "sha256": "66cb4fc25ecc8c21df49be6dc8602f8f2be60ec535bb6846058a7f482be682db",
+        "before_bytes": 185472,
+        "bytes": 184956
+      },
+      {
+        "file": "TTF/SABModulSans-Light.ttf",
+        "input_sha256": "df41bb312209a6768bdb15e5394bd650291126ef93d6d9db63c5672504c3036d",
+        "sha256": "63fb3f189d7e49d99902def48ff19fa4ca97952e82e10607713a21037fd63ddf",
+        "before_bytes": 189148,
+        "bytes": 188648
+      },
+      {
+        "file": "TTF/SABModulSans-LightOblique.ttf",
+        "input_sha256": "d076aef99778b8926fa7502baae8b647f4a9fc0b3bce3b08ae9e4e7b5917a524",
+        "sha256": "8c0e94243430dca7445eae2812a54979382df4a1ffe26cc7722644a8a3aa7878",
+        "before_bytes": 190952,
+        "bytes": 190484
+      },
+      {
+        "file": "TTF/SABModulSans-Medium.ttf",
+        "input_sha256": "498e1e29b2aab93c3525ee73624e1e5f032beeaf820be2148cf52ba59a6007ac",
+        "sha256": "be5aeada6f3c897b32ecf28822a17888dd9a692d9e229d72eb3a822e9a968c59",
+        "before_bytes": 190176,
+        "bytes": 189700
+      },
+      {
+        "file": "TTF/SABModulSans-MediumOblique.ttf",
+        "input_sha256": "17c10eb4d0c3c72deea63f7785f9bfa413762c05080f6db6553a389285ad4c77",
+        "sha256": "9726fe1a1849c2bdc297707ec358c1ef2043f4fdd566232c845404ac1b0d42b8",
+        "before_bytes": 191828,
+        "bytes": 191316
+      },
+      {
+        "file": "TTF/SABModulSans-Regular.ttf",
+        "input_sha256": "199b2e21744f0ee90a57657b1528a8ee433a5224c7dc6d6ec6d656a16d26044f",
+        "sha256": "bc3d7ccc1513f5dac3b8e387b3e161671414a0379f998a62a4913b116e80ed42",
+        "before_bytes": 189760,
+        "bytes": 189208
+      },
+      {
+        "file": "TTF/SABModulSans-RegularOblique.ttf",
+        "input_sha256": "b891ed1a39aa194b7f285693d5f2297cfaef70d5949539fa60e98a7331e830b5",
+        "sha256": "e621f2b4f40f805f7da5fb7bdd149ca768b921996d04065e11f89ecf0bb843a0",
+        "before_bytes": 193636,
+        "bytes": 193096
+      },
+      {
+        "file": "TTF/SABModulSans-SemiBold.ttf",
+        "input_sha256": "ada47019288731a287c7bff7799c81ac68e592db8e3c5413ff3aee705758f3e4",
+        "sha256": "e9af8e8c03428acfaba3f46bd58ccbbdf6a5605d0c14dee0cc8db86c35b9d9ed",
+        "before_bytes": 185224,
+        "bytes": 184696
+      },
+      {
+        "file": "TTF/SABModulSans-SemiBoldOblique.ttf",
+        "input_sha256": "bc75bd48c93282a4f14fe300892413e54dd4dc9f67c2ec4151faf52bb5cce081",
+        "sha256": "3cbfd9ed6b3ff66945b37af6b5672bc0430326ba7da58c8a304d3307c1a76841",
+        "before_bytes": 188120,
+        "bytes": 187612
+      },
+      {
+        "file": "TTF/SABModulSans-Thin.ttf",
+        "input_sha256": "f0cd482267489c66bba7fb1a3f654e514f4f7016597656fdc59e9dbaf1c017d4",
+        "sha256": "d286bfcbfe1e9198eac06d3be4ad62f8c8dc03bc378efd25d4822d94e4e933a9",
+        "before_bytes": 187956,
+        "bytes": 187508
+      },
+      {
+        "file": "TTF/SABModulSans-ThinOblique.ttf",
+        "input_sha256": "9e194c7076cee77e5023235c188b4dac0871b57b3941ad5e720dcf4970b11749",
+        "sha256": "73bad604bae338e79912a4e2bb29cce85700e0a03a925688f05dc207f13156fc",
+        "before_bytes": 190844,
+        "bytes": 190420
+      },
+      {
+        "file": "OTF/SABModulMono-Black.otf",
+        "input_sha256": "302965cb1b41ba91187777659c8376772126fe29e2ffd9cd53f190a3c62b5cff",
+        "sha256": "df19e6defac6b63f481d2ea6fc6257498202bf2ef775ff29d03f41e10368bad8",
+        "before_bytes": 108560,
+        "bytes": 108620
+      },
+      {
+        "file": "OTF/SABModulMono-BlackOblique.otf",
+        "input_sha256": "fe1f02f3810f973db207af3d7f5519b3b8ff8bb76ff692ed0310764616e3d147",
+        "sha256": "fb314786b802682854165838b3fba52d2778ea29f3aa2263303f59062e5ec53b",
+        "before_bytes": 110492,
+        "bytes": 110548
+      },
+      {
+        "file": "OTF/SABModulMono-Bold.otf",
+        "input_sha256": "00aa9c6a0eccfbe008b85a07fd9426dfe22281096e2ae4a14168c7cbf9651bc7",
+        "sha256": "fc9f19e940b3a93fea6832ced3e05cc70fe599b9c29deaeddea0300de7ccb41d",
+        "before_bytes": 111188,
+        "bytes": 111252
+      },
+      {
+        "file": "OTF/SABModulMono-BoldOblique.otf",
+        "input_sha256": "92378c2ca1581ad90781f57c90ebdcc43f1f55eccea014f7e7ee7f4c1e664d16",
+        "sha256": "3276ffaa969e0c5ef9997d946ad365c6e8019d237e544736e866046fe791a747",
+        "before_bytes": 112968,
+        "bytes": 113032
+      },
+      {
+        "file": "OTF/SABModulMono-Light.otf",
+        "input_sha256": "bd66a4e31159d7f95b0d100b3f73be2c16295b0f501967b6c2b94fe2c6458af8",
+        "sha256": "05b79bd666732272e0aa48dbea28ac111454ee44af083bd4d908e8f2e8ddedf9",
+        "before_bytes": 113176,
+        "bytes": 113256
+      },
+      {
+        "file": "OTF/SABModulMono-LightOblique.otf",
+        "input_sha256": "2ff80feaf9b057d2bd1671f569d6ed31a1ad022765313bdb1380f8127ea37378",
+        "sha256": "672ed0aaf17b6f4393dc1a57ddf8ec852eb5f9515b60873f5f923a09e50f2a9f",
+        "before_bytes": 115768,
+        "bytes": 115848
+      },
+      {
+        "file": "OTF/SABModulMono-Medium.otf",
+        "input_sha256": "e1b353c606a1a4047226e671605ddaf596f1a7e470f5b7e749a2f784a073fabb",
+        "sha256": "3d6d661def4b8cfce624044e21bff49f874663eb68a62810addf564438b7da47",
+        "before_bytes": 114252,
+        "bytes": 114316
+      },
+      {
+        "file": "OTF/SABModulMono-MediumOblique.otf",
+        "input_sha256": "6e34d0a7c6b5181af14d802fcc90de0b363835a0d11ce195b4630f9047a80bd1",
+        "sha256": "176262b52c42f1edb59b2fa9def6bf53d49b17252f224712d908d69ac09d2dc4",
+        "before_bytes": 116520,
+        "bytes": 116580
+      },
+      {
+        "file": "OTF/SABModulMono-Regular.otf",
+        "input_sha256": "081b83d60dab46584fcd33c50f93ab2f73ec35bf68dc117fdf457c41c562d10e",
+        "sha256": "896127c8f94f0441ea306bdd814c1223b4c4699c90dc549de3b5b8213ba0e781",
+        "before_bytes": 114392,
+        "bytes": 114452
+      },
+      {
+        "file": "OTF/SABModulMono-RegularOblique.otf",
+        "input_sha256": "fc00fbc69c9a1865bb8b9230c1cc09bdbe09ebf376dc7c5553b3986b87554c96",
+        "sha256": "e889f71e8b3e976303e9bcf0ecde992bcfc8baae39f1c8beb2541f20fdd205ec",
+        "before_bytes": 117040,
+        "bytes": 117104
+      },
+      {
+        "file": "OTF/SABModulMono-SemiBold.otf",
+        "input_sha256": "b4d0936b85df116c6bf2487c5868a51d83e6e62ba101c13761225a781e561e7d",
+        "sha256": "96e94053da4aec99269014150ef761f7f4d8b6b1a2eb35164c4e73ccf72098d5",
+        "before_bytes": 113592,
+        "bytes": 113656
+      },
+      {
+        "file": "OTF/SABModulMono-SemiBoldOblique.otf",
+        "input_sha256": "20d49589d278be67eaf80fc242bcafeb716c68606a9ecade0d7979154eacc326",
+        "sha256": "4550baa7c5984e40283151514825b438c38243f58988e9ab2c07b99d4ef2ccf1",
+        "before_bytes": 115504,
+        "bytes": 115568
+      },
+      {
+        "file": "OTF/SABModulMono-Thin.otf",
+        "input_sha256": "4d0d7cb99fcb240eebf92717c0c1980b0ce46e78a0d238b80bb17102381e5dbf",
+        "sha256": "9eee1c21534b9679e8b64ab831b4d2cd02ca8eb566be4298313463d7ba820942",
+        "before_bytes": 113044,
+        "bytes": 113136
+      },
+      {
+        "file": "OTF/SABModulMono-ThinOblique.otf",
+        "input_sha256": "60257defbed7613c6015729184ada890715033a5a629344b4210271525bd07bd",
+        "sha256": "aa4cd4ecb3e37012be466d895c8135c6578a9e1adc71a67f1a67910d7597ac73",
+        "before_bytes": 115688,
+        "bytes": 115780
+      },
+      {
+        "file": "OTF/SABModulSans-Black.otf",
+        "input_sha256": "4177d4df9503213669a35018db230350954be21b01caf4f37a3856458b14f4d4",
+        "sha256": "c0dddd384cec544d8169917de3883baf598738bd6906848b5f8243443f4c849a",
+        "before_bytes": 184196,
+        "bytes": 184256
+      },
+      {
+        "file": "OTF/SABModulSans-BlackOblique.otf",
+        "input_sha256": "de0e087435f40e46e94482d1307c4d4ad1af213401f1f496a518dbd05a81487d",
+        "sha256": "555cb088c23eaf4ee08f244041e1a255477e0b22eafbf02e1877ec508bf92439",
+        "before_bytes": 185992,
+        "bytes": 186052
+      },
+      {
+        "file": "OTF/SABModulSans-Bold.otf",
+        "input_sha256": "bca35389f510f8d75bae61d742ff4524eb358928488e578845339c94ba2a15e3",
+        "sha256": "f00b54855917fc187e8a787a43d1e239363b8b39f71db0cc1c89a072229a93bd",
+        "before_bytes": 185556,
+        "bytes": 185620
+      },
+      {
+        "file": "OTF/SABModulSans-BoldOblique.otf",
+        "input_sha256": "35e612429b1990cd085d4cd5276511ec0a09ef5a3d59890006262128311ba57e",
+        "sha256": "859986c24cde0283181d358eb4526176eb7e0d176e584b344f59bacac348af8e",
+        "before_bytes": 189692,
+        "bytes": 189756
+      },
+      {
+        "file": "OTF/SABModulSans-Light.otf",
+        "input_sha256": "e899eeb6a92a8a64f471b7ddce407d757dd0b2e706656ff65f36d31f05409589",
+        "sha256": "9736f663a4ae03ec461e979ad128840d294f70b21a3957e28b7e6e3a55b4cf90",
+        "before_bytes": 192964,
+        "bytes": 193044
+      },
+      {
+        "file": "OTF/SABModulSans-LightOblique.otf",
+        "input_sha256": "9cfc8400fbac8ca40c4031d82ed83651c925cee021c29a889a76b9d446b04c56",
+        "sha256": "8d8cdd48da20788f8dba9475176eabe3e0c3ca95c1648e2601cb131cb0a2d7ab",
+        "before_bytes": 196284,
+        "bytes": 196364
+      },
+      {
+        "file": "OTF/SABModulSans-Medium.otf",
+        "input_sha256": "53f73c2db83af8604094b7ecc28f4689b0aa9b52d1903043683f91af1758bd4a",
+        "sha256": "bd2072eba217e7bc16bde46516b346e3d92d77fa3fc128decb717f3df71ad892",
+        "before_bytes": 193204,
+        "bytes": 193268
+      },
+      {
+        "file": "OTF/SABModulSans-MediumOblique.otf",
+        "input_sha256": "ff47ff7e73a6b547d7a737bc1ddfccb0b4458fb739d9dc8dc02a19b4350f6caa",
+        "sha256": "ba7c5bddd8fd44cc5c7f34cd1e045d44eb7e9aa52d6e743c60caad61dbfa3536",
+        "before_bytes": 196556,
+        "bytes": 196616
+      },
+      {
+        "file": "OTF/SABModulSans-Regular.otf",
+        "input_sha256": "7aefb1380bf0d23d969a694d01fe8b25890a5b8b618e3ccb8feb95b9e366b79d",
+        "sha256": "52c2898f83649775bdce3557cc9986170bc71c9884da344aa23d171b8082c298",
+        "before_bytes": 193760,
+        "bytes": 193824
+      },
+      {
+        "file": "OTF/SABModulSans-RegularOblique.otf",
+        "input_sha256": "062dba086a98013e4fb6a69be86d1c53a69cd25adf558a34a1aeb296e86c5e01",
+        "sha256": "96b8ac33f4b4684f52a2342b5387d340aa90bfd3d9b184704b06e50f1fa364c4",
+        "before_bytes": 199180,
+        "bytes": 199240
+      },
+      {
+        "file": "OTF/SABModulSans-SemiBold.otf",
+        "input_sha256": "d48b9e5bd33959804afe056368b2fddaca2803524070071c42d57a226e9a8d04",
+        "sha256": "1b15aa4d8c43b8c2a6c4c4968417363350033480cf21da399ccd12deb910131a",
+        "before_bytes": 188008,
+        "bytes": 188072
+      },
+      {
+        "file": "OTF/SABModulSans-SemiBoldOblique.otf",
+        "input_sha256": "a8f6123165645ed93d04bd9ae89259b418a342b7e6aeebc7015c3262a876dba0",
+        "sha256": "cee5e8484ba902c36ab4142e9caaa2ee8732722be0202d70f3204ab7d555fdc8",
+        "before_bytes": 192520,
+        "bytes": 192584
+      },
+      {
+        "file": "OTF/SABModulSans-Thin.otf",
+        "input_sha256": "cd704517d5771cc19df9b313e13f84e4702ac52205d234afe2916d9197843d50",
+        "sha256": "79fcb822896ac0119a72742b75bbe885993cd2807877d3541b2966154747a4b4",
+        "before_bytes": 192172,
+        "bytes": 192264
+      },
+      {
+        "file": "OTF/SABModulSans-ThinOblique.otf",
+        "input_sha256": "e8535ff53cdf687356412684576418de4842a98645f0eca0216ee8c5d9d14ff3",
+        "sha256": "eabff24ed04999cb03d1944abd99f06a4058c021b33b607ed9e73a38dfde7587",
+        "before_bytes": 196636,
+        "bytes": 196728
+      },
+      {
+        "file": "WOFF2/SABModulMono-Black.woff2",
+        "input_sha256": "11b01588ba72be9b1e9fdd301108a01693f0f1901564c0cfda37690d97a54583",
+        "sha256": "35f56d0d7241cffc27d05e4b03cf0cb1f0f9e0a94dffa988694915468c43f985",
+        "before_bytes": 40448,
+        "bytes": 40352
+      },
+      {
+        "file": "WOFF2/SABModulMono-BlackOblique.woff2",
+        "input_sha256": "6ec9e02efcddc1a273f890f061eaafb01c3fc126709ee6450d83693e74a2420b",
+        "sha256": "f0824fe049617ff26b4af75880a1759a23eb2492379c41371b07e910b2245419",
+        "before_bytes": 41984,
+        "bytes": 41964
+      },
+      {
+        "file": "WOFF2/SABModulMono-Bold.woff2",
+        "input_sha256": "ba5aca1e555658fc4c3a78426c47ee67696aab165a0a9cd78c2078ce05a7a8d7",
+        "sha256": "722447d72eb002710398f96d2a75972bb1742c91d790d56ad348e64b05f4968b",
+        "before_bytes": 40540,
+        "bytes": 40656
+      },
+      {
+        "file": "WOFF2/SABModulMono-BoldOblique.woff2",
+        "input_sha256": "8caec4f0ca055f4dd60df61a9680173608621c1cd0f56f881632c18c63aa1711",
+        "sha256": "3c0530724c3da815c587e716b968fdcc2c4def564ce33178edba20df38874b5e",
+        "before_bytes": 42636,
+        "bytes": 42488
+      },
+      {
+        "file": "WOFF2/SABModulMono-Light.woff2",
+        "input_sha256": "192d9ac314bd401704f618a47247ee483c8f8d097ccd14022faa7202b8d53f9b",
+        "sha256": "b599b5eed6c7248bb9c7862f68d7ce110875ee9c2eaacacdc83d53141ef74a1b",
+        "before_bytes": 41120,
+        "bytes": 41144
+      },
+      {
+        "file": "WOFF2/SABModulMono-LightOblique.woff2",
+        "input_sha256": "46391b4b4ee923be7ff5613aa1ff0b9f7d618fa2c08af6b68fab58d2f2632811",
+        "sha256": "11772064a4e6590dd633825f436f1fe52e7426abdcfcd47d89ab91faad7b0aa2",
+        "before_bytes": 42936,
+        "bytes": 42788
+      },
+      {
+        "file": "WOFF2/SABModulMono-Medium.woff2",
+        "input_sha256": "9b9f1c719412fa9c2f1b11a0eff5f30b55b719d0497d0248ecd8c376ac5c2e29",
+        "sha256": "125f55b5ee4954abb1c16382afcfbd4f1960f7d6cba56160d5162b74b539b12d",
+        "before_bytes": 41308,
+        "bytes": 41328
+      },
+      {
+        "file": "WOFF2/SABModulMono-MediumOblique.woff2",
+        "input_sha256": "8c560789fb1f8f21cb4e0c445882165611cb5e508c5d5ea538204a697f128afb",
+        "sha256": "799e94df33c4f1657253bd9129c1bb213d8fe834bc65e2c7ae568bd54932b1ab",
+        "before_bytes": 43044,
+        "bytes": 42920
+      },
+      {
+        "file": "WOFF2/SABModulMono-Regular.woff2",
+        "input_sha256": "c887815e4ee1bbc055254cb468794f29b964edd1e10ab6f03692b90fa5205a67",
+        "sha256": "ea2ddc5c0081047e30eac38021f7dedf360913a4848811d8a8a5caeadaf94a6d",
+        "before_bytes": 41680,
+        "bytes": 41460
+      },
+      {
+        "file": "WOFF2/SABModulMono-RegularOblique.woff2",
+        "input_sha256": "2c4e138808d135fd00ffd21308f5b0d9939fbd8f2fb3c246ff4847b30a51e3c9",
+        "sha256": "93461dd07fe8059b4421ae41f508c5d3b148cdff053cc37543f529e4047d7bc0",
+        "before_bytes": 43556,
+        "bytes": 43500
+      },
+      {
+        "file": "WOFF2/SABModulMono-SemiBold.woff2",
+        "input_sha256": "3a8db013ee074a6b6e85016fe5dbcac13a72db5aeabec827917ba0fdc8f99bb6",
+        "sha256": "9ffb44e8b87dbd372b8bd544759c26d2848b5c9cdaaa757f077bd61814802825",
+        "before_bytes": 41108,
+        "bytes": 41112
+      },
+      {
+        "file": "WOFF2/SABModulMono-SemiBoldOblique.woff2",
+        "input_sha256": "56bdbb85617ea34c8309fd51350703872153cfb2fa1cb4aabdac28de229c7414",
+        "sha256": "aa13cc5e69ca76fa6064d64fcaaf915f67efc9f1d728615e8b16bf8550feea9b",
+        "before_bytes": 43096,
+        "bytes": 42932
+      },
+      {
+        "file": "WOFF2/SABModulMono-Thin.woff2",
+        "input_sha256": "9f84df5040b6da040de5d6c03c4ac3107c38726e13c101041a84bd5cf9d6f953",
+        "sha256": "381b996fd95b90f33494fcbc1248487e58dbaa9dc6ffadd2b67ed46c56b1746c",
+        "before_bytes": 40932,
+        "bytes": 40968
+      },
+      {
+        "file": "WOFF2/SABModulMono-ThinOblique.woff2",
+        "input_sha256": "28150b3b0c49506dfa9c07ce08f3ea33fa093d72875fa81265e86ab0a9b6cfd3",
+        "sha256": "4bc04984343ca0e1d61d1b6b03be3b56d22eb1d4e43cfa25f01a3aa89eaf7a66",
+        "before_bytes": 42680,
+        "bytes": 42760
+      },
+      {
+        "file": "WOFF2/SABModulSans-Black.woff2",
+        "input_sha256": "cf018f30bc84f9a3f7f9ee0899e5dfdd68c9d268d78f305f7c5ebd8a740d4b55",
+        "sha256": "0f20dbc529ac9bb2439915c76c5f2c77d09092fd482d482802f4d78748be8022",
+        "before_bytes": 51176,
+        "bytes": 51064
+      },
+      {
+        "file": "WOFF2/SABModulSans-BlackOblique.woff2",
+        "input_sha256": "a104ba480d0ef738470cd2ebda1b72071fac6e77894d28dec838c09a676063eb",
+        "sha256": "69b4adea971bfb2561bd91862a39a7dea7b23079116d88a8fc4cda6f9513bd34",
+        "before_bytes": 52480,
+        "bytes": 52440
+      },
+      {
+        "file": "WOFF2/SABModulSans-Bold.woff2",
+        "input_sha256": "f43c9f13282667c7edf1ac4913f609a0298dd997fc4f840bc5209ff0b7aa806d",
+        "sha256": "7b5ce09d5bac523c3d72fe85f60b49d1883f0941ea94550594fb48c7afad7170",
+        "before_bytes": 51436,
+        "bytes": 51528
+      },
+      {
+        "file": "WOFF2/SABModulSans-BoldOblique.woff2",
+        "input_sha256": "5b1734d571d4e009a90baf88ad8f9507df2ef7b16c413dd0902f2b02310637d1",
+        "sha256": "6abe17f3b959378b6364565d22c675f9ef231422d47757ec92502f64cdd407e4",
+        "before_bytes": 52912,
+        "bytes": 52884
+      },
+      {
+        "file": "WOFF2/SABModulSans-Light.woff2",
+        "input_sha256": "9f868932fd932de298c7a0454c3bd9c812dca7056ba4f98eb83362705368d4a9",
+        "sha256": "70edf11c61efc9cb9c9046258593fcda023ad7a28c0a18560e446b22d1618a77",
+        "before_bytes": 50956,
+        "bytes": 51032
+      },
+      {
+        "file": "WOFF2/SABModulSans-LightOblique.woff2",
+        "input_sha256": "995ec9cf13b0477768e4c6c22072185380118a94356a4091bb6e4a91221adc90",
+        "sha256": "1713bf050dcefe90649a8252dbb40b6eadc9da55fa62d9a962b1d2c00a2ca201",
+        "before_bytes": 51968,
+        "bytes": 51908
+      },
+      {
+        "file": "WOFF2/SABModulSans-Medium.woff2",
+        "input_sha256": "393fa1bf3c4570cc010889fad40b3bd127b1c83d7b44090634b971872207b159",
+        "sha256": "34b34e2e3e4eeb6bfd5a16b8fd8cb56f99dd63c6aa51d379566ce8fe16279297",
+        "before_bytes": 51868,
+        "bytes": 51780
+      },
+      {
+        "file": "WOFF2/SABModulSans-MediumOblique.woff2",
+        "input_sha256": "d5d3a6b6b774444febe1db0971fbfbf4ba8e0e0f66c65290545d3a4a7591f8f1",
+        "sha256": "a8fa57cab45d828a0762056b9023d3f2bca6d89b1ffa8a7b691ac20d7aa29a0d",
+        "before_bytes": 52696,
+        "bytes": 52500
+      },
+      {
+        "file": "WOFF2/SABModulSans-Regular.woff2",
+        "input_sha256": "6ac7dc26d8fc041a8857387080e194ae884bda62729c717466a1d634c7f08a28",
+        "sha256": "b0c392353b82f316395217987292fa178888a145eaf6d7878fe9cf3954a3cfe7",
+        "before_bytes": 51600,
+        "bytes": 51548
+      },
+      {
+        "file": "WOFF2/SABModulSans-RegularOblique.woff2",
+        "input_sha256": "3d29c53c11ddb169ccc09a03a6b4b2c8a0083cd59732121cdb987701f7167cda",
+        "sha256": "17e97bcf2fe77922194313d76414fdddaaa95027e106e3514d4261a1c4d79cd2",
+        "before_bytes": 52836,
+        "bytes": 52760
+      },
+      {
+        "file": "WOFF2/SABModulSans-SemiBold.woff2",
+        "input_sha256": "a15f258ebfc10d120553e903f4a6b28dc60baed57b5120f6f87eed96d923f394",
+        "sha256": "583d3ba0bd2a9a7d9e17dcaa579c6235dbee6a2f71856ece16f6a884d35f1e1a",
+        "before_bytes": 52228,
+        "bytes": 52016
+      },
+      {
+        "file": "WOFF2/SABModulSans-SemiBoldOblique.woff2",
+        "input_sha256": "63c03b79d505199e70888bf9bb6fb8359878e4e087b343dffab5ae7ef973c2be",
+        "sha256": "a504be490744e51371fa2b893f3b6dc81c9027ab8fb27b21f96ac0b53f01cbf5",
+        "before_bytes": 53388,
+        "bytes": 53448
+      },
+      {
+        "file": "WOFF2/SABModulSans-Thin.woff2",
+        "input_sha256": "7bef20ffdf73fc71abf87f25efa731e086caf2914befa1ee78df9f0206ce7eec",
+        "sha256": "0669f0d16bee511e765ec0a89565724cedca61b356038f4c3b3bbcd39d5b6fbb",
+        "before_bytes": 50316,
+        "bytes": 50328
+      },
+      {
+        "file": "WOFF2/SABModulSans-ThinOblique.woff2",
+        "input_sha256": "d1cb9158905abe5803c1140fd0a2d21d78958367effbb0a84d62072d85918a59",
+        "sha256": "ede6e688c1cf8c05e635a26a616940accb49b32a8a8436eaf5dcd20034697c87",
+        "before_bytes": 51528,
+        "bytes": 51472
+      },
+      {
+        "file": "VF/SABModulMono-Italic[wght].ttf",
+        "input_sha256": "175c2f485ea30fe854b235870cb1ed5a039bf6376a2d7fc55b7f0740a9b450d5",
+        "sha256": "e84c3c2c016b1a671876c57473fe058fe9bfb2d927be78cdef78b8de207a54aa",
+        "before_bytes": 293792,
+        "bytes": 294208
+      },
+      {
+        "file": "VF/SABModulMono[wght].ttf",
+        "input_sha256": "da2d5df89529460527f75a8cfcb2fd762a761fef9abd8a1047e1ea0179f7ed4f",
+        "sha256": "eb9e22e5fb7243f6b25dfed839ccb8f0dbea3603acc23004d4cc11108fdcc4d3",
+        "before_bytes": 288544,
+        "bytes": 288964
+      },
+      {
+        "file": "VF/SABModulSans-Italic[wght].ttf",
+        "input_sha256": "e0482f7dbe9eca762237731e1f7c6dfeba97eccbd428d42f80cb742b662c2b42",
+        "sha256": "2f4d3f580e24d04a4d6c6d05367fbd524d49186a3dea2675aa65d9a170fab805",
+        "before_bytes": 482984,
+        "bytes": 483320
+      },
+      {
+        "file": "VF/SABModulSans[wght].ttf",
+        "input_sha256": "42b1f049444fe6fc86599fcefcca3e95aee06407d1f9ecdefab3a3e696b3ab8f",
+        "sha256": "149971d1e0ef0ae3d212ed66f3590e1319fca7116cdf8d7952742260a4e2c42d",
+        "before_bytes": 473244,
+        "bytes": 473576
+      },
+      {
+        "file": "VF/SABModulMono-Italic[wght].woff2",
+        "input_sha256": "0f7aa46de5eab0dc55c70d5d7a8bcef8b575b14446075084801f789a5d826313",
+        "sha256": "d6ca2abcdb549032d2fa9a29823cf411da6e88cd6f42583ce1c1b3288b3deb24",
+        "before_bytes": 138480,
+        "bytes": 138388
+      },
+      {
+        "file": "VF/SABModulMono[wght].woff2",
+        "input_sha256": "98213002bf3c3fd23255eea78323e84e500c5cedec972a70cef5952a5e3756b4",
+        "sha256": "c676dfe98e11f6844129f4793f8e140b382d9a6c7a8641673c79a346cb20164d",
+        "before_bytes": 134156,
+        "bytes": 134528
+      },
+      {
+        "file": "VF/SABModulSans-Italic[wght].woff2",
+        "input_sha256": "c6e6cf0bdcb0f3aaaebc1e74677945ad398827f033881f67cee5763ebff2da8b",
+        "sha256": "11e79cf3ea1f96d9e9cbbcff9da8bc972632e2ef61db43a43fb684fa8a08e00a",
+        "before_bytes": 178872,
+        "bytes": 179204
+      },
+      {
+        "file": "VF/SABModulSans[wght].woff2",
+        "input_sha256": "3e48f4ca2f7c85f639903a18ad30719e454e8a97f9e862b5ac3855ae99237223",
+        "sha256": "871fe026424bb9de59928df6705fed1e279d0f1625b4999aa6f6ea39002c7e04",
+        "before_bytes": 173756,
+        "bytes": 174060
+      },
+      {
+        "file": "WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+        "input_sha256": "56db007b56bc2691f9f765fb5738ab3ea78c49ea27f0c5f7b7b4a45ef1d88a10",
+        "sha256": "46e5b1f204d875613341a6e26301953e5b6d896ee65ea019d960464a37226ccf",
+        "before_bytes": 50368,
+        "bytes": 50452
+      },
+      {
+        "file": "WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+        "input_sha256": "2729b12233c414cf496a372cc4a617fc935be23b366a389ff9b43d9ceb999024",
+        "sha256": "96cac8f3812b98f9b7b27a5b557c127c0e1a50a30ba36c237315dcaf203c686a",
+        "before_bytes": 43000,
+        "bytes": 42892
+      },
+      {
+        "file": "WEB/SABModulMono-Italic[wght]-latin.woff2",
+        "input_sha256": "6a6448b067ddc01389658c4b9be0e56e25d6e5ad72ebb00f2bef4b233be8aa03",
+        "sha256": "2cba6468abcc5c7f77a1ea933a4d538c5581ef2bcef731ff3dc08eaf27500bee",
+        "before_bytes": 81124,
+        "bytes": 81044
+      },
+      {
+        "file": "WEB/SABModulMono-Italic[wght]-symbols.woff2",
+        "input_sha256": "b1d59ea489bd25b72e5e470023aed6903472f7e626717046d39938d40665d858",
+        "sha256": "17f21d32fd3bc6272acf7c6b78e2f2e08343d8077932fe2a7f66fd062facba9c",
+        "before_bytes": 18716,
+        "bytes": 18860
+      },
+      {
+        "file": "WEB/SABModulMono[wght]-cyrillic.woff2",
+        "input_sha256": "f0c4a6324fb1441a26691645836b5ccb3cd5ff5d14073092b7f0de84e6fcdeea",
+        "sha256": "6f25ce6c91c9860c4d702c31771eef75a7f9a3a1ec5a17e81a0a610db76a0261",
+        "before_bytes": 49292,
+        "bytes": 49272
+      },
+      {
+        "file": "WEB/SABModulMono[wght]-latin-ext.woff2",
+        "input_sha256": "56868795754b65d5d3a6c04cacefce644cf6469f31fd096821f8ecd2a7e64ac3",
+        "sha256": "d537f7ddf1456d5e8b82369f13f5eaf875c8936a4d63c60311e44632d1d7b478",
+        "before_bytes": 41400,
+        "bytes": 41532
+      },
+      {
+        "file": "WEB/SABModulMono[wght]-latin.woff2",
+        "input_sha256": "2c61d1b5b11b71643c5835f4f28b436a192b3d6eb09b7d59e369ab73f8139bb8",
+        "sha256": "4ce2301c4dd3c08b7f591badb0e3ac1356c49285294f953f5136ff28c8902ad3",
+        "before_bytes": 78372,
+        "bytes": 78332
+      },
+      {
+        "file": "WEB/SABModulMono[wght]-symbols.woff2",
+        "input_sha256": "5919a966501815030c3971d8dcc6657971502ab8fe0f032895f2ce90e756fcc7",
+        "sha256": "5f29b86e29da314a290766d5076aa2d3f377d5cfd7bb63051da6597bc4aeef6a",
+        "before_bytes": 18036,
+        "bytes": 18100
+      },
+      {
+        "file": "WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+        "input_sha256": "9282ddef3008ea149b99dad6c76de0094180f4b9581594e9682bb7ee8889b81d",
+        "sha256": "ed1e760c9f5a9c13871684b5438f61ac1766437d97ec44e6a6fb2064d7adae29",
+        "before_bytes": 61852,
+        "bytes": 61520
+      },
+      {
+        "file": "WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+        "input_sha256": "9602ac9c42c193c078c50a821efc32bf044b09d99a36000915ab5a2ce320f316",
+        "sha256": "9ac3d3d1e2d6478540dd71d35d18304f673a1b534606b6cb54509c531ccf4743",
+        "before_bytes": 49276,
+        "bytes": 49084
+      },
+      {
+        "file": "WEB/SABModulSans-Italic[wght]-latin.woff2",
+        "input_sha256": "10d28cd3f90e47462da1b2e540583f6f544a8e6f2fbced53f9c6433b66bb0e15",
+        "sha256": "1b4cc57a94aaa38faaae2573252a66507c3b8a7a029952d6df5c6c4525e4d2a5",
+        "before_bytes": 95032,
+        "bytes": 95248
+      },
+      {
+        "file": "WEB/SABModulSans-Italic[wght]-symbols.woff2",
+        "input_sha256": "d0b44595d85c880a2fc5deaaf1650dcc5c217676f4a81d3db9dae66412106b4d",
+        "sha256": "e6dcc62005434e0bee49e52fdbc110cbac0a822b3246c781b91d4eb22b98914e",
+        "before_bytes": 20676,
+        "bytes": 20912
+      },
+      {
+        "file": "WEB/SABModulSans-Italic[wght].woff2",
+        "input_sha256": "c6e6cf0bdcb0f3aaaebc1e74677945ad398827f033881f67cee5763ebff2da8b",
+        "sha256": "11e79cf3ea1f96d9e9cbbcff9da8bc972632e2ef61db43a43fb684fa8a08e00a",
+        "before_bytes": 178872,
+        "bytes": 179204
+      },
+      {
+        "file": "WEB/SABModulSans[wght]-cyrillic.woff2",
+        "input_sha256": "45e27b44022aedd64638eb6af8724863414cf6ff6e80d7f8feb6811ae57eeeec",
+        "sha256": "5cdba589883252cbdcb86ef58d7ecf435247cdbc5658b81ee980c8cf4d176fbd",
+        "before_bytes": 59636,
+        "bytes": 59592
+      },
+      {
+        "file": "WEB/SABModulSans[wght]-latin-ext.woff2",
+        "input_sha256": "6d708d0962a4c8f0b1dedc2a4f39ace280cbe046698c14c64b383abef536f00d",
+        "sha256": "c07516c53805a644550b976167029b83356960af6f9642ea87de863eae6047d5",
+        "before_bytes": 47428,
+        "bytes": 47352
+      },
+      {
+        "file": "WEB/SABModulSans[wght]-latin.woff2",
+        "input_sha256": "8090b40e13ba724aa8a6cb906ba8c9116ba2df38c0a3ee18d7b4ad1d04b450cc",
+        "sha256": "769cdb9e22ceded6445158c8438e3e5c10200aa343fff3de5967eaa16bb16669",
+        "before_bytes": 91564,
+        "bytes": 91476
+      },
+      {
+        "file": "WEB/SABModulSans[wght]-symbols.woff2",
+        "input_sha256": "298230d1e69f1f9613aa16e59bf5cfcf42ccacc8fa3c679bfffe53e8a2900049",
+        "sha256": "2fb557510ae79ab6f684a430946eb574306c612884462fa8c6ec411c1e93db79",
+        "before_bytes": 20132,
+        "bytes": 20164
+      },
+      {
+        "file": "WEB/SABModulSans[wght].woff2",
+        "input_sha256": "3e48f4ca2f7c85f639903a18ad30719e454e8a97f9e862b5ac3855ae99237223",
+        "sha256": "871fe026424bb9de59928df6705fed1e279d0f1625b4999aa6f6ea39002c7e04",
+        "before_bytes": 173756,
+        "bytes": 174060
+      }
+    ]
+  }
+}

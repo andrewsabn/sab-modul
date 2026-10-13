@@ -1,0 +1,27 @@
+{
+  "counts": {
+    "glyf": 318,
+    "static": 316,
+    "checked": 356,
+    "CFF": 38,
+    "VF": 40
+  },
+  "issues": [],
+  "unlisted_fonts": [],
+  "missing_fonts": [],
+  "metadata_values": {
+    "0": [
+      "Copyright 2026 Andrew Sabynin (https://sabynin.com/)"
+    ],
+    "5": [
+      "Version 1.002",
+      "Version 1.101"
+    ],
+    "13": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+    ],
+    "14": [
+      "https://openfontlicense.org"
+    ]
+  }
+}

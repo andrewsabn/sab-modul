@@ -3168,7 +3168,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-1.0/VF"
+                                "message": "sab-modul/SAB-Modul-1.0/VF"
                             },
                             "status": "INFO"
                         }
@@ -3200,7 +3200,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-1.0/VF"
+                                "message": "sab-modul/SAB-Modul-1.0/VF"
                             },
                             "status": "INFO"
                         }
@@ -4771,7 +4771,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 287.4kb |\n | Hinted Size   | 287.4kb   |\n | Increase      | 24 bytes      |\n | Change        | 0.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 287.7kb |\n | Hinted Size   | 287.7kb   |\n | Increase      | 24 bytes      |\n | Change        | 0.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -4803,7 +4803,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-1.0/VF/SABModulMono[wght].ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 282.2kb |\n | Hinted Size   | 282.3kb   |\n | Increase      | 24 bytes      |\n | Change        | 0.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/VF/SABModulMono[wght].ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 282.5kb |\n | Hinted Size   | 282.5kb   |\n | Increase      | 24 bytes      |\n | Change        | 0.0 %  |\n"
                             },
                             "status": "INFO"
                         }

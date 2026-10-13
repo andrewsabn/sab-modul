@@ -1,0 +1,3951 @@
+{
+  "scope": "RFN and version metadata only; every other table and every CFF drawing program asserted unchanged.",
+  "reserved_font_name": "SAB Modul",
+  "fonts": 356,
+  "results": {
+    "SAB-Modul-1.0/OTF/SABModulMono-Black.otf": {
+      "input_sha256": "de0d7b01238520fc4cb0b5aa35b7936c5f115d8d2caeec56e6872f3da46ba172",
+      "sha256": "b97502335276bcfac82c235bdb1ef9887ec21e4487feb6aefee7178b25658159",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 108988
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-BlackOblique.otf": {
+      "input_sha256": "c42d4fffcb4c1c96cd6e72965148a2c1aa4839009bab80ca87cda4e530770009",
+      "sha256": "452928c06675739c0c6be91170f8f3cff87b7ec8ebbaa2814fa0f9067dba258a",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 110916
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-Bold.otf": {
+      "input_sha256": "38c4955a742d7445ba6793be772e03a0319038172a8f05afec658fb0bc05e884",
+      "sha256": "aafaf4cc10f769d6cb578e8e03c7c44ecd0adae7c59357e4d3449090f1d0466e",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 111620
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-BoldOblique.otf": {
+      "input_sha256": "849dbf397e288eccd8894420205a1561b9c832e3b099871620f38e7974b5d12f",
+      "sha256": "3609040f76024ddcec627ad27d08ff24865e5ddb7a8c5739db944e70acb1f6be",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 113400
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-Light.otf": {
+      "input_sha256": "9c453a4a861f255e815cbbf35526e22cb0b06130eea1de302a85d0755458217e",
+      "sha256": "d1f8b2742c92f2460011a6b62a61fc250208b5f48f8f6cc0b433f53e01cb023a",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 113624
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-LightOblique.otf": {
+      "input_sha256": "cf1cef843f6428e252f2ccd69684aa22d4be3883328984afbcf6a292a493f6e0",
+      "sha256": "e7bcd6a11b09fcaf5c2b36f909307a677e8a37182bde93e61224b129b93cb0ce",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 116216
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-Medium.otf": {
+      "input_sha256": "e9b5d9ee87a5029aa2a1f9262af2c520f22b9aa43eaaddb044c21369f88d0f66",
+      "sha256": "4250eb5fec607e721e2cc6f1550ee031bf6aaecb7b4356ada3758571396db016",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 114684
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-MediumOblique.otf": {
+      "input_sha256": "f2866c8ffee3784d095fc82cd065ddc70364cd1952378c67eff9eec347c7a563",
+      "sha256": "cc96254e8c81ca5e5be3b44819e2c54908552f923c41be7e48082366d1a69f35",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 116948
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-Regular.otf": {
+      "input_sha256": "04eda287ba13d19deb8ff3a3fc29939cf9157d0138dd014c45be1c47461e2052",
+      "sha256": "a993ea4ff8549ec7164be96e6de03ebf289850dfe1964b0756d1bbdb454d70de",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 114820
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-RegularOblique.otf": {
+      "input_sha256": "0b1521d2a52a21e5d1642e6fd472424eca698c4a30fb8fd3d1b6621e3d7b28e2",
+      "sha256": "a45763a0207783fce5d193f1da5ad8eae29589b4d8bceb9b3b59217c41b918ba",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 117472
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-SemiBold.otf": {
+      "input_sha256": "e643964851cd86daa898176ce179eced2b15670ff9ac35923b505a26f3c2213c",
+      "sha256": "dfed24fccfba0b3ae9a070e1f67c19419d18518b2301205fa2eef15ccaf28d1b",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 114024
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-SemiBoldOblique.otf": {
+      "input_sha256": "77ed96fefdaa775e3e7376660f9f9ac8c88e69b9da39fe18bd6972bffaa7fb5b",
+      "sha256": "39a72e1e039e2502653f2daad0ff84aed036dab01749870ef480980e84fb5616",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 115936
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-Thin.otf": {
+      "input_sha256": "24f74c62f048cab7ef289097063a0a70d621e38bea095c26d420e819cac1e2a7",
+      "sha256": "6a6125d5e689b851a9ae0336c6cde9125e034100754963a26cfb2504b6662d5f",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 113504
+    },
+    "SAB-Modul-1.0/OTF/SABModulMono-ThinOblique.otf": {
+      "input_sha256": "d237554b6afee947251e7fe0de7071fd1d5931760a561f446498def862206cd6",
+      "sha256": "1f9110b853f106dee9378d6f27b83831ad07f938bbe9932485f08c7a2e874689",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 116148
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-Black.otf": {
+      "input_sha256": "77803fe2f724ac11fc21861f04868314b39c5cb830601344b2c8c5aa1641683e",
+      "sha256": "b6d2fb813c480f1d69de6e6ffd2d71afa3ced4f8dc152297c84e23345f682102",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 184624
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-BlackOblique.otf": {
+      "input_sha256": "43af34ee0de3e7a40b5ea1f24b335924742b4fd41f7e57f59054f052232a83ac",
+      "sha256": "638b0487aed6ab97e57e81ec3b72ed8d893d8b013368325279eb7473ec05b3b4",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 186420
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-Bold.otf": {
+      "input_sha256": "817e6aab94c952cad28df56dde77598310ca3713ff512bc71524de9eb251270a",
+      "sha256": "92f3a1c417e6d80fbbe991bdd4851cc98cdbc485b28d7affcbc815bfebc28fce",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 185988
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-BoldOblique.otf": {
+      "input_sha256": "14b3240a1cb340d699c3432ea78b09f0e19ba3405fb39fe6164dafc137142560",
+      "sha256": "c6be6851961137427c5d95dea1c4e14fb43a83adafb693f9928ae101e8b0f51f",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 190124
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-Light.otf": {
+      "input_sha256": "2e8298f162bcb8806d66cd8ef3a2387b7e2b872319e540a822877cba11a13681",
+      "sha256": "255ac086b4b66b58a427720d0b8b82231adc06113f9b694383800f49d4ccfe57",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 193412
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-LightOblique.otf": {
+      "input_sha256": "e97f5c3b1ec211cd6840925ac5bf08809b0725f47eda6efb1e7a760619347c99",
+      "sha256": "ed8c0356a823730cf9219203a0cdfa1e5d232c85a58b284a3aba3dd8feff84e8",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 196732
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-Medium.otf": {
+      "input_sha256": "09416c6fca90bf9ffd22c48e2b2a099436cf2dbb050caf502c88a34860b49ecf",
+      "sha256": "f6e032745538f25ae33436300c9bdf85c50d627ce1cdf376ad26d7a9705c10a8",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 193636
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-MediumOblique.otf": {
+      "input_sha256": "0e97a0e2f5e2a3e2c2424d1a1507468e36ff40d2a912dafced880973a4369b3c",
+      "sha256": "015357d24223a299e898e74829107b15d5a97f4c9c6bc7132de28f02569304b3",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 196984
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-Regular.otf": {
+      "input_sha256": "69c5ca0c79ff1e3c816b60298cafa624c7f434eea753867f5832cdb40a8c8c9c",
+      "sha256": "03db5d2fc9c1d000880adeb3c948f3ed551402c513f9d4c705ce02eed3d991bb",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 194192
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-RegularOblique.otf": {
+      "input_sha256": "ff38ec6eaa6c0e50cef3eec72dbc17a6d17f5ea5d72e72a3c81769c5e6383b96",
+      "sha256": "2d1eedd248d58fd00ae4230347d6585b11f91c530abb28b6aab7cee0c1663ffb",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 199608
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-SemiBold.otf": {
+      "input_sha256": "862c3bdc44e6b4fec040289eb2bc64b1421ef6f5b7a5f948c5e3238f471bc575",
+      "sha256": "483862c4762bf100d22c7e685c415def383c917b77103ef23c21c5829ae97104",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 188440
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-SemiBoldOblique.otf": {
+      "input_sha256": "6924076bdbefcc367b48fccbcf137a8c9a754004191e3038be3a60000f0a3337",
+      "sha256": "9d698fab92fc3621c3bcf818491b6ed01795c541335137e88e81c6c312726572",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 192952
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-Thin.otf": {
+      "input_sha256": "373095aefc9d8a366ab297982926b189799af86852e946dd4a50bd0a4df08243",
+      "sha256": "de8018fe492bf5b2de9d5ad27b9c00c470fa5d4a5e13a4cf27e484fa78081962",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 192632
+    },
+    "SAB-Modul-1.0/OTF/SABModulSans-ThinOblique.otf": {
+      "input_sha256": "9447673fcee8f5ca882128a757ac5ed6eb53b541a0965a163dd6624df1a9ef9b",
+      "sha256": "15a5b8f5ee89dab87d04bd7ae5f3ccb7becba73888e93da344da8c08814a3694",
+      "changed_tables": [
+        "head",
+        "name",
+        "CFF "
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 197096
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf": {
+      "input_sha256": "332b741b8e0a8696836206decfaa186bc38e2f8f9f747ffe66c2cfc27731eb5a",
+      "sha256": "3e01b3c3c33a91b834f48f11d4883dadf0fb7cad1dca9af984127ceacb1bf803",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 105992
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf": {
+      "input_sha256": "e203fbd43e3dbba7dad0aade1bc1c3f7e956153fc01e85793ea636c53d535b50",
+      "sha256": "a5a78160a369d36aa910b5defe0333595474ccf370a5f62a98f86953b70ae639",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 106696
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf": {
+      "input_sha256": "90ffafff9b1302e26878d17816a88888fe153d7b16abe134a2aba62c68b09bab",
+      "sha256": "5f1ac3cd13fc3aa8f4cd43eb9b773b328f5b838bc6452530c13600784235cec7",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 108440
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf": {
+      "input_sha256": "7b53adb99846a989d4e4e97a167448012e159f52fa7d69af1768f01dbcc213c9",
+      "sha256": "941f320753c167fe4528e73542b372f7d6e1b9e4a27c0c15315418ae7728deb4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 109416
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf": {
+      "input_sha256": "8fdf3a14489ce39f11500b034df13821cc2ffbe6259b70b181801d5ed61270a5",
+      "sha256": "a9601ca2d6cc5211d9558fc00337ba1053a84a3afd606edf9833f0e0eb231522",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 110336
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf": {
+      "input_sha256": "945f357e989ae48987e777335329eb00297339802106a10b54a34b0a710e4fa5",
+      "sha256": "b8ba900695346128b99888b99207129eecbcb306412e3e33c832947884ccc44d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 111132
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf": {
+      "input_sha256": "fb98bc692200e2be66ad6c6dd2171dedf50960f3a2a7a83ee82cd9970557639d",
+      "sha256": "a71162094d1144a8bb28bd99b2635e4e6b7226d9c52fbd85127f965330289d41",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 111308
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf": {
+      "input_sha256": "666346fbc398e1727b9d353ce0c140d79515e99399d7abca664546659a40dbcc",
+      "sha256": "2dafb845d593ddd44282810f751b345d468d8c04908e63982a9fddbb54616323",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 111852
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf": {
+      "input_sha256": "560baafad21b78296783eb792df984e1ce41188c910465e32a72f89748be77cc",
+      "sha256": "2477ed99e6ef27e548b7b8cc92421fcea1b632544defbc0e8aaa56703917fb54",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 111448
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf": {
+      "input_sha256": "42b68056d7538fb01751e40ec97acf09ecc2ab862382bf10c3abfdb7ae8f2d0c",
+      "sha256": "8f14ee724acd8905dd8b53f82f3276e789ef1615edd6a28707716f64967a7d8b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 112396
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf": {
+      "input_sha256": "39d89e2e06408c0f6ed859d45636524d4129a383ef95999b36b4d501c912b1b9",
+      "sha256": "7c48491b1badf2310bf9483cfa855d394561af28538a738f8b944ffa67f4d289",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 110752
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf": {
+      "input_sha256": "33c989adfc2288257e48f112ad1bafff035da9cc692b70ea1415dfd8ad999393",
+      "sha256": "64007a5b9af21b341f9260768db69f3f7916b1efc6ba69339dbc299d648959d5",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 111500
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf": {
+      "input_sha256": "e7f1a563a25d4787f5f6b082d3c7d4e61d7d08e139835c42b0f945cf5c723b8d",
+      "sha256": "929b3fa45c84b55d135495057134c4da9afc05d78a91c38e9d54c697b1022c97",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 109676
+    },
+    "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf": {
+      "input_sha256": "6d5db4699bb10261a9b45f9ef6ce59f2aab5d97d248e5a479ac2ae3d381becdd",
+      "sha256": "0488c6e46c8a60c73bafc00376b8aba967e22553994b1c5cfda665ca6117a5f5",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 110760
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf": {
+      "input_sha256": "6cb793d7468ac624ae1a48377ff5069c97a5019a49910dad3df4a96435bc40c7",
+      "sha256": "4b804ba1e3fc8a425420604befa95613471533fa10a75457b8f1defcbb85af26",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 180580
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf": {
+      "input_sha256": "a3a1854338534e59b6c9fdc2763baabbc4df79b5e43da47ce107c8e0af70e443",
+      "sha256": "a4ca3d0f6623947140b31bf9e1040b023e079e32d545f8d9cb15f88158bcd6e5",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 181024
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf": {
+      "input_sha256": "7a8140d7d51efc750f42be5a0ee2f3aa24078ec9c75b48f579db16bfbfb25fcb",
+      "sha256": "4ba6c877c539b13e451de73be5b5d752233c0923a253ab811e2c92bff626f040",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 182352
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf": {
+      "input_sha256": "e2db6436225850d9c33b405e67160f334765f26253435b82758f32aab0f3ba3a",
+      "sha256": "34a8edea0664a520d151f9871cb105a13111303468b8d4ac0780cf085e8aef0a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 185324
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf": {
+      "input_sha256": "693958be2c2431dd2ff1547af994666116bfb4181bc5ae9f7aff69aafe181dca",
+      "sha256": "e079988ed2d8b5e9f70111fd06c240da312feefd4aa2093b45fdb02636556049",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 189016
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf": {
+      "input_sha256": "0a98451afda2d96b8618e5a4773c7341ba619b945dbf1523bfb13e1e931ce721",
+      "sha256": "d8396ec5799eb4f4d0bb735e0fff3cbec7ab6bb3e97c2c37e601576660fea6e2",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 190852
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf": {
+      "input_sha256": "aebb35889530a520e82d4249389d13e7de44390b9bad32ba4ccc9ba254c17085",
+      "sha256": "d22153e0fa58ef1438733d4b572a5d03ebcaf984cd41b6d0cb1c3c30ffe6b5c4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 190068
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf": {
+      "input_sha256": "06c7ab264d29401beb904f0bcaf2d395f5a9b257d5f8261faecefacf477914d7",
+      "sha256": "b2a273a15fda4ba8d83fef0a6ede10d6b536e75e5cfef99a36b4c2c039a407df",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 191684
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf": {
+      "input_sha256": "80fe6b330da85f8c734a0d73169db98f5f6b8c9cbba505d6d5cbc89b4929305d",
+      "sha256": "91edd7b22aef801946fd88e1e17a19ca167cfea2f49cb4d95386e8dc959737ab",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 189576
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf": {
+      "input_sha256": "75fc3b683823d58ec401abea71d4ecc334d7805406acb965f6ba55e51e34436b",
+      "sha256": "ea15d76892e7906f04a5a29c58e5157b5703dbd8a7ffca8a66cc30f0f63271b9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 193464
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf": {
+      "input_sha256": "688c7bf7777b96380edff84c32c561ce2a0fb8bfd7eaed526b936232211df8db",
+      "sha256": "a16028f59aaf994f0f2d4df0bbada51108ddc2a87fe0492657ef64a525340091",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 185064
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf": {
+      "input_sha256": "3d6e7a8eb48362f6202eaf07b3af742eae222041a33cee4045d506887482f04c",
+      "sha256": "6b2c5f197297b38143d800422a9c10067f30c98e2cdf3eabaf747ccaf4c64877",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 187980
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf": {
+      "input_sha256": "cd073dfb15a8299f330f1c9486bb2996b4f13f76434bb39cce610e153163407c",
+      "sha256": "c573ee2fce0b1b0963000316a059ce42cee4817761ae484e54822693e5d81ffe",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 187876
+    },
+    "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf": {
+      "input_sha256": "74abac97f04feadc2a392031686e96ac19e110d950a5eda999303374c2b0b054",
+      "sha256": "930041a62878a11532be7d6dd35d33fbb7de50d3cf59d3314c622bf4a567186d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 190788
+    },
+    "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf": {
+      "input_sha256": "77d32ae32a3c3e815a496d43d8d3f132c5987e55c1d50fd74be58a1840ed4a53",
+      "sha256": "8681dbf4b9e6fb36efb0f6d6a36861f7bc8051371b93c49ae6f874d5f51ed736",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 294576
+    },
+    "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2": {
+      "input_sha256": "e9b8718988ae86f1624e1a6820993571dd02f33beabf4260bc50b67fb5feacc3",
+      "sha256": "4f55cc10d99b8e35c3f0430da235630fdc0ddd0599dddc441214c4fb0671dfcd",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 138496
+    },
+    "SAB-Modul-1.0/VF/SABModulMono[wght].ttf": {
+      "input_sha256": "21aee3a772951b07342f1938490759a26716bd6c15484a64c2b021f90ac8f660",
+      "sha256": "dae7765ae4a808b90c3912a4d555da798acc3fd8ec1bfc40ff07ba7f4d73cdd8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 289332
+    },
+    "SAB-Modul-1.0/VF/SABModulMono[wght].woff2": {
+      "input_sha256": "c3a4418515f0fedc9b952c33c8ab354b156bebb7ec7e0ae0e6f999de32a50bda",
+      "sha256": "1d85c62ca8ed7e50289b903696649e921a53bdd23fb3ed85e4e7187e5b702e52",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 134604
+    },
+    "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf": {
+      "input_sha256": "ee76e52caa0cb4a03b5e4d0b6541fe6cdc0ccf28cff1a5ec11657d261af62ee3",
+      "sha256": "765d0c60ed331e9e47a070f29c630d8d49bd79e40f95d54933559903d65d5f67",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 483688
+    },
+    "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2": {
+      "input_sha256": "36b9d9021307d672af2b85af5e1adeb812b24e520c10e0c6a59c4e200541a445",
+      "sha256": "252d2b8976c7be58ae5ee736f699795da853f914c39b96d2dd064ddcdcd9e1b5",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 179072
+    },
+    "SAB-Modul-1.0/VF/SABModulSans[wght].ttf": {
+      "input_sha256": "bd8848270d3dadca98c0c642ccc614ce6a50bbe4e62b3bccb40be36e2a8d48af",
+      "sha256": "87158c485d02f3532696e461de0ddcd34236e3fd9d39cbcd2a30eef2099fdee3",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 473944
+    },
+    "SAB-Modul-1.0/VF/SABModulSans[wght].woff2": {
+      "input_sha256": "569f27dc3448be8a2eb7ba094631151fd4a6b6f15ad17416acfffc002118a82e",
+      "sha256": "95b32787b62e655a7d50bc2693d16b29b98e8e653f2aefce3c8e3268e095cf5a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 173960
+    },
+    "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2": {
+      "input_sha256": "79361de23ef69c7a167b591407b00e0cab52d51c392547de371b4af666f7f47e",
+      "sha256": "0c7705cf0b24952c29a84394c8f0c0e498ab7128cc924332aad67dc0083c37ac",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 50392
+    },
+    "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2": {
+      "input_sha256": "8a559a3d806f9b4d921e22743cdc12e0b6b28eb79a55e5186f77b8585fac8143",
+      "sha256": "84509107e015d587027b78f25d2b3d18dbfb94023aaf0f7443b2aa6b57e91e55",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 43068
+    },
+    "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2": {
+      "input_sha256": "fcc50c08fa5028682825d6b2302009bec94b49704491438e40aac9d31a93261e",
+      "sha256": "d53e6e4be1cc4520a68c50d543e8c988d03c3b8c83a82e8b4f68591582e2e5c8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 80976
+    },
+    "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2": {
+      "input_sha256": "bc66fc310c9fd46557084eb08c87713a993ac859f4c0d35cadd77553b2127106",
+      "sha256": "5140b86f764374802149f5430c3cee1f1925eeddc15addf897e269cb5164f3c8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 18928
+    },
+    "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2": {
+      "input_sha256": "e263f5f952ce1136ab569de72aa1f552e8c7cc4f498c9f0152abe3f1dc8761b4",
+      "sha256": "760e7cd2372a81803b7957025975233ed070829d210a7413e0e1a1210d49c82e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 49392
+    },
+    "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2": {
+      "input_sha256": "b249eb9b5553752e473f81732283d35ae5c43866f0d8bba72a8b719d10d9528a",
+      "sha256": "5b3cd971d0ef228133a0c49a1fb0e8cb124fc11bb6f632e835bca678cb7cdd58",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 41712
+    },
+    "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2": {
+      "input_sha256": "f30afcb618a68d1cbdff9123e0c866fe658357d1b2fdfb7fc9f5cafcaf805c7b",
+      "sha256": "e8351d0d5c864c9f4ac5edf16d6314808d2f34ee95a7f73edff91d44752e60a7",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 78576
+    },
+    "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2": {
+      "input_sha256": "abe7c1f715ff514337b1bca64535c8c7131ed930aa614696f141ac0eeb6b2736",
+      "sha256": "024d452d2b441cbee30d616d5b36422dd713fe099ab9dffba14a3d0f8a36fb24",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 18272
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2": {
+      "input_sha256": "12b96ba81c4cba4b33bb15a47434c0af39e94c25befbd5698d3bc287309342fa",
+      "sha256": "e6eb7c6d45ee4b5699f5661caf9c80f38716faea1dfff43f2777a2eb7be5c5dc",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 61480
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2": {
+      "input_sha256": "efe101ffd43e44532bcadbcd4f1fa092453321ec56efdae29503e1db3783c67c",
+      "sha256": "3bb37cbf03a61b4a3c0ed724550560578f889cf507c3d46f268de8cf7bc7d832",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 49404
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2": {
+      "input_sha256": "e723f9cc0104bde1bd9d507a758373c9b4067b18ea43214e3d4672c5751c28c6",
+      "sha256": "a052e0c457795a4ae3be375e5de2541f597556be9cce5321786d067f9e42a78c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 94992
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2": {
+      "input_sha256": "cc17ac3d3000ba5397f8bbe2410317d95dddb0af29b3516bc4b4884da4d335a2",
+      "sha256": "b41cf3be791b313b4c1bf45721ea09152fad68a1623a77ed3f3901cc3bb71d87",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 21024
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2": {
+      "input_sha256": "36b9d9021307d672af2b85af5e1adeb812b24e520c10e0c6a59c4e200541a445",
+      "sha256": "252d2b8976c7be58ae5ee736f699795da853f914c39b96d2dd064ddcdcd9e1b5",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 179072
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2": {
+      "input_sha256": "399a2c9558659c4d89019d60cc94c3cf7637c5a07beef96b77dc5d8f16f6c5c0",
+      "sha256": "f991d575bfe5b133144ed7ad7c7b89bcc7b20f3b8a0a257c8bfa6803a6931a41",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 59804
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2": {
+      "input_sha256": "b52f07779f2f3827f212496b6e0ef3c09bc53a6476745e299bfd89b107027ae9",
+      "sha256": "fcf5ee1b7f7d1f2e75a800cf2115e9806f7057c7b4be85627ec0a42f977c5dd8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 47536
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2": {
+      "input_sha256": "6cf6b5bf66971b284b4ebafbb4d826f0624c1f6ccb0f02979e83541f538efd4d",
+      "sha256": "80d0aee2afd0fb377f5bca860d8c4e39aa885a13de2537efa17a30588f66960d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 91488
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2": {
+      "input_sha256": "aaa4365256100ee29988d0f1394821d998807c8eaa6fee636cac5e4e67e32ea2",
+      "sha256": "aa3c048565a25703d6ed6b1f3b460318bc6722a9b63440ab73d572403fa0d381",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 20324
+    },
+    "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2": {
+      "input_sha256": "569f27dc3448be8a2eb7ba094631151fd4a6b6f15ad17416acfffc002118a82e",
+      "sha256": "95b32787b62e655a7d50bc2693d16b29b98e8e653f2aefce3c8e3268e095cf5a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 173960
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2": {
+      "input_sha256": "a7ae46b5b27c6dee81af392143411ceaf138a52cb2b4045d9948d9eb27a7a9f2",
+      "sha256": "8612c7235b0483ce13a31f84fc3d96253e49dc4e4ac9dbcfca6f6907089ae58a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 40408
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2": {
+      "input_sha256": "326f0cd3b243478214165ab1be9a25f602b2bd5bae843620dce469df1726d6d6",
+      "sha256": "e9c4fadf308cac025f18bb931cae6b8170f0197d81ad9d133ab842bbdae3f206",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 41980
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2": {
+      "input_sha256": "66d9b3a2674797abc3f5628fd71de49d38dfd38d026737173c1c47400343c191",
+      "sha256": "f683fff73898ae6e7da1c2d330b104c4b20a9cfbfd2ce92ebae996adad463f7e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 40644
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2": {
+      "input_sha256": "04febbac9b887431e4630172535838c5a2430e3fb70417cd1140b0d2e531287e",
+      "sha256": "50b93b9dc76e639df7e91866f561f3fd9e6cebd4e743fee7fbd3902c0e6d2c3c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 42672
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2": {
+      "input_sha256": "09cb7595c7c23b6a01352dc30c9d3789e8d5e0919498de542bf0f8ef21cce75d",
+      "sha256": "165d1a3202cea2307f2edfb1ac8c3d2f60c3d2388c73086496840f6fd808eadf",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 41408
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2": {
+      "input_sha256": "050bbebe104c08bff5638106237fec4fb11034ff32141c45a9c4c0efad6a6b2a",
+      "sha256": "51ee93d6a2b8c0796a499e0b4aad63881dbe51363211ede5ec65643010a0852d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 42952
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2": {
+      "input_sha256": "8c5dfd1859b9ab825f542a25f5f32b655f0f4805879f9fbad38ee8ed21f83e49",
+      "sha256": "5c5335085d65c232a3d9aa38c715b0887ca18eed52af3fe40fc4c8b2f775080e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 41352
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2": {
+      "input_sha256": "5e95143ae68efed18f0cc67873e649788dd585765d5642c071d12c1622ed1a94",
+      "sha256": "bad47bc1343bf7316ab5d558791427ee20c4482b1ae689dbe52dea29bf0ec342",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 43156
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2": {
+      "input_sha256": "17eab4e8c434a29ae3a9ec2721df5f643b1d2c88d1609ffbbfa68876f44d8703",
+      "sha256": "eb0f85ccb0779b1183cb76ea3cfa3b3af6c3a29f46dc9b1d67c5b93dc3b5aaf9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 41712
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2": {
+      "input_sha256": "c57a098c507d4b2287e1f6fa19ee3cd901dc45e1321375bdf870a9a8a9c91be2",
+      "sha256": "cde99f2c67d946037afded1e8a7b3786772f6b55d853e20ead4807a82b43056c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 43572
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2": {
+      "input_sha256": "5768fa8f34c39a7c2ed32fa4d872d0bf94271f94144ab2e9c542b094a9ad8723",
+      "sha256": "c7609ee679c4539f31db18552a53d78335b5ee74a72e154d1e63b154224a5649",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 41248
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2": {
+      "input_sha256": "646c22eb4426c16ea430360944d56c7525f6b1818d5200e2fd7c3080c814a5a9",
+      "sha256": "307863961fb4ce0e1d906263e5c0bdd28e625309de9e836a598e8e558cd46c6e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 43164
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2": {
+      "input_sha256": "9e31de42754e08d9461f16401651027139f8fe3e7081c3c93e5a52bccf948b90",
+      "sha256": "04f24077d527ae7e3322d739a6691207acea38821639be58f4c108a74f4d6bbf",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 41260
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2": {
+      "input_sha256": "86c151c6b1c94de082e2772fb9c060d679a663a125c9b8ae147c91b3db2e22f1",
+      "sha256": "69011f4650319ca551d36a282917186cc4a8df5747931bab0cfb634b425ee7e8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 42876
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2": {
+      "input_sha256": "60f447ad58134947be5c39ec64a9990ee434f4cf2dea9a17b5f4bf75555aff46",
+      "sha256": "be8abcbcca63dcf6f8a37311337179cba18082da4b9ed6c4e097243ed818b84f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 51212
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2": {
+      "input_sha256": "06ce59040bc2bb59aaefa06b1c20ef3313ffc8445caf13c3d592f8d08cbd0abb",
+      "sha256": "b8f2503798a6eabc4acc7ad50da158fcc85c72bb69c7604dfe5d24a9c2cb5381",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 52592
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2": {
+      "input_sha256": "e3efa0c3448d8c889b208e568d4dbdbf0a042ff09146e25ab9122f95d0e09cec",
+      "sha256": "1bed427d6225c5887a86972b21be70a23189adadb844dfa1a11489717d243305",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 51572
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2": {
+      "input_sha256": "0df2a7bdd55206fb944deacd2346b1bf4994219b58b5aa5f62174f30585501ee",
+      "sha256": "a65130ed38bac0c80bf05f1da40a85444a51704c9ea36668a61081f74620b495",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 52980
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2": {
+      "input_sha256": "417ff5d827d44d9e74a7b32378fa9ad7d867f825dd1cf454ca6542dde582fb61",
+      "sha256": "163430d12e52783e5774a54d4f30420a0b0a420e1693f48401aff3f50798195e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 51032
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2": {
+      "input_sha256": "f7fe3e5b63b4081d5c7452f549b39637c53314bcb54677230728239c247e55d4",
+      "sha256": "b8e7e1a9528cfbb3ba1b7854a3fb2c1b79e926a473c010a2791446c3047fe7f4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 52116
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2": {
+      "input_sha256": "1390d28a9b637e4892f41436fcc742bd59a20e06b9c39468c5939489b0632209",
+      "sha256": "81a7f25e3853fe42dcdcc01609bf905f22e4332d752b0cfac61578919f75ce23",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 52100
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2": {
+      "input_sha256": "f1ab7e71f0f491a55ae0ba3115084ae040f1a6fded56a94f805919e96dea78e6",
+      "sha256": "8492f72d5bfa56a6c07b1fcf7dd697dc1284fd203aa8b07671579bcb23cc5623",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 52768
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2": {
+      "input_sha256": "807abc021af70d029f788605662a93ef2d40b997694c5a35daa8ce9aa2727c3c",
+      "sha256": "0590bcaf932993c9ce89df1eb9eab1beeb99e23c83a1f30372a7bfc0176cbb2c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 51804
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2": {
+      "input_sha256": "d0d4d226cd463a0c128d5157a0b601283d690328e50d28bd52d883ac358e2013",
+      "sha256": "b8984d0f480dcb0d93f706d63c6fa2d19411e2d6ee1e5d5f0fceedea08e8c031",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 52880
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2": {
+      "input_sha256": "92b42e275eef17b4cd2470c8629c76f6eb21c6b8ab9abfedafed8287a58cba92",
+      "sha256": "417ce00821be281126d4238027c495d75699f355e3c08f9148133a2575b4d73e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 52168
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2": {
+      "input_sha256": "47d3715babc9f5559c34b03a410c463a74d8d3992f0492ace0607d85eff6af2d",
+      "sha256": "1c99bcbff9461792c19433db78c206386801191cc6d15e6b126a568cd6192ebf",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 53420
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2": {
+      "input_sha256": "a9a3eab15f40612358b9d97d8b05f5e07270fcf09c613b3ea27cd609750af200",
+      "sha256": "82a22b6f755b6d7c3cee42771377e9ba40f3a93942cd35c11202d830583b4952",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 50476
+    },
+    "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2": {
+      "input_sha256": "b8db5518b0a8f5d34be16da2f60e73dc5c3e23e1ecc3d323a9ff2c8806518dbd",
+      "sha256": "d93d8b9f578c077f4ba66052f5b570c42f94ffb01956b3a73c1eccdb7dedc480",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 51656
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-Black.ttf": {
+      "input_sha256": "6f3fde9f2aa3f01f569f03386c412313337ca6edea97a8be067eb5a3240c0bfe",
+      "sha256": "dfa959c954dff6bcbd10741577e811be8fe87ad38d75afd9fedb73c30eca8705",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 80928
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-BlackOblique.ttf": {
+      "input_sha256": "2396106a4f2c462a78daa0b723ab68a14b57c095a6b917bf020e8530fad35299",
+      "sha256": "7db494eecdc5cf742a969013fe688f51a8203050e6bf644769965c2ffba81d5d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 82092
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-Bold.ttf": {
+      "input_sha256": "9ef17c2e99444720be87a575a1cb88fcc3261215265f95c2eeadc96b70b5d153",
+      "sha256": "d99fff413ac2b21b84717ee4719c1265eceb42749ddfb8913a736d15857c7111",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 82644
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-BoldOblique.ttf": {
+      "input_sha256": "6627faa9345f592f1a7091e3263b84a79c1141fddd96f6ae1ba3d84d4de2b342",
+      "sha256": "4611fb4d96a5afc84e4ef56bcd24e77b564ae9a4d541d1589129d26316f69f5b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 83684
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-Light.ttf": {
+      "input_sha256": "59417535208782adf11cf540dc9a29ffc2fd24feecce3f90cfab6129ed1d0381",
+      "sha256": "4093b9362752623cb62fe8eb710f3508c241b79a0693178fece88e9ed4ff9f3b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 85292
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-LightOblique.ttf": {
+      "input_sha256": "603a42681b958874f94befd5c2bcacaab3ad53635a499e0a6fa6a1b041b09839",
+      "sha256": "e3518c709d1d50d9af6a67c3be0dbbcd3443515ee7045b7e57932e09ed9dcfea",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 86488
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-Medium.ttf": {
+      "input_sha256": "9ed6c624231bd656eb61a1bac50c87286365827e8a2a62c19f1d663e38051cc0",
+      "sha256": "608b2d16f5da1b393bab070b8a9ebe72bceb24b18e4ecf275cb2861667c958f4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 85396
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-MediumOblique.ttf": {
+      "input_sha256": "50fcfca168f6a193f3c0a608b40c3f79303985c2fe1347a8062b5d2addc87c0b",
+      "sha256": "9902250c6152b592552e2dbee5e962199d81dc7386a3aa54f047bc1098bfc4a3",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 86592
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-Regular.ttf": {
+      "input_sha256": "6ee3794c7ab56fff04700401c4749c11d89844e0e9f0dd16bc37ad068a4528e9",
+      "sha256": "8485117a53c152defffafee5820f09fda300b9775e0082637faa7093cdffff21",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 85772
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-RegularOblique.ttf": {
+      "input_sha256": "5384eba9062fb1ca3762302b1bd4762a6c21eae08ca93f8a3ad8cb5169f66091",
+      "sha256": "3b8de727c0a0264a0d921f47a0f57934e63cc0569c28d637d3c32bf423fc940c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 86972
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-SemiBold.ttf": {
+      "input_sha256": "d83c9e881c67b8b898d0746e0bd8089aa932f04f636c1f7e6ff807a15086905d",
+      "sha256": "29df5e4196b89303f0de7dbfd0e80c74695c81fa28c40b7382fcfcff4b9959a8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 84188
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-SemiBoldOblique.ttf": {
+      "input_sha256": "6c71f6fd0053663ff46690fd0eab12c4917fcb7789401e41d673330d239b993b",
+      "sha256": "cdd6eb88a5a119301903b7398deb1baa99456c1b6e2e7ae6644afab3f2214c3d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 85352
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-Thin.ttf": {
+      "input_sha256": "a77293d4ba14040593f4cfee2a6bf60d1c1d0f380539e4db9228acb598e66156",
+      "sha256": "330348850efef7516a513d09f892f6d213cb4ae0a9ac5b7a9d23be32138fbb72",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 85320
+    },
+    "SAB-Modul-1.0/source/masters/SABModulMono-ThinOblique.ttf": {
+      "input_sha256": "22c6ab2e5f91d43dc68d0c8d304d073e7a59ab884e8d9b969c0a8e9916093813",
+      "sha256": "9f676ab443597e2ff5d69f40190b3c2a0169150fef3acb4c7d57b30d2d71ecf9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 86556
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-Black.ttf": {
+      "input_sha256": "aea02ccb433c3f1e13807c8f7569df1cb5e3197ada6a242b0e5652a5064f8853",
+      "sha256": "06172432427698e907bcda29d9808dd7988896bc15fe7ef4587f857d3013d259",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 156252
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-BlackOblique.ttf": {
+      "input_sha256": "821cd3054a663ab7d5de22ca546f9996377e45fbce225101a9b46deb5dce3b50",
+      "sha256": "fb926246f5fd47f77ca57aeeecfbea15b736d9121c0b32350ff5a72fafdf475f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 157012
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-Bold.ttf": {
+      "input_sha256": "1e4cdf84269fae557ba1b6fcbb435bbf39e35d4e231851789e854cfd3e6b9e98",
+      "sha256": "44e0b00e4135ea2ae47cea53fc8595b7ffa838c7935159aef2929701b9833e43",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 156812
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-BoldOblique.ttf": {
+      "input_sha256": "cd2be8a6a478fc53bd552b6bd7cb98e34c243aa46981cd8fa59b31752a027663",
+      "sha256": "9ba6e34940f349c8ab13bed17b9d518400028e3e0dd111a538241042ebe3dd60",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 160052
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-Light.ttf": {
+      "input_sha256": "49c48ac729b1ab9114b50f9746125fff88d02049e5f4b3333362d9290c4c82a3",
+      "sha256": "cb542885afb23901d770cc549b3abbd87cb4f089937e13b4bbdf8320f7fffd70",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 164608
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-LightOblique.ttf": {
+      "input_sha256": "b597294aab36fd7f55e52f9e5db4a87c8108f4b0e949f39f72ca115ff1aab9ba",
+      "sha256": "5440dd4da13049d35d51674b7c8c9fa86f33212a799b926e80c3b62113d99bf9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 166628
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-Medium.ttf": {
+      "input_sha256": "d05bcdf1b91a0e4a7f5bb2de80375ffa07a83f020a7d313e805e029fcb9370f7",
+      "sha256": "a44cf92a85c654209cf1591d1f2a101dbcd0eb2f853bd1fcb0ea10ffdc5027d5",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 164540
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-MediumOblique.ttf": {
+      "input_sha256": "d25612e5edf2dbec72173757805330a0c38d3ab36109046cb90eb751c408cb58",
+      "sha256": "5fed817a047506bd1f4c833c30c1fc44c9916dc07c9128a47ad9d9202a6e2227",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 166676
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-Regular.ttf": {
+      "input_sha256": "2b11d8ec26aebca887067c95ed4a61961ad6dc47d6623dd58d01ba085af1e48b",
+      "sha256": "4383c8bf9e0ee1c369df23d95cd3cee0709cf63dbf378ad179265113adf0fc81",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 164792
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-RegularOblique.ttf": {
+      "input_sha256": "15b9356a45bfe1f9e493581816c986680181f405fc2ddb424e785846260c2c7b",
+      "sha256": "8110ce9d32e793cc3a70b9caeeedb05824d64e5ab62cab4913b5a16d4a959215",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 169016
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-SemiBold.ttf": {
+      "input_sha256": "3c5e4901c5cfe2041bda425a3180e6cbb2c56d91f97be8c4b4a644324f21e08c",
+      "sha256": "46d23699868bad418f72b6d8c1d713dadfeaa2df65688f95770bbae8473b92fe",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 158380
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-SemiBoldOblique.ttf": {
+      "input_sha256": "8a766f42743ed8ebd6c6dd6d33d6f83ca57f3811848804d1a563d8d01509c76c",
+      "sha256": "5064d712223c72b4ee6b6c38070411d39bc833ab8ceec9a9c117e4272598f839",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 162152
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-Thin.ttf": {
+      "input_sha256": "4e1517d7322538ade76a5f38551ee08e47c046393fd838ee4808aa4cda305740",
+      "sha256": "b37e5aae3ca8706dfa357ed0a84dbcc1f145567a91280d7757722131ca2097c1",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 164220
+    },
+    "SAB-Modul-1.0/source/masters/SABModulSans-ThinOblique.ttf": {
+      "input_sha256": "f36636be96ef3047392ce5ff1c3a8595fb097e4fe341f478aef7fc243e7572b8",
+      "sha256": "006b75a87562094b09de303bd06b7dc25afb91da7e374703a341d631ba177719",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 167320
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMono/Black.ttf": {
+      "input_sha256": "6ce0a7aa5f676381eb5912ea9fc979d0a5dd32ce1053f619c15e2e0bb98df62f",
+      "sha256": "8aae6077d610e4ec2d3f83f742d7e3c5e9e55401f9a3f2f338207c9671fc45c2",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 69288
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMono/Bold.ttf": {
+      "input_sha256": "9288a596076f25de81069417e3917f4fb461afd7ee5c94d1634d66318622ed5a",
+      "sha256": "60747522a40c4947381a34d2c9e22780f22f7daf9e28ec79aae52927c040dbb9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 69396
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMono/Light.ttf": {
+      "input_sha256": "7b3c78351881f3b0ced6cae9dccb0b89043d83be40d05acee560ac1bb123715e",
+      "sha256": "4c4b689d75eac1ffab6b72b44c530063e41b57512ffc4c8a29770930bb87af3a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 69488
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMono/Medium.ttf": {
+      "input_sha256": "d07427b41b0ac8299fc2932240139944e18ca5887774b18bd4cbedb755d1e782",
+      "sha256": "cff0eed05cd13e902fcdeb807268fdc4ba5f371c36f9e9a846543ca9a0c75dee",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 69536
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMono/Regular.ttf": {
+      "input_sha256": "7e12421880dee7a86b2c99d64c7f029820fdeebf8962e811d28f17f6ff2bc962",
+      "sha256": "5f23ce736ecd98e3dacaf9a8e995d4b6ba9b97fb813dbc854c328b2ebcebf723",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 69556
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMono/SemiBold.ttf": {
+      "input_sha256": "f947d573292b40114b4464a4d2f1434374e3364e0ac7e207b199eb804c277bf4",
+      "sha256": "8cb8ff60f7ab3f599038f6262022e23ca40d45ab837f66f4cb63c2e1d118e3b8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 69432
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMono/Thin.ttf": {
+      "input_sha256": "8a5fc10dab50e7b6314837beec6874959ec53e0b8099c1e7a96820d9c17b6d41",
+      "sha256": "df1ccba4b6fa0b8717444c52a8c7ea9bfb4c0993c70785690aef477ef813ca96",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 69432
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Black.ttf": {
+      "input_sha256": "c6fb6d5bdad722236a7d9326ab1af35bd96851503ac64c6207a1f9b4fc6c412f",
+      "sha256": "8075a9b0e18c15363e31340bcbc38b48ff22511b450be298569fc7057fd68e88",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 70752
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Bold.ttf": {
+      "input_sha256": "a12d5be32de09c48a0b158b54e319811ef2c09e6fc0e856791263b1a97c1a707",
+      "sha256": "adae3a46ff99b625b609cc1de096fc187fee87f0c6d570c8822a1eeaa9f8dada",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 70852
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Light.ttf": {
+      "input_sha256": "a8310df0d47aedb2d01c9f6272ba953a1deb3c9208b9413c69235388f1d6988a",
+      "sha256": "1742d7eb5c484cd092b964d578f4a3253a6b230b6ed4f5747938f24147cc89b8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 71124
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Medium.ttf": {
+      "input_sha256": "bc7fa8493597f18b7b9bcc71b3052bb0e2fde6d94b6b37e29edc0ef1ae2943b2",
+      "sha256": "46ff325914ce49f1c8bf96e75ef5bb864d49442eaeae2b2639c492c4bf2b6c65",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 71136
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Regular.ttf": {
+      "input_sha256": "2195b90ae207f71a23b29fe527c62f6856e75e1f27f0694524992fd53424e307",
+      "sha256": "5d7f9f6ed4d7ef8a8a31b5d777f86df186a57be31f7cfabad9e3288eb87c3592",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 71112
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/SemiBold.ttf": {
+      "input_sha256": "82ea0b518e4d04ff944518e220b73d80128afdfbaccf39ffa46961c3d8315d75",
+      "sha256": "13029a908124d02a5698e293e7f6c226f16ab42128ab6873020d5d92dbd0d17c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 71040
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Thin.ttf": {
+      "input_sha256": "c0a843f6a15430c7c73c20bc2010c3d76438f4a7293a6919d1df417a0272f63d",
+      "sha256": "33c3dc1bc970ed822583b3266e4ddd83969bbfe410a3a1664a7a7256cd9b61ad",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 71104
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSans/Black.ttf": {
+      "input_sha256": "5b4606a49691ce9b11121548c117a36e63134294314d9e02dfa96093637ab86f",
+      "sha256": "45c3d7cd3f8cc4a8192841b56e3279ab70e0d8d76698d69a1aa7ae57e662ac76",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 143944
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSans/Bold.ttf": {
+      "input_sha256": "32b6d6b5e9dd53e66045f83dc78578034f9cd96fe4ddc3286f24d11d3e926f16",
+      "sha256": "07d1c99d48281c849ca2a38450c8c0626dda3401c32508a2ffe9832b2400cf6a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 143092
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSans/Light.ttf": {
+      "input_sha256": "8c7bf813f3aa240365fe3c13cd6aaaeeb8d1964bf0ceecc9ca3965a8576436c6",
+      "sha256": "84ce65a6a251d5bf85a0dabb256858d8b79f0f32beeee39f571533f677b04284",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 148656
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSans/Medium.ttf": {
+      "input_sha256": "c9ffb7cf0160ad77be931736b0cfbb28de0634dedaf85b90a44236e01697df33",
+      "sha256": "8722f72d469db2fcca67f9ca07b6481b865ae12fce04625c2f2be577c151d488",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 148692
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSans/Regular.ttf": {
+      "input_sha256": "f8ecc61be839e9787e672bca4bb8803119d3d765c48c35900d6f94b0f4dc2e1a",
+      "sha256": "8defb1e4eee08ac71960cc713bd527433297fd2a61f1fe5f5d635a4f997bfe0a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 148420
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSans/SemiBold.ttf": {
+      "input_sha256": "8342380a1f17a0c29d2042559589fe781988aed84d91b7433bf9b3b45d9b18b9",
+      "sha256": "c24d69a5f970356627a8904d280ca4ecb06a1e13990bf88444506c6be3a418f3",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 143616
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSans/Thin.ttf": {
+      "input_sha256": "b57240c399cf8308efa74fd77ea8659b04fa995f14d66e225f8b0d99870388ac",
+      "sha256": "a9e3c63c34357b312b99f7328c787a65fd482eac429ed7c5d37617843ccc2365",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 148588
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Black.ttf": {
+      "input_sha256": "62028c0414aa3b6bf553cb26145bf6b58795a92904ca830f169661a02f3b7fc2",
+      "sha256": "4050d4c20679bf3413a0f567eba99f65eab1ba48ba243f097d72b54c0bf90bcc",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 145160
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Bold.ttf": {
+      "input_sha256": "7eda460d73efa05998654e70e0dabad873efa54c0250577816ec4539ff5b1ca6",
+      "sha256": "94e7c118b4c0cc1e9607dd883a796bef6ea636d800326e7c0ea65f6f19ddc02f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 146864
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Light.ttf": {
+      "input_sha256": "a0622af6e80558e7bdd7e05f6717a27a3a34943047bc3358fd028722aa868d5a",
+      "sha256": "3e400956a206623c5e9269e07d82ccde042302f1150320ec0a761c236bc90b24",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 151304
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Medium.ttf": {
+      "input_sha256": "de838da5051a6d60e1e7844a3bfbb3a2324e415aae9323e1b65e594a34bc8b6e",
+      "sha256": "20383efabe5d5dd0642e47d9c2cafe4117d5f55a57bd67aa445abd3f206882fb",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 151392
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Regular.ttf": {
+      "input_sha256": "9e4556fc8bb43ca88a3df708afd56e67ea15629a96061f2b18442c1d4662bafd",
+      "sha256": "5a03f551b17e246849922f74002ced4bfebce0898d2341a4cd6d3bed28e87a2b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 153168
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/SemiBold.ttf": {
+      "input_sha256": "e1389dbf49050154d6fd318ee69dd697431e54077b58ab71da1a51651fe5ce11",
+      "sha256": "186366c4f096aa3665b74255a289fd62735c2fa40c581cff46a42513b0c4b2f9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 147952
+    },
+    "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Thin.ttf": {
+      "input_sha256": "a0b7bcd3219fd7cee75aeca38170177f55023eeb64d7f7604ba755afb55c8edb",
+      "sha256": "0b26e8b55baedbdb4ec1d94281bd1b8c8ecb5fd686f7d9f508713f80b73358b9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.102",
+      "bytes": 152324
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-Bold.otf": {
+      "input_sha256": "b9dab9700509c0bd9559a1d5f709796bbf671bc3133fd24a1c00b18e45b0e8c0",
+      "sha256": "8101336f550922a43e373231d1d4c57edb4c02db29e1a3f84189e24ba946cb31",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 209808
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf": {
+      "input_sha256": "16019de0f03a956ff351c3a8bde2d228a5e260d5857d07c82e0239641bea3c86",
+      "sha256": "b69ff8a418ff535d7ffa888471b82f8fb33a4a35cc66d84240c6e63713dcc74f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 220600
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-Italic.otf": {
+      "input_sha256": "37a6f1836d2932e1d276d865d1caad77a8252803f34be1d311b8eb55efb21935",
+      "sha256": "b77a6c735ca804bbe764768c83a4399e808e00e09269873f5529d86716b8bab9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 220548
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-Light.otf": {
+      "input_sha256": "24fbf38b507218abacb9ffc05cee0d018a9c727fc943c27a5ecd22601c49beb6",
+      "sha256": "125c01e3fb9d2155d6e86cbce0393efe8bf48b837d30ed3e2c720f9070ee88d3",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 210032
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf": {
+      "input_sha256": "d1222d5008d185394ec1a10817236df19b0a04a18e382639cfc6f8aacefd3614",
+      "sha256": "e2917ad3655477b473f5c6cd27399d9650f7f3f9a731b50639696b9863998e21",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 221052
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-Medium.otf": {
+      "input_sha256": "f88533486f149a1576b316557e0583b571478a0b31fb16059798d5ca3942d752",
+      "sha256": "09afd549e4b01e486763b0557357d07c3f9e1b0e52049b43a4b640f1f16cb09e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 209828
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf": {
+      "input_sha256": "2283591863f34dd75d64d766509dd8d4936dc14a7e885930e62fd5b2df4ab0a5",
+      "sha256": "a1bf5f43b5440e645c8d994fe7fa5271791ac99114dfe163cb440e5a8405ff9f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 220176
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-Regular.otf": {
+      "input_sha256": "4f37759ff53879b242fce9ac390d14d64c4d29f03f8948a230005868c28c854c",
+      "sha256": "b3bd85aac09afd45a4739a15f2a0b194c3be7d3bc089149a4edbb73605049f83",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 209992
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf": {
+      "input_sha256": "6a7655b13ba42126aacda1b268c4a62da151d782864f39a52f018b6d588816c6",
+      "sha256": "5b0b25f4826ab167b7b3f9d295e844b6931bab0683a92b87a27e24a7aef25038",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 210816
+    },
+    "SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf": {
+      "input_sha256": "5fb60e6fe5e61b0b90f94feb51c1a004c9ce463f228a3c400b1b6ce4f3fa3c22",
+      "sha256": "fedac8a34e3afccac752354849ce0510ebd469f8be2ab351c825a3d952922999",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 221668
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf": {
+      "input_sha256": "7725b34e2ebdeec56cd6e126d1fad1a3ddf2ce1c685b49efceb35edc5521c212",
+      "sha256": "8b68bd31f385042af02f5c16bb714e43a893c9702b79b224887b27b33b43ef2b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 179128
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "bd88ad6023402a70013ad71aa1360b644f798b5c58990f3d92044c40f83d6986",
+      "sha256": "c4f593c92b27ebb112516195095bc7f3e4ead7b37b4722e3c4579bcdb37b26c1",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 184432
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf": {
+      "input_sha256": "191b3cc242344489fed6911c9803887aac58cd73673365daf17bdde6bff08ce0",
+      "sha256": "29b2e7b686d3fbed42fb4c06e9ea44586770383ab9fb77aeaacba2d3948f309a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 184712
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-Light.ttf": {
+      "input_sha256": "a7e521107bfd0f0b00539bcdd851ef1cd34563498b8d7586ab6d08695671c6a9",
+      "sha256": "ada5cf1ab414fbce60f51f5234b50cd9a966a9abc3789457b0bc55ad6f157ba2",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 181172
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "31994adca46bad4f664b254db136cc312d307d994c3e0ab398bf33ab9d0064f4",
+      "sha256": "70d2b2260c2ca07d6f1c28c1bb78536bef4cba686dfd644dd2157acf325b19de",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 185860
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf": {
+      "input_sha256": "a8ded22cb545e6ad888dcfee41bba983f81d973b8a3ed4569495115d2ae28e74",
+      "sha256": "884e4c31e719e705e571f1252532fd0ac54e4ef39f06c8b8f00acdeaefe9f126",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 180376
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "e6d717907ab97de913c0d9be400eb664a84371daf49ef49c29f392bb0d476708",
+      "sha256": "77ee863ddfd4bc72ffdfde8332e214056ab4474823b44703e4079505e6a46bba",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 185576
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf": {
+      "input_sha256": "8f97777293bc9d79a7ab1ea8353ca835e20502f4ace7dbe42c01d32b04a31114",
+      "sha256": "00386e3fab16ef4d88826739f54bf702d83e23d7b21bb41237098cc009c63777",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 179380
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "4ab08034e3ebae35e22714414867c5f90803a6cc8226ccc58ac11c61ef478d42",
+      "sha256": "d857e7bd355cd5b502695e3cd4a7614fec8e6039675ea162d0e9d6bcdf2afc30",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 178760
+    },
+    "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "41cb6b5fe797261d74094b9e587cb39e52359e4887ac21e37654acfb2a7a9129",
+      "sha256": "588150ad971c0c74d3a9dfc718b709165480e948cf9a68a78c881b89ce41ac66",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 184828
+    },
+    "SAB-Modul-Code/VF/SABModulCode-Italic[wght].ttf": {
+      "input_sha256": "3ee11d71a22f0b345a11d4f61d115c45bf8a5045f76aecba78c1c34413f98a85",
+      "sha256": "bf7003a761bfd4183904eb30d4fa2e12a25ba6b940f0e322f1f1a5bcc66f5460",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 294188
+    },
+    "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2": {
+      "input_sha256": "429198ebc6e347c6fe53dbeb9c9b2ed512fd0d4919b8e05e6fcfe094d35c0975",
+      "sha256": "429d98c85619faed00e9375c1e424492eea4240e24860f18e4e9eb44e973621a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 125420
+    },
+    "SAB-Modul-Code/VF/SABModulCode[wght].ttf": {
+      "input_sha256": "5a04fd85a91d98da53abde8270697e9c0bb5974e53082729f11352954ff2663d",
+      "sha256": "e71c423c9ebc0470b86298e263ca2b43bd56858e3aa3a4b19d4e9f7df9e41871",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 272104
+    },
+    "SAB-Modul-Code/VF/SABModulCode[wght].woff2": {
+      "input_sha256": "01e47b695b299b6db9e69100e9f2587579a7bae88de974e2ade1f608d1c85b11",
+      "sha256": "8141e24f77bf89f4d81c963bb9a324caae1be7c550e73c9f8c8b3b3c5449868f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 111164
+    },
+    "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2": {
+      "input_sha256": "7f7ea1b2a3ca029b30193e8c275593c07fa27f49c76aadfb03843fc0a2f3b1e4",
+      "sha256": "c729abd3de8c561bbc55d25d2612309a734732f1eda8682751c577d5805241e8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 28000
+    },
+    "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2": {
+      "input_sha256": "7ee609783d2064f5a8de71cb8a0d0c4c3c9feab8eb1c7f6380f8b50b2c0170ea",
+      "sha256": "0d530ce7649a96a9fec786bf94761b0bb33681f8e315450825d03f5f57f93a2f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 44356
+    },
+    "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2": {
+      "input_sha256": "170b9bb826a30e61a6a000f3be90a2950121ea9f447210da685f482f54a69e9d",
+      "sha256": "3801816b8fd2833009f3a42aad9870a86e83fd770fd15b587a910f9bbe212725",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 54228
+    },
+    "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2": {
+      "input_sha256": "fd89b296cb141b3197b431b50df8d8f2f3d076264396e5374d3d324bdbbbd8a4",
+      "sha256": "1e48d79d16af50cfaa20f1dfe217deb1d4aadf9a50f8f3c135578b0202330a02",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 64640
+    },
+    "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2": {
+      "input_sha256": "9571b22867b69e947e321c2b1c78c3051196bbada65aa8f69f6af8f7c9f10079",
+      "sha256": "cc86d571ecad0b0736e11ab353fbb45e7837b17e713a2e3220336b0edc369b96",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 117400
+    },
+    "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2": {
+      "input_sha256": "e8d47e3c1b31075aec6d4670092bd653da26e07a19a86cf25046efc00c1a0710",
+      "sha256": "b812504b91e05c1b163b41a90b7ca95229e617d135fce3a4f7eb32fb76c79950",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 25960
+    },
+    "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2": {
+      "input_sha256": "8baf7f2c5fe6853a33668d0ce9d74dbf3635b450cdf9f6f01de53cc76799d383",
+      "sha256": "3d22df3a58bb91a8fc4dbadee34dfbb45568956649aec6e1ab4cc22767531c9d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 39164
+    },
+    "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2": {
+      "input_sha256": "3fa8fe04f74d8231650426126c1d45667d9842f06ea4592db058d6b88bb8b383",
+      "sha256": "983204ac81072af0e82dff3f8e215e9ec7cd9513826e99cfae8eb64d0af99bc0",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 47024
+    },
+    "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2": {
+      "input_sha256": "8027d7014f655ada50f140caa11276f7efde4ef003f23673184deb756d1a45df",
+      "sha256": "c22e193c7b578fd05085981678d3c898f8fec344850ff5674511455a0e1df15b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 58748
+    },
+    "SAB-Modul-Code/WEB/SABModulCode[wght].woff2": {
+      "input_sha256": "c1b75b55a5054fef0a0813a2ef139ff51e9818b6d05cb4fdc50c61756d84c143",
+      "sha256": "d6fe67dd482275963b080378ba0d718f61d9d3186e57e3f6c01e44e78acb289e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 102900
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2": {
+      "input_sha256": "89d44575c4b0be2f49c5e19ba87ffa1f1c0b6f231cd1927d904ba14a0d33caf5",
+      "sha256": "75833045290f9f8b6cd2d29e3fd708ffcdbdf86e48a82f1b183bb7124f393342",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 64628
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-BoldItalic.woff2": {
+      "input_sha256": "1cd464a8648ed2e5fff3e09176e04eef3a7577632859b2e313bb4791b2964677",
+      "sha256": "e6ce53549ba227f924b7868855fc9f9e98b8f2e03e3ecf845f540f0d5c1bf486",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69324
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-Italic.woff2": {
+      "input_sha256": "8d0c983d8bac45ecb02d74ed38442ff73418323cf2dbc97f905863b432b18aff",
+      "sha256": "6c1ce39db0e330277b6c6f29b0ec0cc70a12680eea07edfc8bd6de7c553f0558",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69556
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2": {
+      "input_sha256": "7328056354156ee2b830e91ff25b4df8fe8f839139f994330370143c57f09e8f",
+      "sha256": "af69c94b9fc9214d8debef944223075aa31f5a05adcb38a9d7e749a9af10f4c3",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 65308
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-LightItalic.woff2": {
+      "input_sha256": "e65e41fab15cfa44e41bfb19f915b91df878999983d63a4924debf00fbc7ac83",
+      "sha256": "d2fee6680654e53f3c399f2c6016a7f8e5ccb076d7199d9020c2e38414d7c5d6",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69864
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2": {
+      "input_sha256": "eec5e1ea4dd3add207eeeba3ca3c565cfd335ba732e45be97ac4912442ea153f",
+      "sha256": "b9d095c579542c247357fe271617b3e6a9088689a24bb2e16f4c028b703ec49a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 65424
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-MediumItalic.woff2": {
+      "input_sha256": "c0f7798c610beab63dab37fe7be17a3caf1741a5ccbf1d6314feef18927e7401",
+      "sha256": "7ea8b91afdaa105cd870ab928ce5c2c316cd4ebbe490391f6ffa031cc7441bf7",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 70372
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2": {
+      "input_sha256": "00cb54634fe86f019b2405ee9e163f33f74cecaec1540b51811be2a917e7902d",
+      "sha256": "21fe4380c73d2f09d89bfc5b7aadc3919002b6c7c2f9217508399895f43b669c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 64980
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2": {
+      "input_sha256": "7a79dac7a370ba4ff653a0982ddbeaddbea6873d9d61ff8f05f8cfeb4060c266",
+      "sha256": "c0b2c96d2160b06ef4aa5cf491abae9c2c552ac88385e754970399b4bbffc6d5",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 64540
+    },
+    "SAB-Modul-Code/WOFF2/SABModulCode-SemiBoldItalic.woff2": {
+      "input_sha256": "0e9412280ec076e2a59c24088be989ebeea6dbd3c59edaf79a5491e73fc25880",
+      "sha256": "98ec54fdd309a4df99a8e54e91c03d23d8a22f6496dea2fc7e95a64755806cb8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69892
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-Bold.ttf": {
+      "input_sha256": "9991feec951931fe6eb07fd1ecb8cb3f9af72ed3f47384360ffcf000cbb1d7b0",
+      "sha256": "16c3c4702b644911261897a1485c1186bb76a56f93030c8c266299316e339d4e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 112272
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "28d4c8c9465600e4fdce56a01ee8a9bd5f31b067f2302605e156e6aa568c6d92",
+      "sha256": "849647084e5b2d1895c68228e0ba44e8fa9b118314569c73217aafbb4af36a95",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115128
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-Light.ttf": {
+      "input_sha256": "a82cca4a8779a103861f4b1c6b25ea9cdeb47aca0746040762169ca95859c2c7",
+      "sha256": "849c5b9a806fefa586db8775d542197f975bc15fa6826d48a052597491ab6f0f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 112232
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "66898a7afc6690c6f53543ac9aaf19da1e7348fe0b443d32f84fd80957aab2d5",
+      "sha256": "432cef0af2540756182912e2339b8313ed7becb4d75ae547cb3581f9e112192c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115620
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-Medium.ttf": {
+      "input_sha256": "4dbcb1c991cc6d9a3184f5200dbf595606abe8efe9978a9b9937f11a9368f7d6",
+      "sha256": "f8c53d26f68c58c931c49f7ef7c2da7fc378a941c0e8c6e139170a7324f9a7b1",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 112244
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "e59b85b801a115d7cb92d8a12de73b971f83502c7a0eba74139601467f937c23",
+      "sha256": "e87edf4b0beac420c44ace706ef72fb819a3cf7e2fd0f326fc09401f81e975bc",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115356
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-Regular.ttf": {
+      "input_sha256": "ee194b27c58bc6c23afedf7e5c2f55edd9cb8c05fd9f3532b56f2b1bb883c32b",
+      "sha256": "587e96688fb652bab549b1e265e4c7b631b9fc6719a89e4bc3ed68f2fefb97cf",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 112220
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-RegularItalic.ttf": {
+      "input_sha256": "91f96cf1eeb03f6f0a68e9c5623b187e30549cc2a573be1c44fc3c7acd008162",
+      "sha256": "1f8e4e609834b38e2984dabc24af9045866b3b31652d978017be393fba7c726d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115328
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "6dbf70a1f7f35aa2de3cd95a060c7e478a5c5d033ebc5c46d0d9de43b3d43713",
+      "sha256": "f6c46bf463cc3997ac126ceb5ce185fac6b9d33fc10eb4d96b1f0cb4cb910aaf",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 112136
+    },
+    "SAB-Modul-Code/source/code-masters/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "90fc602aaa5f4d65d46a894ac4079d6e4490f08da3bd6b013e2a21537ed17c6d",
+      "sha256": "61d15fc72251b2c78190413ac12c896d10ffd4bef92912b07fb1f79310874106",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115400
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-Bold.ttf": {
+      "input_sha256": "a3e1e7ba79501ff3026f4888e4819dc293abcee370ffd2cdba43d8a3c6c23c21",
+      "sha256": "83491c250448392ce22488a8a382bb76a94619715ff1e7527db7347e5177390c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 118828
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "ec1a9b0c4fbe5ce16c22be78ea61bd405509ce9ed6d8e0ff00683c53dac44c75",
+      "sha256": "c6b068b1d52fb859135ea173ee0b78fe890a2ade0e71c72354aa5a30989cdb1d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 123320
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-Light.ttf": {
+      "input_sha256": "6cca9d14e5bd6bc64aefd426b5456478a8d1979a620e8b225c3b59952b9d3d36",
+      "sha256": "0cd559232ef00819beb25e6bae7e64f67ccac819f1cb66b9e30e8978225c1b53",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 119192
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "3d45d3d93fe169a124eb7b4eaec5f72a7717a7f11f8f7bd7a34ff55c7f151aae",
+      "sha256": "1fae114d44c5a24527e3e95b9077be06e605bf408457806b8aeba3187d6e35a3",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 124140
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-Medium.ttf": {
+      "input_sha256": "e1da3e669bd4e757f7ef29aeb93bc49923e69dd12d0c0704fc6e35b008c886f2",
+      "sha256": "db3c36303ec0a178c9344f487a040ac0dba3b88a6c74af0d591f848682cc8f08",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 119112
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "eb87c5eaf9781eb28f1fc0186a6a9afccc4e918e105ce7a8936e5487789a86a5",
+      "sha256": "33818d6f64a8ea221b654b94c19633ffdf0a242519a99ab70922ac0bcda610b4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 123736
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-Regular.ttf": {
+      "input_sha256": "726b8fa2274d43e1bc9351b404786fdef5c0433081658b8b61e43d5fffde5209",
+      "sha256": "41d5f84fb0b90aa577748f64caa4c53a599a619cba9e11392c93ce085a9935c5",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 119072
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-RegularItalic.ttf": {
+      "input_sha256": "3c88f6865384066aff64d31f11b8b01a9e2a80ad37ec3b65bf12a9e5c9453c8c",
+      "sha256": "9ba26397d314921ce49b891f9cc8ebb3459d7c9aaf204f9f69808a23f376be8a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 123760
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "0f6014f207a9de357766bd03ab13b17a842062004a2f9f47fa2d76eae6cea57e",
+      "sha256": "b5fcb42d038c52fd89a573be88947845de7ca2afa17c39144819fed629d09236",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 119124
+    },
+    "SAB-Modul-Code/source/stage2-masters/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "0d36a22e9bb7452d4bffeab46ee34d10907a7b969493b895efb56617e2a9eed7",
+      "sha256": "996fb45c5557b9886c9e5155aa7bfbbfbffe43f06b7fbadc8086995a561ffbca",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 123772
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-Bold.ttf": {
+      "input_sha256": "24231764a63da2127698f12ca08c78ed31498f63c48f3bc5f037fafee4a328cf",
+      "sha256": "2e9be06b9ecd76188e369c1362e46b4435fef3cd830d80e8235821e0960c772a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 161296
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "dd11a5314db5956f0db8019976f4e36d004df8050f713ac71267d61d4a552a69",
+      "sha256": "56d661db9f1b3fe6e4e052cc1260420a0f53de7421a7bace14b42ba256e3cdfe",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 166188
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-Light.ttf": {
+      "input_sha256": "8aae4f439d543322d1650a6bc4230e725c9779ae19960e67cde726db6fe32d85",
+      "sha256": "eb27fd214a312c342aeea250e3377c0da6cd18b88d886f0b33d506c2db6c8dd6",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 162864
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "8a2753d3ec3fdf182b49c9a39a074cc9ddeb0ca66861d7b0b7113b86bfc561cf",
+      "sha256": "5a3288ced831b4b7bf2cbc249239e340e7005a426fd77e801a500696e0cb371d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 168108
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-Medium.ttf": {
+      "input_sha256": "2622c49fbbb3433f3df0864acb685ae6a80ccd2bcfed37784902484954ebbe41",
+      "sha256": "13d4e39e34c085187d06e39faa8e77000824b14ed0b8a6b8fad37f547351ec2e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 162188
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "2e33336a96af0b956f6b2bf739c9487ebf4db7f44a6931932bcc6a1af11e475a",
+      "sha256": "4a5f9fe696a44a225e7734a59b9d348d5e936143c7d6d98ffebb6dbd9e07acc1",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 167196
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-Regular.ttf": {
+      "input_sha256": "76229123a9a4e79949defa94961bee7663d8f35d5068c23c2ebbacba6cc8bfac",
+      "sha256": "0736f01ca98f812f10227c2db532a9bd559afc9569569bee94ed185a64d2951a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 162308
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-RegularItalic.ttf": {
+      "input_sha256": "99b9ef7a50439194b20d2652ad5596fb1867d19be21693c052779947f4b7169b",
+      "sha256": "0b47f5dfa4e71cce7d4483819bf66f81156c3e76a4c558e497f2f9252ba3ba97",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 167408
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "f6704248eb8f613bf783044872c4cb3100b9143dbfa1a66cdccdaf10c6f0b4b4",
+      "sha256": "13d5c4e323c4135e5372d315d2d638a4453f9ea4f9431594906aad5b797288b6",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 162056
+    },
+    "SAB-Modul-Code/source/stage3-masters/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "880877e58611d322c468b26ee0b9bc1685209ce7e3c622ee638e55a21c35a8fa",
+      "sha256": "5f4a9b102bfbef5883d93d984174cbad026ebd2dac36f472f8b3bc29ece66740",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 167172
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-Bold.ttf": {
+      "input_sha256": "7461315d5347ccdc3b7e0704fe855990e50dce39d28bb612f1ded955d5c62d1a",
+      "sha256": "282e6fa426b076bbed6b5a64c7bfb478d5278bc9aca158d51ab800b6eadf439c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 169224
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "7c8a506a59fdbfa4de0cf672f10e7f471738f443b9957d22642ac6b8f2c5a498",
+      "sha256": "f8d8f3ec57d69f2330f5852cbfc1f2de933be9c9f6ff60d315764602c8b8d3ac",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 174164
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-Light.ttf": {
+      "input_sha256": "7c433107b9a4b3f487cc7fc293c76511c40ed6a7d141fc66be0bfe6127911a84",
+      "sha256": "7063dce8dfeed46648435fb79f048ce93c001973c25b3d3d9468c33146b6078d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 170972
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "c50a4a07549a92cb2a1d39e5e7fb7a637ccab30a44089f0e0c66fa51075a64b6",
+      "sha256": "db911f1cfde58e6e169f565be2ff79094f0304f7e81b0ba8417e6a2dd60f9537",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 176284
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-Medium.ttf": {
+      "input_sha256": "a666d277518eb455a5f6d08707a3087e435caf5ebf9b34357156516d739a33a6",
+      "sha256": "fe185ad735eb8953acc2a9bd8226f10bc4dfb1d2ce2002bc5e95a7abfbade67f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 170272
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "6c85020b12a55dcbce286140903a488fe0e2c8c841b8637acd3f5e6fc3a67fb6",
+      "sha256": "1027ba6054d7946430c825300b992997b5160e4e0652e6f61c7b8e0044d096b4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 175320
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-Regular.ttf": {
+      "input_sha256": "382c2edbba9e0ca8f46d5fcb5324e4b581921b0bf8cdd69da6b774c3663da123",
+      "sha256": "bcb45fdc8a7162bca5da5b1751e39f0bd36029b1a6fb7922f98290f8d7a8680b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 170448
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-RegularItalic.ttf": {
+      "input_sha256": "728a4443a40c621170505f061fad0f17eb89ac0137ce9e5399dc34c0a377c636",
+      "sha256": "a2b459916f94bd31bd80e8ded1b305fe0e8d21dc02388be1d104e0ec44bf6caf",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 175560
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "1aa77657607044ff2c69449b137213029c872039c4bc86d0849be58e1acb7be0",
+      "sha256": "d2c83b72c1314dfba2b75ef969a12c3dd446c4b05e66062996039f7fcb2e19bb",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 170052
+    },
+    "SAB-Modul-Code/source/stage4-masters/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "2b63080ce51413dd35edb1f250f01b9325c0604583a7bf0eb8d81000580f4a72",
+      "sha256": "bc28ce3c9c512406de7c813677c07c1f8b34629bfaa33b0a2a90dae08c7d5a1f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 175252
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-Bold.ttf": {
+      "input_sha256": "a05c0a0dfa4bb8e3773ef6d51789649d50204cda6ecae2e92fe7110286808958",
+      "sha256": "3d79fad65e7a3461eda54ffdd4b13a6e275f60d471293ef96ce49845318a2d98",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 169156
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "33f86399ef1e7e59cae2155e616e1387341c1382fb4d2f8c0b3ae751df2d8328",
+      "sha256": "da80b4582189ec3cba9d8ed9f1c6062e4c2567bf31ba5c67291aba8269943905",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 172052
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-Light.ttf": {
+      "input_sha256": "372e59e328eaa024619f461e1289ff7793f845d3e3f144c624b15670ce8990bc",
+      "sha256": "0ac11593b6c27c615109223a6c3acf571b7c3753fcc9325165a95217a8d21909",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 170904
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "7732ea6ab1ec0c6ea42d22d913d89e8c0b922b137a91ac4819501f9cf6b2c4d8",
+      "sha256": "5dc7454b50d5d7ad9d5294db90099b2769c4fa8b53a13c70ac8a3a82495d1ef4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 174120
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-Medium.ttf": {
+      "input_sha256": "2471e0c77cbd61ee784cfd4a2505ca74876604015edef4143a9a026cdeb7cefa",
+      "sha256": "f5351e489e9d01add9ba4906d264d562d5a61b0e29f34207dfb7971101631077",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 170204
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "cb1aa3d320463d3bf920a16f493670c9268c2bb41677fd84efe9c518f5a68d45",
+      "sha256": "4b3673d2e1367308ad52fd1e2a0d53d47d13986511866c03033afaa512b32e46",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 173188
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-Regular.ttf": {
+      "input_sha256": "d481033096347b7eed95488d2ab3d0b0150f5993cbae49b6e7d5fd4acb556cd0",
+      "sha256": "36eb95732461f19ad7f46035b55ec52211036cafb24f84fd623d9c4495d522e6",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 170380
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-RegularItalic.ttf": {
+      "input_sha256": "6182718247bf7eacd5b8dc3ce5fafb8c40ab55a034e358a2b72237f7269d32de",
+      "sha256": "3b0d4b5eb1c34230e2ae8e809d957575897d5e1b63b6bde414188dfe75954ed1",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 173452
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "f6f186687ae8a2c0e56f87ef0f2201f623d3d3bc76f3a35d0b4e2d394bf98878",
+      "sha256": "4841b64e9d93f9d653c48eeffd802d47a836c2e086fd2d7f16fa6967c266612b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 169984
+    },
+    "SAB-Modul-Code/source/stage5-masters/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "65cc5136f1bafca752d19f1ddfea46ab9bc179a28c6e59fea3794dabcc16a834",
+      "sha256": "87c3e87e5fe6d293f407e24eb8f091b445324ff3a4590065e434d2fb3f4bcd20",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 173156
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Bold.ttf": {
+      "input_sha256": "0a722f73e24edc9035708b72c9dae4beb9700408ad86734fbc366e088074d4ca",
+      "sha256": "8b8dba1e6f69cb665d040ab55b0dc14d29529267ca05095d54577d691c080c52",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 172824
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "43f02e78b92d6f82b8a99f7d79e3028ae243be36e2cd3ce2c1b99ff324f63888",
+      "sha256": "d5498faeae0387b8a65d4fcea9b8ded3516a17c86a2d8e3c137ff0dbd31e51be",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 175940
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Light.ttf": {
+      "input_sha256": "86b3c2ab6c51ec719f179c15019400dd2367333f726b6a2aeaaa83e0d6535453",
+      "sha256": "6a43e08ce401922817774ee5e06bf5087f172fa6d53fd37eeb94742d8c91bd67",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 174048
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "2be9e3444b99cd5bb2c7d7505dd6fcfc380b2946696e47b5a16e2b9ac1de40fd",
+      "sha256": "1fec055a5873746e354ec77ad5b8b8720dd7d7b6011c4195d2966e0ca03a0fcf",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 177488
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Medium.ttf": {
+      "input_sha256": "e749dd36f4a8f1fbdb00a7217c13506d270da78ab138c6bd2dcbef721bb0def8",
+      "sha256": "5f696e695325f4e37a8143fed4952b344df95a4470a0179e45bfc82cce4e05e6",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 173408
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "53f601bad9995466d26e1ee2336a5d89f472a3318badcb05e3f62b5e892722e2",
+      "sha256": "7baee538a5e78b7f39b65a09cc5e9e1db2e34237b50401e50c91456d7680de10",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 176796
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Regular.ttf": {
+      "input_sha256": "1277ed5d531fe67b1c80b12793b37f896ee8870b22824d39df049760ee886d99",
+      "sha256": "eb42d5bb00f39272b6dc04cb5159124fd1b7028ad6daee78a2309217c1a69c03",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 173560
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-RegularItalic.ttf": {
+      "input_sha256": "7893ef68d8284f5b6c6318ffc15ea852d59ffeee6e67641e0a22c167daa450e4",
+      "sha256": "a41850fc6508ad27dab937dc713cdff6a89bc6fdd1a4f2af0c71c13bf6d3f356",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 177068
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "cea3d17eba4e9be06e9145ff5c33378afa7cd97249c989aa6bb07b716c0e7052",
+      "sha256": "ad12f945bcb4f1d5385efd35fc236ea188e8adab0e1b8ee8aecf867733a08201",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 173300
+    },
+    "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "be267308928df654192589f337ca407aa2dd03cde51c88808fd955845e857637",
+      "sha256": "33b4a9e31ecadabe318f07dcb25bf43e4a3c43d96e89f505e46827e46604940d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 176816
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-Bold.ttf": {
+      "input_sha256": "e69ee6c6fb29841792f65e4f26e77aa7bfc464db023232e5907325598982939e",
+      "sha256": "a97e88f59b14e1c9c297850427f31462dad632610e8faaaf5400eb30506eabec",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 134892
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "3ac98ce9e62ae1de949a0a8bec8f0312792aef6503223d656f496c227c264bf9",
+      "sha256": "a3169e5ddd8c05f4da11a5194dca18f865a1be84fe52edecbb656439ff206e04",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 139532
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-Light.ttf": {
+      "input_sha256": "1b11a286b35feccae015e2debb3a18868d071a3279d7f23815aaf0ec6aa4724e",
+      "sha256": "2a887526e0cbd6babe02f5f09fda40b13619a0a7b660494d8e1ba6e368efdf84",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 136232
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "9cdfdff436a475b1944ef3a97608c37de67164765352ddd6c3996803909b0508",
+      "sha256": "bea635ca8d10845fcc55212f7c93d9520385ef635c7d82d18db56248f3369bff",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 141048
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-Medium.ttf": {
+      "input_sha256": "b6d86c874ca48a173546fe23c4b69eb135247ea029959c17ff84afe87d470395",
+      "sha256": "9664ec93d76a5b3f3f97efbf38f1d5ecd0adaf8277659640f2e2a99bd370745e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 135644
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "cbaf79621591f7575a5b2acff1ae772299245c5ffd828013fdc16b258347a111",
+      "sha256": "711fffc6cd93be790afc2d158ec2429e03a8c29b51ba0b78d5f79e39ff530434",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 140232
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-Regular.ttf": {
+      "input_sha256": "6ac65f1de9a254ffb56b8e35635a7a41ac1e837cfa234daa0127097c0d131c0c",
+      "sha256": "d22525df2ad3282c9324d0a200696586123b1b5db681183eb3f05e69df0efc78",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 135828
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-RegularItalic.ttf": {
+      "input_sha256": "79e0b9c7b6444fe7a52922aa0183d91951b8767c1d1e9c0b5baf931c209674a0",
+      "sha256": "cc1a6d0ba84408951dded52d8b4b51813f402c9c3f8ac1a3b87bfdfb022efe12",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 140384
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "e50bbb41750ff67798c56d01e91f6f14f3abb33e6e0066f41e9602a4476d2b28",
+      "sha256": "13915cecb32b667ca0c8355cda9fd45558e4505a1179ca420013b2a38b26d796",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 135628
+    },
+    "SAB-Modul-Code/source/stage6-masters/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "5a71ca9d2710986d59b02d1db54130117516bb6efed658ca73d2496220ac42db",
+      "sha256": "2e55b1f4f49d72c5904dc107afd458ccd0c8621414b6ec28dbdd62155127ee22",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 140380
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-Black.ttf": {
+      "input_sha256": "0e4415a3b8de4dbf63efc2a4d764e2545bba12b236118bda259b53ac02052f7b",
+      "sha256": "eb61c80301d4cc0c0ec7afb9898041bc6b6b9c063cb461f717dd75d8241bcfae",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 80928
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-BlackOblique.ttf": {
+      "input_sha256": "cc9351f294b65e2af44a45e783565ed0639f5571eb56367475e1c27191d8877a",
+      "sha256": "4466b7706d5731912b54c4a03e1ef0f0b5319f185f2fb313c61debf806917038",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 82092
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-Bold.ttf": {
+      "input_sha256": "a011432c427f64da91e6ea386076cd793b5b7026708e63457c54df1f8dda7b9e",
+      "sha256": "27acda444a70eb65c833c0619d32ff58727bf85720a769374e0f9e4138e993f9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 82644
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-BoldOblique.ttf": {
+      "input_sha256": "d7d70dc0daebed9ef4ebdafefd5f77cda85537295664db96210eda6871d7ea42",
+      "sha256": "c4679c6a6727c0220a2f640c5efd323127a4103800c9b39c492366cdb56006da",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 83684
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-Light.ttf": {
+      "input_sha256": "fafeb1432b8c30a3322d03e95f313b1868a77feef5ecb70f3b839cff74258248",
+      "sha256": "cd304792db83e25ad9039ada74cd28314d5a0f8710fd5160da79f5de7fb8f513",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 85292
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-LightOblique.ttf": {
+      "input_sha256": "c952b5a3c4a5c82553531cd3f64d9870b6f80b0977094a07c9ba09dab8a7b1ef",
+      "sha256": "96f08eee54bd53970e5db972934b5e058fb1af58e9b2f9a529b6af2fca296aed",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 86488
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-Medium.ttf": {
+      "input_sha256": "4b3273817ce28d43147e849579cb8b4e077d14ae4db7d080e1f36baef8bda9c3",
+      "sha256": "0cde3679bd5b2f93ab0c3259e180e2cfb4262c3b47ee3b46a5b3d3d7b35eddb4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 85396
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-MediumOblique.ttf": {
+      "input_sha256": "3c8b234c65cff603b45ccabe648d610d861d1873c1d84453fb7880307812979c",
+      "sha256": "3ad6f2dc894d32a09defc14578d30c14b97675c009d269905f1c1495905bb777",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 86592
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-Regular.ttf": {
+      "input_sha256": "960fadbf19ec42836057772c5c26e4ee7db2d35a1c770d9ecd9b7eea017e7322",
+      "sha256": "5c033b7b2ac16921144a1403023ae2e27cc7e7cb58c91f74eec69beff783000a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 85772
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-RegularOblique.ttf": {
+      "input_sha256": "ac2d41b63e8b90343962f7a50b5a834c237dabeace532c0342337528402a312f",
+      "sha256": "b24fcf9c8a4ccf6b5fac41a2eb32516142314be77cc87e15ea397e91db35a6ef",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 86972
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-SemiBold.ttf": {
+      "input_sha256": "62ce7ee92b014d7a95d710f3f538c99428d36d268c60d8845c0fcc500c19d8db",
+      "sha256": "242e7d9acb2b98d6073fe4588db96f4882bb7f9f0aa2e265b799a7a2b15b7d5d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 84188
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-SemiBoldOblique.ttf": {
+      "input_sha256": "a8f0cedd53c5068bf822e0dfc9cba99a7ee0a23e66a88d14df57f3c3d64e693d",
+      "sha256": "9639c008d5da8bf0bb76a94b782bc6aa75327066cec0cb6f5c8608f14d45f7c6",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 85352
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-Thin.ttf": {
+      "input_sha256": "5b18c38a8640f003570139916018eb3685efd92e4fd98ed8854a8ec7162d8ef3",
+      "sha256": "eee0bddf96650bab0803eb0383460de839fc241f2c81be8dc2fdac78d5060fd9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 85320
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulMono-ThinOblique.ttf": {
+      "input_sha256": "6b3a7e76e0a55cd11ca585c32f9077c1a8bf84eed680b079787b3eb6ebbdd912",
+      "sha256": "28fde7af33c380defcc32fe71efd877d9844886431807338ddb0f573b6e335bf",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 86556
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-Black.ttf": {
+      "input_sha256": "95f632dfc02d823dd434cb9fb27b6a53cac4e7d436ca40effc42ca482de6fafd",
+      "sha256": "0c902e793ce39721300b551b9b0c8082c9929bad75da72a266fbc05ea77b61b5",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 156252
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-BlackOblique.ttf": {
+      "input_sha256": "16a17a5c2694762b8b0765ab46a1c374e41b1e6024ccf6cc4c0d216f9b8504fb",
+      "sha256": "53144a27896a8cba45d9b227a13dbb3d8af8cdf777c0a2543cd79665071c85c3",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 157012
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-Bold.ttf": {
+      "input_sha256": "6f70f4f42b6dbe21e850ff6589ec0a1af025ed7fb6c5a2098f8d511320cf04af",
+      "sha256": "0555f8695cf4f4fda4212871a082b0d488ebe36040c949a5205b6a73315263d0",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 156812
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-BoldOblique.ttf": {
+      "input_sha256": "55cb4b54bf2b3d839d9b63b3ccdc51a9509e70563dfe92cb48c34cad79cf37a7",
+      "sha256": "c5bdfa9a32b2cc0fba5574fa5e7e75a81b1c890e31a01e8846cf3cfc4670bd7d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 160052
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-Light.ttf": {
+      "input_sha256": "1c6c37ac72a1da06fb14adf4338646e75e7c920bd1da0f5b15d305e2c40f4879",
+      "sha256": "58d322ba048ec79f3f7b7e3d2889d5042c94c788863f1765f7b99b13355fd718",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 164608
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-LightOblique.ttf": {
+      "input_sha256": "0e3a4da43215e27ada024690a97a0f5e5a9da2203fb4dcd9fe96690310e6a798",
+      "sha256": "c00b78df557aecac39f9a1fadc0d1d1eea8d97fb143f81a82cacf93b7072a196",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 166628
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-Medium.ttf": {
+      "input_sha256": "7cddaa5f1a794cb41f967d5ad3bf18863058a5761c7eb98b5339ecba7ccfdc7c",
+      "sha256": "5fa14ea26e3ad52ed306d239e85d0a08d8c8f7276b31385d5483fa89485ca7ae",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 164540
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-MediumOblique.ttf": {
+      "input_sha256": "a5eb344eb0835a0034ff8d12d4fef5f2f9e25e4fcd67c51b5ca89c0e930e322b",
+      "sha256": "f82b8fb132787b6fe65cdaea34d381bd91a78acc0572d43e71baecf82195974a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 166676
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-Regular.ttf": {
+      "input_sha256": "87ea1ef7479ba5fb5b2599b32f8087afee297f1a0183ebab707fc5df262a77c9",
+      "sha256": "93ae6a28d85131aec8ab4930c28de05c425c4ffe7a3798f93986e28ca4e4c5fc",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 164792
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-RegularOblique.ttf": {
+      "input_sha256": "59b684a94404f11c637293d81ba74f3f31c3275e1c6940888f0e2021dc4267f0",
+      "sha256": "4ed306ff828b87e32543ac0e101fa989d5d8eb279ccee7e930ea1e1b9ef747e0",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 169016
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-SemiBold.ttf": {
+      "input_sha256": "01d700ed8f0de75456cb507c569aac2b9c454a2e65a6fb0395eca9588db2306a",
+      "sha256": "e28fda1a59e4a06cbec6cc1891a0c917a55962c609cf3fb15f29befbae6741d6",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 158380
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-SemiBoldOblique.ttf": {
+      "input_sha256": "3dc97d7f1f4ccf739a2ab31f726211d38da33b657999cada63c3e732fc6a90b2",
+      "sha256": "f1350081be2f9397d06498a64f81bb4d5a552a1628e467f92b6b7e4aa99e03f8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 162152
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-Thin.ttf": {
+      "input_sha256": "2a56922935b4826a1d730347d6e53dab80c9593a4419d5a7afd74c7e0a4bf6f1",
+      "sha256": "db4509128464a1608e71196c31e6492f453e1d209694b57089e19be11bd4ed85",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 164220
+    },
+    "SAB-Modul-Code/source/upstream/masters/SABModulSans-ThinOblique.ttf": {
+      "input_sha256": "f7f2dc1ae74ad0e0048724f4d6c320bcea4e885669f5f58a1dcf866de7c58ad3",
+      "sha256": "bc2a4a3723903471d660b3bd2a22da8b5b09aecabf5f3456ae5d8272a3d934e4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 167320
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Black.ttf": {
+      "input_sha256": "cf7e72f3ee7f7c44b3b1c3e8a3f1c18c3f6fc18cd315120b04a36e7a4a73d681",
+      "sha256": "d43f815b439019371d9fc5abab82abe3c29ac39e335ee7162c4bca61781154c9",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69288
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Bold.ttf": {
+      "input_sha256": "3ec311c8fdbdd4c5fc2676ef17896dfba7d0768e9c40d5d6890befb3e50911a0",
+      "sha256": "3c1ebbd98d2da7db3ea72307b976192d974f5c6fec4b831d6050ee9f00b8e8d0",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69396
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Light.ttf": {
+      "input_sha256": "3e2f12a6630d6a3266ac591a4a1214d329f699d88ff6dbf4e2acd421880c5998",
+      "sha256": "8ba90d1e7d9637b4b2e0c5a90fe13d90ab4d8e7ec29dd65325df46aa302d3983",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69488
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Medium.ttf": {
+      "input_sha256": "a55258e6690b3779ee02b05ed7d038c142025a69e9b8dd830e83ef1a44b1a702",
+      "sha256": "26ca2a896efec9d8a223df20fc41d4e5ce774601aa89284b5ae89ffb6670ad20",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69536
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Regular.ttf": {
+      "input_sha256": "285accdf7e280aadb069f1bbca16217956d78e847eddc9b6e3f6be2829a00912",
+      "sha256": "543d8c4c123bee6f5b7a0a5318472764220fbcde4b4f9aa268213501ea2348f3",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69556
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/SemiBold.ttf": {
+      "input_sha256": "c8953790b44e63b551619af27edae7b96ee363db6762fb8d98c7b5aae259f117",
+      "sha256": "d1b38a25b29dd542b8b856acb54123878092e3163e72e5fd90ed8da942bca2be",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69432
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Thin.ttf": {
+      "input_sha256": "ab7bf9e93602bf2e010b8a7cfcc9e49507310c9267494287d05afd34f50f2040",
+      "sha256": "46b9ce6e6f189534bd2f213bfef6fd4d429a454b5ff49dba2414fc9491234138",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 69432
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Black.ttf": {
+      "input_sha256": "afbd05ee2e565e61be6b50897401ea3dfc8bc31311a2894315d1da850cfb74d9",
+      "sha256": "cb22a71336459b68b9b71619327028339915c26ad5225a5b88904b17696f0c1c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 70752
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Bold.ttf": {
+      "input_sha256": "1497c36d6bf9184abffb6dfd3c43d0ae2a332a86a3edd53d9d2d227fb44e5dbc",
+      "sha256": "583e1d29be5128ef56f9678efcd296c1e46ab66c93065c558a763c8e2915f8e4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 70852
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Light.ttf": {
+      "input_sha256": "d2a7e59dfac7d291eb1ed723b1cfa0c96ce2e1b757474e8cbf17b368c2d2aeba",
+      "sha256": "265cd9e68a9e801af337b5413f5a970fa8a61ff954e670b76b9396787a8f5661",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 71124
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Medium.ttf": {
+      "input_sha256": "139633576c19a7ed17a1118449529354d4fb0e19c9a664faf5f6d0ea2c3f290f",
+      "sha256": "dcc6c5545e680c39ba19f19bbbc969f3afa91e441770cd98a9845c924e85ce98",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 71136
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Regular.ttf": {
+      "input_sha256": "bd95027497bda128025928cb41adbdfa623983c4287dc05fe24a00e56400b856",
+      "sha256": "dd96a8395d27c54c10a02dca2370be480ea9fb6c373b637c0f2416b334105c48",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 71112
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/SemiBold.ttf": {
+      "input_sha256": "0005e7bede40c735f450b8e24db7d7caaf1d8d48ebf2746b563133f71cdddd83",
+      "sha256": "c6a1ec7e0c825169355495fa5eed3d763c80297eee60b24d62868204e74bc75b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 71040
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Thin.ttf": {
+      "input_sha256": "b138900350a1293b29081fc42cc295430d9f664f4f45ad978b3f586abe301668",
+      "sha256": "62479ab3251efab16888393ea2a25d46f744ac3f1cf379b36fc9b7de4852ccfd",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 71104
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Black.ttf": {
+      "input_sha256": "8c4b1d7040042c7be84eb591150b1e769b3c4a0d99134e47851f6a296bc42ba7",
+      "sha256": "9bb00ed6823faa609f16678c26b5a6149a7550263106677783f0efac511d9d1d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 143944
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Bold.ttf": {
+      "input_sha256": "929dfb98570100ae6443395ddcfa1537dd78a4fa202ce819c52e2b455fdae738",
+      "sha256": "2adf9e09fedb55cbd5ff017f3948123d0a88aecc44243bef8ec688c55679e33b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 143092
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Light.ttf": {
+      "input_sha256": "c5e12868afe5c43095457ea0dd220978dc92cef051a5c92f3be7a91cc26fa011",
+      "sha256": "f916c21402da8117dc442bd6d1bb6744f80942b2d9447ba4bce490d88829ef94",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 148656
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Medium.ttf": {
+      "input_sha256": "086a6a0454153eb9cb257710c3c7bdd1558e65201fa0542c836e90de0f99fd0a",
+      "sha256": "c33f3e1ab43721f329a8269176691ae3819bff671f061dd57499e22d80783a0f",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 148692
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Regular.ttf": {
+      "input_sha256": "009dc8eed0d90783b7a2e1ac87bf14973351691a05c1fd7d7167d2be351a9c5a",
+      "sha256": "8cb7a55249cf2ecabd403392c299865a55b755d725fe5c19d810c045d00dbf90",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 148420
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/SemiBold.ttf": {
+      "input_sha256": "b4f56c6f2c8428e4d85ec899c9c51496d363d9ad77d4a71da435a07300133f64",
+      "sha256": "97ce7a23ace40e2028315fb2b1be6634ae6c962789535900782ed0e781379c8a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 143616
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Thin.ttf": {
+      "input_sha256": "a3f0fbffeed27dd7aa4d0ccba4be4454f86403851c16e1c8143a014f07aa579f",
+      "sha256": "2c0347380908ced7fc09f0ad651c0f0b6b46f80549f804dd6bea9bc7b2edb4d4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 148588
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Black.ttf": {
+      "input_sha256": "a199833d6292c0e87244b30e0976094cfd9f51f467da4177eb45784015e69c0f",
+      "sha256": "6475d548457982f46a23721eab708f293f2bb859d2b1f0a796c125695f165148",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 145160
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Bold.ttf": {
+      "input_sha256": "e4598a5014209656302ddb28ee34201b8fe9da670eb6c699d4375abc3bce357c",
+      "sha256": "895e13a2d089d15016ae364709c909f3bd1e595a51f63a17cf6e4b70976d9b8b",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 146864
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Light.ttf": {
+      "input_sha256": "00934dcb67614a9eea4325dd0e87d7bc67c9604566ad7a20b0d2ac704c3d173b",
+      "sha256": "72ccbc3cff593cc76b1c3e945905b6a4452b5562b3a2dcd7a3603dd360a98032",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 151304
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Medium.ttf": {
+      "input_sha256": "4c8020d1a2bc99e2ebc0f4dd10f2eab4cf4228d58b414064c2a9fddb8df333e4",
+      "sha256": "854bb6f6169a3e9d6b9de8938664d7839bb2df1f2336f4d548c8dd381725504e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 151392
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Regular.ttf": {
+      "input_sha256": "b6416818f63714324b1dafcc52bb5aa4c12636f26fed8e4e05002083383d3e84",
+      "sha256": "ec1b52589141734bc204ca754d0faa9d943bc586e0f3b801994eba979c505fd1",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 153168
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/SemiBold.ttf": {
+      "input_sha256": "d47ff9a0beaab49a147b339bba7ef21da1a1b0f767cb12489f662574d0876069",
+      "sha256": "93ff88a5747954c7e9223c96cd3c1b6be88ec1f116b815b4bd40b67f0bf78e91",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 147952
+    },
+    "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Thin.ttf": {
+      "input_sha256": "20b45624651435470cbd42de725851e3e4c40e30cf0ee5bfbbed0002b4c8e367",
+      "sha256": "1c47d777adc72b6559bbefdd529290968c2c276e565236eefe9173d8057eb557",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 152324
+    },
+    "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "e9368fea3748d547062576f6f889e4e803c6313ad401085d1a3ca1e8abfd2f29",
+      "sha256": "cdf1fdcf43b7b754aa1b3ba647428f4915c3d8d52b2681f50efe8f71a4a83236",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 160000
+    },
+    "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "cd423f08509eb1ec9e9fdbac6c330ae02ee4c7c3b69b51dbc6d71d129c5806cb",
+      "sha256": "ce1f9a6f32f5cf0d3ce383a5944887a4bf07c9e0f7fc69faa03b7b477d2aa80a",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 160460
+    },
+    "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "b12891b73207bacf47d57c9cc16d5050764344a87c603401906d56bf6a263f26",
+      "sha256": "501a3f8446e2c82ba7f3ef31a0e12d1136f980c52b95395b5134c085ddb0acc7",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 160156
+    },
+    "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-RegularItalic.ttf": {
+      "input_sha256": "efd61327927372d5ee75f160361ed7e4a62dbda67dd133dd65fc6818214559bc",
+      "sha256": "5a7cce55abc1f97af9a8e6ffdfe7ba43d531b6de417f4b848ab3d7271b8d3071",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 160324
+    },
+    "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "364cf22f4cadc73e3004e789a3aacff6db82a9611ef384ac7fbcc5c417c1fd61",
+      "sha256": "bf4d68db033dd5ed2a0335e3f618c60b7cc614d2b1a221193edfa85f47a5d0c8",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 160212
+    },
+    "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Bold.ttf": {
+      "input_sha256": "43d9358e619516cfd753b83456dce88eb3743c9ac947704ae30f1a7f59d0a09b",
+      "sha256": "d1d54928da89262f02134b108cc5805540326b063f9d9055f91ec007ceff2b0e",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 155476
+    },
+    "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Light.ttf": {
+      "input_sha256": "7be008a793abd1675e98d6ba203feaef886152c074ef63fc51970e59c29485b3",
+      "sha256": "44b9016ee7ffddc8bc8d608ee354cc7679353cb6c69ee318799757bc272991ec",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 155408
+    },
+    "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Medium.ttf": {
+      "input_sha256": "61d6d5565d420f23acc5e3dd6de0d39f01d96987664e2bdf2c2f24d14d271472",
+      "sha256": "002b530e0f50208570476d64e497f4951040be3588acf012a67e76c768d40993",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 155252
+    },
+    "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Regular.ttf": {
+      "input_sha256": "ed6258cdb7e666ed85be20d8c05de456a3737931ddbb7fd9868b71727d33cf64",
+      "sha256": "15e4e51bc01c7dea7270ca41943e0a4a781c661b43d5391c2415b26ae238f791",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 155316
+    },
+    "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "397bab67837e3f69af9a4db5c7bd093a9bf3f86178678dcd3450ca27e1d20fe7",
+      "sha256": "9f6c30206a0bd4cb00ec26218c75cd9153d89a8fbe85627c8e4dc4afb52af129",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 155340
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-BoldItalic.ttf": {
+      "input_sha256": "661dc424d0a76694b0cbd8b3f2cdacdb0c479c718f1658813c9a0f36715d98ce",
+      "sha256": "78a69ae42fc61c9c179189afa70984cbeb183b2d72eb40c649d2e88deabfa4cc",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 119984
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-LightItalic.ttf": {
+      "input_sha256": "5d14e0a86985aad7184a78a0345209302f6d8a2b02f5d4b8a43ca076d0aa0524",
+      "sha256": "315868b3d254735b4e8f8600cd5b957cb00d615904413d3827f4da8c56ae402c",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 120456
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-MediumItalic.ttf": {
+      "input_sha256": "38fe86b9a87606a76fda718b7780c9f7658e3d394487706b17083357b5581dc2",
+      "sha256": "a8f7b8733f822c72bbef8a132f3e072bbe058c019ab9d66d168596f3bc9f3607",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 120152
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-RegularItalic.ttf": {
+      "input_sha256": "91fe8a35f7798010f29a3f352570f42510815d5b4619ea8a10f92d7468eb391e",
+      "sha256": "3e38ed2eb8bb294f4d6a5696995f79fb8e04fe1689d83b65f14a2ef6ea729744",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 120056
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-SemiBoldItalic.ttf": {
+      "input_sha256": "39bdae5123a556e1dd6cea596a0f7479a417304d32d3fd192b910ca3d5627477",
+      "sha256": "9ee117a738cf3690a92acac3277c00d7bbf8dc23814207d6c48ef0ceddb2b1ce",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 120316
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Bold.ttf": {
+      "input_sha256": "911bc4bc3b103dd68fd1bf80292321d3abe283064ae45449f93dcba639684538",
+      "sha256": "0c009f049d9c2e15d27edec7221d40a79f4b2a1e6ded61bfda4c6c36a0e92cae",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115628
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Light.ttf": {
+      "input_sha256": "bdf5cc4898194b679918cb97fb623f0cf0daad80b500259bff6e0b9bec6b9fef",
+      "sha256": "a6f32b4f0ca267997ecbee89608fdb70b910ca107b7d71a395f684251d046f00",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115672
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Medium.ttf": {
+      "input_sha256": "5fa851468cd5e75851419800424dcb4117d444d789195b44544c0d251cf4dd65",
+      "sha256": "ddd3a49a3fcd2e4406b4c585dc3722f79919e769f697a8733fd05621e8c6ffb4",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115548
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Regular.ttf": {
+      "input_sha256": "cb97f678e7c66088e86a8d464e39329b4f2fa27dcca3bb18ec21da2151e881f7",
+      "sha256": "b1ee62d8829c6e8b25b400baea4a620613c44a28a86a2d1b47e247dd25aeb9fe",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115604
+    },
+    "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-SemiBold.ttf": {
+      "input_sha256": "ed4145e576c4ec9c5675ac91412d9cce29722d5db1a43a28a587b7dc380f1fe2",
+      "sha256": "bbab4d9d1b3346a74586854981357281c074726d95121f272f8794e3ef9fc91d",
+      "changed_tables": [
+        "head",
+        "name"
+      ],
+      "drawing_metrics_features_preserved": true,
+      "version": "1.003",
+      "bytes": 115708
+    }
+  }
+}

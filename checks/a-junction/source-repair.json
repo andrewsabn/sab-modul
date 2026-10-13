@@ -1,0 +1,248 @@
+{
+  "root_cause": "Internal flat cap from a separate upper stem path; fixed by joining the source arc and stem.",
+  "scope": "Sans only, seven weights and both slants, including a-derived forms.",
+  "records": [
+    {
+      "style": "Thin",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "Light",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "Regular",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "Medium",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "SemiBold",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "Bold",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "Black",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni00AA",
+        "uni00E0",
+        "uni00E1",
+        "uni00E2",
+        "uni00E3",
+        "uni00E4",
+        "uni00E5",
+        "uni00E6",
+        "uni0101",
+        "uni0103",
+        "uni0105",
+        "uni0430"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].ttf",
+      "changed_glyphs": [
+        "uni0061",
+        "uni00AA",
+        "uni00E0",
+        "uni00E1",
+        "uni00E2",
+        "uni00E3",
+        "uni00E4",
+        "uni00E5",
+        "uni00E6",
+        "uni0101",
+        "uni0103",
+        "uni0105",
+        "uni0430"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni00AA",
+        "uni00E0",
+        "uni00E1",
+        "uni00E2",
+        "uni00E3",
+        "uni00E4",
+        "uni00E5",
+        "uni00E6",
+        "uni0101",
+        "uni0103",
+        "uni0105",
+        "uni0430"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni00AA",
+        "uni00E0",
+        "uni00E1",
+        "uni00E2",
+        "uni00E3",
+        "uni00E4",
+        "uni00E5",
+        "uni00E6",
+        "uni0101",
+        "uni0103",
+        "uni0105"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni0430"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni0101",
+        "uni0103",
+        "uni0105"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "ThinOblique",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "LightOblique",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "RegularOblique",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "MediumOblique",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "SemiBoldOblique",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "BoldOblique",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "style": "BlackOblique",
+      "static_metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni00AA",
+        "uni00E0",
+        "uni00E1",
+        "uni00E2",
+        "uni00E3",
+        "uni00E4",
+        "uni00E5",
+        "uni00E6",
+        "uni0101",
+        "uni0103",
+        "uni0105",
+        "uni0430"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf",
+      "changed_glyphs": [
+        "uni0061",
+        "uni00AA",
+        "uni00E0",
+        "uni00E1",
+        "uni00E2",
+        "uni00E3",
+        "uni00E4",
+        "uni00E5",
+        "uni00E6",
+        "uni0101",
+        "uni0103",
+        "uni0105",
+        "uni0430"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni0430"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni00AA",
+        "uni00E0",
+        "uni00E1",
+        "uni00E2",
+        "uni00E3",
+        "uni00E4",
+        "uni00E5",
+        "uni00E6",
+        "uni0101",
+        "uni0103",
+        "uni0105"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni00AA",
+        "uni00E0",
+        "uni00E1",
+        "uni00E2",
+        "uni00E3",
+        "uni00E4",
+        "uni00E5",
+        "uni00E6",
+        "uni0101",
+        "uni0103",
+        "uni0105",
+        "uni0430"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "changed_glyphs": [
+        "uni0061",
+        "uni0101",
+        "uni0103",
+        "uni0105"
+      ],
+      "metrics_layout_unrelated_glyphs_preserved": true
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # SAB Modul — OFL distribution
 
-SAB Modul Sans and Mono (1.101) and SAB Modul Code (1.002), by Andrew Sabynin. Prepared for GitHub publication; nothing has been published by this preparation step.
+SAB Modul Sans and Mono (1.102) and SAB Modul Code (1.003), by Andrew Sabynin. Published at https://github.com/andrewsabn/sab-modul.
 
 ## Contents
 
@@ -12,15 +12,15 @@ For web use, load SAB-Modul-1.0/WEB/fonts.css and SAB-Modul-Code/code.css. Keep 
 
 ## License
 
-All supplied SAB Modul fonts and own font source are licensed under SIL Open Font License 1.1, see OFL.txt. No Reserved Font Names are declared. Commercial use, modifications and redistribution are allowed under the OFL conditions; standalone sale of the fonts is prohibited. The license does not apply to the accompanying article, its illustration or external software. External tools retain their own licenses. The FontBakery checker patch retains Apache 2.0; its license is in licenses/.
+All supplied SAB Modul fonts and own font source are licensed under SIL Open Font License 1.1, see OFL.txt. The Reserved Font Name "SAB Modul" is declared for this edition. Modified versions may not use it without explicit written permission from the copyright holder. Commercial use, modifications and redistribution are allowed under the OFL conditions; standalone sale of the fonts is prohibited. The license does not apply to the accompanying article, its illustration or external software. External tools retain their own licenses. The FontBakery checker patch retains Apache 2.0; its license is in licenses/.
 
 ## Fresh verification and limits
 
-OTS: 154/154. Three full FontBakery profiles on every delivered TTF/OTF/VF family group: 27 runs. Raw results include 302 FAIL and 44 ERROR, not a blanket PASS. Adobe profiles have no FAIL/ERROR. Universal negatives concern Code Mac name records; Google-specific negatives concern catalogue naming/copyright/weight/axis conventions and expanded language coverage. The online name checker returns KeyError 'data'; a current HTTP429 cause was not established.
+OTS: 154/154. Three full FontBakery profiles on every delivered TTF/OTF/VF family group: 27 runs. Raw results include 466 FAIL and 44 ERROR, not a blanket PASS. Adobe profiles have no FAIL/ERROR. Universal negatives concern Code Mac name records; Google-specific negatives concern catalogue naming/copyright/weight/axis conventions and expanded language coverage. The online name checker returns KeyError 'data'; a current HTTP429 cause was not established.
 
-Font Validator 2.1.6 produced 154 reports without raster tests. All 6183 raw E records are identical to the corresponding previously accepted full reports. Known old-parser limitations and intentional contour contacts are documented; raw exit codes and errors remain visible. Independent Astra audit confirms all 356 delivered/source fonts preserve every non-metadata table; CFF drawing programs also match.
+Font Validator 2.1.6 produced 154 reports without raster tests. All 6183 raw E records are identical to the corresponding previously accepted full reports. Known old-parser limitations and intentional contour contacts are documented; raw exit codes and errors remain visible. The RFN/license audit covers all 356 files. Separate Astra drawing audits confirm only authorized a and Ъ/ъ glyphs changed, with advances, layout, unrelated glyphs and variation data preserved. The hard-sign design was accepted at 14/16pt in all 38 static styles.
 
-The carried-forward application scope is Russian/English corporate text and code. Full Ukrainian/Tajik/Uzbek-Cyrillic/Turkmen coverage is NOT claimed: fresh broad language checks report missing codepoints. English auxiliary U+02BB is absent. No Google Fonts catalogue admission or worldwide artistic uniqueness is claimed. GUI inspections and a complete drawing-source rebuild were not repeated for this metadata-only OFL transition. Current limitations are explicit, not silently converted to PASS.
+The carried-forward application scope is Russian/English corporate text and code. Full Ukrainian/Tajik/Uzbek-Cyrillic/Turkmen coverage is NOT claimed: fresh broad language checks report missing codepoints. English auxiliary U+02BB is absent. No Google Fonts catalogue admission or worldwide artistic uniqueness is claimed. Current changed forms were rebuilt and inspected in large and small proofs and the browser; the full historical GUI/device matrix and complete clean drawing-source build were not repeated. A tiny residual a-stem bend in Sans italic VF remains documented. Changed CFF programs omit their former glyph-specific hints; TTF changed glyphs were rehinted. 164 additional Google-specific FAIL results concern license templates and the retained RFN text, not a newly detected outline error. Current limitations are explicit, not silently converted to PASS.
 
 Raw report outcomes are preserved. Absolute workstation paths in distributed textual reports are replaced with relative labels for privacy; unredacted originals remain in the private working archive. This is path redaction, not result suppression.
 

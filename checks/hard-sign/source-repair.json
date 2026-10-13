@@ -1,0 +1,1007 @@
+{
+  "flag_units": 150,
+  "scope": "All three families, all 38 static styles and six variable faces; all matching web fonts.",
+  "records": [
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 12.0,
+          "new_flag_target": 150,
+          "counter_compression": 138.0
+        },
+        "uni044A": {
+          "old_flag_units": 13.0,
+          "new_flag_target": 150,
+          "counter_compression": 137.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 12.429,
+          "new_flag_target": 150,
+          "counter_compression": 137.571
+        },
+        "uni044A": {
+          "old_flag_units": 13.041,
+          "new_flag_target": 150,
+          "counter_compression": 136.959
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 27.0,
+          "new_flag_target": 150,
+          "counter_compression": 123.0
+        },
+        "uni044A": {
+          "old_flag_units": 26.0,
+          "new_flag_target": 150,
+          "counter_compression": 124.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 27.0,
+          "new_flag_target": 150,
+          "counter_compression": 123.0
+        },
+        "uni044A": {
+          "old_flag_units": 26.768,
+          "new_flag_target": 150,
+          "counter_compression": 123.232
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 59.0,
+          "new_flag_target": 150,
+          "counter_compression": 91.0
+        },
+        "uni044A": {
+          "old_flag_units": 59.0,
+          "new_flag_target": 150,
+          "counter_compression": 91.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 58.109,
+          "new_flag_target": 150,
+          "counter_compression": 91.891
+        },
+        "uni044A": {
+          "old_flag_units": 58.109,
+          "new_flag_target": 150,
+          "counter_compression": 91.891
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 44.0,
+          "new_flag_target": 150,
+          "counter_compression": 106.0
+        },
+        "uni044A": {
+          "old_flag_units": 45.0,
+          "new_flag_target": 150,
+          "counter_compression": 105.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 44.441,
+          "new_flag_target": 150,
+          "counter_compression": 105.559
+        },
+        "uni044A": {
+          "old_flag_units": 45.0,
+          "new_flag_target": 150,
+          "counter_compression": 105.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 53.0,
+          "new_flag_target": 150,
+          "counter_compression": 97.0
+        },
+        "uni044A": {
+          "old_flag_units": 53.0,
+          "new_flag_target": 150,
+          "counter_compression": 97.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 53.429,
+          "new_flag_target": 150,
+          "counter_compression": 96.571
+        },
+        "uni044A": {
+          "old_flag_units": 53.468,
+          "new_flag_target": 150,
+          "counter_compression": 96.532
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 36.0,
+          "new_flag_target": 150,
+          "counter_compression": 114.0
+        },
+        "uni044A": {
+          "old_flag_units": 36.0,
+          "new_flag_target": 150,
+          "counter_compression": 114.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 36.0,
+          "new_flag_target": 150,
+          "counter_compression": 114.0
+        },
+        "uni044A": {
+          "old_flag_units": 36.104,
+          "new_flag_target": 150,
+          "counter_compression": 113.896
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 65.0,
+          "new_flag_target": 150,
+          "counter_compression": 85.0
+        },
+        "uni044A": {
+          "old_flag_units": 65.0,
+          "new_flag_target": 150,
+          "counter_compression": 85.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 65.613,
+          "new_flag_target": 150,
+          "counter_compression": 84.387
+        },
+        "uni044A": {
+          "old_flag_units": 65.347,
+          "new_flag_target": 150,
+          "counter_compression": 84.653
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 41.0,
+          "new_flag_target": 150,
+          "counter_compression": 109.0
+        },
+        "uni044A": {
+          "old_flag_units": 7.0,
+          "new_flag_target": 150,
+          "counter_compression": 143.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 41.429,
+          "new_flag_target": 150,
+          "counter_compression": 108.571
+        },
+        "uni044A": {
+          "old_flag_units": 7.163,
+          "new_flag_target": 150,
+          "counter_compression": 142.837
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 55.0,
+          "new_flag_target": 150,
+          "counter_compression": 95.0
+        },
+        "uni044A": {
+          "old_flag_units": 21.0,
+          "new_flag_target": 150,
+          "counter_compression": 129.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 55.396,
+          "new_flag_target": 150,
+          "counter_compression": 94.604
+        },
+        "uni044A": {
+          "old_flag_units": 21.768,
+          "new_flag_target": 150,
+          "counter_compression": 128.232
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 87.0,
+          "new_flag_target": 150,
+          "counter_compression": 63.0
+        },
+        "uni044A": {
+          "old_flag_units": 53.0,
+          "new_flag_target": 150,
+          "counter_compression": 97.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 87.429,
+          "new_flag_target": 150,
+          "counter_compression": 62.571
+        },
+        "uni044A": {
+          "old_flag_units": 53.109,
+          "new_flag_target": 150,
+          "counter_compression": 96.891
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 74.0,
+          "new_flag_target": 150,
+          "counter_compression": 76.0
+        },
+        "uni044A": {
+          "old_flag_units": 40.0,
+          "new_flag_target": 150,
+          "counter_compression": 110.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 74.0,
+          "new_flag_target": 150,
+          "counter_compression": 76.0
+        },
+        "uni044A": {
+          "old_flag_units": 40.0,
+          "new_flag_target": 150,
+          "counter_compression": 110.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 82.0,
+          "new_flag_target": 150,
+          "counter_compression": 68.0
+        },
+        "uni044A": {
+          "old_flag_units": 48.0,
+          "new_flag_target": 150,
+          "counter_compression": 102.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 82.429,
+          "new_flag_target": 150,
+          "counter_compression": 67.571
+        },
+        "uni044A": {
+          "old_flag_units": 48.468,
+          "new_flag_target": 150,
+          "counter_compression": 101.532
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 65.0,
+          "new_flag_target": 150,
+          "counter_compression": 85.0
+        },
+        "uni044A": {
+          "old_flag_units": 31.0,
+          "new_flag_target": 150,
+          "counter_compression": 119.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 65.0,
+          "new_flag_target": 150,
+          "counter_compression": 85.0
+        },
+        "uni044A": {
+          "old_flag_units": 31.104,
+          "new_flag_target": 150,
+          "counter_compression": 118.896
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 94.0,
+          "new_flag_target": 150,
+          "counter_compression": 56.0
+        },
+        "uni044A": {
+          "old_flag_units": 60.0,
+          "new_flag_target": 150,
+          "counter_compression": 90.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 94.613,
+          "new_flag_target": 150,
+          "counter_compression": 55.387
+        },
+        "uni044A": {
+          "old_flag_units": 60.347,
+          "new_flag_target": 150,
+          "counter_compression": 89.653
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Black.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-BlackOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Bold.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-BoldOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Light.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-LightOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Medium.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-MediumOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Regular.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-RegularOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBold.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBoldOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Thin.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-ThinOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Black.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-BlackOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Bold.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-BoldOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Light.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-LightOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Medium.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-MediumOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Regular.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-RegularOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBold.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBoldOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Thin.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-ThinOblique.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].ttf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].ttf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 28.0,
+          "new_flag_target": 150,
+          "counter_compression": 122.0
+        },
+        "uni044A": {
+          "old_flag_units": 27.0,
+          "new_flag_target": 150,
+          "counter_compression": 123.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 28.0,
+          "new_flag_target": 150,
+          "counter_compression": 122.0
+        },
+        "uni044A": {
+          "old_flag_units": 27.586,
+          "new_flag_target": 150,
+          "counter_compression": 122.414
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 42.429,
+          "new_flag_target": 150,
+          "counter_compression": 107.571
+        },
+        "uni044A": {
+          "old_flag_units": 42.398,
+          "new_flag_target": 150,
+          "counter_compression": 107.602
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 50.0,
+          "new_flag_target": 150,
+          "counter_compression": 100.0
+        },
+        "uni044A": {
+          "old_flag_units": 50.0,
+          "new_flag_target": 150,
+          "counter_compression": 100.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 49.429,
+          "new_flag_target": 150,
+          "counter_compression": 100.571
+        },
+        "uni044A": {
+          "old_flag_units": 51.0,
+          "new_flag_target": 150,
+          "counter_compression": 99.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 40.0,
+          "new_flag_target": 150,
+          "counter_compression": 110.0
+        },
+        "uni044A": {
+          "old_flag_units": 41.0,
+          "new_flag_target": 150,
+          "counter_compression": 109.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 39.736,
+          "new_flag_target": 150,
+          "counter_compression": 110.264
+        },
+        "uni044A": {
+          "old_flag_units": 40.104,
+          "new_flag_target": 150,
+          "counter_compression": 109.896
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 43.0,
+          "new_flag_target": 150,
+          "counter_compression": 107.0
+        },
+        "uni044A": {
+          "old_flag_units": 44.0,
+          "new_flag_target": 150,
+          "counter_compression": 106.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 37.0,
+          "new_flag_target": 150,
+          "counter_compression": 113.0
+        },
+        "uni044A": {
+          "old_flag_units": 37.0,
+          "new_flag_target": 150,
+          "counter_compression": 113.0
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "metrics_layout_other_glyphs_preserved": true,
+      "measurements": {
+        "uni042A": {
+          "old_flag_units": 36.0,
+          "new_flag_target": 150,
+          "counter_compression": 114.0
+        },
+        "uni044A": {
+          "old_flag_units": 35.162,
+          "new_flag_target": 150,
+          "counter_compression": 114.838
+        }
+      }
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-Bold.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-Italic.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-Light.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-Medium.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-Regular.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].ttf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].ttf",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-BoldItalic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Italic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-LightItalic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-MediumItalic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBoldItalic.woff2",
+      "metrics_layout_other_glyphs_preserved": true
+    }
+  ],
+  "complete_record_scope": "All delivered files containing either hard sign; per-static prior measurements included."
+}

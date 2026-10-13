@@ -17,11 +17,11 @@
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
-      "FAIL": 53,
+      "FAIL": 81,
       "INFO": 85,
-      "PASS": 1325,
-      "SKIP": 1516,
-      "WARN": 104
+      "PASS": 1311,
+      "SKIP": 1488,
+      "WARN": 118
     },
     "json": "checks/fontbakery/Sans-TTF-googlefonts.json"
   },
@@ -55,11 +55,11 @@
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
-      "FAIL": 53,
+      "FAIL": 81,
       "INFO": 57,
-      "PASS": 1143,
-      "SKIP": 1740,
-      "WARN": 90
+      "PASS": 1129,
+      "SKIP": 1712,
+      "WARN": 104
     },
     "json": "checks/fontbakery/Sans-OTF-googlefonts.json"
   },
@@ -94,11 +94,11 @@
     "fonts": 2,
     "counts": {
       "(not finished)": 0,
-      "FAIL": 12,
+      "FAIL": 16,
       "INFO": 13,
-      "PASS": 234,
-      "SKIP": 181,
-      "WARN": 15
+      "PASS": 232,
+      "SKIP": 177,
+      "WARN": 17
     },
     "json": "checks/fontbakery/Sans-VF-googlefonts.json"
   },
@@ -133,11 +133,11 @@
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
-      "FAIL": 53,
+      "FAIL": 81,
       "INFO": 85,
-      "PASS": 1316,
-      "SKIP": 1516,
-      "WARN": 113
+      "PASS": 1302,
+      "SKIP": 1488,
+      "WARN": 127
     },
     "json": "checks/fontbakery/Mono-TTF-googlefonts.json"
   },
@@ -173,11 +173,11 @@
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
-      "FAIL": 53,
+      "FAIL": 81,
       "INFO": 57,
-      "PASS": 1131,
-      "SKIP": 1740,
-      "WARN": 102
+      "PASS": 1117,
+      "SKIP": 1712,
+      "WARN": 116
     },
     "json": "checks/fontbakery/Mono-OTF-googlefonts.json"
   },
@@ -213,11 +213,11 @@
     "fonts": 2,
     "counts": {
       "(not finished)": 0,
-      "FAIL": 12,
+      "FAIL": 16,
       "INFO": 13,
-      "PASS": 232,
-      "SKIP": 181,
-      "WARN": 17
+      "PASS": 230,
+      "SKIP": 177,
+      "WARN": 19
     },
     "json": "checks/fontbakery/Mono-VF-googlefonts.json"
   },
@@ -256,11 +256,11 @@
     "counts": {
       "(not finished)": 0,
       "ERROR": 10,
-      "FAIL": 20,
+      "FAIL": 40,
       "INFO": 61,
-      "PASS": 958,
-      "SKIP": 1053,
-      "WARN": 105
+      "PASS": 948,
+      "SKIP": 1033,
+      "WARN": 115
     },
     "json": "checks/fontbakery/Code-TTF-googlefonts.json"
   },
@@ -299,11 +299,11 @@
     "counts": {
       "(not finished)": 0,
       "ERROR": 10,
-      "FAIL": 20,
+      "FAIL": 40,
       "INFO": 41,
-      "PASS": 867,
-      "SKIP": 1184,
-      "WARN": 85
+      "PASS": 857,
+      "SKIP": 1164,
+      "WARN": 95
     },
     "json": "checks/fontbakery/Code-OTF-googlefonts.json"
   },
@@ -342,11 +342,11 @@
     "counts": {
       "(not finished)": 0,
       "ERROR": 2,
-      "FAIL": 4,
+      "FAIL": 8,
       "INFO": 13,
-      "PASS": 235,
-      "SKIP": 181,
-      "WARN": 20
+      "PASS": 233,
+      "SKIP": 177,
+      "WARN": 22
     },
     "json": "checks/fontbakery/Code-VF-googlefonts.json"
   },

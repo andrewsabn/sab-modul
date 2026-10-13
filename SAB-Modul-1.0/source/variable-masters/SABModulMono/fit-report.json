@@ -1847,6 +1847,24 @@
   },
   "tolerance_units": 0.8,
   "sources": {
+    "source/masters/SABModulMono-SemiBold.ttf": "7b9de6ed1f217e9140c115dfa15f86e4ed462558b01297453e6a2a27cf0c661d",
+    "source/masters/SABModulMono-Light.ttf": "20e9e78d86403cd8909725114e87e9e0a2d3702477db7345d5e86b1a56ae8c7e",
+    "source/masters/SABModulMono-Medium.ttf": "e74631e2f1bf1548e38d23471df2effc82641b480b3513703100c959cb9626d7",
+    "source/masters/SABModulMono-Regular.ttf": "70176652450b9261bfe6d9ad4bf8f1d1b462f5db282d3dd7025e77acfde356c7",
+    "source/masters/SABModulMono-Black.ttf": "6294b7ac7648e372e52df9df999e722ccd1eb55276ef2139d8b2111fccb886b5",
+    "source/masters/SABModulMono-Bold.ttf": "90452ed2b9ab8421eed92f74437220a62fc780b6825410114f462913eb6c9f04",
+    "source/masters/SABModulMono-Thin.ttf": "1249f5fca1527d10b2fef62de5bec32e7701e8dd11350d1c309258910dc01281"
+  },
+  "hard_sign_repair": {
+    "glyphs": [
+      "uni042A",
+      "uni044A"
+    ],
+    "flag_units": 150,
+    "topology_preserved": true,
+    "earlier_fit_error_values_not_remeasured_after_piecewise_transform": true
+  },
+  "historical_sources_before_hard_sign_repair": {
     "source/masters/SABModulMono-Thin.ttf": "263a1d7558efedd9598fb9819537325cce299f5ceb8a7eeaf063706afb9b09e0",
     "source/masters/SABModulMono-Light.ttf": "6c4bdf210ebe35898c265c321dd534b9e5be19076b15f0198e6326f5240fb416",
     "source/masters/SABModulMono-Regular.ttf": "d4d226e1f22c45dfe1af4d580074040b800ba117687835c5aa79ff9565f14682",

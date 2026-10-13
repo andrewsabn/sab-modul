@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="fval.xsl"?>
-<FontValidatorReport RunDateTime="Tuesday, October 13, 2026 12:41 PM" MachineName="Mac">
-<FontFile FileName="SABModulMono[wght].ttf" FileNameAndPath="/privateSAB-Modul-OFL/SAB-Modul-1.0/VF/SABModulMono[wght].ttf">
+<FontValidatorReport RunDateTime="Tuesday, October 13, 2026 2:56 PM" MachineName="Mac">
+<FontFile FileName="SABModulMono[wght].ttf" FileNameAndPath="sab-modul/SAB-Modul-1.0/VF/SABModulMono[wght].ttf">
 <Report ErrorType="I" ErrorCode="I0004" Message="The file begins with an Offset Table (file contains a single font)" />
 <Font FontIndex="0">
-<FontInfo FontName="SAB Modul Mono Regular" FontVersion="Version 1.101" FontDate="9/27/2026" />
+<FontInfo FontName="SAB Modul Mono Regular" FontVersion="Version 1.102" FontDate="9/27/2026" />
 <Report ErrorType="P" ErrorCode="P0011" Message="The numTables field is non-zero" Details="19" TestName="_OFFSET_numTables" />
 <Report ErrorType="P" ErrorCode="P0010" Message="The searchRange, entrySelector, and rangeShift fields are all valid" TestName="_OFFSET_BinarySearchFields" />
 <Report ErrorType="P" ErrorCode="P0032" Message="The directory entry tags are in ascending order" />
@@ -15,11 +15,11 @@
 <Report ErrorType="W" ErrorCode="W0022" Message="Recommended table is missing" Details="DSIG" />
 <Report ErrorType="P" ErrorCode="P0022" Message="No unnecessary tables are present" />
 <Report ErrorType="P" ErrorCode="P0021" Message="Tables are in optimal order" />
-<TableEntry Tag="GDEF" Offset="0x0000fa20" Length="0x000003da" Checksum="0x82aa72d6" CodeFriendlyTag="GDEF">
+<TableEntry Tag="GDEF" Offset="0x0000fb40" Length="0x000003da" Checksum="0x82aa72d6" CodeFriendlyTag="GDEF">
 <Report ErrorType="P" ErrorCode="P4006" Message="The version numbers 0x00010000 or 0x0001002 are okay" Details="0x00010003" TestName="GDEF_Version" />
 <Report ErrorType="P" ErrorCode="P4002" Message="All header offsets point within the table" TestName="GDEF_HeaderOffsets" />
 </TableEntry>
-<TableEntry Tag="GPOS" Offset="0x0000fdfc" Length="0x0000147a" Checksum="0xb93b1614" CodeFriendlyTag="GPOS">
+<TableEntry Tag="GPOS" Offset="0x0000ff1c" Length="0x0000147a" Checksum="0xb93b1614" CodeFriendlyTag="GPOS">
 <Report ErrorType="P" ErrorCode="P4132" Message="The version number is 0x00010000" TestName="GPOS_Version" />
 <Report ErrorType="P" ErrorCode="P4115" Message="All header offsets point within the table" TestName="GPOS_HeaderOffsets" />
 <Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable, DefaultLangSysTable" />
@@ -42,7 +42,7 @@
 <Report ErrorType="P" ErrorCode="P4121" Message="The MarkBasePos subtable is valid" Details="LookupList, Lookup[0], SubTable[0](MarkBasePos)" />
 <Report ErrorType="P" ErrorCode="P5600" Message="The LookupList table is valid" Details="LookupList" />
 </TableEntry>
-<TableEntry Tag="GSUB" Offset="0x00011278" Length="0x000007f8" Checksum="0x2be05706" CodeFriendlyTag="GSUB">
+<TableEntry Tag="GSUB" Offset="0x00011398" Length="0x000007f8" Checksum="0x2be05706" CodeFriendlyTag="GSUB">
 <Report ErrorType="P" ErrorCode="P4208" Message="The version number is 0x00010000" TestName="GSUB_Version" />
 <Report ErrorType="P" ErrorCode="P4204" Message="All header offsets point within the table" TestName="GSUB_HeaderOffsets" />
 <Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable, DefaultLangSysTable" />
@@ -63,7 +63,7 @@
 <Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[3], SubTable[0](SingleSubst, fmt 2)" />
 <Report ErrorType="P" ErrorCode="P5600" Message="The LookupList table is valid" Details="LookupList" />
 </TableEntry>
-<TableEntry Tag="HVAR" Offset="0x00011a70" Length="0x0000002a" Checksum="0x02220025" CodeFriendlyTag="HVAR">
+<TableEntry Tag="HVAR" Offset="0x00011b90" Length="0x0000002a" Checksum="0x02220025" CodeFriendlyTag="HVAR">
 <Report ErrorType="I" ErrorCode="I0040" Message="Not an OpenType table, contents not validated" Details="" />
 </TableEntry>
 <TableEntry Tag="OS/2" Offset="0x000001b8" Length="0x00000060" Checksum="0x4e9109a4" CodeFriendlyTag="OS_2">
@@ -96,7 +96,7 @@
 <Report ErrorType="P" ErrorCode="P2114" Message="The usBreakChar is mapped to a glyf" TestName="OS_2_usBreakChar" />
 <Report ErrorType="P" ErrorCode="P2124" Message="The usMaxContext field matches the calculated value" Details="2" TestName="OS_2_usMaxContext" />
 </TableEntry>
-<TableEntry Tag="STAT" Offset="0x00011a9c" Length="0x00000098" Checksum="0xf219d368" CodeFriendlyTag="STAT">
+<TableEntry Tag="STAT" Offset="0x00011bbc" Length="0x00000098" Checksum="0xf219d368" CodeFriendlyTag="STAT">
 <Report ErrorType="I" ErrorCode="I0040" Message="Not an OpenType table, contents not validated" Details="" />
 </TableEntry>
 <TableEntry Tag="cmap" Offset="0x00000a40" Length="0x0000019c" Checksum="0x0c03b635" CodeFriendlyTag="cmap">
@@ -115,17 +115,17 @@
 <Report ErrorType="P" ErrorCode="P0311" Message="No characters are mapped in the Unicode Private Use area" TestName="cmap_PrivateUse" />
 <Report ErrorType="P" ErrorCode="P0314" Message="All non mac subtables have a language field of zero" TestName="cmap_SubtableLanguage" />
 </TableEntry>
-<TableEntry Tag="fvar" Offset="0x00011b34" Length="0x0000005c" Checksum="0x918f6992" CodeFriendlyTag="fvar">
+<TableEntry Tag="fvar" Offset="0x00011c54" Length="0x0000005c" Checksum="0x918f6992" CodeFriendlyTag="fvar">
 <Report ErrorType="I" ErrorCode="I0040" Message="Not an OpenType table, contents not validated" Details="" />
 </TableEntry>
-<TableEntry Tag="gasp" Offset="0x0000fa18" Length="0x00000008" Checksum="0x00000010" CodeFriendlyTag="gasp">
+<TableEntry Tag="gasp" Offset="0x0000fb38" Length="0x00000008" Checksum="0x00000010" CodeFriendlyTag="gasp">
 <Report ErrorType="P" ErrorCode="P1003" Message="The version number is valid" Details="version = 1" TestName="gasp_Version" />
 <Report ErrorType="P" ErrorCode="P1000" Message="All of the rangeGaspBehavior fields contain valid flags" TestName="gasp_rangeGaspBehavior" />
 <Report ErrorType="P" ErrorCode="P1002" Message="The gaspRange array is in sorted order" TestName="gasp_SortOrder" />
 <Report ErrorType="P" ErrorCode="P1001" Message="The gaspRange array has a 0xFFFF sentinel" TestName="gasp_Sentinel" />
 <Report ErrorType="P" ErrorCode="P1004" Message="No adjacent ranges have identical flags" TestName="gasp_AdjRangeIdenticalFlags" />
 </TableEntry>
-<TableEntry Tag="glyf" Offset="0x0000100c" Length="0x0000cf4a" Checksum="0xfef8b1f4" CodeFriendlyTag="glyf">
+<TableEntry Tag="glyf" Offset="0x0000100c" Length="0x0000cf46" Checksum="0xcf2cd0ce" CodeFriendlyTag="glyf">
 <Report ErrorType="P" ErrorCode="P1700" Message="Correct format of loca (0 or 1)" />
 <Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 2" />
 <Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 5" />
@@ -482,14 +482,14 @@
 <Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 526" />
 <Report ErrorType="W" ErrorCode="W1112" Message="Not all extremes are marked with the on-curve control points " Details="Glyph index 527" />
 </TableEntry>
-<TableEntry Tag="gvar" Offset="0x00011b90" Length="0x00034d7e" Checksum="0x50a527be" CodeFriendlyTag="gvar">
+<TableEntry Tag="gvar" Offset="0x00011cb0" Length="0x00034d7e" Checksum="0x9f6b70df" CodeFriendlyTag="gvar">
 <Report ErrorType="I" ErrorCode="I0040" Message="Not an OpenType table, contents not validated" Details="This table type is defined in the Apple TrueType spec." />
 </TableEntry>
-<TableEntry Tag="head" Offset="0x0000013c" Length="0x00000036" Checksum="0x2e85354b" CodeFriendlyTag="head">
+<TableEntry Tag="head" Offset="0x0000013c" Length="0x00000036" Checksum="0x2e85358d" CodeFriendlyTag="head">
 <Report ErrorType="P" ErrorCode="P1323" Message="Table length is 54 bytes" TestName="head_TableLength" />
 <Report ErrorType="P" ErrorCode="P1324" Message="The table version number is 0x00010000" TestName="head_TableVersion" />
-<Report ErrorType="P" ErrorCode="P1330" Message="fontRevision is consistent with the font's version string" Details="1.101" TestName="head_fontRevision" />
-<Report ErrorType="P" ErrorCode="P1307" Message="Font checksum is correct" Details="0xb66c3a9c" TestName="head_ChecksumAdjustment" />
+<Report ErrorType="P" ErrorCode="P1330" Message="fontRevision is consistent with the font's version string" Details="1.102" TestName="head_fontRevision" />
+<Report ErrorType="P" ErrorCode="P1307" Message="Font checksum is correct" Details="0x15472a16" TestName="head_ChecksumAdjustment" />
 <Report ErrorType="P" ErrorCode="P1321" Message="The magic number is 0x5f0f3cf5" TestName="head_MagicNumber" />
 <Report ErrorType="P" ErrorCode="P1303" Message="Non-linear scaling flag (bit 4) is clear, and hdmx table is not present" TestName="head_FlagTests" />
 <Report ErrorType="P" ErrorCode="P1304" Message="Non-linear scaling flag (bit 4) is clear, and LTSH table is not present" TestName="head_FlagTests" />
@@ -536,7 +536,7 @@
 <Report ErrorType="P" ErrorCode="P1501" Message="The size of the table matches the calculated size" TestName="hmtx_TableSize" />
 <Report ErrorType="P" ErrorCode="P1500" Message="The horizontal metrics are all within an allowable range of values" TestName="hmtx_CheckMetrics" />
 </TableEntry>
-<TableEntry Tag="loca" Offset="0x00000be4" Length="0x00000428" Checksum="0xb96dec3e" CodeFriendlyTag="loca">
+<TableEntry Tag="loca" Offset="0x00000be4" Length="0x00000428" Checksum="0xb901ebd0" CodeFriendlyTag="loca">
 <Report ErrorType="P" ErrorCode="P1700" Message="Correct format of loca (0 or 1)" />
 <Report ErrorType="P" ErrorCode="P1704" Message="The number of entries is equal to (maxp.numGlyphs + 1)" />
 <Report ErrorType="P" ErrorCode="P1705" Message="The entries are sorted in ascending order" />
@@ -552,13 +552,13 @@
 <Report ErrorType="I" ErrorCode="I1900" Message="maxSizeOfInstructions via method #1" Details="maxSizeOfInstructions=0, computed from the glyf table" TestName="maxp_GlyphStats" />
 <Report ErrorType="P" ErrorCode="P1900" Message="The points, contours, and component values match the calculated values" TestName="maxp_GlyphStats" />
 </TableEntry>
-<TableEntry Tag="name" Offset="0x0000df58" Length="0x0000057e" Checksum="0xc182e62a" CodeFriendlyTag="name">
+<TableEntry Tag="name" Offset="0x0000df54" Length="0x000006a2" Checksum="0xf3870100" CodeFriendlyTag="name">
 <Report ErrorType="P" ErrorCode="P2001" Message="The format selector field is 0" TestName="name_FormatSelector" />
 <Report ErrorType="P" ErrorCode="P2007" Message="No strings extended past the end of the table" TestName="name_StringsWithinTable" />
 <Report ErrorType="P" ErrorCode="P2003" Message="The NameRecords array is in sorted order" TestName="name_NameRecordsSorted" />
 <Report ErrorType="P" ErrorCode="P2006" Message="No name records are using reserved Name IDs" TestName="name_ReservedNameIDs" />
 <Report ErrorType="E" ErrorCode="E2003" Message="The table doesn't contain strings for Mac platform" TestName="name_BothPlatforms" />
-<Report ErrorType="P" ErrorCode="P2009" Message="The version string is in the correct format" Details="platID = 3, encID = 1, langID = 1033, &quot;Version 1.101&quot;" TestName="name_VersionString" />
+<Report ErrorType="P" ErrorCode="P2009" Message="The version string is in the correct format" Details="platID = 3, encID = 1, langID = 1033, &quot;Version 1.102&quot;" TestName="name_VersionString" />
 <Report ErrorType="P" ErrorCode="P2004" Message="All strings had valid Platform Specific Encoding IDs" TestName="name_PlatformSpecificEncoding" />
 <Report ErrorType="P" ErrorCode="P2002" Message="All Microsoft unicode strings had valid Language IDs" TestName="name_MSLanguageIDs" />
 <Report ErrorType="P" ErrorCode="P2008" Message="The length of every unicode string is an even # of bytes" TestName="name_unicode_length" />
@@ -571,7 +571,7 @@
 <Report ErrorType="P" ErrorCode="P2014" Message="No inconsistencies were found for Trademark strings" TestName="name_TrademarkConsistent" />
 <Report ErrorType="P" ErrorCode="P2013" Message="No inconsistencies were found for Description strings" TestName="name_DescriptionConsistent" />
 </TableEntry>
-<TableEntry Tag="post" Offset="0x0000e4d8" Length="0x0000153f" Checksum="0x05275892" CodeFriendlyTag="post">
+<TableEntry Tag="post" Offset="0x0000e5f8" Length="0x0000153f" Checksum="0x05275892" CodeFriendlyTag="post">
 <Report ErrorType="P" ErrorCode="P2304" Message="The table length is valid" TestName="post_TableLength" />
 <Report ErrorType="P" ErrorCode="P2308" Message="The version number is valid" TestName="post_Version" />
 <Report ErrorType="P" ErrorCode="P2302" Message="The italicAngle value is reasonable and consistent with other tables" TestName="post_italicAngle" />
@@ -595,6 +595,6 @@
 <Report ErrorType="I" ErrorCode="I0052" Message="Rasterization not selected for validation" />
 </RasterizationTest_ClearType>
 </Font>
-<Report ErrorType="I" ErrorCode="I0005" Message="Total time validating file" Details="0:00:11" />
+<Report ErrorType="I" ErrorCode="I0005" Message="Total time validating file" Details="0:00:12" />
 </FontFile>
 </FontValidatorReport>

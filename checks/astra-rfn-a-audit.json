@@ -1,0 +1,120 @@
+{
+  "counts": {
+    "fonts": 356,
+    "VF": 40
+  },
+  "versions": {
+    "Version 1.102": 166,
+    "Version 1.003": 190
+  },
+  "issues": [
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Black.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Bold.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-BoldOblique.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Light.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-LightOblique.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Medium.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-RegularOblique.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBoldOblique.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Thin.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-ThinOblique.otf",
+      "issue": "CFF ogonek below-baseline changed"
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf",
+      "issue": "head changed 12:28"
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "issue": "head changed 12:28"
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].ttf",
+      "issue": "head changed 12:28"
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "issue": "head changed 12:28"
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "issue": "head changed 12:28"
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "issue": "head changed 12:28"
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "issue": "head changed 12:28"
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "issue": "head changed 12:28"
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Regular.ttf",
+      "issue": "head changed 12:28"
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Regular.ttf",
+      "issue": "head changed 12:28"
+    }
+  ],
+  "changed_glyph_counts": {
+    "uni0061": 82,
+    "uni00AA": 78,
+    "uni00E0": 53,
+    "uni00E1": 53,
+    "uni00E2": 53,
+    "uni00E3": 49,
+    "uni00E4": 53,
+    "uni00E5": 53,
+    "uni00E6": 78,
+    "uni0101": 55,
+    "uni0103": 34,
+    "uni0105": 80,
+    "uni0430": 77
+  },
+  "exact_below_baseline_ogonek_files": 70,
+  "fit_reports": [
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/fit-report.json",
+      "max_affected_fit_error": 0.7997,
+      "source_hash_mismatches": []
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/fit-report.json",
+      "max_affected_fit_error": 0.7997,
+      "source_hash_mismatches": []
+    }
+  ]
+}

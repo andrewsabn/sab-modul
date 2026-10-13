@@ -1,4 +1,4 @@
-/privateSAB-Modul-OFL/checks/fontvalidator/SAB-Modul-1.0__WOFF2__SABModulSans-LightOblique.woff2/SABModulSans-LightOblique.ttf (file 1 of 1)
+sab-modul/checks/fontvalidator/SAB-Modul-1.0__WOFF2__SABModulSans-LightOblique.woff2/SABModulSans-LightOblique.ttf (file 1 of 1)
 Table Test: GDEF
 Table Test: GPOS
 Table Test: GSUB
@@ -23,5 +23,5 @@ Table Test: maxp
 Table Test: name
 Table Test: post
 Table Test: prep
-Complete: /privateSAB-Modul-OFL/checks/fontvalidator/SAB-Modul-1.0__WOFF2__SABModulSans-LightOblique.woff2/SABModulSans-LightOblique.ttf.report.xml
+Complete: sab-modul/checks/fontvalidator/SAB-Modul-1.0__WOFF2__SABModulSans-LightOblique.woff2/SABModulSans-LightOblique.ttf.report.xml
 Reports are ready!

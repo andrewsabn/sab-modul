@@ -439,9 +439,9 @@
     },
     "uni0061": {
       "max_fit_error_units": 0.7947,
-      "segments": 51,
-      "original_points": 166,
-      "fitted_points": 85
+      "segments": 54,
+      "original_points": 167,
+      "fitted_points": 90
     },
     "uni0062": {
       "max_fit_error_units": 0.7972,
@@ -673,9 +673,9 @@
     },
     "uni00AA": {
       "max_fit_error_units": 0.7997,
-      "segments": 46,
+      "segments": 42,
       "original_points": 124,
-      "fitted_points": 76
+      "fitted_points": 71
     },
     "uni00AB": {
       "max_fit_error_units": 0.5579,
@@ -834,10 +834,10 @@
       "fitted_points": 123
     },
     "uni00E6": {
-      "max_fit_error_units": 0.7966,
+      "max_fit_error_units": 0.7613,
       "segments": 88,
-      "original_points": 294,
-      "fitted_points": 150
+      "original_points": 293,
+      "fitted_points": 151
     },
     "uni00F0": {
       "max_fit_error_units": 0.7642,
@@ -871,9 +871,9 @@
     },
     "uni0105": {
       "max_fit_error_units": 0.7947,
-      "segments": 68,
-      "original_points": 217,
-      "fitted_points": 114
+      "segments": 71,
+      "original_points": 218,
+      "fitted_points": 119
     },
     "uni0110": {
       "max_fit_error_units": 0.7974,
@@ -1856,12 +1856,48 @@
   },
   "tolerance_units": 0.8,
   "sources": {
-    "source/masters/SABModulSans-Thin.ttf": "4453433b7f59ba1e2eaf2084a233b7a0845edc894de2ed063fb8415040a68ddd",
-    "source/masters/SABModulSans-Light.ttf": "4562ae322c7ad78d12d230d2ea398a10308e4898ff722b98ad5548c51e5a9aa3",
-    "source/masters/SABModulSans-Regular.ttf": "7cc7cb2ce857619480cf549eab7e0fb3c651334a67ddd2347d7dcd5a94b715ee",
-    "source/masters/SABModulSans-Medium.ttf": "6ae9d73a6121cfbfa2931294be4a258f61b96c9733ce22d0551ec574a617439b",
-    "source/masters/SABModulSans-SemiBold.ttf": "640ea88af657a8f4f7711cdf101ca19f96a12ac294d57e33866b173540c25bc9",
-    "source/masters/SABModulSans-Bold.ttf": "a8bf3d1e2121760b424f879a2865c49c799672418b493cb8a715366e359d3904",
-    "source/masters/SABModulSans-Black.ttf": "f9e0dd2cc19c685d572f9b5a58607627a308d8366db41c836d2b64b16a0ce9e8"
+    "source/masters/SABModulSans-Regular.ttf": "1c2ec2e1f61abbe1d1fa78f5cc98afc5e92c7f5f7c52a5687f483f232435452b",
+    "source/masters/SABModulSans-Bold.ttf": "f42ed0dbec2bcaec456fbff1ea73540a2baf433394470a02b97b3b7fb5d086c1",
+    "source/masters/SABModulSans-Medium.ttf": "de323096efb70cb3e86729d334252b902c72024284cdfac826388074890d49ff",
+    "source/masters/SABModulSans-Light.ttf": "12d6ec7938c9cda86e8bfe5eb3d7886b7a8e14340e919b06b95b7286d15b111c",
+    "source/masters/SABModulSans-Thin.ttf": "a791899dac8710729d5871f72a1b77f4f5ac49ee2788b64a355c15f4a2989f96",
+    "source/masters/SABModulSans-SemiBold.ttf": "e61f6d9859f49740743ebbccef6034cac69cf31f4bfed329ba62ea26ed369dda",
+    "source/masters/SABModulSans-Black.ttf": "906d569cdbfecb45e8c1447572f56d34891235b01443a85fd35b86d34b1dd1a8"
+  },
+  "local_a_junction_repair": {
+    "glyphs": [
+      "uni0061",
+      "uni00AA",
+      "uni00E0",
+      "uni00E1",
+      "uni00E2",
+      "uni00E3",
+      "uni00E4",
+      "uni00E5",
+      "uni00E6",
+      "uni0101",
+      "uni0103",
+      "uni0105",
+      "uni0430"
+    ],
+    "unrelated_fitted_glyphs_preserved": true
+  },
+  "hard_sign_repair": {
+    "glyphs": [
+      "uni042A",
+      "uni044A"
+    ],
+    "flag_units": 150,
+    "topology_preserved": true,
+    "earlier_fit_error_values_not_remeasured_after_piecewise_transform": true
+  },
+  "historical_sources_before_hard_sign_repair": {
+    "source/masters/SABModulSans-Regular.ttf": "72614343b2466bf30fdad145842fd75c4c281ef7d256ade3ecc41bbd2d07b158",
+    "source/masters/SABModulSans-Bold.ttf": "25ff2cecf4fefb82dd68c12081482e3292fd68ca288ee6b7c26c0ef098b0532e",
+    "source/masters/SABModulSans-Medium.ttf": "b6dddffc35ce3d79f9b6bc6b449c614d7584031e3ff340ae7198a4b8ee588337",
+    "source/masters/SABModulSans-Light.ttf": "6963e2bf20ab53901913bfa3e661980ddd9315d526ca13dc70bd38e379fc1eb6",
+    "source/masters/SABModulSans-Thin.ttf": "080d43ec5ae9a4a7e649aedc4c0cacc3bb32b317b6aeb159f1154abf98b4e23a",
+    "source/masters/SABModulSans-SemiBold.ttf": "e0950ec8e9ddb916deb03953074e1a151fe5de3fa3f487080696c24ea751cab8",
+    "source/masters/SABModulSans-Black.ttf": "019005e84323b7fc7323ffec31a072069aba6e8298561a1a931e70b97ccdabfe"
   }
 }

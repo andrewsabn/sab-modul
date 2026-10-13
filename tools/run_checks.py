@@ -65,7 +65,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
     results=list(pool.map(one_ots,fonts))
 (out/'ots.json').write_text(json.dumps(results,indent=2)+'\n')
 print('OTS:',sum(x['exit_code']==0 for x in results),'/',len(results),flush=True)
-with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
     results=list(pool.map(one_validator,fonts))
 (out/'fontvalidator.json').write_text(json.dumps({'raster_tests':False,'results':results},indent=2)+'\n')
 print('Font Validator reports:',sum(bool(x['report']) for x in results),'/',len(results),flush=True)

@@ -1,12 +1,12 @@
 {
   "status": "PASS",
-  "scope": "Fresh local browser smoke test of shipped CSS and demo, not a complete browser matrix.",
+  "scope": "Fresh Codex in-app Chromium smoke test of current shipped CSS and demo; actual platform fonts inspected via CDP, not a full browser matrix.",
   "http_font_resources": {
-    "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2": "569f27dc3448be8a2eb7ba094631151fd4a6b6f15ad17416acfffc002118a82e",
-    "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2": "36b9d9021307d672af2b85af5e1adeb812b24e520c10e0c6a59c4e200541a445",
-    "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2": "f30afcb618a68d1cbdff9123e0c866fe658357d1b2fdfb7fc9f5cafcaf805c7b",
-    "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2": "abe7c1f715ff514337b1bca64535c8c7131ed930aa614696f141ac0eeb6b2736",
-    "SAB-Modul-Code/WEB/SABModulCode[wght].woff2": "c1b75b55a5054fef0a0813a2ef139ff51e9818b6d05cb4fdc50c61756d84c143"
+    "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2": "04d392f8657cfa955c848e493e5859245c0a5d924b0b3dfd8f993844523c25ad",
+    "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2": "916a1a72331865383014835034d25d9029f3a7de8c67727f500ab467c62439a5",
+    "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2": "e8351d0d5c864c9f4ac5edf16d6314808d2f34ee95a7f73edff91d44752e60a7",
+    "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2": "024d452d2b441cbee30d616d5b36422dd713fe099ab9dffba14a3d0f8a36fb24",
+    "SAB-Modul-Code/WEB/SABModulCode[wght].woff2": "d6fe67dd482275963b080378ba0d718f61d9d3186e57e3f6c01e44e78acb289e"
   },
   "rendered_fonts": [
     {
@@ -52,7 +52,31 @@
           "postScriptName": "SABModulCode-Regular_wght1C20000"
         }
       ]
+    },
+    {
+      "selector": "p[lang=\"en\"]",
+      "fonts": [
+        {
+          "familyName": "SAB Modul Sans",
+          "glyphCount": 76,
+          "isCustomFont": true,
+          "postScriptName": "SABModulSans-Regular"
+        }
+      ]
+    },
+    {
+      "selector": "p[style]",
+      "fonts": [
+        {
+          "familyName": "SAB Modul Sans",
+          "glyphCount": 47,
+          "isCustomFont": true,
+          "postScriptName": "SABModulSans-RegularOblique"
+        }
+      ]
     }
   ],
-  "no_system_font_fallback_in_inspected_nodes": true
+  "no_system_font_fallback_in_inspected_nodes": true,
+  "edition": "RFN + corrected Sans a junction, 2026-10-13",
+  "console_errors_or_warnings": []
 }

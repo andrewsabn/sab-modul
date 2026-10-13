@@ -3579,5 +3579,21 @@
     }
   },
   "tolerance_units": 0.8,
-  "status": "PASS"
+  "status": "PASS",
+  "hard_sign_repair": {
+    "glyphs": [
+      "uni042A",
+      "uni044A"
+    ],
+    "flag_units": 150,
+    "topology_preserved": true,
+    "earlier_fit_error_values_not_remeasured_after_piecewise_transform": true
+  },
+  "current_static_master_sha256": {
+    "SABModulCode-Medium.ttf": "f31ec9dc4a1bfc1af24d752435b95be50f4311357831dd15a8a282a00f0966f8",
+    "SABModulCode-Bold.ttf": "bd126e5277b14771e2183dd81c4b938f6a53c9806024569a7396f2f02e4ae466",
+    "SABModulCode-SemiBold.ttf": "c66e777bb08aa95ab1bf69a86839ba3e5b84ff4b6e5826a2f8057dbf09104c2a",
+    "SABModulCode-Regular.ttf": "6b2060307fe877f7b4d49f17053970ba4750e4b8b9adf781e6e6dc849a3f94ca",
+    "SABModulCode-Light.ttf": "a1db228a1413b81e64b2072b0295e4f89d422bcc68f0d1a8819ce51efda0b1f0"
+  }
 }

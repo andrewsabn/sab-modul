@@ -1,0 +1,9 @@
+{
+  "cases": 52272,
+  "weights": "every0.5 weight step from each delivered variable axis minimum to maximum, plus all static formats",
+  "minimum_observed_flag_units": 149.15908869383333,
+  "required_measured_minimum": 145,
+  "design_target": 150,
+  "failures": [],
+  "fixed_widths_Code600_Mono620_preserved": true
+}

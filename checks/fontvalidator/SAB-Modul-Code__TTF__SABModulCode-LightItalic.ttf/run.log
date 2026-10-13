@@ -1,4 +1,4 @@
-/privateSAB-Modul-OFL/SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf (file 1 of 1)
+sab-modul/SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf (file 1 of 1)
 Table Test: GDEF
 Table Test: GPOS
 Table Test: GSUB
@@ -26,5 +26,5 @@ Table Test: maxp
 Table Test: name
 Table Test: post
 Table Test: prep
-Complete: /privateSAB-Modul-OFL/checks/fontvalidator/SAB-Modul-Code__TTF__SABModulCode-LightItalic.ttf/SABModulCode-LightItalic.ttf.report.xml
+Complete: sab-modul/checks/fontvalidator/SAB-Modul-Code__TTF__SABModulCode-LightItalic.ttf/SABModulCode-LightItalic.ttf.report.xml
 Reports are ready!

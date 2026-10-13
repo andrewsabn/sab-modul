@@ -268,6 +268,9 @@ def alphabet(variant,mono=False):
     put('¤',410,ellipse(205,345,150,150),[(0,550),(100,445)],[(310,245),(410,140)],[(0,140),(100,245)],[(310,445),(410,550)])
     # Optical corrections shared by the composed alphabet below.
     put('a',355,curve((20,440),((45,490),(110,510),(190,510)),((300,510),(355,455),(355,355))),[(355,355),(355,0)],curve((355,320),((280,320),(220,320),(160,307)),((55,294),(0,240),(0,155)),((0,65),(55,0),(145,0)),((255,0),(355,85),(355,190))))
+    if not mono:
+        aw, ap = d['a']
+        d['a'] = (aw, [ap[0] + ap[1][1:], *ap[2:]])
     wa,pa=d['a'];we,pe=d['e'];put('æ',(wa+we)*.85,*[[(x*.85,y) for x,y in p] for p in pa],*[[(x*.85+wa*.85,y) for x,y in p] for p in pe])
     put('B',460,[(0,0),(0,700)],curve((0,700),((195,700),(430,740),(430,525)),((430,360),(225,355),(0,355))),curve((0,355),((200,355),(475,400),(475,175)),((475,-35),(195,0),(0,0))))
     put('b',415,[(0,0),(0,720)],ellipse(207.5,255,207.5,255))
@@ -404,7 +407,7 @@ def geometry(w,paths,variant,mono,thickness,oblique,ch,_factor=None):
     if _factor is not None:factor=_factor
     if ch.isspace():
         return Polygon(),(MONO_ADVANCE if mono else 250 if ch=='\u202f' else 150 if ch=='\u2009' else 500 if ch=='\u2002' else 1000 if ch=='\u2003' else 220),0
-    geoms=[]
+    geoms=[];a_stem_x=None
     for path_index,path in enumerate(paths):
         if len(path)<2:continue
         dot=len(path)==2 and math.dist(path[0],path[-1])<2
@@ -468,6 +471,8 @@ def geometry(w,paths,variant,mono,thickness,oblique,ch,_factor=None):
             # Counter-shear rounded parts; keep upright stems at the specified 10 degrees.
             slope=math.tan(math.radians(10))*.6
             g=affine_transform(g,[1,-slope,0,1,slope*target_h/2,0])
+        if not mono and base in 'aаæª' and path_index==0:
+            a_stem_x=pts[-1][0]+local/2
         geoms.append(g)
     if base in 'мМиИ':
         # Flat shoulders and open diagonal joins need drawn geometry, not round line joins.
@@ -477,6 +482,18 @@ def geometry(w,paths,variant,mono,thickness,oblique,ch,_factor=None):
         diagonal=LineString(points).buffer(t*.45,cap_style='flat',join_style='mitre')
         geoms.append(diagonal.intersection(rectangle(-t/2,0,span+t/2,h)))
     g=unary_union(geoms).simplify(.3,preserve_topology=True) if geoms else Polygon()
+    if a_stem_x is not None:
+        # Keep the joined outer stem vertical after polygon simplification.
+        def straight_stem(ring):
+            pts=list(ring.coords)
+            for i in range(len(pts)-1):
+                a,b=pts[i],pts[i+1]
+                if abs(a[0]-a_stem_x)<1 and abs(b[0]-a_stem_x)<1 and abs(a[1]-b[1])>80:
+                    pts[i]=(a_stem_x,a[1]);pts[i+1]=(a_stem_x,b[1])
+            pts[-1]=pts[0]
+            return pts
+        polys=[g] if g.geom_type=='Polygon' else list(g.geoms)
+        g=unary_union([Polygon(straight_stem(p.exterior),[straight_stem(r) for r in p.interiors]) for p in polys])
     if g.is_empty:return g,(MONO_ADVANCE if mono else round(w+100)),0
     if ch=='§':
         sy=860/(g.bounds[3]-g.bounds[1])
@@ -711,7 +728,7 @@ def build(variant,mono,style,weight,thickness,oblique,formats=('ttf','otf','woff
     legacy=family if style in ['Regular','Bold'] else family+' '+style
     legacy_sub=('Italic' if oblique else 'Regular') if style!='Bold' else ('Bold Italic' if oblique else 'Bold')
     ps=family.replace(' ','')+'-'+sub.replace(' ','')
-    names={'familyName':legacy,'styleName':legacy_sub,'typographicFamily':family,'typographicSubfamily':sub,'uniqueFontIdentifier':'SAB:1.100:'+ps,'fullName':family+' '+sub,'psName':ps,'version':'Version 1.100','designer':'SAB Type, 2026','manufacturer':'SAB Type','copyright':'Copyright 2026 Andrew Sabynin (https://sabynin.com/)','description':'SAB Modul is an original type family designed for text, interfaces and display use.','licenseDescription':'This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org'}
+    names={'familyName':legacy,'styleName':legacy_sub,'typographicFamily':family,'typographicSubfamily':sub,'uniqueFontIdentifier':'SAB:1.100:'+ps,'fullName':family+' '+sub,'psName':ps,'version':'Version 1.100','designer':'SAB Type, 2026','manufacturer':'SAB Type','copyright':'Copyright 2026 Andrew Sabynin (https://sabynin.com/)','description':'SAB Modul is an original type family designed for text, interfaces and display use.','licenseDescription':'This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.'}
     fb.setupNameTable(names,mac=False)
     buildStatTable(fb.font,[{'tag':'wght','name':'Weight','ordering':0,'values':[{'value':weight,'name':style,'flags':2 if weight==400 else 0}]},
                            {'tag':'ital','name':'Italic','ordering':1,'values':[{'value':int(oblique),'name':'Oblique' if oblique else 'Roman','flags':0 if oblique else 2,**({} if oblique else {'linkedValue':1})}]}],elidedFallbackName=2,macNames=False)

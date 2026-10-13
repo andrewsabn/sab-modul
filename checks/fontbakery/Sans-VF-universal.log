@@ -56,5 +56,5 @@ And a  SKIP happens when the check does not apply to the given font.
        <<Art by Tony de Marco, July 26, 2018>>
 
 DONE!
-A report in JSON format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Sans-VF-universal.json"
-A report in html format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Sans-VF-universal.html"
+A report in JSON format has been saved to "sab-modul/checks/fontbakery/Sans-VF-universal.json"
+A report in html format has been saved to "sab-modul/checks/fontbakery/Sans-VF-universal.html"

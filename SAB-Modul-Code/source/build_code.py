@@ -53,7 +53,7 @@ def metadata(font, weight, italic):
         'copyright': 'Copyright 2026 Andrew Sabynin (https://sabynin.com/)',
         'manufacturer': 'SAB Type', 'designer': 'SAB Type',
         'description': 'SAB Modul Code. A monospaced type family for code and technical documentation.',
-        'licenseDescription': 'This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org',
+        'licenseDescription': 'This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.',
     }, mac=True)
     if weight in (400, 700):
         font['name'].names = [n for n in font['name'].names if n.nameID not in (16, 17)]

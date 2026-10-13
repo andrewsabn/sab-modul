@@ -1,23 +1,29 @@
 {
   "status": "RECHECKED_WITH_DOCUMENTED_LIMITATIONS",
+  "edition": "RFN + Sans a repair + all-family \u042a/\u044a repair",
   "date": "2026-10-13",
   "delivered_fonts": 154,
   "source_fonts": 202,
+  "reserved_font_name": "SAB Modul",
   "ots": {
-    "PASS": 154
+    "PASS": 154,
+    "final_font_hashes_match": true
   },
   "fontbakery": {
     "profile_runs": 27,
     "raw_counts": {
       "(not finished)": 0,
       "INFO": 753,
-      "PASS": 16649,
-      "SKIP": 14187,
-      "FAIL": 302,
-      "WARN": 797,
+      "PASS": 16567,
+      "SKIP": 14023,
+      "FAIL": 466,
+      "WARN": 879,
       "ERROR": 44
     },
-    "checker_patch": "SAB-Modul-1.0/source/fix_fontbakery_cff.py; original and fixed behavior regression-tested including a deliberately wrong advance width."
+    "adobe_profiles_have_no_FAIL_or_ERROR": true,
+    "additional_FAIL_vs_initial_OFL_release": 164,
+    "new_findings_scope": "Google-specific OFL copyright template and exact nameID13 license text; RFN text is deliberately retained. No new negative check category outside these license checks.",
+    "comparison": "fontbakery-regression.json"
   },
   "fontvalidator": {
     "reports": 154,
@@ -25,10 +31,34 @@
     "same_raw_E_records_as_accepted_baseline": 154,
     "raster_tests": false
   },
-  "scope": "Previously accepted corporate RU/EN use, drawing unchanged. Not Google Fonts catalogue submission.",
+  "independent_review": {
+    "hard_sign_design": "Accepted in reviewed conditions by Astra",
+    "fonts_compared": 356,
+    "hard_sign_geometry_cases": 8224,
+    "report": "astra-hard-final.md",
+    "a_report": "astra-rfn-a-final.md",
+    "remaining_a_VF_observation": "Italic VF has a small residual stem bend of1.018 units atwght700, distinct from the eliminated shoulder."
+  },
+  "drawing_regressions": {
+    "a_cases": 56250,
+    "hard_sign_cases": 52272,
+    "hard_sign_minimum_flag_units": 149.15908869383333,
+    "fixed_advances_and_columns_preserved": true
+  },
+  "browser": {
+    "web_style_cases": 38,
+    "actual_custom_fonts_verified_without_fallback": true,
+    "report": "hard-sign/browser-proof.json"
+  },
+  "license": {
+    "fonts_verified": 356,
+    "metadata_finalizer_byte_idempotent": true,
+    "report": "rfn-update/final-license-audit.json"
+  },
+  "scope": "Corporate RU/EN application, limited languages and retained historical exceptions. Not Google Fonts catalogue acceptance.",
   "not_repeated": [
-    "Full source drawing rebuild of the OFL package",
-    "All native GUI and web inspector sessions",
+    "Full clean drawing rebuild of every glyph",
+    "Complete native GUI inspector and browser/device matrix",
     "Full expanded-language design acceptance"
   ]
 }

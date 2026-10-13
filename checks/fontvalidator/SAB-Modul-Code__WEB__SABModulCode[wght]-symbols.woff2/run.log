@@ -1,4 +1,4 @@
-/privateSAB-Modul-OFL/checks/fontvalidator/SAB-Modul-Code__WEB__SABModulCode[wght]-symbols.woff2/SABModulCode[wght]-symbols.ttf (file 1 of 1)
+sab-modul/checks/fontvalidator/SAB-Modul-Code__WEB__SABModulCode[wght]-symbols.woff2/SABModulCode[wght]-symbols.ttf (file 1 of 1)
 Table Test: GDEF
 Table Test: GPOS
 Table Test: GSUB
@@ -22,5 +22,5 @@ Table Test: maxp
 Table Test: name
 Table Test: post
 Table Test: prep
-Complete: /privateSAB-Modul-OFL/checks/fontvalidator/SAB-Modul-Code__WEB__SABModulCode[wght]-symbols.woff2/SABModulCode[wght]-symbols.ttf.report.xml
+Complete: sab-modul/checks/fontvalidator/SAB-Modul-Code__WEB__SABModulCode[wght]-symbols.woff2/SABModulCode[wght]-symbols.ttf.report.xml
 Reports are ready!

@@ -14834,7 +14834,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14866,7 +14866,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14898,7 +14898,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14930,7 +14930,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14962,7 +14962,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14994,7 +14994,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -15026,7 +15026,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -15058,7 +15058,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -15090,7 +15090,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -15122,7 +15122,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -22589,7 +22589,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Bold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.5kb |\n | Hinted Size   | 204.5kb   |\n | Increase      | 15.0kb      |\n | Change        | 7.9 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Bold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.4kb |\n | Hinted Size   | 204.8kb   |\n | Increase      | 15.4kb      |\n | Change        | 8.1 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22621,7 +22621,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.6kb |\n | Hinted Size   | 215.0kb   |\n | Increase      | 14.4kb      |\n | Change        | 7.2 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.6kb |\n | Hinted Size   | 215.3kb   |\n | Increase      | 14.8kb      |\n | Change        | 7.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22653,7 +22653,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Italic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.9kb |\n | Hinted Size   | 215.0kb   |\n | Increase      | 14.1kb      |\n | Change        | 7.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Italic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.8kb |\n | Hinted Size   | 215.3kb   |\n | Increase      | 14.5kb      |\n | Change        | 7.2 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22685,7 +22685,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Light.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.8kb |\n | Hinted Size   | 204.7kb   |\n | Increase      | 14.9kb      |\n | Change        | 7.8 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Light.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.7kb |\n | Hinted Size   | 205.0kb   |\n | Increase      | 15.2kb      |\n | Change        | 8.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22717,7 +22717,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.0kb |\n | Hinted Size   | 215.4kb   |\n | Increase      | 14.4kb      |\n | Change        | 7.2 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.0kb |\n | Hinted Size   | 215.8kb   |\n | Increase      | 14.8kb      |\n | Change        | 7.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22749,7 +22749,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Medium.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.3kb |\n | Hinted Size   | 204.5kb   |\n | Increase      | 15.1kb      |\n | Change        | 8.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Medium.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.3kb |\n | Hinted Size   | 204.8kb   |\n | Increase      | 15.5kb      |\n | Change        | 8.2 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22781,7 +22781,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.4kb |\n | Hinted Size   | 214.6kb   |\n | Increase      | 14.2kb      |\n | Change        | 7.1 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.3kb |\n | Hinted Size   | 214.9kb   |\n | Increase      | 14.6kb      |\n | Change        | 7.3 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22813,7 +22813,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Regular.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.7kb |\n | Hinted Size   | 204.6kb   |\n | Increase      | 14.9kb      |\n | Change        | 7.9 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Regular.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.7kb |\n | Hinted Size   | 205.0kb   |\n | Increase      | 15.3kb      |\n | Change        | 8.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22845,7 +22845,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 190.3kb |\n | Hinted Size   | 205.4kb   |\n | Increase      | 15.2kb      |\n | Change        | 8.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 190.2kb |\n | Hinted Size   | 205.8kb   |\n | Increase      | 15.5kb      |\n | Change        | 8.2 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22877,7 +22877,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.6kb |\n | Hinted Size   | 216.0kb   |\n | Increase      | 14.5kb      |\n | Change        | 7.2 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.5kb |\n | Hinted Size   | 216.4kb   |\n | Increase      | 14.9kb      |\n | Change        | 7.4 %  |\n"
                             },
                             "status": "INFO"
                         }

@@ -1,0 +1,898 @@
+[
+  {
+    "root": "rfn-before-a",
+    "style": "Thin",
+    "character": "a",
+    "distance": 0.8944271909999159,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Thin",
+    "character": "æ",
+    "distance": 1.0782021917943885,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Thin",
+    "character": "ą",
+    "distance": 0.8944271909999159,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Thin",
+    "character": "ª",
+    "distance": 0.8832990355841053,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Light",
+    "character": "a",
+    "distance": 0.8944271909999159,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Light",
+    "character": "æ",
+    "distance": 0.9519042086440573,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Light",
+    "character": "ą",
+    "distance": 0.8944271909999159,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Light",
+    "character": "ª",
+    "distance": 1.1045627223885282,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Regular",
+    "character": "a",
+    "distance": 0.9785744337081839,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Regular",
+    "character": "æ",
+    "distance": 1.052043398313664,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Regular",
+    "character": "ą",
+    "distance": 0.9785744337081839,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Regular",
+    "character": "ª",
+    "distance": 1.0096117082210363,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Medium",
+    "character": "a",
+    "distance": 0.9284766908852804,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Medium",
+    "character": "æ",
+    "distance": 0.8052201981216185,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Medium",
+    "character": "ą",
+    "distance": 0.9284766908852804,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Medium",
+    "character": "ª",
+    "distance": 0.9274850641122072,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "SemiBold",
+    "character": "a",
+    "distance": 0.8705002304047781,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "SemiBold",
+    "character": "æ",
+    "distance": 0.9546841146885581,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "SemiBold",
+    "character": "ą",
+    "distance": 0.9581548605358452,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "SemiBold",
+    "character": "ª",
+    "distance": 0.8793598392108403,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Bold",
+    "character": "a",
+    "distance": 0.84446318734032,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Bold",
+    "character": "æ",
+    "distance": 0.8944271909999286,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Bold",
+    "character": "ą",
+    "distance": 0.84446318734032,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Bold",
+    "character": "ª",
+    "distance": 0.9511866206730937,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Black",
+    "character": "a",
+    "distance": 1.1431569673283388,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Black",
+    "character": "æ",
+    "distance": 1.0299821622213792,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Black",
+    "character": "ą",
+    "distance": 1.1431569673283388,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "Black",
+    "character": "ª",
+    "distance": 0.8362056415867675,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "ThinOblique",
+    "character": "a",
+    "distance": 0.9126362278141232,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "ThinOblique",
+    "character": "æ",
+    "distance": 0.9747403576571504,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "ThinOblique",
+    "character": "ą",
+    "distance": 0.9126362278141232,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "ThinOblique",
+    "character": "ª",
+    "distance": 0.8463589346701911,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "LightOblique",
+    "character": "a",
+    "distance": 1.0027116067596382,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "LightOblique",
+    "character": "æ",
+    "distance": 1.1602362988589714,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "LightOblique",
+    "character": "ą",
+    "distance": 1.0027116067596382,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "LightOblique",
+    "character": "ª",
+    "distance": 0.90895866020215,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "RegularOblique",
+    "character": "a",
+    "distance": 1.088850614251851,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "RegularOblique",
+    "character": "æ",
+    "distance": 1.0512491787119165,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "RegularOblique",
+    "character": "ą",
+    "distance": 1.088850614251851,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "RegularOblique",
+    "character": "ª",
+    "distance": 1.0992172206421886,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "MediumOblique",
+    "character": "a",
+    "distance": 0.8270672894362877,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "MediumOblique",
+    "character": "æ",
+    "distance": 1.136166401834014,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "MediumOblique",
+    "character": "ą",
+    "distance": 0.8270672894362877,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "MediumOblique",
+    "character": "ª",
+    "distance": 0.8323407575776735,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "SemiBoldOblique",
+    "character": "a",
+    "distance": 1.162636717952383,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "SemiBoldOblique",
+    "character": "æ",
+    "distance": 1.1251787819758337,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "SemiBoldOblique",
+    "character": "ą",
+    "distance": 1.162636717952383,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "SemiBoldOblique",
+    "character": "ª",
+    "distance": 0.83188645592315,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "BoldOblique",
+    "character": "a",
+    "distance": 0.8514639698668085,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "BoldOblique",
+    "character": "æ",
+    "distance": 0.938556376051341,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "BoldOblique",
+    "character": "ą",
+    "distance": 0.8514639698668085,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "BoldOblique",
+    "character": "ª",
+    "distance": 0.9932208269656183,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "BlackOblique",
+    "character": "a",
+    "distance": 0.7878385971583354,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "BlackOblique",
+    "character": "æ",
+    "distance": 0.9394895352248658,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "BlackOblique",
+    "character": "ą",
+    "distance": 0.9489957545578478,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "rfn-before-a",
+    "style": "BlackOblique",
+    "character": "ª",
+    "distance": 1.0882133788728747,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Thin",
+    "character": "a",
+    "distance": 0.7567011069615549,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Thin",
+    "character": "æ",
+    "distance": 1.0782021917943885,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Thin",
+    "character": "ą",
+    "distance": 0.7567011069615549,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Thin",
+    "character": "ª",
+    "distance": 0.9512433742232648,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Light",
+    "character": "a",
+    "distance": 0.9608968122051564,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Light",
+    "character": "æ",
+    "distance": 0.9519042086440573,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Light",
+    "character": "ą",
+    "distance": 0.9608968122051564,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Light",
+    "character": "ª",
+    "distance": 1.1045627223885282,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Regular",
+    "character": "a",
+    "distance": 0.9785744337081839,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Regular",
+    "character": "æ",
+    "distance": 1.052043398313664,
+    "source_shift": 0,
+    "fit_shift": 1
+  },
+  {
+    "root": "sab-modul",
+    "style": "Regular",
+    "character": "ą",
+    "distance": 0.9785744337081839,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Regular",
+    "character": "ª",
+    "distance": 1.0096117082210363,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Medium",
+    "character": "a",
+    "distance": 0.9284766908852804,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Medium",
+    "character": "æ",
+    "distance": 0.8307655325240054,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Medium",
+    "character": "ą",
+    "distance": 0.9284766908852804,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Medium",
+    "character": "ª",
+    "distance": 0.9274850641122072,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "SemiBold",
+    "character": "a",
+    "distance": 1.2246412758618295,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "SemiBold",
+    "character": "æ",
+    "distance": 0.9546841146885581,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "SemiBold",
+    "character": "ą",
+    "distance": 1.2246412758618295,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "SemiBold",
+    "character": "ª",
+    "distance": 1.1419407675450333,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Bold",
+    "character": "a",
+    "distance": 0.84446318734032,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Bold",
+    "character": "æ",
+    "distance": 0.7917504228978574,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Bold",
+    "character": "ą",
+    "distance": 0.84446318734032,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Bold",
+    "character": "ª",
+    "distance": 0.9511866206730937,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Black",
+    "character": "a",
+    "distance": 1.1431569673283388,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Black",
+    "character": "æ",
+    "distance": 1.0299821622213792,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Black",
+    "character": "ą",
+    "distance": 1.1431569673283388,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "Black",
+    "character": "ª",
+    "distance": 0.8362056415867675,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "ThinOblique",
+    "character": "a",
+    "distance": 0.9126362278141232,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "ThinOblique",
+    "character": "æ",
+    "distance": 1.1732308333125268,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "ThinOblique",
+    "character": "ą",
+    "distance": 0.9126362278141232,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "ThinOblique",
+    "character": "ª",
+    "distance": 0.8258445104862763,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "LightOblique",
+    "character": "a",
+    "distance": 1.0027116067596382,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "LightOblique",
+    "character": "æ",
+    "distance": 1.0996261248879236,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "LightOblique",
+    "character": "ą",
+    "distance": 1.0027116067596382,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "LightOblique",
+    "character": "ª",
+    "distance": 0.90895866020215,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "RegularOblique",
+    "character": "a",
+    "distance": 0.8041361659705166,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "RegularOblique",
+    "character": "æ",
+    "distance": 0.9094853904259159,
+    "source_shift": -1,
+    "fit_shift": 1
+  },
+  {
+    "root": "sab-modul",
+    "style": "RegularOblique",
+    "character": "ą",
+    "distance": 0.9575175804338727,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "RegularOblique",
+    "character": "ª",
+    "distance": 1.0992172206421886,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "MediumOblique",
+    "character": "a",
+    "distance": 0.8255151142470785,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "MediumOblique",
+    "character": "æ",
+    "distance": 1.0394705172387433,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "MediumOblique",
+    "character": "ą",
+    "distance": 0.8255151142470785,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "MediumOblique",
+    "character": "ª",
+    "distance": 0.8323407575776735,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "SemiBoldOblique",
+    "character": "a",
+    "distance": 1.162636717952383,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "SemiBoldOblique",
+    "character": "æ",
+    "distance": 0.9726857532604155,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "SemiBoldOblique",
+    "character": "ą",
+    "distance": 1.162636717952383,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "SemiBoldOblique",
+    "character": "ª",
+    "distance": 0.749948279478134,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "BoldOblique",
+    "character": "a",
+    "distance": 0.8054859984798629,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "BoldOblique",
+    "character": "æ",
+    "distance": 0.938556376051341,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "BoldOblique",
+    "character": "ą",
+    "distance": 0.8054859984798629,
+    "source_shift": -1,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "BoldOblique",
+    "character": "ª",
+    "distance": 0.9932208269656183,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "BlackOblique",
+    "character": "a",
+    "distance": 0.7878385971583354,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "BlackOblique",
+    "character": "æ",
+    "distance": 0.9687208024027244,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "BlackOblique",
+    "character": "ą",
+    "distance": 0.9489957545578478,
+    "source_shift": 0,
+    "fit_shift": 0
+  },
+  {
+    "root": "sab-modul",
+    "style": "BlackOblique",
+    "character": "ª",
+    "distance": 1.0882133788728747,
+    "source_shift": -1,
+    "fit_shift": 0
+  }
+]

@@ -1,779 +1,1087 @@
 {
+  "scope": "Final a+hard-sign+RFN files vs full accepted historical validators; no raster tests",
   "compared": 154,
   "matched": 154,
   "raw_errors": 6183,
   "raster_tests": false,
-  "baseline": "Full historical SansMono validator and final Code1.0.1-r2 validator, not partial license-only checks.",
   "results": [
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-Black.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-BlackOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-Bold.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-BoldOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-Light.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-LightOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-Medium.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-MediumOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-Regular.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-RegularOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBold.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBoldOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-Thin.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-ThinOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-Black.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-BlackOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-Bold.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-BoldOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-Light.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-LightOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-Medium.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-MediumOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-Regular.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-RegularOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBold.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBoldOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-Thin.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-ThinOblique.otf",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf",
       "raw_E_identical": true,
-      "raw_E_count": 16
+      "raw_E_count": 16,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 16
+      "raw_E_count": 16,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/VF/SABModulMono[wght].ttf",
       "raw_E_identical": true,
-      "raw_E_count": 10
+      "raw_E_count": 10,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 10
+      "raw_E_count": 10,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf",
       "raw_E_identical": true,
-      "raw_E_count": 18
+      "raw_E_count": 18,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 18
+      "raw_E_count": 18,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/VF/SABModulSans[wght].ttf",
       "raw_E_identical": true,
-      "raw_E_count": 123
+      "raw_E_count": 123,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 123
+      "raw_E_count": 123,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 10
+      "raw_E_count": 10,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 9
+      "raw_E_count": 9,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 13
+      "raw_E_count": 13,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 35
+      "raw_E_count": 35,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 4
+      "raw_E_count": 4,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 6
+      "raw_E_count": 6,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 8
+      "raw_E_count": 8,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 18
+      "raw_E_count": 18,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 991
+      "raw_E_count": 991,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 422
+      "raw_E_count": 422,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 86
+      "raw_E_count": 86,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 77
+      "raw_E_count": 77,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 18
+      "raw_E_count": 18,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 1429
+      "raw_E_count": 1429,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 68
+      "raw_E_count": 68,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 71
+      "raw_E_count": 71,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 67
+      "raw_E_count": 67,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 123
+      "raw_E_count": 123,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 3
+      "raw_E_count": 3,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-Bold.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-Italic.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-Light.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-Medium.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-Regular.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf",
       "raw_E_identical": true,
-      "raw_E_count": 31
+      "raw_E_count": 31,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].ttf",
       "raw_E_identical": true,
-      "raw_E_count": 99
+      "raw_E_count": 99,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 99
+      "raw_E_count": 99,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/VF/SABModulCode[wght].ttf",
       "raw_E_identical": true,
-      "raw_E_count": 80
+      "raw_E_count": 80,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 80
+      "raw_E_count": 80,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 71
+      "raw_E_count": 71,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 54
+      "raw_E_count": 54,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 82
+      "raw_E_count": 82,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 56
+      "raw_E_count": 56,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 94
+      "raw_E_count": 94,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 55
+      "raw_E_count": 55,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 41
+      "raw_E_count": 41,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 63
+      "raw_E_count": 63,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 43
+      "raw_E_count": 43,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
       "raw_E_identical": true,
-      "raw_E_count": 75
+      "raw_E_count": 75,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-BoldItalic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-Italic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-LightItalic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-MediumItalic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     },
     {
       "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBoldItalic.woff2",
       "raw_E_identical": true,
-      "raw_E_count": 42
+      "raw_E_count": 42,
+      "new_records": [],
+      "removed_records": []
     }
   ]
 }

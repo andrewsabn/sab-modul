@@ -197,9 +197,9 @@ def fit_group(group):
  for lo,hi in zip(stops,stops[1:]):fit(lo,hi)
  return segments,worst
 
-def deduplicate(fonts):
+def deduplicate(fonts,glyph_names=None):
  known={};duplicates={}
- for gn in fonts[0].getGlyphOrder():
+ for gn in (glyph_names if glyph_names is not None else fonts[0].getGlyphOrder()):
   gs=[f['glyf'][gn] for f in fonts]
   if any(g.numberOfContours<=0 for g in gs):continue
   key=tuple((tuple(g.endPtsOfContours),tuple(g.flags),tuple((x-g.coordinates[0][0],y-g.coordinates[0][1]) for x,y in g.coordinates)) for g in gs)
@@ -210,9 +210,10 @@ def deduplicate(fonts):
    pen=TTGlyphPen(f['glyf']);pen.addComponent(base,(1,0,0,1,origin[0]-first[0],origin[1]-first[1]));f['glyf'][gn]=pen.glyph()
  return duplicates
 
-def compatible(fonts):
- order=fonts[0].getGlyphOrder();assert all(f.getGlyphOrder()==order for f in fonts)
- duplicates=deduplicate(fonts)
+def compatible(fonts,glyph_names=None):
+ full_order=fonts[0].getGlyphOrder();assert all(f.getGlyphOrder()==full_order for f in fonts)
+ order=glyph_names if glyph_names is not None else full_order
+ duplicates=deduplicate(fonts,glyph_names)
  report={};old_points=new_points=0
  for index,gn in enumerate(order):
   glyphs=[f['glyf'][gn] for f in fonts]

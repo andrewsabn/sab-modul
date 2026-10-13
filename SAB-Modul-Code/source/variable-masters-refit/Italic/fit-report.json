@@ -3585,5 +3585,21 @@
     "uni0430": 5,
     "uni02DB": 7,
     "uni2116": 90
+  },
+  "hard_sign_repair": {
+    "glyphs": [
+      "uni042A",
+      "uni044A"
+    ],
+    "flag_units": 150,
+    "topology_preserved": true,
+    "earlier_fit_error_values_not_remeasured_after_piecewise_transform": true
+  },
+  "current_static_master_sha256": {
+    "SABModulCode-BoldItalic.ttf": "3b17cfc591a422d6ca2f37b2968640ec8c011ae7affec115eea7f0d71b338c65",
+    "SABModulCode-LightItalic.ttf": "86ade3dada2702a3385fa5b82ec196ffbf01ec95035c5dd47e2e8c75b55071f0",
+    "SABModulCode-MediumItalic.ttf": "3c8b6d5f342338f059539a5441baefd1eba4f288d7f81a1fac0430f9063481da",
+    "SABModulCode-SemiBoldItalic.ttf": "5b028e9cbb655ffabca9860604af409f96f015d6817cb6a6c86124177ad068cf",
+    "SABModulCode-RegularItalic.ttf": "d8dc9ad201f892fbd345e31eda61122cdb54fc54bcf208b9345edb17e302d411"
   }
 }

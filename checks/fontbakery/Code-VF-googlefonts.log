@@ -239,17 +239,213 @@ Start ... running 455 individual check executions.
 
     Result: FAIL
 
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulCode-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulCode.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulCode-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 1 (MACINTOSH) is not specified for that. Value was: "This  
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulCode.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 1 (MACINTOSH) is not specified for that. Value was: "This  
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
 qa-environment/lib/python3.12/site-packages/fontbakery/checks/vendorspecific/googlefonts/varfont/generate_static.py:39: UserWarning: 'instantiateVariableFont' is deprecated; use fontTools.varLib.instancer.instantiateVariableFont instead for either full or partial instancing
   font = mutator.instantiateVariableFont(ttFont, loc)
 
 Total:
     ERROR: 2
     FATAL: 0
-    FAIL: 4
-    WARN: 20
+    FAIL: 8
+    WARN: 22
     INFO: 13
-    SKIP: 181
-    PASS: 235
+    SKIP: 177
+    PASS: 233
 
 
 
@@ -270,5 +466,5 @@ And a  SKIP happens when the check does not apply to the given font.
 
 
 DONE!
-A report in JSON format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Code-VF-googlefonts.json"
-A report in html format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Code-VF-googlefonts.html"
+A report in JSON format has been saved to "sab-modul/checks/fontbakery/Code-VF-googlefonts.json"
+A report in html format has been saved to "sab-modul/checks/fontbakery/Code-VF-googlefonts.html"

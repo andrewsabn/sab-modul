@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "conditions": "Codex in-app Chromium, current shipped CSS/VF/WOFF2, CSS14/16pt; CDP actual platform fonts inspected",
+  "cases": 38,
+  "families": [
+    "SAB Modul Sans",
+    "SAB Modul Mono",
+    "SAB Modul Code"
+  ],
+  "all_inspected_nodes_use_one_custom_font_of_expected_family": true,
+  "console_errors_warnings": [],
+  "font_sha256_manifest": "../../FONT-SHA256.json"
+}

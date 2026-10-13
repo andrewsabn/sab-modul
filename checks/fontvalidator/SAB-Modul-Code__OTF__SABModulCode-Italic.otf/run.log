@@ -1,4 +1,4 @@
-/privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Italic.otf (file 1 of 1)
+sab-modul/SAB-Modul-Code/OTF/SABModulCode-Italic.otf (file 1 of 1)
 Table Test: CFF 
 Table Test: GDEF
 Table Test: GPOS
@@ -12,5 +12,5 @@ Table Test: hmtx
 Table Test: maxp
 Table Test: name
 Table Test: post
-Complete: /privateSAB-Modul-OFL/checks/fontvalidator/SAB-Modul-Code__OTF__SABModulCode-Italic.otf/SABModulCode-Italic.otf.report.xml
+Complete: sab-modul/checks/fontvalidator/SAB-Modul-Code__OTF__SABModulCode-Italic.otf/SABModulCode-Italic.otf.report.xml
 Reports are ready!

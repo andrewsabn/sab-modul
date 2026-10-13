@@ -3,7 +3,7 @@ from pathlib import Path
 from fontTools.ttLib import TTFont
 import hashlib,json
 ROOT=Path(__file__).resolve().parents[1]
-LICENSE='This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org'
+LICENSE='This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.'
 changes=[]
 for folder in ['TTF','OTF','WOFF2','VF','WEB']:
  for p in sorted((ROOT/folder).iterdir()):

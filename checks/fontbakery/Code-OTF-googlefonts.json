@@ -2,11 +2,11 @@
     "result": {
         "(not finished)": 0,
         "ERROR": 10,
-        "FAIL": 20,
+        "FAIL": 40,
         "INFO": 41,
-        "PASS": 867,
-        "SKIP": 1184,
-        "WARN": 85
+        "PASS": 857,
+        "SKIP": 1164,
+        "WARN": 95
     },
     "sections": [
         {
@@ -14834,7 +14834,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14866,7 +14866,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14898,7 +14898,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14930,7 +14930,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14962,7 +14962,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -14994,7 +14994,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -15026,7 +15026,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -15058,7 +15058,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -15090,7 +15090,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -15122,7 +15122,7 @@
                         {
                             "message": {
                                 "code": "family-path",
-                                "message": "/privateSAB-Modul-OFL/SAB-Modul-Code/OTF"
+                                "message": "sab-modul/SAB-Modul-Code/OTF"
                             },
                             "status": "INFO"
                         }
@@ -21949,7 +21949,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Bold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.5kb |\n | Hinted Size   | 204.5kb   |\n | Increase      | 15.0kb      |\n | Change        | 7.9 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Bold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.4kb |\n | Hinted Size   | 204.8kb   |\n | Increase      | 15.4kb      |\n | Change        | 8.1 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -21981,7 +21981,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.6kb |\n | Hinted Size   | 215.0kb   |\n | Increase      | 14.4kb      |\n | Change        | 7.2 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.6kb |\n | Hinted Size   | 215.3kb   |\n | Increase      | 14.8kb      |\n | Change        | 7.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22013,7 +22013,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Italic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.9kb |\n | Hinted Size   | 215.0kb   |\n | Increase      | 14.1kb      |\n | Change        | 7.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Italic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.8kb |\n | Hinted Size   | 215.3kb   |\n | Increase      | 14.5kb      |\n | Change        | 7.2 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22045,7 +22045,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Light.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.8kb |\n | Hinted Size   | 204.7kb   |\n | Increase      | 14.9kb      |\n | Change        | 7.8 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Light.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.7kb |\n | Hinted Size   | 205.0kb   |\n | Increase      | 15.2kb      |\n | Change        | 8.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22077,7 +22077,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.0kb |\n | Hinted Size   | 215.4kb   |\n | Increase      | 14.4kb      |\n | Change        | 7.2 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.0kb |\n | Hinted Size   | 215.8kb   |\n | Increase      | 14.8kb      |\n | Change        | 7.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22109,7 +22109,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Medium.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.3kb |\n | Hinted Size   | 204.5kb   |\n | Increase      | 15.1kb      |\n | Change        | 8.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Medium.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.3kb |\n | Hinted Size   | 204.8kb   |\n | Increase      | 15.5kb      |\n | Change        | 8.2 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22141,7 +22141,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.4kb |\n | Hinted Size   | 214.6kb   |\n | Increase      | 14.2kb      |\n | Change        | 7.1 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.3kb |\n | Hinted Size   | 214.9kb   |\n | Increase      | 14.6kb      |\n | Change        | 7.3 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22173,7 +22173,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-Regular.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.7kb |\n | Hinted Size   | 204.6kb   |\n | Increase      | 14.9kb      |\n | Change        | 7.9 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Regular.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.7kb |\n | Hinted Size   | 205.0kb   |\n | Increase      | 15.3kb      |\n | Change        | 8.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22205,7 +22205,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 190.3kb |\n | Hinted Size   | 205.4kb   |\n | Increase      | 15.2kb      |\n | Change        | 8.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 190.2kb |\n | Hinted Size   | 205.8kb   |\n | Increase      | 15.5kb      |\n | Change        | 8.2 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22237,7 +22237,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | /privateSAB-Modul-OFL/SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.6kb |\n | Hinted Size   | 216.0kb   |\n | Increase      | 14.5kb      |\n | Change        | 7.2 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.5kb |\n | Hinted Size   | 216.4kb   |\n | Increase      | 14.9kb      |\n | Change        | 7.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -35891,7 +35891,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -35923,7 +35923,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -35955,7 +35955,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -35987,7 +35987,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -36019,7 +36019,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -36051,7 +36051,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -36083,7 +36083,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -36115,7 +36115,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -36147,7 +36147,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -36179,7 +36179,7 @@
                         {
                             "message": {
                                 "code": "lacks-article",
-                                "message": "Family metadata at /privateSAB-Modul-OFL/SAB-Modul-Code/OTF does not have an article.\n"
+                                "message": "Family metadata at sab-modul/SAB-Modul-Code/OTF does not have an article.\n"
                             },
                             "status": "WARN"
                         }
@@ -45543,7 +45543,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -45575,7 +45575,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -45607,7 +45607,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -45639,7 +45639,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -45671,7 +45671,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -45703,7 +45703,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -45735,7 +45735,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -45767,7 +45767,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -45799,7 +45799,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -45831,7 +45831,7 @@
                         {
                             "message": {
                                 "code": "file-not-found",
-                                "message": "Font family at '/privateSAB-Modul-OFL/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
+                                "message": "Font family at 'sab-modul/SAB-Modul-Code/OTF' lacks a METADATA.pb file."
                             },
                             "status": "SKIP"
                         }
@@ -48103,7 +48103,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48136,7 +48136,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48169,7 +48169,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48202,7 +48202,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48235,7 +48235,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48268,7 +48268,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48301,7 +48301,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48334,7 +48334,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48367,7 +48367,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48400,7 +48400,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, todhri, canadian-aboriginal, duployan, hebrew, tai-le, coptic, malayalam, old-permic, math, tifinagh\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -55135,10 +55135,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55146,7 +55146,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55167,10 +55167,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55178,7 +55178,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55199,10 +55199,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55210,7 +55210,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55231,10 +55231,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55242,7 +55242,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55263,10 +55263,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55274,7 +55274,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55295,10 +55295,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55306,7 +55306,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55327,10 +55327,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55338,7 +55338,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55359,10 +55359,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55370,7 +55370,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55391,10 +55391,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55402,7 +55402,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55423,10 +55423,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: is_ofl, license_contents"
+                                "code": "incorrect-ofl-body-text",
+                                "message": "The OFL.txt body text is incorrect. Please use https://github.com/googlefonts/Unified-Font-Repository/blob/main/OFL.txt as a template. You should only modify the first line.\n\nLines changed:\n\n\\+ with Reserved Font Name \"SAB Modul\".\\n\n\n\\- \\n\n\n"
                             },
-                            "status": "SKIP"
+                            "status": "WARN"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_body_text",
@@ -55434,7 +55434,7 @@
                         "https://github.com/fonttools/fontbakery/issues/3352"
                     ],
                     "rationale": "\n        Check OFL body text is correct.\n        Often users will accidently delete parts of the body text.\n    ",
-                    "result": "SKIP",
+                    "result": "WARN",
                     "severity": 10
                 },
                 {
@@ -55455,10 +55455,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55466,7 +55466,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -55487,10 +55487,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55498,7 +55498,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -55519,10 +55519,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55530,7 +55530,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -55551,10 +55551,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55562,7 +55562,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -55583,10 +55583,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55594,7 +55594,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -55615,10 +55615,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55626,7 +55626,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -55647,10 +55647,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55658,7 +55658,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -55679,10 +55679,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55690,7 +55690,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -55711,10 +55711,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55722,7 +55722,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -55743,10 +55743,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_contents"
+                                "code": "bad-format",
+                                "message": "First line in license file is:\n\n\"copyright 2026 andrew sabynin (https://sabynin.com/)\"\n\nwhich does not match the expected format, similar to:\n\n\"Copyright 2022 The Familyname Project Authors (git url)\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.license.OFL_copyright",
@@ -55754,7 +55754,7 @@
                         "https://github.com/fonttools/fontbakery/issues/2764"
                     ],
                     "rationale": "\n        An OFL.txt file's first line should be the font copyright.\n\n    \n        The expected pattern for the copyright string adheres to the following rules:\n\n        * It must say \"Copyright\" followed by a 4 digit year (optionally followed by\n          a hyphen and another 4 digit year)\n\n        * Additional years or year ranges are also valid.\n\n        * An optional comma can be placed here.\n\n        * Then it must say \"The <familyname> Project Authors\" and, within parentheses,\n          a URL for a git repository must be provided. But we have an exception\n          for the fonts from the Noto project, that simply have\n          \"google llc. all rights reserved\" here.\n\n        * The check is case insensitive and does not validate whether the familyname\n          is correct, even though we'd obviously expect it to be.\n\n\n        Here is an example of a valid copyright string:\n\n        \"Copyright 2017 The Archivo Black Project Authors\n         (https://github.com/Omnibus-Type/ArchivoBlack)\"\n",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": 10
                 },
                 {
@@ -56735,10 +56735,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -56746,7 +56753,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -56767,10 +56774,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -56778,7 +56792,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -56799,10 +56813,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -56810,7 +56831,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -56831,10 +56852,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -56842,7 +56870,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -56863,10 +56891,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -56874,7 +56909,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -56895,10 +56930,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -56906,7 +56948,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -56927,10 +56969,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -56938,7 +56987,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -56959,10 +57008,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -56970,7 +57026,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -56991,10 +57047,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -57002,7 +57065,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -57023,10 +57086,17 @@
                     "logs": [
                         {
                             "message": {
-                                "code": "unfulfilled-conditions",
-                                "message": "Unfulfilled Conditions: license_filename"
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 1 (MACINTOSH) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
                             },
-                            "status": "SKIP"
+                            "status": "FAIL"
+                        },
+                        {
+                            "message": {
+                                "code": "wrong",
+                                "message": "License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.\" Must be changed to \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org\""
+                            },
+                            "status": "FAIL"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license",
@@ -57034,7 +57104,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known licensing description must be provided in the NameID 14\n        (LICENSE DESCRIPTION) entries of the name table.\n\n        The source of truth for this check (to determine which license is in use) is\n        a file placed side-by-side to your font project including the licensing terms.\n\n        Depending on the chosen license, one of the following string snippets is\n        expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the\n        name table:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set\n        of legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "SKIP",
+                    "result": "FAIL",
                     "severity": null
                 },
                 {
@@ -57056,9 +57126,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57067,7 +57137,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57089,9 +57159,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57100,7 +57170,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57122,9 +57192,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57133,7 +57203,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57155,9 +57225,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57166,7 +57236,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57188,9 +57258,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57199,7 +57269,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57221,9 +57291,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57232,7 +57302,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57254,9 +57324,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57265,7 +57335,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57287,9 +57357,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57298,7 +57368,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57320,9 +57390,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57331,7 +57401,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57353,9 +57423,9 @@
                         {
                             "message": {
                                 "code": null,
-                                "message": "Font has a valid license URL in NAME table."
+                                "message": "Could not infer the font license. Please ensure NameID 13 (LICENSE DESCRIPTION) is properly set."
                             },
-                            "status": "PASS"
+                            "status": "SKIP"
                         }
                     ],
                     "module": "vendorspecific.googlefonts.name.license_url",
@@ -57364,7 +57434,7 @@
                         "https://github.com/fonttools/fontbakery/issues/4829"
                     ],
                     "rationale": "\n        A known license URL must be provided in the NameID 14 (LICENSE INFO URL)\n        entry of the name table.\n\n        The source of truth for this check is the licensing text found on the NameID 13\n        entry (LICENSE DESCRIPTION).\n\n        The string snippets used for detecting licensing terms are:\n\n        - \"This Font Software is licensed under the SIL Open Font License, Version 1.1.\n          This license is available with a FAQ at: openfontlicense.org\"\n\n        - \"Licensed under the Apache License, Version 2.0\"\n\n        - \"Licensed under the Ubuntu Font Licence 1.0.\"\n\n\n        Currently accepted licenses are Apache or Open Font License. For a small set of\n        legacy families the Ubuntu Font License may be acceptable as well.\n\n        When in doubt, please choose OFL for new font projects.\n    ",
-                    "result": "PASS",
+                    "result": "SKIP",
                     "severity": null
                 },
                 {
@@ -57694,9 +57764,10 @@
                 null
             ],
             "result": {
-                "FAIL": 10,
-                "PASS": 20,
-                "SKIP": 70
+                "FAIL": 30,
+                "PASS": 10,
+                "SKIP": 50,
+                "WARN": 10
             }
         },
         {

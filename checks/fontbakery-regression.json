@@ -1,0 +1,25 @@
+{
+  "scope": "Final release vs initial public OFL release; compare negative counts by check/status, avoiding nondeterministic language item ordering.",
+  "raw_counts": {
+    "(not finished)": 0,
+    "INFO": 753,
+    "PASS": 16567,
+    "SKIP": 14023,
+    "FAIL": 466,
+    "WARN": 879,
+    "ERROR": 44
+  },
+  "additional_negative_counts": [
+    {
+      "check": "vendorspecific.googlefonts.license.OFL_copyright",
+      "status": "FAIL",
+      "count": 82
+    },
+    {
+      "check": "vendorspecific.googlefonts.name.license",
+      "status": "FAIL",
+      "count": 104
+    }
+  ],
+  "removed_negative_counts": []
+}

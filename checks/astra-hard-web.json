@@ -1,0 +1,38 @@
+{
+  "head_flags_changes_checked": 35,
+  "head_flags_issues": [],
+  "matching_web_pairs": 38,
+  "issues": [],
+  "manifest_mismatches": [],
+  "changed_delivered": 136,
+  "changed_source": 76,
+  "static_summary": {
+    "Sans": {
+      "static_styles": 14,
+      "old_flag_min": 7.0,
+      "new_flag_min": 149.77944440059358,
+      "new_flag_max": 150.72766156788498,
+      "minimum_counter_span": 55.0,
+      "minimum_counter_area": 3688.499999999998
+    },
+    "Mono": {
+      "static_styles": 14,
+      "old_flag_min": 12.0,
+      "new_flag_min": 149.77944440059358,
+      "new_flag_max": 150.7268971149466,
+      "minimum_counter_span": 80.0,
+      "minimum_counter_area": 5402.0
+    },
+    "Code": {
+      "static_styles": 10,
+      "old_flag_min": 27.0,
+      "new_flag_min": 149.79755734707777,
+      "new_flag_max": 150.82121691732786,
+      "minimum_counter_span": 119.49492729570306,
+      "minimum_counter_area": 11933.056640625002
+    }
+  },
+  "VF_web_pairs": 34,
+  "VF_affected_glyph_pairs": 32,
+  "VF_web_issues": []
+}

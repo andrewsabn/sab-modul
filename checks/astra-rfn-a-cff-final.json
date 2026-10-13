@@ -1,0 +1,72 @@
+[
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Black.otf",
+    "issues": [],
+    "sha256": "a2cec31a4513e5cbd3f03c9273a6b86eab0eba909fd5d47baeb0e506e45b0f73"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-BlackOblique.otf",
+    "issues": [],
+    "sha256": "9eb219f59f8c15ca9bfb9217f8a611bae8832d86fb2f1c3c5feaab0d7f05eebd"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Bold.otf",
+    "issues": [],
+    "sha256": "be06a70aeecc9970742d70a2c736a0b3f9d34d770ade3eb5578edc56ab97acb2"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-BoldOblique.otf",
+    "issues": [],
+    "sha256": "1d73c47bfee6cc8ea1f59530e2009973201238c39de8421d738bb806c0e51f0e"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Light.otf",
+    "issues": [],
+    "sha256": "bb7958423d4889193d2c5e856c805ebcfce100e5601f4776b54c4a69f277f2e5"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-LightOblique.otf",
+    "issues": [],
+    "sha256": "df4b7e8d24b15ea371762fbde537e638c1941e1ca1f13b1876b9f7ef458fe0d9"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Medium.otf",
+    "issues": [],
+    "sha256": "36cc7a1d3862eabcb32a65dd92c7550b70902a2654e6b2728b777efb2dddaeed"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-MediumOblique.otf",
+    "issues": [],
+    "sha256": "04442a08b4ea0da20b812378729dd4b2f96833f20786d53aff0dc25173463d56"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Regular.otf",
+    "issues": [],
+    "sha256": "10b398728ab53f81e524def79264118f430f4b2a06cc9426ce9888eef1ecaa00"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-RegularOblique.otf",
+    "issues": [],
+    "sha256": "a5d7d2e8652434220d17a1b87e284dbfc05b6e77e4c82aab3565b62b6651d101"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBold.otf",
+    "issues": [],
+    "sha256": "4e63d89c43087b8c0e7736d7063d6ffb7435aa685710ce866cfa821e734d85c0"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBoldOblique.otf",
+    "issues": [],
+    "sha256": "f1202bdea7ca11f2dca603dba1863a82bf426f9ab1fd7811b8ec9cd6bd6c2603"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-Thin.otf",
+    "issues": [],
+    "sha256": "efad26a23d4e3098c6eca674cb4d1767dda147c1de939efd78bbe797bb7ac5c5"
+  },
+  {
+    "file": "SAB-Modul-1.0/OTF/SABModulSans-ThinOblique.otf",
+    "issues": [],
+    "sha256": "d2b84f7734a06cca5210fe6292878d1965aa10599853c9a5843d3f8a77a85601"
+  }
+]

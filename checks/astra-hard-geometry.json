@@ -1,0 +1,2686 @@
+{
+  "issues": [],
+  "cases": 8224,
+  "minimum_flag": 149.39424751866778,
+  "minimum_counter_area": 3688.499999999998,
+  "minimum_counter_span": 55.0,
+  "minima": {
+    "flag": {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].ttf",
+      "weight": 648,
+      "codepoint": 1098
+    },
+    "counter_area": {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "weight": null,
+      "codepoint": 1098
+    },
+    "counter_span": {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "weight": null,
+      "codepoint": 1098
+    }
+  },
+  "static_changes": [
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 41.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 55182.0,
+        "counter_span": 336.0,
+        "bounds": [
+          41.0,
+          -12.0,
+          740.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 37280.5,
+        "counter_span": 227.0,
+        "bounds": [
+          41.0,
+          -12.0,
+          740.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        783,
+        41
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 7.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 13359.0,
+        "counter_span": 198.0,
+        "bounds": [
+          41.0,
+          -8.0,
+          568.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 3719.0,
+        "counter_span": 55.0,
+        "bounds": [
+          41.0,
+          -8.0,
+          568.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        611,
+        41
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 41.726897114946595,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 55077.49999999999,
+        "counter_span": 335.36730192915354,
+        "bounds": [
+          23.571113504074518,
+          -12.0,
+          723.5027563213039,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.7268971149466,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 37148.5,
+        "counter_span": 226.36730192915354,
+        "bounds": [
+          -36.42888649592548,
+          -12.0,
+          663.5027563213039,
+          700.0
+        ]
+      },
+      "hmtx": [
+        783,
+        65
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 7.631427545872832,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 13331.499999999998,
+        "counter_span": 198.06528586811908,
+        "bounds": [
+          23.836509645767507,
+          -8.0,
+          551.4929910094795,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.63142754587284,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 3688.499999999998,
+        "counter_span": 55.065285868119076,
+        "bounds": [
+          -36.16349035423249,
+          -8.0,
+          491.49299100947945,
+          500.0
+        ]
+      },
+      "hmtx": [
+        611,
+        31
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 55.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 67195.0,
+        "counter_span": 363.0,
+        "bounds": [
+          43.0,
+          -12.0,
+          729.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 49652.5,
+        "counter_span": 268.0,
+        "bounds": [
+          43.0,
+          -12.0,
+          729.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        774,
+        43
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 21.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 20078.0,
+        "counter_span": 225.0,
+        "bounds": [
+          43.0,
+          -8.0,
+          557.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 8572.0,
+        "counter_span": 96.0,
+        "bounds": [
+          43.0,
+          -8.0,
+          557.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        602,
+        43
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 55.41326410094511,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 67182.99999999999,
+        "counter_span": 363.6040321220689,
+        "bounds": [
+          25.571113504074518,
+          -12.0,
+          712.2080642441377,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.41326410094513,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 49574.999999999985,
+        "counter_span": 268.6040321220689,
+        "bounds": [
+          -24.428886495925482,
+          -12.0,
+          662.2080642441377,
+          700.0
+        ]
+      },
+      "hmtx": [
+        774,
+        81
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 21.88674171922373,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 20074.0,
+        "counter_span": 224.94936209961747,
+        "bounds": [
+          25.232477523698662,
+          -8.0,
+          540.0219719516049,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 149.88674171922372,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 8675.0,
+        "counter_span": 97.4203811574921,
+        "bounds": [
+          -21.767522476301338,
+          -8.0,
+          493.0219719516049,
+          500.0
+        ]
+      },
+      "hmtx": [
+        602,
+        47
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 87.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 106170.0,
+        "counter_span": 427.0,
+        "bounds": [
+          48.0,
+          -12.0,
+          702.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 90442.0,
+        "counter_span": 364.0,
+        "bounds": [
+          48.0,
+          -12.0,
+          702.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        752,
+        48
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 53.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 44268.5,
+        "counter_span": 289.0,
+        "bounds": [
+          48.0,
+          -8.0,
+          530.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 29412.0,
+        "counter_span": 192.0,
+        "bounds": [
+          48.0,
+          -8.0,
+          530.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        580,
+        48
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 87.72766156788497,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 106168.50000000001,
+        "counter_span": 427.45148843422584,
+        "bounds": [
+          30.571113504074518,
+          -12.0,
+          685.6766419740562,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.72766156788498,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 90396.50000000001,
+        "counter_span": 364.45148843422584,
+        "bounds": [
+          5.571113504074518,
+          -12.0,
+          660.6766419740562,
+          700.0
+        ]
+      },
+      "hmtx": [
+        752,
+        118
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 53.138368812081836,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 44183.99999999999,
+        "counter_span": 289.63513939880255,
+        "bounds": [
+          30.836509645767507,
+          -8.0,
+          513.4325877972726,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.13836881208184,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 29356.999999999996,
+        "counter_span": 192.63513939880255,
+        "bounds": [
+          6.8365096457675065,
+          -8.0,
+          489.43258779727256,
+          500.0
+        ]
+      },
+      "hmtx": [
+        580,
+        84
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 74.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 87479.5,
+        "counter_span": 399.0,
+        "bounds": [
+          46.0,
+          -12.0,
+          713.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 70818.0,
+        "counter_span": 323.0,
+        "bounds": [
+          46.0,
+          -12.0,
+          713.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        761,
+        46
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 40.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 32238.5,
+        "counter_span": 262.0,
+        "bounds": [
+          46.0,
+          -8.0,
+          542.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 18701.0,
+        "counter_span": 152.0,
+        "bounds": [
+          46.0,
+          -8.0,
+          542.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        589,
+        46
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 74.24027024465283,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 87556.5,
+        "counter_span": 399.8065837235988,
+        "bounds": [
+          27.558906864294045,
+          -12.0,
+          695.442353109097,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.24027024465283,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 70891.50000000001,
+        "counter_span": 323.8065837235988,
+        "bounds": [
+          -6.441093135705955,
+          -12.0,
+          661.442353109097,
+          700.0
+        ]
+      },
+      "hmtx": [
+        761,
+        102
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 40.09102374388624,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 32261.999999999996,
+        "counter_span": 261.99023468817563,
+        "bounds": [
+          27.824303005987034,
+          -8.0,
+          523.964010067354,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.09102374388624,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 18723.0,
+        "counter_span": 151.9902346881756,
+        "bounds": [
+          -5.1756969940129665,
+          -8.0,
+          490.9640100673541,
+          500.0
+        ]
+      },
+      "hmtx": [
+        589,
+        68
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 82.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 98529.5,
+        "counter_span": 417.0,
+        "bounds": [
+          48.0,
+          -12.0,
+          707.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 82444.0,
+        "counter_span": 349.0,
+        "bounds": [
+          48.0,
+          -12.0,
+          707.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        755,
+        48
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 48.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 39319.0,
+        "counter_span": 279.0,
+        "bounds": [
+          48.0,
+          -8.0,
+          535.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 24943.0,
+        "counter_span": 177.0,
+        "bounds": [
+          48.0,
+          -8.0,
+          535.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        583,
+        48
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 82.5477777574279,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 98447.99999999999,
+        "counter_span": 416.84320364294035,
+        "bounds": [
+          29.571113504074518,
+          -12.0,
+          689.5582768775986,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.54777775742792,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 82394.0,
+        "counter_span": 348.84320364294035,
+        "bounds": [
+          -0.42888649592548234,
+          -12.0,
+          659.5582768775986,
+          700.0
+        ]
+      },
+      "hmtx": [
+        755,
+        112
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 48.71657029311879,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 39260.0,
+        "counter_span": 279.3648606011974,
+        "bounds": [
+          29.532052256776993,
+          -8.0,
+          517.6693179901879,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.71657029311876,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 24869.5,
+        "counter_span": 177.3648606011974,
+        "bounds": [
+          2.5320522567769927,
+          -8.0,
+          490.66931799018795,
+          500.0
+        ]
+      },
+      "hmtx": [
+        583,
+        78
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 65.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 77152.0,
+        "counter_span": 382.0,
+        "bounds": [
+          45.0,
+          -12.0,
+          722.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 59948.0,
+        "counter_span": 297.0,
+        "bounds": [
+          45.0,
+          -12.0,
+          722.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        767,
+        45
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 31.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 25953.5,
+        "counter_span": 244.0,
+        "bounds": [
+          45.0,
+          -8.0,
+          550.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 13278.0,
+        "counter_span": 125.0,
+        "bounds": [
+          45.0,
+          -8.0,
+          550.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        595,
+        45
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 65.1741786162637,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 77103.99999999999,
+        "counter_span": 381.8407623149842,
+        "bounds": [
+          26.67483063279562,
+          -12.0,
+          703.9133721669716,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.1741786162637,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 59907.49999999998,
+        "counter_span": 296.8407623149842,
+        "bounds": [
+          -14.325169367204381,
+          -12.0,
+          662.9133721669716,
+          700.0
+        ]
+      },
+      "hmtx": [
+        767,
+        92
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 31.13382622246506,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 25951.000000000007,
+        "counter_span": 244.40329186179946,
+        "bounds": [
+          26.836509645767507,
+          -8.0,
+          532.3746259130218,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.13382622246505,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 13347.500000000002,
+        "counter_span": 125.5216569582571,
+        "bounds": [
+          -13.163490354232493,
+          -8.0,
+          492.37462591302176,
+          500.0
+        ]
+      },
+      "hmtx": [
+        595,
+        58
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 94.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 117355.5,
+        "counter_span": 441.0,
+        "bounds": [
+          49.0,
+          -12.0,
+          696.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 102423.5,
+        "counter_span": 385.0,
+        "bounds": [
+          49.0,
+          -12.0,
+          696.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        747,
+        49
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 60.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 51712.5,
+        "counter_span": 304.0,
+        "bounds": [
+          49.0,
+          -8.0,
+          525.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 36400.5,
+        "counter_span": 214.0,
+        "bounds": [
+          49.0,
+          -8.0,
+          525.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        575,
+        49
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 94.77944440059358,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 117151.0,
+        "counter_span": 441.038431260602,
+        "bounds": [
+          31.38746253949776,
+          -12.0,
+          679.2635848004325,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 149.77944440059358,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 102488.99999999999,
+        "counter_span": 386.038431260602,
+        "bounds": [
+          11.387462539497761,
+          -12.0,
+          659.2635848004325,
+          700.0
+        ]
+      },
+      "hmtx": [
+        747,
+        126
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 60.637300732671804,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 51644.00000000001,
+        "counter_span": 303.2220822251788,
+        "bounds": [
+          31.652858681190764,
+          -8.0,
+          507.7852417586895,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.6373007326718,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 36283.5,
+        "counter_span": 213.22208222517878,
+        "bounds": [
+          12.652858681190764,
+          -8.0,
+          488.7852417586895,
+          500.0
+        ]
+      },
+      "hmtx": [
+        575,
+        92
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 12.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 35847.0,
+        "counter_span": 218.0,
+        "bounds": [
+          33.0,
+          -12.0,
+          585.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 13154.5,
+        "counter_span": 80.0,
+        "bounds": [
+          33.0,
+          -12.0,
+          585.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        33
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 13.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 14648.0,
+        "counter_span": 217.0,
+        "bounds": [
+          33.0,
+          -8.0,
+          585.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 5402.0,
+        "counter_span": 80.0,
+        "bounds": [
+          33.0,
+          -8.0,
+          585.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        33
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 12.726897114946592,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 35789.5,
+        "counter_span": 218.39840920588728,
+        "bounds": [
+          15.571113504074518,
+          -12.0,
+          568.8554102827208,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.7268971149466,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 13217.499999999998,
+        "counter_span": 81.01464796773658,
+        "bounds": [
+          -73.42888649592548,
+          -12.0,
+          479.85541028272075,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        28
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 13.0980942125395,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 14665.999999999996,
+        "counter_span": 217.87675224763012,
+        "bounds": [
+          14.836509645767507,
+          -8.0,
+          566.8480862988525,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.09809421253948,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 5403.499999999998,
+        "counter_span": 80.87675224763012,
+        "bounds": [
+          -38.16349035423249,
+          -8.0,
+          513.8480862988525,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        28
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 27.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 45325.0,
+        "counter_span": 245.0,
+        "bounds": [
+          40.0,
+          -12.0,
+          580.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 22618.5,
+        "counter_span": 122.0,
+        "bounds": [
+          40.0,
+          -12.0,
+          580.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        40
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 26.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 21786.5,
+        "counter_span": 244.0,
+        "bounds": [
+          40.0,
+          -8.0,
+          578.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 10722.5,
+        "counter_span": 120.0,
+        "bounds": [
+          40.0,
+          -8.0,
+          578.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        40
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 27.01729622301398,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 45360.0,
+        "counter_span": 245.25137816065194,
+        "bounds": [
+          20.96708138200566,
+          -12.0,
+          560.5607182055546,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.01729622301397,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 22615.500000000004,
+        "counter_span": 122.25137816065194,
+        "bounds": [
+          -56.03291861799434,
+          -12.0,
+          483.5607182055546,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        48
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 26.88674171922373,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 21826.0,
+        "counter_span": 244.94936209961747,
+        "bounds": [
+          21.232477523698662,
+          -8.0,
+          560.5533942216864,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 149.88674171922372,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 10861.0,
+        "counter_span": 121.94936209961747,
+        "bounds": [
+          -20.767522476301338,
+          -8.0,
+          518.5533942216864,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        48
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 59.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 76899.0,
+        "counter_span": 309.0,
+        "bounds": [
+          56.0,
+          -12.0,
+          564.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 54321.0,
+        "counter_span": 218.0,
+        "bounds": [
+          56.0,
+          -12.0,
+          564.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        56
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 59.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 47205.0,
+        "counter_span": 309.0,
+        "bounds": [
+          56.0,
+          -8.0,
+          564.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 33314.5,
+        "counter_span": 218.0,
+        "bounds": [
+          56.0,
+          -8.0,
+          564.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        56
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 58.28810112832453,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 76947.50000000001,
+        "counter_span": 308.6278154149343,
+        "bounds": [
+          37.57111350407452,
+          -12.0,
+          544.8529689547647,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.2881011283245,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 54056.5,
+        "counter_span": 216.62781541493428,
+        "bounds": [
+          -16.428886495925482,
+          -12.0,
+          490.85296895476466,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        96
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 58.138368812081836,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 47222.49999999999,
+        "counter_span": 309.13057173623815,
+        "bounds": [
+          37.83650964576751,
+          -8.0,
+          545.0219719516049,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.13836881208184,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 33194.5,
+        "counter_span": 217.13057173623812,
+        "bounds": [
+          18.836509645767507,
+          -8.0,
+          526.0219719516049,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        96
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 44.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 62035.0,
+        "counter_span": 282.0,
+        "bounds": [
+          49.0,
+          -12.0,
+          569.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 38694.0,
+        "counter_span": 176.0,
+        "bounds": [
+          49.0,
+          -12.0,
+          569.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        49
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 45.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 34634.0,
+        "counter_span": 281.0,
+        "bounds": [
+          49.0,
+          -8.0,
+          569.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 21674.0,
+        "counter_span": 176.0,
+        "bounds": [
+          49.0,
+          -8.0,
+          569.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        49
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 44.69555479749836,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 61986.5,
+        "counter_span": 282.1592376850158,
+        "bounds": [
+          31.558906864294045,
+          -12.0,
+          552.6186800898054,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.69555479749835,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 38678.5,
+        "counter_span": 176.1592376850158,
+        "bounds": [
+          -32.441093135705955,
+          -12.0,
+          488.6186800898054,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        76
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 45.09102374388624,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 34616.999999999985,
+        "counter_span": 280.9518034275736,
+        "bounds": [
+          30.824303005987034,
+          -8.0,
+          550.9036068551471,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.09102374388624,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 21682.499999999993,
+        "counter_span": 175.9518034275736,
+        "bounds": [
+          2.8243030059870335,
+          -8.0,
+          522.9036068551471,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        76
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 53.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 70803.0,
+        "counter_span": 299.0,
+        "bounds": [
+          53.0,
+          -12.0,
+          565.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 47846.0,
+        "counter_span": 202.0,
+        "bounds": [
+          53.0,
+          -12.0,
+          565.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        53
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 53.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 42036.0,
+        "counter_span": 299.0,
+        "bounds": [
+          53.0,
+          -8.0,
+          565.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 28405.5,
+        "counter_span": 202.0,
+        "bounds": [
+          53.0,
+          -8.0,
+          565.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        53
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 53.547777757427895,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 70748.0,
+        "counter_span": 298.66687666223186,
+        "bounds": [
+          35.57111350407452,
+          -12.0,
+          548.3819498968901,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.5477777574279,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 47755.50000000001,
+        "counter_span": 201.66687666223183,
+        "bounds": [
+          -23.428886495925482,
+          -12.0,
+          489.3819498968901,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        89
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 53.71657029311879,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 42056.50000000001,
+        "counter_span": 299.4008505338433,
+        "bounds": [
+          35.53205225677699,
+          -8.0,
+          548.2562608165641,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.71657029311876,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 28585.499999999996,
+        "counter_span": 203.4008505338433,
+        "bounds": [
+          13.532052256776993,
+          -8.0,
+          526.2562608165641,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        89
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 36.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 53407.0,
+        "counter_span": 264.0,
+        "bounds": [
+          45.0,
+          -12.0,
+          575.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 30359.5,
+        "counter_span": 150.0,
+        "bounds": [
+          45.0,
+          -12.0,
+          575.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        45
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 36.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 27962.0,
+        "counter_span": 264.0,
+        "bounds": [
+          45.0,
+          -8.0,
+          575.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 15888.0,
+        "counter_span": 150.0,
+        "bounds": [
+          45.0,
+          -8.0,
+          575.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        45
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 36.17417861626371,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 53367.499999999985,
+        "counter_span": 263.6644353342757,
+        "bounds": [
+          25.67483063279562,
+          -12.0,
+          556.08969914768,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.1741786162637,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 30291.999999999996,
+        "counter_span": 149.6644353342757,
+        "bounds": [
+          -44.32516936720438,
+          -12.0,
+          486.08969914768005,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        62
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 36.13382622246506,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 27957.5,
+        "counter_span": 263.5387462539498,
+        "bounds": [
+          26.836509645767507,
+          -8.0,
+          556.3746259130218,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.13382622246505,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 15867.5,
+        "counter_span": 149.5387462539498,
+        "bounds": [
+          -8.163490354232493,
+          -8.0,
+          521.3746259130218,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        63
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 65.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 85983.0,
+        "counter_span": 323.0,
+        "bounds": [
+          59.0,
+          -12.0,
+          559.0,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 63325.5,
+        "counter_span": 238.0,
+        "bounds": [
+          59.0,
+          -12.0,
+          559.0,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        59
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 65.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 54978.5,
+        "counter_span": 323.0,
+        "bounds": [
+          59.0,
+          -8.0,
+          559.0,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 40505.0,
+        "counter_span": 238.0,
+        "bounds": [
+          59.0,
+          -8.0,
+          559.0,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        59
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 65.77944440059358,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 85938.00000000003,
+        "counter_span": 323.0219719516049,
+        "bounds": [
+          41.38746253949776,
+          -12.0,
+          542.3819498968901,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 149.77944440059358,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 63583.99999999999,
+        "counter_span": 239.02197195160488,
+        "bounds": [
+          -7.612537460502239,
+          -12.0,
+          493.3819498968901,
+          700.0
+        ]
+      },
+      "hmtx": [
+        620,
+        107
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 65.6373007326718,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 54909.0,
+        "counter_span": 323.04575524447034,
+        "bounds": [
+          41.652858681190764,
+          -8.0,
+          541.7852417586895,
+          500.0
+        ]
+      },
+      "new": {
+        "flag": 150.6373007326718,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 40514.500000000015,
+        "counter_span": 238.71995589057045,
+        "bounds": [
+          27.652858681190764,
+          -8.0,
+          527.7852417586895,
+          500.0
+        ]
+      },
+      "hmtx": [
+        620,
+        107
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 28.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 45841.009521484375,
+        "counter_span": 241.8818359375,
+        "bounds": [
+          40.0,
+          -10.0,
+          560.3076171875,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 22941.581787109375,
+        "counter_span": 121.272705078125,
+        "bounds": [
+          40.0,
+          -10.0,
+          560.3076171875,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        40
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 27.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 24386.46142578125,
+        "counter_span": 241.0,
+        "bounds": [
+          41.0,
+          -7.0,
+          559.44921875,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 12101.065185546875,
+        "counter_span": 120.0,
+        "bounds": [
+          41.0,
+          -7.0,
+          559.44921875,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        41
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 28.203207170230257,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 45045.68383789067,
+        "counter_span": 239.47765702841758,
+        "bounds": [
+          20.61442742058874,
+          -10.0,
+          541.9792569890254,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.20320717023026,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 22436.76147460935,
+        "counter_span": 119.49492729570306,
+        "bounds": [
+          -55.38557257941126,
+          -10.0,
+          465.97925698902543,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        49
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 27.797557347077785,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 23775.448242187522,
+        "counter_span": 240.06772719607517,
+        "bounds": [
+          21.413687160319313,
+          -7.0,
+          541.833138078798,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 149.79755734707777,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 11933.056640625002,
+        "counter_span": 120.11529520311706,
+        "bounds": [
+          -25.586312839680687,
+          -7.0,
+          494.833138078798,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        49
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 42.764172288434764,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 59134.7802734375,
+        "counter_span": 271.7053979699194,
+        "bounds": [
+          29.571113504074518,
+          -11.0,
+          534.2207361009431,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.76417228843476,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 36089.86474609381,
+        "counter_span": 166.03889406366937,
+        "bounds": [
+          -36.42888649592548,
+          -11.0,
+          468.2207361009431,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        72
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 42.821216917327874,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 35441.33569335938,
+        "counter_span": 270.78238126620187,
+        "bounds": [
+          29.783430417428917,
+          -6.7998046875,
+          534.1885766046564,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 150.82121691732786,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 21722.629638671904,
+        "counter_span": 166.33333415993212,
+        "bounds": [
+          -7.216569582571083,
+          -6.7998046875,
+          497.18857660465636,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        73
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 50.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 67735.74536132812,
+        "counter_span": 287.578125,
+        "bounds": [
+          52.0,
+          -10.39990234375,
+          547.5,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 44291.3291015625,
+        "counter_span": 188.3994140625,
+        "bounds": [
+          52.0,
+          -10.39990234375,
+          547.5,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        52
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 50.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 43227.935302734375,
+        "counter_span": 288.0,
+        "bounds": [
+          52.0,
+          -6.7998046875,
+          547.7646484375,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 28422.07470703125,
+        "counter_span": 189.0,
+        "bounds": [
+          52.0,
+          -6.7998046875,
+          547.7646484375,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        52
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 49.705894197874784,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 67043.22192382817,
+        "counter_span": 286.2673694871634,
+        "bounds": [
+          33.57111350407452,
+          -10.125,
+          530.010097749588,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.70589419787478,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 43704.31884765627,
+        "counter_span": 186.60378786605685,
+        "bounds": [
+          -27.428886495925482,
+          -10.125,
+          469.010097749588,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        83
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 51.05856590156111,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 42460.769287109346,
+        "counter_span": 286.74639133355595,
+        "bounds": [
+          32.88958887410611,
+          -6.7998046875,
+          530.7291108704057,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 150.0585659015611,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 28212.570068359382,
+        "counter_span": 190.74639133355592,
+        "bounds": [
+          2.88958887410611,
+          -6.7998046875,
+          500.7291108704058,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        84
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 40.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 57440.79150390625,
+        "counter_span": 268.116943359375,
+        "bounds": [
+          47.0,
+          -11.0,
+          552.89990234375,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 34080.542236328125,
+        "counter_span": 159.454345703125,
+        "bounds": [
+          47.0,
+          -11.0,
+          552.89990234375,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        47
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 41.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 34068.855224609375,
+        "counter_span": 267.0,
+        "bounds": [
+          47.0,
+          -6.7998046875,
+          552.89453125,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 20345.1455078125,
+        "counter_span": 160.0,
+        "bounds": [
+          47.0,
+          -6.7998046875,
+          552.89453125,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        47
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 39.85686563905183,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 56820.29687500001,
+        "counter_span": 266.1742655605563,
+        "bounds": [
+          28.264214787127898,
+          -11.0,
+          535.9335925407446,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 149.85686563905182,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 33869.5478515625,
+        "counter_span": 158.63327146931647,
+        "bounds": [
+          -39.7357852128721,
+          -11.0,
+          467.93359254074466,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        68
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 40.161544458346256,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 33434.519531250015,
+        "counter_span": 265.68598812134906,
+        "bounds": [
+          28.783430417428917,
+          -6.7998046875,
+          535.2315022866301,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 150.16154445834624,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 19951.146972656265,
+        "counter_span": 158.68598812134908,
+        "bounds": [
+          -9.216569582571083,
+          -6.7998046875,
+          497.23150228663013,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        69
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 43.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 59928.7978515625,
+        "counter_span": 273.116943359375,
+        "bounds": [
+          48.0,
+          -11.0,
+          551.999755859375,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 36645.206787109375,
+        "counter_span": 167.454345703125,
+        "bounds": [
+          48.0,
+          -11.0,
+          551.999755859375,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        48
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 44.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 36207.85302734375,
+        "counter_span": 272.0,
+        "bounds": [
+          48.0,
+          -6.7998046875,
+          551.99951171875,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 22300.141357421875,
+        "counter_span": 168.0,
+        "bounds": [
+          48.0,
+          -6.7998046875,
+          551.99951171875,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        48
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 37.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 53197.636962890625,
+        "counter_span": 258.72216796875,
+        "bounds": [
+          44.0,
+          -11.0,
+          554.817626953125,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 30085.213623046875,
+        "counter_span": 146.922607421875,
+        "bounds": [
+          44.0,
+          -11.0,
+          554.817626953125,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        44
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 37.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 30378.22900390625,
+        "counter_span": 259.0,
+        "bounds": [
+          44.0,
+          -7.125,
+          555.25,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 150.0,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 17258.84619140625,
+        "counter_span": 147.0,
+        "bounds": [
+          44.0,
+          -7.125,
+          555.25,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        44
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "weight": null,
+      "codepoint": 1066,
+      "old": {
+        "flag": 36.269014597224775,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 52265.81347656256,
+        "counter_span": 256.2097278998888,
+        "bounds": [
+          25.49850365208715,
+          -11.0,
+          537.9588950688636,
+          700.0
+        ]
+      },
+      "new": {
+        "flag": 150.26901459722478,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 29615.894287109357,
+        "counter_span": 145.34582510832206,
+        "bounds": [
+          -44.50149634791285,
+          -11.0,
+          467.9588950688636,
+          700.0
+        ]
+      },
+      "hmtx": [
+        600,
+        62
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "weight": null,
+      "codepoint": 1098,
+      "old": {
+        "flag": 35.695159140847,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 29745.058105468735,
+        "counter_span": 257.28492676534177,
+        "bounds": [
+          25.783430417428917,
+          -6.77734375,
+          537.4883791191816,
+          540.0
+        ]
+      },
+      "new": {
+        "flag": 150.69515914084698,
+        "valid": true,
+        "holes": 1,
+        "counter_area": 16762.67700195312,
+        "counter_span": 144.67874000241017,
+        "bounds": [
+          -16.216569582571083,
+          -6.77734375,
+          495.4883791191816,
+          540.0
+        ]
+      },
+      "hmtx": [
+        600,
+        62
+      ]
+    }
+  ]
+}

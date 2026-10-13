@@ -21,13 +21,13 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӣ, ӯ, ҷ, ҳ                                     
+          missing from the font: ӯ, ҳ, ӣ, ҷ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
+          missing from the font: Җ, җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -55,13 +55,13 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӯ, ӣ, ҳ, ҷ                                     
+          missing from the font: ҳ, ӯ, ҷ, ӣ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
+          missing from the font: Җ, җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -89,13 +89,13 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ӯ, ӣ, ҳ                                     
+          missing from the font: ҳ, ҷ, ӣ, ӯ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
+          missing from the font: Җ, җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -123,7 +123,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ҳ, ӣ, ӯ                                     
+          missing from the font: ӯ, ҳ, ӣ, ҷ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -138,210 +138,6 @@ Start ... running 3083 individual check executions.
  >> googlefonts/glyphsets/shape_languages
     Shapes languages in all GF glyphsets.
     with SABModulMono-Light.ttf
-
-    Rationale:                                                                
-                                                                                
-    This check uses a heuristic to determine which GF glyphsets a font          
-    supports. Then it checks the font for correct shaping behaviour for all     
-    languages in those glyphsets.                                               
-                                                                                
-    More info: https://github.com/googlefonts/fontbakery/issues/4147
-
-    FAIL GF_TransLatin_Arabic glyphset:                                         
-                                                                                
-                                                                                
-          FAIL messages                          Languages                      
-          ───────────────────────────────────────────────────────────────────   
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uk_Cyrl (Ukrainian)            
-          missing from the font: ʼ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ҳ, ӣ, ӯ                                     
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
-          missing from the font: ҳ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: Җ, җ                                           
-          [code: failed-language-shaping]                                       
-                                                                                
-
-    Result: FAIL
-
- >> googlefonts/glyphsets/shape_languages
-    Shapes languages in all GF glyphsets.
-    with SABModulMono-LightOblique.ttf
-
-    Rationale:                                                                
-                                                                                
-    This check uses a heuristic to determine which GF glyphsets a font          
-    supports. Then it checks the font for correct shaping behaviour for all     
-    languages in those glyphsets.                                               
-                                                                                
-    More info: https://github.com/googlefonts/fontbakery/issues/4147
-
-    FAIL GF_TransLatin_Arabic glyphset:                                         
-                                                                                
-                                                                                
-          FAIL messages                          Languages                      
-          ───────────────────────────────────────────────────────────────────   
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uk_Cyrl (Ukrainian)            
-          missing from the font: ʼ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ӣ, ӯ, ҳ                                     
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
-          missing from the font: ҳ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
-          [code: failed-language-shaping]                                       
-                                                                                
-
-    Result: FAIL
-
- >> googlefonts/glyphsets/shape_languages
-    Shapes languages in all GF glyphsets.
-    with SABModulMono-Medium.ttf
-
-    Rationale:                                                                
-                                                                                
-    This check uses a heuristic to determine which GF glyphsets a font          
-    supports. Then it checks the font for correct shaping behaviour for all     
-    languages in those glyphsets.                                               
-                                                                                
-    More info: https://github.com/googlefonts/fontbakery/issues/4147
-
-    FAIL GF_TransLatin_Arabic glyphset:                                         
-                                                                                
-                                                                                
-          FAIL messages                          Languages                      
-          ───────────────────────────────────────────────────────────────────   
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uk_Cyrl (Ukrainian)            
-          missing from the font: ʼ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ӣ, ӯ, ҳ                                     
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
-          missing from the font: ҳ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: Җ, җ                                           
-          [code: failed-language-shaping]                                       
-                                                                                
-
-    Result: FAIL
-
- >> googlefonts/glyphsets/shape_languages
-    Shapes languages in all GF glyphsets.
-    with SABModulMono-MediumOblique.ttf
-
-    Rationale:                                                                
-                                                                                
-    This check uses a heuristic to determine which GF glyphsets a font          
-    supports. Then it checks the font for correct shaping behaviour for all     
-    languages in those glyphsets.                                               
-                                                                                
-    More info: https://github.com/googlefonts/fontbakery/issues/4147
-
-    FAIL GF_TransLatin_Arabic glyphset:                                         
-                                                                                
-                                                                                
-          FAIL messages                          Languages                      
-          ───────────────────────────────────────────────────────────────────   
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uk_Cyrl (Ukrainian)            
-          missing from the font: ʼ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҳ, ӣ, ҷ, ӯ                                     
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
-          missing from the font: ҳ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
-          [code: failed-language-shaping]                                       
-                                                                                
-
-    Result: FAIL
-
- >> googlefonts/glyphsets/shape_languages
-    Shapes languages in all GF glyphsets.
-    with SABModulMono-Regular.ttf
-
-    Rationale:                                                                
-                                                                                
-    This check uses a heuristic to determine which GF glyphsets a font          
-    supports. Then it checks the font for correct shaping behaviour for all     
-    languages in those glyphsets.                                               
-                                                                                
-    More info: https://github.com/googlefonts/fontbakery/issues/4147
-
-    FAIL GF_TransLatin_Arabic glyphset:                                         
-                                                                                
-                                                                                
-          FAIL messages                          Languages                      
-          ───────────────────────────────────────────────────────────────────   
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uk_Cyrl (Ukrainian)            
-          missing from the font: ʼ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӯ, ӣ, ҳ, ҷ                                     
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
-          missing from the font: ҳ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: Җ, җ                                           
-          [code: failed-language-shaping]                                       
-                                                                                
-
-    Result: FAIL
-
- >> googlefonts/glyphsets/shape_languages
-    Shapes languages in all GF glyphsets.
-    with SABModulMono-RegularOblique.ttf
-
-    Rationale:                                                                
-                                                                                
-    This check uses a heuristic to determine which GF glyphsets a font          
-    supports. Then it checks the font for correct shaping behaviour for all     
-    languages in those glyphsets.                                               
-                                                                                
-    More info: https://github.com/googlefonts/fontbakery/issues/4147
-
-    FAIL GF_TransLatin_Arabic glyphset:                                         
-                                                                                
-                                                                                
-          FAIL messages                          Languages                      
-          ───────────────────────────────────────────────────────────────────   
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uk_Cyrl (Ukrainian)            
-          missing from the font: ʼ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӣ, ҷ, ҳ, ӯ                                     
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
-          missing from the font: ҳ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: Җ, җ                                           
-          [code: failed-language-shaping]                                       
-                                                                                
-
-    Result: FAIL
-
- >> googlefonts/glyphsets/shape_languages
-    Shapes languages in all GF glyphsets.
-    with SABModulMono-SemiBold.ttf
 
     Rationale:                                                                
                                                                                 
@@ -375,7 +171,7 @@ Start ... running 3083 individual check executions.
 
  >> googlefonts/glyphsets/shape_languages
     Shapes languages in all GF glyphsets.
-    with SABModulMono-SemiBoldOblique.ttf
+    with SABModulMono-LightOblique.ttf
 
     Rationale:                                                                
                                                                                 
@@ -395,13 +191,13 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӣ, ӯ, ҳ, ҷ                                     
+          missing from the font: ҳ, ӯ, ҷ, ӣ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
+          missing from the font: Җ, җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -409,41 +205,7 @@ Start ... running 3083 individual check executions.
 
  >> googlefonts/glyphsets/shape_languages
     Shapes languages in all GF glyphsets.
-    with SABModulMono-Thin.ttf
-
-    Rationale:                                                                
-                                                                                
-    This check uses a heuristic to determine which GF glyphsets a font          
-    supports. Then it checks the font for correct shaping behaviour for all     
-    languages in those glyphsets.                                               
-                                                                                
-    More info: https://github.com/googlefonts/fontbakery/issues/4147
-
-    FAIL GF_TransLatin_Arabic glyphset:                                         
-                                                                                
-                                                                                
-          FAIL messages                          Languages                      
-          ───────────────────────────────────────────────────────────────────   
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uk_Cyrl (Ukrainian)            
-          missing from the font: ʼ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ӯ, ӣ, ҳ                                     
-          Mandatory orthography codepoints:                                     
-          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
-          missing from the font: ҳ                                              
-          Mandatory orthography codepoints:                                     
-          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
-          [code: failed-language-shaping]                                       
-                                                                                
-
-    Result: FAIL
-
- >> googlefonts/glyphsets/shape_languages
-    Shapes languages in all GF glyphsets.
-    with SABModulMono-ThinOblique.ttf
+    with SABModulMono-Medium.ttf
 
     Rationale:                                                                
                                                                                 
@@ -469,7 +231,245 @@ Start ... running 3083 individual check executions.
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulMono-MediumOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҷ, ӯ, ҳ, ӣ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
           missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulMono-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӣ, ҳ, ӯ, ҷ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulMono-RegularOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҳ, ҷ, ӯ, ӣ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulMono-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҳ, ҷ, ӣ, ӯ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulMono-SemiBoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ҳ, ҷ, ӣ, ӯ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulMono-Thin.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӯ, ҷ, ҳ, ӣ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: җ, Җ                                           
+          [code: failed-language-shaping]                                       
+                                                                                
+
+    Result: FAIL
+
+ >> googlefonts/glyphsets/shape_languages
+    Shapes languages in all GF glyphsets.
+    with SABModulMono-ThinOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    This check uses a heuristic to determine which GF glyphsets a font          
+    supports. Then it checks the font for correct shaping behaviour for all     
+    languages in those glyphsets.                                               
+                                                                                
+    More info: https://github.com/googlefonts/fontbakery/issues/4147
+
+    FAIL GF_TransLatin_Arabic glyphset:                                         
+                                                                                
+                                                                                
+          FAIL messages                          Languages                      
+          ───────────────────────────────────────────────────────────────────   
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uk_Cyrl (Ukrainian)            
+          missing from the font: ʼ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tg_Cyrl (Tajik)                
+          missing from the font: ӣ, ҷ, ҳ, ӯ                                     
+          Mandatory orthography codepoints:                                     
+          The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
+          missing from the font: ҳ                                              
+          Mandatory orthography codepoints:                                     
+          The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
+          missing from the font: Җ, җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -1592,6 +1592,1238 @@ Start ... running 3083 individual check executions.
                                                                                 
          "Copyright 2026 Andrew Sabynin (https://sabynin.com/)" [code:          
          bad-notice-format]                                                     
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-Black.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-BlackOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-BoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-Light.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-LightOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-Medium.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-MediumOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-RegularOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-SemiBoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-Thin.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/license/OFL_copyright
+    Check license file has good copyright string.
+    with SABModulMono-ThinOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    An OFL.txt file's first line should be the font copyright.                  
+                                                                                
+    The expected pattern for the copyright string adheres to the following      
+    rules:                                                                      
+                                                                                
+    * It must say "Copyright" followed by a 4 digit year (optionally followed   
+    by a hyphen and another 4 digit year)                                       
+                                                                                
+    * Additional years or year ranges are also valid.                           
+                                                                                
+    * An optional comma can be placed here.                                     
+                                                                                
+    * Then it must say "The <familyname> Project Authors" and, within           
+    parentheses, a URL for a git repository must be provided. But we have an    
+    exception for the fonts from the Noto project, that simply have "google     
+    llc. all rights reserved" here.                                             
+                                                                                
+    * The check is case insensitive and does not validate whether the           
+    familyname is correct, even though we'd obviously expect it to be.          
+                                                                                
+    Here is an example of a valid copyright string:                             
+                                                                                
+    "Copyright 2017 The Archivo Black Project Authors                           
+    (https://github.com/Omnibus-Type/ArchivoBlack)"                             
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/2764
+
+    FAIL First line in license file is:                                         
+                                                                                
+         "copyright 2026 andrew sabynin (https://sabynin.com/)"                 
+                                                                                
+         which does not match the expected format, similar to:                  
+                                                                                
+         "Copyright 2022 The Familyname Project Authors (git url)" [code:       
+         bad-format]                                                            
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-Black.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-BlackOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-BoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-Light.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-LightOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-Medium.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-MediumOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-RegularOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-SemiBoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-Thin.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
+
+    Result: FAIL
+
+ >> googlefonts/name/license
+    Check copyright namerecords match license file.
+    with SABModulMono-ThinOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    A known licensing description must be provided in the NameID 14 (LICENSE    
+    DESCRIPTION) entries of the name table.                                     
+                                                                                
+    The source of truth for this check (to determine which license is in use)   
+    is a file placed side-by-side to your font project including the licensing  
+    terms.                                                                      
+                                                                                
+    Depending on the chosen license, one of the following string snippets is    
+    expected to be found on the NameID 13 (LICENSE DESCRIPTION) entries of the  
+    name table:                                                                 
+                                                                                
+    - "This Font Software is licensed under the SIL Open Font License, Version  
+    1.1. This license is available with a FAQ at: openfontlicense.org"          
+                                                                                
+    - "Licensed under the Apache License, Version 2.0"                          
+                                                                                
+    - "Licensed under the Ubuntu Font Licence 1.0."                             
+                                                                                
+    Currently accepted licenses are Apache or Open Font License. For a small    
+    set of legacy families the Ubuntu Font License may be acceptable as well.   
+                                                                                
+    When in doubt, please choose OFL for new font projects.                     
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/4829
+
+    FAIL License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value  
+         on platform 3 (WINDOWS) is not specified for that. Value was: "This    
+         Font Software is licensed under the SIL Open Font License, Version     
+         1.1. This license is available with a FAQ at:                          
+         https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified   
+         Versions may not use the Reserved Font Name without explicit written   
+         permission of the copyright holder." Must be changed to "This Font     
+         Software is licensed under the SIL Open Font License, Version 1.1.     
+         This license is available with a FAQ at: https://openfontlicense.org"  
+         [code: wrong]                                                          
 
     Result: FAIL
 
@@ -1957,11 +3189,11 @@ name.
 Total:
     ERROR: 0
     FATAL: 0
-    FAIL: 53
-    WARN: 113
+    FAIL: 81
+    WARN: 127
     INFO: 85
-    SKIP: 1516
-    PASS: 1316
+    SKIP: 1488
+    PASS: 1302
 
 
 
@@ -1982,5 +3214,5 @@ And a  SKIP happens when the check does not apply to the given font.
 
 
 DONE!
-A report in JSON format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Mono-TTF-googlefonts.json"
-A report in html format has been saved to "/privateSAB-Modul-OFL/checks/fontbakery/Mono-TTF-googlefonts.html"
+A report in JSON format has been saved to "sab-modul/checks/fontbakery/Mono-TTF-googlefonts.json"
+A report in html format has been saved to "sab-modul/checks/fontbakery/Mono-TTF-googlefonts.html"

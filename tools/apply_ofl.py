@@ -3,7 +3,7 @@ import argparse, shutil, hashlib, json, re
 from fontTools.ttLib import TTFont
 
 COPYRIGHT = 'Copyright 2026 Andrew Sabynin (https://sabynin.com/)'
-LICENSE = 'This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org'
+LICENSE = 'This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org. Reserved Font Name: SAB Modul. Modified Versions may not use the Reserved Font Name without explicit written permission of the copyright holder.'
 URL = 'https://openfontlicense.org'
 
 def sha(data):

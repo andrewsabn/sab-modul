@@ -1,0 +1,1193 @@
+{
+  "scope": "Scoped numeric rebuild; high resolution original skeletons, continuous 2/5 joins, aligned 2/7, shared compatible curves. Code non-target numerals retain their previously curved drawings.",
+  "records": [
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0036",
+        "uni0037",
+        "uni0038",
+        "uni0039",
+        "uni0030.pnum",
+        "uni0032.pnum",
+        "uni0033.pnum",
+        "uni0035.pnum",
+        "uni0036.pnum",
+        "uni0037.pnum",
+        "uni0038.pnum",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "glyphs": [
+        "uni0030",
+        "uni0030.pnum",
+        "uni0032",
+        "uni0032.pnum",
+        "uni0033",
+        "uni0033.pnum",
+        "uni0035",
+        "uni0035.pnum",
+        "uni0036",
+        "uni0036.pnum",
+        "uni0037",
+        "uni0037.pnum",
+        "uni0038",
+        "uni0038.pnum",
+        "uni0039",
+        "uni0039.pnum"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].ttf",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "glyphs": [
+        "uni0032",
+        "uni0033",
+        "uni0035",
+        "uni0037",
+        "uni0038"
+      ],
+      "advances_layout_other_glyphs_and_variations_preserved": true
+    }
+  ]
+}

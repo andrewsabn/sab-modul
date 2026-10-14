@@ -1,0 +1,1051 @@
+{
+  "cases": 2788,
+  "fonts": 72,
+  "locations": 174,
+  "results": [
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "weight": 400,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 0,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "weight": 200.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "weight": 900.0,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2",
+      "weight": null,
+      "numeric_glyphs": 26,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "weight": 400,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "weight": 400,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "weight": 400,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "weight": 400,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "weight": 400,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "weight": 400,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "weight": 400,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "weight": 400,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 17,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "weight": 300.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "weight": 400,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "weight": 450.5,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "weight": 700.0,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-BoldItalic.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Italic.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBoldItalic.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-LightItalic.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-MediumItalic.woff2",
+      "weight": null,
+      "numeric_glyphs": 18,
+      "outlines_and_advances_match_main_font": true
+    }
+  ]
+}

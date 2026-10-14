@@ -1,0 +1,227 @@
+Start ... running 82 individual check executions.
+ >> overlapping_path_segments
+    Check there are no overlapping path segments
+    with SABModulMono.ttf
+
+    Rationale:                                                                
+                                                                                
+    Some rasterizers encounter difficulties when rendering glyphs with          
+    overlapping path segments.                                                  
+                                                                                
+    A path segment is a section of a path defined by two on-curve points. When  
+    two segments share the same coordinates, they are considered overlapping.   
+                                                                                
+    More info: 
+https://github.com/google/fonts/issues/7594#issuecomment-2401909084
+
+    WARN The following glyphs have overlapping path segments:                   
+                                                                                
+                                                                                
+          * uni221E (U+221E): L<<170.0,443.0>--<170.0,443.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni221E (U+221E): L<<450.0,443.0>--<450.0,443.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni221E (U+221E): L<<450.0,443.0>--<450.0,443.0>> has the same      
+          coordinates as a previous segment. [code:                             
+          overlapping-path-segments]                                            
+                                                                                
+
+    Result: WARN
+
+ >> overlapping_path_segments
+    Check there are no overlapping path segments
+    with SABModulSans.ttf
+
+    Rationale:                                                                
+                                                                                
+    Some rasterizers encounter difficulties when rendering glyphs with          
+    overlapping path segments.                                                  
+                                                                                
+    A path segment is a section of a path defined by two on-curve points. When  
+    two segments share the same coordinates, they are considered overlapping.   
+                                                                                
+    More info: 
+https://github.com/google/fonts/issues/7594#issuecomment-2401909084
+
+    WARN The following glyphs have overlapping path segments:                   
+                                                                                
+                                                                                
+          * uni1E9E (U+1E9E): L<<48.0,538.0>--<48.0,538.0>> has the same        
+          coordinates as a previous segment. [code:                             
+          overlapping-path-segments]                                            
+                                                                                
+
+    Result: WARN
+
+ >> overlapping_path_segments
+    Check there are no overlapping path segments
+    with SABModulCode-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    Some rasterizers encounter difficulties when rendering glyphs with          
+    overlapping path segments.                                                  
+                                                                                
+    A path segment is a section of a path defined by two on-curve points. When  
+    two segments share the same coordinates, they are considered overlapping.   
+                                                                                
+    More info: 
+https://github.com/google/fonts/issues/7594#issuecomment-2401909084
+
+    WARN The following glyphs have overlapping path segments:                   
+                                                                                
+                                                                                
+          * uni007E (U+007E): L<<456.0,304.0>--<456.0,304.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<536.0,302.0>--<536.0,302.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<541.0,293.0>--<541.0,293.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<541.0,293.0>--<541.0,293.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<425.0,138.0>--<425.0,138.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<405.0,132.0>--<405.0,132.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<336.0,140.0>--<336.0,140.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<144.0,236.0>--<144.0,236.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<64.0,238.0>--<64.0,238.0>> has the same        
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<59.0,247.0>--<59.0,247.0>> has the same        
+          coordinates as a previous segment.                                    
+                                                                                
+          * 6 more.                                                             
+                                                                                
+                                                                                
+         Use -F or --full-lists to disable shortening of long lists. [code:     
+         overlapping-path-segments]                                             
+
+    Result: WARN
+
+ >> overlapping_path_segments
+    Check there are no overlapping path segments
+    with SABModulCode.ttf
+
+    Rationale:                                                                
+                                                                                
+    Some rasterizers encounter difficulties when rendering glyphs with          
+    overlapping path segments.                                                  
+                                                                                
+    A path segment is a section of a path defined by two on-curve points. When  
+    two segments share the same coordinates, they are considered overlapping.   
+                                                                                
+    More info: 
+https://github.com/google/fonts/issues/7594#issuecomment-2401909084
+
+    WARN The following glyphs have overlapping path segments:                   
+                                                                                
+                                                                                
+          * uni007E (U+007E): L<<83.0,329.0>--<83.0,329.0>> has the same        
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<95.0,344.0>--<95.0,344.0>> has the same        
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<105.0,356.0>--<105.0,356.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<397.0,233.0>--<397.0,233.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<425.0,261.0>--<425.0,261.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<476.0,318.0>--<476.0,318.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<547.0,269.0>--<547.0,269.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<517.0,211.0>--<517.0,211.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<505.0,196.0>--<505.0,196.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * uni007E (U+007E): L<<495.0,184.0>--<495.0,184.0>> has the same      
+          coordinates as a previous segment.                                    
+                                                                                
+          * 4 more.                                                             
+                                                                                
+                                                                                
+         Use -F or --full-lists to disable shortening of long lists. [code:     
+         overlapping-path-segments]                                             
+
+    Result: WARN
+
+
+Total:
+    ERROR: 0
+    FATAL: 0
+    FAIL: 0
+    WARN: 4
+    INFO: 0
+    SKIP: 38
+    PASS: 40
+
+
+
+    Meaning of check results:
+
+    An ERROR is something wrong with FontBakery itself, possibly a bug.
+    A  FATAL is an extremely severe issue that must be addressed immediately.
+    A  FAIL is a problem with the font that must be fixed.
+    A  WARN is something that you should consider addressing.
+    An INFO result simply prints something useful. Typically stats.
+    A  PASS means the font looks good for the given checking routine.
+And a  SKIP happens when the check does not apply to the given font.
+
+    If you get ERRORs, please help us improve the tool by reporting them at
+    https://github.com/fonttools/fontbakery/issues (but other kinds of bug
+    reports and/or feature requests are also always welcome, of course!)
+
+
+
+
+                           ,@.
+                         ,@.@@,.
+                   ,@@,.@@@.  @.@@@,.
+                 ,@@. @@@.     @@. @@,.
+         ,@@@.@,.@.              @.  @@@@,.@.@@,.
+    ,@@.@.     @@.@@.            @,.    .@’ @’  @@,
+  ,@@. @.          .@@.@@@.  @@’                  @,
+ ,@.  @@.                                          @,
+ @.     @,@@,.     ,                             .@@,
+ @,.       .@,@@,.         .@@,.  ,       .@@,  @, @,
+ @.                             .@. @ @@,.    ,      @
+  @,.@@.     @,.      @@,.      @.           @,.    @’
+   @@||@,.  @’@,.       @@,.  @@ @,.        @’@@,  @’
+      \\@@@@’  @,.      @’@@@@’   @@,.   @@@’ //@@@’
+       |||||||| @@,.  @@’ |||||||  |@@@|@||  ||
+        \\\\\\\  ||@@@||  |||||||  |||||||  //
+         |||||||  ||||||  ||||||   ||||||  ||
+          \\\\\\  ||||||  ||||||  ||||||  //
+           ||||||  |||||  |||||   |||||  ||
+            \\\\\  |||||  |||||  |||||  //
+             |||||  ||||  |||||  ||||  ||
+              \\\\  ||||  ||||  ||||  //
+               ||||||||||||||||||||||||
+
+         No check is failing. Get a cupcake!
+       <<Art by Tony de Marco, July 26, 2018>>
+
+DONE!
+A report in JSON format has been saved to "sab-modul/checks/digits/overlap-final.json"

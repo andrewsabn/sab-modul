@@ -1,2497 +1,2497 @@
 {
   "fonts": 356,
-  "scope": "Final a + hard-sign corrected release; exact embedded RFN/license/version and metadata finalizer byte idempotence",
+  "scope": "Final numeric-repair release after degenerate terminal cleanup; exact embedded OFL/RFN/version and metadata finalizer byte idempotence",
   "results": [
     {
-      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
-      "sha256": "b0986aca8f4a5cb1da905b423eb47eb96f511a097fb5cd0d2c905ca968df2552",
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Black.otf",
+      "sha256": "599bf5e960c8a006310200a88c7763cffef18e20d5f25ca045a191e964441ee8",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf",
-      "sha256": "f42bf53b451bedc3f9fe367191be687df9dd1f9bf9d8737937a9695c9b3edf63",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
-      "sha256": "4145e99e3e91b724c0645ef668fbdbc7a86be1a42da8017a0a0f9d0805907890",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
-      "sha256": "27328a67b2c4e004cd128fedb160b8e0bf5633bb9cbb23e5f2803a80066772d3",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].ttf",
-      "sha256": "43bf8cb4de97cafb45e50189ba8ae931545f2d1622fa1c55e7ec28a526a87d86",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
-      "sha256": "e38cdda4f3ae0585728bb50d9d690d395591240da279ed0fd33357f2c176ae45",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf",
-      "sha256": "470be15d31de0766a24a0a408e959939c602e065a992dbb12679e307efc1ff64",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].ttf",
-      "sha256": "81bfd9f273b5f961f01b0451a0ed4a3fffeb4fd89a7f3868c0f4115a963cd568",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
-      "sha256": "b0986aca8f4a5cb1da905b423eb47eb96f511a097fb5cd0d2c905ca968df2552",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
-      "sha256": "9f6e17a6ce9d240954a37289a58a372cb8be0d6a08ae67c8818d31979b86cf5f",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
-      "sha256": "5b3cd971d0ef228133a0c49a1fb0e8cb124fc11bb6f632e835bca678cb7cdd58",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
-      "sha256": "e8351d0d5c864c9f4ac5edf16d6314808d2f34ee95a7f73edff91d44752e60a7",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
-      "sha256": "74bf54d9e5d26d38eeff5e5fff8e6d48310c9dbfedefa0b57fec85f1600e1d50",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
-      "sha256": "b41cf3be791b313b4c1bf45721ea09152fad68a1623a77ed3f3901cc3bb71d87",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
-      "sha256": "6a64c99d987c921fa09070a49f17ad6eca5f52b541e9ccbce56b1a1bfd7146cb",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
-      "sha256": "024d452d2b441cbee30d616d5b36422dd713fe099ab9dffba14a3d0f8a36fb24",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
-      "sha256": "84509107e015d587027b78f25d2b3d18dbfb94023aaf0f7443b2aa6b57e91e55",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
-      "sha256": "943e1bedcb8205e68ad69e80c5f64cac7c17f7c0627d1c70e705470b3526d5a7",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
-      "sha256": "e38cdda4f3ae0585728bb50d9d690d395591240da279ed0fd33357f2c176ae45",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
-      "sha256": "2132451aa61f623165cc1c386cd6a2b4d87b225a271d5068f701aedcc00c38a2",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
-      "sha256": "d53e6e4be1cc4520a68c50d543e8c988d03c3b8c83a82e8b4f68591582e2e5c8",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
-      "sha256": "aa3c048565a25703d6ed6b1f3b460318bc6722a9b63440ab73d572403fa0d381",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
-      "sha256": "9dd7b76d945802fdc63306b36382244a02a33557d1389e06ee00d81b81a27dda",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
-      "sha256": "5140b86f764374802149f5430c3cee1f1925eeddc15addf897e269cb5164f3c8",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
-      "sha256": "2e465eee551debe6419f39355b06ce35533430bbf454d975ad139bc8c9e8c845",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
-      "sha256": "0e6f4a3bea338a316e1f934bfda6563752aa3b736f7285f1a4656b8e2d081038",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
-      "sha256": "1f207c9e2c43525d450048068400b9fa1bdda299de5c4115dcdeb2de47b09fc2",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
-      "sha256": "7326d8a8ae2aacaa83662ac71cca8fa3b3a708646099ab6be1c63a22e14a8303",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
-      "sha256": "1de9e8a69483769270afc4470940c77f8624998566b85efe7193cea20d2462de",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
-      "sha256": "a37f2d8bc4775bb666cae44b78a4660b16c12b7d227cb2b121527053c4c6370d",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
-      "sha256": "e8345de83cc7359e9cfbf1b1f0bc7721fb51910628a0887deb6985ba163b6d6c",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
-      "sha256": "59a2e32ca7c3347a37fe50854513c11fb101ec59d13beed2ca43164c43068b1e",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
-      "sha256": "83a117653de6be9922021c2cc488c98f5780160a8afda35600175f25c5c9867b",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
-      "sha256": "89fed832934c6647310579eb0ae0d171c863b6448205d20e4875537564ab1198",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
-      "sha256": "d5df7006e3d5815b1d0cc9691cbced26a47cb0c6ec4b8bf2874846951ebff527",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
-      "sha256": "b7b5f9d45d95a1d4bd3ab050979fb8154eb3af80a74732ef960e5b064f3e700b",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
-      "sha256": "2028e346ceb481b368379fa2627fc81f9fe5447fec7e55cfd8a56b94fb6fc254",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
-      "sha256": "fef60d013dc32a2333792dafbd5fdba7dda75ecb4ef8f173a2e5fcbe13cc04ab",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
-      "sha256": "42ded8796dc17c855af79e4c3fae4747180c00a35fd574e9c1f4ddc9c167fef3",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
-      "sha256": "1397857078d65b7ff2b52df2890de7ed767959142dfcec9717ea49968aa39b95",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
-      "sha256": "e494761ab7d4c598c3d1ea005c546cf8385e17aab35fc68167a6428617f20bfc",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
-      "sha256": "c5a327b56bf104228a14ad718eab8148b935a6d38b006ab5bba3b247b516cc3a",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
-      "sha256": "7d8c6a6c6ba479610f6e49548a074655bb21db70839eab326982634ce9c2de95",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
-      "sha256": "88236ef42c43cc055569d781c9d090c89b81a28120f187d8893473ce96f50f35",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
-      "sha256": "939654bf1f8297afd53350df140190bec46a66acdaf00987c53428e1c11bbf1c",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
-      "sha256": "5a3564be75ddeafa8e606b99a66219f0c856dffdf6bbc492dea127f5d11e83cd",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
-      "sha256": "2e05ffa1daac76e0a8aefea0e10c2e17918ccbba706bb3aad358de6e7d877ad9",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
-      "sha256": "86b97c7d40413d8339fa161c051bfe06382b50af98a151945399ac6465e4d1e4",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
-      "sha256": "e5df853a5cb413d64141c6ec58bc86380b648d8e4e102f42be0501982554b202",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
-      "sha256": "7c0186b796c114e7212ad3466e64649e68c9d7fd397b6919be56efa7e62cc560",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
-      "sha256": "059a6cb58219de2e314685ba9b964cbb2f570dd57e316cb9fd11c56d85df510d",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
-      "sha256": "98ea9da76cb148dd5eca4f1abf774205b44f59ddfc5e0a19746ec8410ba4509d",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
-      "sha256": "9c8fff603ccfab8e060fd5a9e6b3698cafb6186e42952441c52f7f43d6bd4b7c",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
-      "sha256": "8bdeb43f363f8f065c1d95204919c3fd72dbb1637a1781c1dcf79d4c72f41aeb",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2",
-      "sha256": "2212a01b810694f8510a4a6bddbd751a9fa1d246ad87366c64eadad36dc49cd6",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2",
-      "sha256": "fd90dc9589a2fe0408187aaa2d2b6bb8e7fcf03a5246f9debfce49a528900d6e",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2",
-      "sha256": "8d73d8eb20625685fe530a7b65d93241176ba6e64672b555488920e79ae7226e",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2",
-      "sha256": "47662ea8e8ae8fe207b7e72d4171b7e3ee9d26b32d0cb9f6cc830f1cfd6d47db",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2",
-      "sha256": "24e1a2e7ff02654f3a45c003ea5279e9160b82d68d7183e84a672e22500584e3",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2",
-      "sha256": "f326cbc4fb0fd9570da7de7ad35543e92aef2db62ab2631d62195ed77012bef3",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2",
-      "sha256": "67db61d564464b34b72cc9d79282ac16beffdd028d884e1cab59d5d3987bc0b9",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2",
-      "sha256": "c52d5ab381d2315a603fc7c7dd8c37cb308f076c755b4a40f6d97b865d4ff19c",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2",
-      "sha256": "895da960b02fb44a426ec8980052beea8623033531ec47c3dfac7e548efefb21",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2",
-      "sha256": "60fdb51d5e2500fdabe17f6e5b672d22fe73657bd81d9f69f2f1091e905a56e6",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2",
-      "sha256": "5bc31883111e2e2c88a81aabc40c7e6e763c9b162e1d69911047c1a8ec35a3f7",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2",
-      "sha256": "14fe9b963704f2157efc709c0b3259c109cbe348cff9e4295b2cf0f2609ec20b",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2",
-      "sha256": "aa3079f9fe2beafc0ede3eba145a602f766b7049eedb987b223a965502126930",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2",
-      "sha256": "8ca96ba5b66fa34a7365c99702ababf3f59ac801e695352ffb62456f2a3a59fd",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2",
-      "sha256": "339590b642d8bc80bb652968c3cf682939c116daaee4e1b34776c43f9d19bcc2",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2",
-      "sha256": "732f3e70de9592133f53fffeadab365585dd848dc78ce1da25ca70798fa61fbf",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2",
-      "sha256": "250c8979f4f0748512795eb0616916c0b50040004bc3f6370b7b0e2568c9a1cf",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2",
-      "sha256": "4c79ea4edb021ce7478534ec28a01746b2b16025aa9323a1be1cd832390e0f2e",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2",
-      "sha256": "bb0d26e3e6e2c14fbcf3f8b0c84f1ea254c7640a8703387e9b1bc36769a2b0b2",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2",
-      "sha256": "0cab3008e659d6922c706f004ceed3147f64984cbb315ef4a6f614f9195c055f",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2",
-      "sha256": "1ee5ab66fd28e54c0776f2cc4a1901b54918093ad7d9bc97e301654b1d6f5c20",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2",
-      "sha256": "1e01547be274d5be9a1127e86cbea3e1891a0051cc56bd1837012de9faccaa84",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2",
-      "sha256": "8765b71858395ba54495eb9fcef4064d259988445d7a73a2b27582303f9dc25e",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2",
-      "sha256": "c61b5585b30503639ab8217fefd52c2f2562f0db2553e8e9128f475fa01bd791",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2",
-      "sha256": "99b0db0592b89203879528209cb6ca62a9f2120d6a092ddc8892ee4bf43c2b36",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2",
-      "sha256": "cdb6b8a87b98689f3125f10bfd5358f5daf7b6dfc04a5938d593d203e88048a8",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2",
-      "sha256": "a7d30bc8fa6ddcf6dbaf15e9db945dbe105dd0e35a555bf523b1fe26ba194149",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2",
-      "sha256": "6f899c837bdbf6441af416e2c25d38cf4a6c33579b70b52c94ba5b71da644d37",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulMono-Medium.otf",
-      "sha256": "8226ed41699b728adaff92f0312be4b326353b95ee74944f57a3a762e3e56160",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulMono-RegularOblique.otf",
-      "sha256": "d7e8fd90b46dc06d5c05eaa46ccf051d55d20faa9fff90d7884f631a2774f891",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-BlackOblique.otf",
-      "sha256": "315dfd807d1d4a1c7eaaecbafe3598a4a1d595d0aa2b3070f59ceb38b15b6f1a",
+      "sha256": "325455dc24c4b4292d8c87f9ec0c37c2eed46ecf501dc7e5d4330c73e369a3c1",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-LightOblique.otf",
-      "sha256": "1a241e4350a085e7647bd67fb6c32dc580da425ba7b84d0ab2d622b3e344e3ad",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBold.otf",
-      "sha256": "a50b30f62d3258ed0681097eae1e2efa64765c669d088c495c1e763dfd435c2f",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulMono-Light.otf",
-      "sha256": "057e0dd600b2ddec7905398e16e72f50a0c63accca63f2a1c5dab9dbc86c730b",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBold.otf",
-      "sha256": "d5b019e246189277f178c2be254afef951254ab81b14fec6ed065fa562685e4e",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBoldOblique.otf",
-      "sha256": "06b0a8fc353a319e5213454bc1cf6c9212d307e5ed833f8e7b144f5fcb662c48",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-Thin.otf",
-      "sha256": "2ea8f24c88c0627b027c20a17944a0678601ab0071423d7c7c1ca52ef6b56e81",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-Light.otf",
-      "sha256": "3a086a0d6dd60a399c4bac0af3998085067f8a115a90e162a62e6168ffa5e0d4",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-Regular.otf",
-      "sha256": "29ca896ed2e9aa9a38fac3eeb2d9e6bc99d44ae214f34c017b5dd7829f7a2e2e",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-Bold.otf",
-      "sha256": "60c741e4ecf4a8fba9c784d50281b74716d8768b908c65a1bd5c07e12548b47b",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-Medium.otf",
-      "sha256": "e64cbd47b06f80911e2c472992737707d4939fa38cab6bdeed05960afc62b0d2",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulMono-BoldOblique.otf",
-      "sha256": "53e095d639d1fce50cf7c8ac2c0851d09770113f56dac02cfa3e868bdf723ea6",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulMono-Thin.otf",
-      "sha256": "f9f2f7859a3ae5d92ff8cc3f22f700eca56037b6ad448625a9941bfafba9df74",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-Bold.otf",
-      "sha256": "dac2164fd6455c87b07d46f806b4dafc11ee798ff1c43ce1a2f9bc1761a16905",
+      "sha256": "a2ddcdb9ac82a302ab61bdc1468882a3192fe981a5ba10db8ccc9f8d4126535a",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-ThinOblique.otf",
-      "sha256": "1804d2f776f80ef2d1541f40188ae1e4616c351761068594c24e1bd5bebf1a34",
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-BoldOblique.otf",
+      "sha256": "7a8e7768ced81d2370ef267760d682422b7d1296b3d974d8d2be19cefd66668d",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Light.otf",
+      "sha256": "372fa58e74b06cc6210c8f108a5fb4e7ca01eadece3a84e010f70b783b37bf16",
+      "version": "1.103",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-LightOblique.otf",
-      "sha256": "f24cea279176a030093ff3c850d24c902e147a74c1ff80f51088e4b75713e149",
+      "sha256": "1f0c65795a9c67a7c7cf39ccb1f51fa695fc023a89dcdf38b31ff1ccdf54d472",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-Black.otf",
-      "sha256": "90716218f210ae3c12a6fa41199518f4385b8965381ce5b81dcbe5728634a841",
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Medium.otf",
+      "sha256": "a936ce5437a8926de5513f090532b1c43253aa11eacbca9be816e18bf1c87fac",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-BlackOblique.otf",
-      "sha256": "d847a943465ad337e4bf7229a4c3f1999db1e9b3da8214e8758b9e822f25df41",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-MediumOblique.otf",
-      "sha256": "142139597e2eceeb0116ddb133164185d4effbc9a3cf031b4e6af1876d7a602b",
+      "sha256": "36f660ee933ad6c1721d7845907952594123e114f71eae00bb95fa1e99ce1d1d",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-RegularOblique.otf",
-      "sha256": "15efa93e34b4b3e7eaee05c2bd722e4509500e959acc67ded6edd326048a31d7",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulMono-Black.otf",
-      "sha256": "271fecd197972d39264442824f26add7c4f3e18b7b33263eafd1ec67347633b7",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-MediumOblique.otf",
-      "sha256": "049f13262664b8d1501a2b77dab8ba84f2ac35efbe64e3da193adabacd41ea69",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulSans-BoldOblique.otf",
-      "sha256": "ceb154fea7f7c4b960f492a73220df93fec3cc0d162ab99bc047fdd18a9466aa",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/OTF/SABModulMono-ThinOblique.otf",
-      "sha256": "c02707908651284e006976ccec85ab05995bfc74ec3098cf65f5867b1b54e941",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulMono-Regular.otf",
-      "sha256": "548ef4e10697987c315319bc8ea8743cf66c96d4890cee0ddf4ec0396412ea16",
+      "sha256": "db7e1ebb98f4e87c8dc14de95ef284ec01f903957662542c81ef3fa4f7868573",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-RegularOblique.otf",
+      "sha256": "203499f0b18cb24dcee541b0265ad74be26db72f67f696d2e049c3b06c2c1ba7",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBold.otf",
+      "sha256": "a6e7eba06503b7c7fcb6c22022679b7ec0290c279530f074e4f73678cbc1732d",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBoldOblique.otf",
+      "sha256": "a36dff0154a3cb2b75c297cf2c8608108a26ec394f906f319d74dc74d3a3af86",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Thin.otf",
+      "sha256": "6924df17e80b829a1341b13d5810683c73763a336dc049c8f60d72000ea4852e",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-ThinOblique.otf",
+      "sha256": "5e4720a0eebfab4ef1f171eb7511cc847a79f5be8eb9cd0af92efb68c51a0008",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Black.otf",
+      "sha256": "09f70db1cf444602e00be5ffb2977a583cb36bdcb8557143ed66d844ad4d9e7c",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-BlackOblique.otf",
+      "sha256": "39c4e81a098dd385b4d154c7fb65f746c0570f7e4908093e8ed056469baa530e",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Bold.otf",
+      "sha256": "5cfaf8b1071d33631ffea42849ec6d34b0869d7af7bcb29bf9d5fe4bc64ca134",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-BoldOblique.otf",
+      "sha256": "0b9999539bb4c80b33eddb845d54f0bcb9f5de39fb5d9d1863a97afe3f6765ee",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Light.otf",
+      "sha256": "0c1aa8c7002c7899bb3003e7ce90a415f289a6fe53875c473171502cc03c4f29",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-LightOblique.otf",
+      "sha256": "1acd0edad09a0bee4e6e7cc54680a1694e1c0a102af41a66b7bc773d1b45821b",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Medium.otf",
+      "sha256": "068da894534454054779ac537247de614880bfa341215e72dd17cbaa3b64f094",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-MediumOblique.otf",
+      "sha256": "f4ae4246c8fee0463ca7e9d0cf378891560a4b6761453524d12c049d2cdaabf1",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Regular.otf",
+      "sha256": "c2f5494a560967ff14982b5789bb5018791c368c99354d792f51b692f5073801",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-RegularOblique.otf",
+      "sha256": "7306bb78128a5b309d37920f4ee1db853c83263cd07fb335a4cc2b941db33625",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBold.otf",
+      "sha256": "5135aa101c6649c763b451e38447f8b803d58d85956da3cf1e60f6927a3ab43b",
+      "version": "1.103",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/OTF/SABModulSans-SemiBoldOblique.otf",
-      "sha256": "b2721a51735a2afa71356dcb8ee6a4ca2bab7eb366aa1753639132ff14e3a9ee",
+      "sha256": "59440985a7a19b5263a231c4bcf1bfe65d309a971bceceec0792487df972a242",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Regular.ttf",
-      "sha256": "1c2ec2e1f61abbe1d1fa78f5cc98afc5e92c7f5f7c52a5687f483f232435452b",
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-Thin.otf",
+      "sha256": "622d7b9769c0d06caa179aa00b44475670f14b28ed02d855ccea8c6c9900aac2",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Bold.ttf",
-      "sha256": "f42ed0dbec2bcaec456fbff1ea73540a2baf433394470a02b97b3b7fb5d086c1",
+      "file": "SAB-Modul-1.0/OTF/SABModulSans-ThinOblique.otf",
+      "sha256": "f9b2df2348c18516ba5df134f5ad5c2fa9e3b6a8112302edc5059d27f2dc1a41",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Medium.ttf",
-      "sha256": "de323096efb70cb3e86729d334252b902c72024284cdfac826388074890d49ff",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "sha256": "5b8b7901243ce96968ed7a35f1d71ebf62037da9c55c6803c1dfc38895d2e557",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-SemiBold.ttf",
-      "sha256": "7b9de6ed1f217e9140c115dfa15f86e4ed462558b01297453e6a2a27cf0c661d",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "sha256": "a053ba2fc7ab76453515193920d19beed5d4e5bfc507e9e61720c4a6fd97bdc8",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Light.ttf",
-      "sha256": "12d6ec7938c9cda86e8bfe5eb3d7886b7a8e14340e919b06b95b7286d15b111c",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "sha256": "525e81dbe0886c6ec46ad1eeea2352e5a5ded717e08185b4cb000cc704d75eb2",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Thin.ttf",
-      "sha256": "a791899dac8710729d5871f72a1b77f4f5ac49ee2788b64a355c15f4a2989f96",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "sha256": "0498304f1977ffccf2ca039d823090ce1d223451bf5dd4bdfd4faae6ead99a90",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-SemiBoldOblique.ttf",
-      "sha256": "9b638c09b1cc7b5b565ebda26665764bb4e456eca1b096a2763944347d64ccb2",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "sha256": "3df3b669aa908b3a67c9e1376a560b48ff0c091cd80063247c31c9ae46aa9555",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-BlackOblique.ttf",
-      "sha256": "2f2c8000c027ed2aae2e55378142f70fbf500aa38f89afa11d16f00549384fc0",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "sha256": "1f65262af27ce20b4a6b7f9f18cb5bf19f802cd4d551b14c1c6386e4fb468d7a",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-LightOblique.ttf",
-      "sha256": "4c8197cb1aede74e4a91c10e451e80fe21a8843a6bc731334f3f47e29eca2b42",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "sha256": "b764f77cbfc2ebedfc83c715246fe4b8a978e96cde7311a89e6f470d3b974238",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-SemiBold.ttf",
-      "sha256": "e61f6d9859f49740743ebbccef6034cac69cf31f4bfed329ba62ea26ed369dda",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "sha256": "e1a8f855e6e7f0e7ada462b71bf1175561d1f58c94f6c729f1b35f8121bcc3be",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Light.ttf",
-      "sha256": "20e9e78d86403cd8909725114e87e9e0a2d3702477db7345d5e86b1a56ae8c7e",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "sha256": "0583e7c2c495922b6c7ffa4a36165bf820606803673f01f6b8eb82503fdf0837",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Medium.ttf",
-      "sha256": "e74631e2f1bf1548e38d23471df2effc82641b480b3513703100c959cb9626d7",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "sha256": "f5aa057a41c3deae40f692a27f0138fb36454d73474670112c304c2d5257baba",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-RegularOblique.ttf",
-      "sha256": "1500d5ff61bdf7ae8b20db9ecc0885bdeb1feb19412fb178b2bafffe078af58a",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "sha256": "4ff2ac1862b1881ee3d0af104eae02029b03ca52311e27dd7d40241ddb85bb59",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-ThinOblique.ttf",
-      "sha256": "33dd31657df6d382f88dc8bbf74ef165f436f9bd7f07909b091e496194590102",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "sha256": "d689f40211df2d5d482859aca076be294a8ae2b48afc14047918c0619c947faa",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Regular.ttf",
-      "sha256": "70176652450b9261bfe6d9ad4bf8f1d1b462f5db282d3dd7025e77acfde356c7",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "sha256": "60d4d6b5f2aeb1865ed569ea836221dd8b60b283af2fcf58b6f7f54c99bdd872",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-SemiBoldOblique.ttf",
-      "sha256": "5e750ae5e366df0204028c68abf63e3597b9d44a97bc6036b0f246948b9c20ad",
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "sha256": "a72b05d08d46602a5355d7a0f041699af4bc0a73b466b8737770adb148e5e362",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-MediumOblique.ttf",
-      "sha256": "b200fd54976e9ce4405e7c060f08ee96780042f44e28aec796ea7d31bcbb036d",
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "sha256": "474442c286572eb3215dd13d04cbc9f4c35c21d1ce500bc73b07f9263c048a40",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-MediumOblique.ttf",
-      "sha256": "d6937175c93e7aa4d682dd77d37d160327fe61d418cfe3a50190069d45a8a758",
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "sha256": "5f2607eededf7c8dbc5f11aeae7ef9cb3b04765ea5de38d7bbdbcb3292d4ef62",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "sha256": "ca1deb723992a547c278ef20e7a600c529f38c98c33479c889881d597e191ba6",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "sha256": "2c9b4e9719d4abee3a05418047644f8382116d8a049d26d24c06f351bd6ef47b",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "sha256": "449e3bd62a173d34a31485e6521cff149e6ed44fd1a6dd19df24577417b09eba",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "sha256": "860bc2bdbab1be408e683d8000268e7482f737b9615d0e94f7aa2cc5d586b435",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "sha256": "4e72963c6df86f0e62761291b6d9dab058e57b7e0ca83ad3fb9b0eb164addbdf",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "sha256": "dc02e999fb9c2a5b0ac2c960fdcbb754fdca8c296c776df6eb71626a4bf35c4b",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "sha256": "f109495784190e3b53c28f7a6e9ef04911658de9bd3ea6708354b1e19220cdf1",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "sha256": "3519f93dcbe5c103dd3174b9b4c133291e417376d234c5bcbb4ef1e44ce0786f",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "sha256": "f99e70f67e4090854f2db51221bc4567f3993b208dd98c5aa1711a457b8b9e7a",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "sha256": "08b681c77e3bff92c01f53a6f7e2261061385d81b841fb186cde1ce4f5c170b7",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "sha256": "bd355ceacf129ccca60a310f2e5d3ecd61a07cab20fc0274fe4307a1b3b4bbf0",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "sha256": "4537ebe487ab3bf3295e051c13fc8f7aca45ec3cda5633644f0ed7847cf3c97e",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf",
+      "sha256": "af07f125d9700649394f60265a1536aa7e7c7de9605304ae5dc7906f2f989479",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "sha256": "d798454bdc88fbcc6183f147754f60f409057fdebb8c5d3e93d8dc9786472144",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].ttf",
+      "sha256": "000e4cecb21b7413f8098a07847d8a9fdd9890847a6db157fcc56faa3de0524e",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "sha256": "eef4ea1ea94e952e7ecd9302d9f8a78b34ea11e3e7eadceffb6106e111141db1",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf",
+      "sha256": "04afd12f316013b1dc04c12012ae2d0ecf5d13ca9919414610e8aafe53996f2b",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "sha256": "9f9beea2db9fff1bb0e3bd1f59e3eb924e35577c612e8605eba294c25e50184b",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].ttf",
+      "sha256": "e42b82dcdd70a14381b1ef9dfff0f88c0b753bacef6efd0139f8dc3f6c4240fd",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "sha256": "ad9458ab9f33a15e57825a68eee237d6cbb468ad65fb9e94f6efd0001c54af20",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "sha256": "7b6c7a5e3e717d01188bd33e01de007d9e960f46f509f9a2aba7b33ae6a554d2",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+      "sha256": "5c76b7b9606cb144bb77eb6735ee200f3b42ab0479219e4172493faf893941be",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "sha256": "9d267b3906248f6cc9e20d6f413a728a2f90a957c0ca84bafdbee7c3f09db1ef",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+      "sha256": "56606882a50bb4f218dd779b1d310f6564cbe241eebec12ee142ab4b0fd20deb",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "sha256": "be893805cbc0f35ad251b48fdd9b9f4d29112926b18666b1f60b6ededb3ec175",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+      "sha256": "9bfe2e9fe427e2c8993772796a309d7417476173b4d2fb5a1348a39d50384608",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "sha256": "fb884bbfbf066bda2bff03606aaf85e7ddc7f8ee613a4c37c62814a35bfc0fd3",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+      "sha256": "3a8f4af348e6c7adb37a52e0baf697ccf1bc53df49823409b37bb05a8624a6de",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "sha256": "663ec2c28d7009cca319c31fa685da6392e800ad0c5705b71c323ce1801fa624",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "sha256": "0d4237bee8e83aa4320578f93e8aabb5a7c435fad879acc93c5d1b82db062218",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "sha256": "1fa14230720267c6e37373bb3804a1339a193e1b848c91a45d4b6dfe22754395",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+      "sha256": "a956f6295f67c370eba29453feb4feca3f965a8c054f1106aa766f34fb62fd1b",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "sha256": "9f9beea2db9fff1bb0e3bd1f59e3eb924e35577c612e8605eba294c25e50184b",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "sha256": "b6a374024dbbb97a4bcf6dbc6d00046ba34117b06f5b6d7854ea5706f526c49d",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "sha256": "96c0ad5d13b7d79a867c2cf06b6106e248a05729fa01c7c5752c2f8f0f3d765f",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "sha256": "55c9040ecb8a79a901745587fdc3135198055336d37f9a376bd20654444e162e",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+      "sha256": "82eacc64872b7e8e77c92c1a9ffdfaa32c013efefbce9647e87903a0d42c70e9",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "sha256": "ad9458ab9f33a15e57825a68eee237d6cbb468ad65fb9e94f6efd0001c54af20",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2",
+      "sha256": "889c628ae25cf003802c225c51fe66203ab456ae6a2b9262057de9e0220b15b5",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2",
+      "sha256": "520d5f7a6af57080f079ad62dbc20a31e8ebfbb8f57c7f0bb864bb3838da0eb3",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2",
+      "sha256": "bec3293db7554bc8a39b3ab724d90b936b586079add31657ecba046e93200b08",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2",
+      "sha256": "afb0b420793b50e82b83d2a2b07c6fd60ca82370cb15c35986023265e215ef7a",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2",
+      "sha256": "da48fb2c0c3c2b5a9b6f6f6f12b25d5c45436d61458d2f6e713009a88ffb38ef",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2",
+      "sha256": "9f31d8e01bae3efa0b06baf97bd75efaca3a07b7382524bcfb5638c742e213cb",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2",
+      "sha256": "c0a79102173d3042ba6220ca4b8c95d54250017537c75144e840ca3dcc359309",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2",
+      "sha256": "12f6eface860ed3ff88463eef24a635d1ee3afdb565ef1924d873634d5073426",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2",
+      "sha256": "81486a4314dd5ef4670c266d65185a400d8453da1e3854b5e75d1d5ea7230eb6",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2",
+      "sha256": "eea2874c3bf124bd866cf55558abdade8cd642a6a2aa23c80f35befdd68373c9",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2",
+      "sha256": "c7f6c14fe74615e81d141d36b083f725a2293bc9b6c63a17f141d08af976a454",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2",
+      "sha256": "2dba6607af8e386b9f6901320ac1386254689a7cd4915d9e6f58a0252652242c",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2",
+      "sha256": "35785196634ea54e5cc234764d6ad7b188f47657bb07dde62a44372bfa97f9ab",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2",
+      "sha256": "2b73ddccf31edeea0b8332f8a348dd94a4f6327ac1474e29ee49399922763894",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2",
+      "sha256": "0b1f4b29d3cb1c549546b6dd23ed88cf2c7c6198e0ffaa5e78aa00c9ad20cae3",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2",
+      "sha256": "b8d20f0864c88995f2b6a764e86a307525b5a7a7e358db880e426ac9dadc1dd2",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2",
+      "sha256": "9cd04097341558dd70b582afe9e9fdb26e8d966120b59a1c9a361252c4f314c9",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2",
+      "sha256": "5ea1105ba1d74a4814a4e7452cfe5bee96cd67bef2ccc084a7573e0434b0e5e1",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2",
+      "sha256": "8360e5489433c8b7300288a802fb41105ff14f91857087c068afbb2b5a087691",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2",
+      "sha256": "b9e8fee3156ea24d177157343fd1da7d3dbd5f2fe77e50123d0e936880bcc001",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2",
+      "sha256": "a75601b45ea046054308164394d351d6bb29e1a987d4696c2612f1b2d15572d1",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2",
+      "sha256": "2d4afa0500a9465e8f1d1eda6525d1b088bd5d3b8d9dfd92ecd0b224096962e3",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2",
+      "sha256": "9464d259e0607516bf1fd0b35bea56e325941789821b6187adf94fbe70bd0bd0",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2",
+      "sha256": "231516b2c3006ebd666f6e52e04b190385aab05ea8df6ab002477ac76d7cd1a9",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2",
+      "sha256": "d4136c4965cbe06c5b09d09746e2da5b3d7c163ccece2625fbf0517ff56209f8",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2",
+      "sha256": "d8f340c4947901a86d9545e51619ce4f7cc92d8eca4b5974a0fb43a2a8f627bf",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2",
+      "sha256": "97dacbc436ebdbe8b2dfd588304cad5515a21f268c27577793d010f878baaa12",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2",
+      "sha256": "467f381bda3fd80c7fac8b27ead49b68c7a10908b4cbfae90b347286916d76de",
+      "version": "1.103",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/masters/SABModulMono-Black.ttf",
-      "sha256": "6294b7ac7648e372e52df9df999e722ccd1eb55276ef2139d8b2111fccb886b5",
+      "sha256": "3c7bf69cad04bd6f53d7a0c56a7d4219e9bc3e4a64108a41cd82e95eee2b5c41",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-RegularOblique.ttf",
-      "sha256": "4d06430229337c492990696543aa9e540492e058771fb7a022a7ed0353e3af55",
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-BlackOblique.ttf",
+      "sha256": "ddbf02d4488d030cf06117d8eaf577f889ab211df903af90791c9707baffcd7b",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-BoldOblique.ttf",
-      "sha256": "0e052fa1c45c48fe54a7827d1e6704c77d5a4a8ca805497431a31c0881c4f547",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/masters/SABModulMono-Bold.ttf",
-      "sha256": "90452ed2b9ab8421eed92f74437220a62fc780b6825410114f462913eb6c9f04",
+      "sha256": "2f096fedf3f5d07c1887d0f104e4018cffff6e9072a4693a4debbd67911f6de0",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-ThinOblique.ttf",
-      "sha256": "d86920f40dea5e22d3d910af1d76cf482668f0838e9ebfb62553490b4e7c28e8",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Black.ttf",
-      "sha256": "906d569cdbfecb45e8c1447572f56d34891235b01443a85fd35b86d34b1dd1a8",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/source/masters/SABModulMono-LightOblique.ttf",
-      "sha256": "b38ba394b637808ebb2cc881cbe9bfc82b5b786940e61194447483dcf6c35cfa",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/source/masters/SABModulSans-BlackOblique.ttf",
-      "sha256": "39517b48c5e04753a6d923aae7eb92e5c0360a89949b5fe670be343f4c64a5c3",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/masters/SABModulMono-BoldOblique.ttf",
-      "sha256": "a85badf580d709779f759c87e722774cd3da6a5e50a8c0e4e7269af24d473742",
+      "sha256": "43f74d2ed6071720b427d694f82b532ca9f31451cc4f22ade913d4fba41429d6",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Light.ttf",
+      "sha256": "7bf3cde2d86de4a33665bf26a06bf1cf163bc1f4e4b0c2817d28a2505e48d003",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-LightOblique.ttf",
+      "sha256": "9cd42372444666cf07141b59d8df51336408c83c1ff4ee0838506259b95d5f11",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Medium.ttf",
+      "sha256": "b0ac40ed4759d6a6f4a3f592b49fad077ff1fc570d4198afb57b32f35c9870fa",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-MediumOblique.ttf",
+      "sha256": "8fdc5fe350a83326236b738c227b37d367c85c7ab7caa3602857ace007d872f6",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Regular.ttf",
+      "sha256": "4ed08d84786052adead9b5da38f1534411149881ec90f86afaaf96f829da47ab",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-RegularOblique.ttf",
+      "sha256": "d6864d3b02fe7e4161ca9070c703b198ea0665dde88e8c2ae80be6605afe5774",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-SemiBold.ttf",
+      "sha256": "a6a35ce9d5d306188ec0034c7626cf964afea8df97105d9be9c6c2166e5381b0",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-SemiBoldOblique.ttf",
+      "sha256": "6dfd94000403a705e4c68f810d3cedc4912ecf36ee7992b9c13514dbaff09983",
+      "version": "1.103",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/masters/SABModulMono-Thin.ttf",
-      "sha256": "1249f5fca1527d10b2fef62de5bec32e7701e8dd11350d1c309258910dc01281",
+      "sha256": "efbf7557e64a4c59264e76ff07165f65b4d483b97a3479b8fc9a1559036f15cf",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Light.ttf",
-      "sha256": "80784a92a537d3b22b9ed3bb49812ecd630e6f1e73366003a1ac3f8bf54f3c9e",
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-ThinOblique.ttf",
+      "sha256": "84d3d412520e557b5dae44220c562205abe556c7f0af994446b3610def72431d",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/SemiBold.ttf",
-      "sha256": "69d2fb2c22a6b8faec1043a2e0ac9cb783630708e0841df4a08493fd61f9cbf4",
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Black.ttf",
+      "sha256": "4b386dacfff08d2c7bb85a9a7f3fc9ed4033027f0691e44159e5741af100f846",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Medium.ttf",
-      "sha256": "b48e721bb5cfbabe7283fedc24db67a6bac962a55cfd0991b8ff29fa03b7fcf7",
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-BlackOblique.ttf",
+      "sha256": "88cd1028e4bd3ca5ccf971a37b23e7cc09c3c4d7a574775ce7b7db5a43551a8c",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Black.ttf",
-      "sha256": "f597d4c9b5f3bf35b9257205ca04b50d79cb97744cbd48aa74c669dcc2c8ef52",
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Bold.ttf",
+      "sha256": "e84aad16896375ca19cf70633315f24b9f34c4d143ef4b8f100ed6dc70ddb6b9",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Bold.ttf",
-      "sha256": "bc99616c039963772ebffb9ffd12724ee8707deab6e102f8aabc07efea6a2490",
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-BoldOblique.ttf",
+      "sha256": "2adc9c5b7119171d7f3d9e4bce632939ff98b7cc5860a11f5dbcfa30fcb9f489",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Regular.ttf",
-      "sha256": "c625aaed0fec3c306ffcc01530c1feb1d79ceda0d5b8acad25252a51fb73b9b7",
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Light.ttf",
+      "sha256": "14e4ce24e08991adad966bddc62061435d49b35bc938e9fac390cb0738bea563",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Thin.ttf",
-      "sha256": "e5d57d3eea6a9993e03114087d26b3ae35c87bfc9cd9792678114ee95224e664",
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-LightOblique.ttf",
+      "sha256": "b1daee805d52f4504485a9086c680fa67aaf04ad2fa9d38bc8ab1d195b978571",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Light.ttf",
-      "sha256": "4bc5edf3326905691a0a297a5afdf32b8292a2698664445e336d2dd8c29c32b9",
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Medium.ttf",
+      "sha256": "f7dd088b446604c27cd63a6c3052fcd3f1b5a8cdd8800606eeaca6680e084a75",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/SemiBold.ttf",
-      "sha256": "e122b93691f355a1bc4ef268209fa4829ec3583805e1224439240ff017562c31",
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-MediumOblique.ttf",
+      "sha256": "79ea7127fb043f82c95da7f27fdfeb9d5cf8288f7fe97c63edb3f453df71bbf5",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Medium.ttf",
-      "sha256": "d6b870b0cbdef9105be82b87ec903be92dc13f321cdc284e0636bc77230a1af6",
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Regular.ttf",
+      "sha256": "7f36769604c98ac0ec94a9e7681e3d91653c9e34ec3116e04403baa8773ff543",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-RegularOblique.ttf",
+      "sha256": "16c4baafac92241793af598c2a2b66a600f4c6fd349fc172864d527f7c8c6d47",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-SemiBold.ttf",
+      "sha256": "03bfb3fc37fd89ad984278b968fb39556e093b5c7c32a96bd751cfe78f2c884c",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-SemiBoldOblique.ttf",
+      "sha256": "47c20fad216a199df32097e54e5a2c68ed5ced87e87445e12097d5eea02708bb",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Thin.ttf",
+      "sha256": "d5770e274e85f392972ea1d4dcd5bd2d11001ca8bfd4c312af64c348c9644210",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-ThinOblique.ttf",
+      "sha256": "ce2bbfcd624f415aedaa6cc5db8aaca8e900ebe02f50d8d2b72caba713397a0a",
+      "version": "1.103",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Black.ttf",
-      "sha256": "ba490bfd705fa487e8418a32244a676ba8563fd761b459abcc56fbd027bc7b55",
+      "sha256": "2ac8e88c6f9f78898223437eb16cd7966ae9cd419c74f288b4e68a8b6dd6db30",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Bold.ttf",
-      "sha256": "06eb5a317cbd76ee18dc977430ecd08ef5af7ad66634a47f8858fc45ae89bbe4",
+      "sha256": "58186ea93b264fde677a8bea925ef6eabfbcf33a5af36dc932f4bc6f0c349ed9",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Light.ttf",
+      "sha256": "dfd0063a9b1de8b82f0150688c59cf870ed78c91c4348581fa12d6d2e0c548c3",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Medium.ttf",
+      "sha256": "f42609b9db8abb0c20acfd544a8a98f46d723162b1d04fb4922f3fb205f91501",
+      "version": "1.103",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Regular.ttf",
-      "sha256": "4b12941d133581f4436d72fb0bfdd03321473dea4d577dbb8430ba8e12b2dbd5",
+      "sha256": "d19554f4678370ab52c4957062f1017e3df089421a7928b0ad5f5baeb3c6d7bb",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/SemiBold.ttf",
+      "sha256": "f745fa88fa9ac7e364917afdf5f36e93c29c5ef548d10c00a60730c7a7c7a843",
+      "version": "1.103",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Thin.ttf",
-      "sha256": "7afa19db03d241d98f60c6cf5d3504039f28a2b9745b367f5662a37039550b4e",
+      "sha256": "d0e878ba3a3e6d9126b2269b5383effc9b3fcf50051f6ad0b46809202cd23abf",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Light.ttf",
-      "sha256": "b8120a2ed17d4d8128acd1f163db9a1358b9bc42e6ff26f0c0b1515361f9cda4",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Black.ttf",
+      "sha256": "45e87eb204e18d212afbf6226aca3d059753091efc6c48175a2c84be39f3cce0",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/SemiBold.ttf",
-      "sha256": "2673b4d85afa972c40fd766a66a025a4c22eec5bf25f627404bbb591a23fb9b8",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Bold.ttf",
+      "sha256": "5c2b80a189130c41bacd315e06aed71ffb525942cbdab2c0df13c911f569a06f",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Medium.ttf",
-      "sha256": "1864b0374c39dd38c009ee4c30f1ab7c164d9c1db56a39fee6be9da4dd50dd32",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Light.ttf",
+      "sha256": "dbb05f5e41f0599a0bfb900774e9dcd7e5be59cdce31f1efac57413d022b2527",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Black.ttf",
-      "sha256": "6aefc2e65576307943b7a6b509a8ba5a313d3c137f8e28f227df7bbd6bf5c023",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Medium.ttf",
+      "sha256": "c580b755a3230b7307d22f5dbcf2d961ddc89b2a77bf9bfac00f2ae4e95c36ae",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Bold.ttf",
-      "sha256": "0760480aa1a83850b543f8aea789071cf55738ec84499b910df5aca9bb94c38c",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Regular.ttf",
+      "sha256": "77be41a719256ff849f868dc939e0803700e90a73a21f770a027ce2a4463ab37",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Regular.ttf",
-      "sha256": "ad92c3edd52701705192d48a4eb07dca9c3fdae27e018873b8b4356fecbda8d6",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/SemiBold.ttf",
+      "sha256": "0d6d5521fe26d8a86124c0e7d39a34684d417495382f412005c5ea9d7c02de39",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Thin.ttf",
-      "sha256": "ce927f7f4c2b460d531aff83e8399d7b203010908451dedb9a914e9dae1173a3",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Thin.ttf",
+      "sha256": "e2e3ee9ccd405f74e789ec997ba470d7bebf821e320011c0ab40b506491d2fd8",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Light.ttf",
-      "sha256": "e848e7a9821d415f039724f3fbd1be4ff665f1eca3aea2a26c035275b13fa944",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/SemiBold.ttf",
-      "sha256": "072c9aaf934dc64b6e08c538f0c43fc369822039f57b0766f137d7b4255425b8",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Medium.ttf",
-      "sha256": "055f169048880c11a530d22d785b83c372306c8737f83d6df0fa245425161642",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Black.ttf",
-      "sha256": "5db9088325228cc46d45f89b405da9fcd1a1f81c9704c6563c142d793fa7f60e",
+      "sha256": "cb624695f865a99858df8d8328d1b32178b94cbc579702921809d7fcc4411942",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Bold.ttf",
-      "sha256": "123e7a67c06e6d0852850b265ac3a296cddbaac9be9386fe805e34aff6ddfbcc",
+      "sha256": "0fdb1385c72fc8297491e4fb7bf2a7db66deedc5c68847d371a4119ff8bdd702",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Light.ttf",
+      "sha256": "c16a66e4b00b8bcbd9c7b6ca03ed6e1294651e467b583aa83fc9c037c3f89194",
+      "version": "1.103",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Medium.ttf",
+      "sha256": "25374dbff25aa953b7aa616ac3870adf31db5ee25af7cada7ccc3996ea3a65de",
+      "version": "1.103",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Regular.ttf",
-      "sha256": "76c301374db0f82177765e42e0cadc982130bb5c77e1b2fa60f834912ce9773a",
+      "sha256": "e5dcc44da939b2f6b184484037ae3456dc2a00dbb7ca5031c16a51b9b0d6b0e2",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/SemiBold.ttf",
+      "sha256": "68dcd9b1e723ff6fcfcb4984024c8a180f2071cf7bdd02a11e3deb80d4155505",
+      "version": "1.103",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Thin.ttf",
-      "sha256": "673746096739050d3d92f840c6d5f729ea9aa8578b71c2430b417c404c9269bb",
+      "sha256": "b39567d378a10f78e64537902d648ae91b06565a76ab85ac8ef6a3401eb7280b",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/VF/SABModulCode[wght].ttf",
-      "sha256": "f5fc385c9d40982413c8f875afdab99598412de17986bb95dcae0d1ab6f60719",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Black.ttf",
+      "sha256": "571103f3318354dfeef4f02f25b360e968655f36369f87408d074475c5a375a9",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].ttf",
-      "sha256": "4e6763ff8d2a52cedb5a4949b3ba561777706f022124b6081f32287af4ec53ff",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Bold.ttf",
+      "sha256": "7270c6767fae292f94717f4a9a4d5bcf3d18f0e9063fbf591b3a09fcc80ba761",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
-      "sha256": "5afa5e63363453396972d6f18f2adc83fb4e9c469eab7f340cf362e4061b7bc0",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Light.ttf",
+      "sha256": "9fb56d9febf6df0198df8a6dc938195eb6e25ee59fa37b00b5dd775e5df27e4f",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
-      "sha256": "0546f3b5bd532900e5fc59f93ccbd911307c2e3eb6872fcd71cd03db1957518f",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Medium.ttf",
+      "sha256": "3fa47117d99f954a977b09437cccb992b0cbc718d1e678225ef7b68661b9266b",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
-      "sha256": "c22e193c7b578fd05085981678d3c898f8fec344850ff5674511455a0e1df15b",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Regular.ttf",
+      "sha256": "4219f12667dd714167d7087dc210bf7f2aa2f362202a8582cadee3650fc04130",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
-      "sha256": "03bfcb71de683691d00a1a10fc03fac507fb5d2c6ac10d0b7e2bdae473847651",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/SemiBold.ttf",
+      "sha256": "a77224b6c7c333773c11b57cb02b44f2b1fd85993eecf15bf9e495a2da737a86",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
-      "sha256": "3801816b8fd2833009f3a42aad9870a86e83fd770fd15b587a910f9bbe212725",
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/Thin.ttf",
+      "sha256": "cd1d672aacad57546adf65a09853f00a572fb1364b4243788f17024969ebdafe",
+      "version": "1.103",
       "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
-      "sha256": "983204ac81072af0e82dff3f8e215e9ec7cd9513826e99cfae8eb64d0af99bc0",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
-      "sha256": "f4cd55be913ee65afb333012b6a4f7a67946bd41c1c904368614c34e05904b61",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
-      "sha256": "b812504b91e05c1b163b41a90b7ca95229e617d135fce3a4f7eb32fb76c79950",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
-      "sha256": "c729abd3de8c561bbc55d25d2612309a734732f1eda8682751c577d5805241e8",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
-      "sha256": "1e48d79d16af50cfaa20f1dfe217deb1d4aadf9a50f8f3c135578b0202330a02",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
-      "sha256": "f6ad8566d98b45f3e9c1df82772962c7593cc0907bbd0cc933df7028222e0618",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
-      "sha256": "9c2be035470e0ba72b050d05a08992bf56f89dde8fe14ae5a478c5c42f589201",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
-      "sha256": "f0e5f276901dda0272a41776cd7948ce1ae9e9794eff523fa8ec6d36f64562d9",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
-      "sha256": "194077d182fc1808b91581debc34e5345e8fc3e7f2c3d78a3d9cf1940b84a101",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
-      "sha256": "bb13226d37007bd44b0ad9af4fdbfb2b20496c700fc0fc7364cfdb7c86286d10",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
-      "sha256": "9a30a160b7d55189c099dc1ea8c260cae8f5baaf0001e9c336ef55e820fa13f1",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
-      "sha256": "6431adcc40481e4c3aae71935db6f488fb8059d4f7291be56efbdfac087b243a",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
-      "sha256": "0b2214aa13b72fa4b6bdff5fd5d83bb90d138179d02331613a202ce28e06693e",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
-      "sha256": "32edb5266cf1069b02395965eb517713117006381ac3232c44f2147386252005",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
-      "sha256": "b36ce78da563583cc62127f4f5d8473f207b774c324c786281006a874dc1a0bb",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "c0fd5ea417b70c2097aad702930949b9ad81c7af2e77186a4960936ab7cba011",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
-      "sha256": "21c23c90b28f255aa4c68a3f4707b0a499e67be40a7e4e1979a16de5116146cf",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-BoldItalic.woff2",
-      "sha256": "1091827f9cc3348603f067591ee852b81cdecc77faf7dcf09500f27043078b24",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Italic.woff2",
-      "sha256": "fd6522c160862242e8126165973a1190946d26de0a903ba4b86314aff041aff2",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBoldItalic.woff2",
-      "sha256": "f522c1a206cd95270d9907f62d5e91e81e2c4fba262aebeae9a1d33e1a24eba4",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2",
-      "sha256": "2d54668240c8c0ff19d01b9878ca9fef51a68669ec16bf1b46edf1ddf4d56e4c",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2",
-      "sha256": "e5dab4941fa12ce84bc36e78e1c7415974fce692858b26041f8e6145644430fc",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2",
-      "sha256": "d58fa1ae47f6a8c0164e03b70b3030ed79a41c7e9edce143c24dad84cb43dc17",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2",
-      "sha256": "96bcfbdc450a0479db64698de64e56fbdb4a8c8a4f1281390b3a0982481e01b6",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2",
-      "sha256": "afe78b5bdd6a8f66147c305db6a4cd8418f742144c286aa4fae5abc99c23fa04",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-LightItalic.woff2",
-      "sha256": "699f49a63ab4304b608bf67410a8f4b2b908bba297467e3f373e4586efa58e20",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/WOFF2/SABModulCode-MediumItalic.woff2",
-      "sha256": "d9ca36652630aad20a1a221ce0b20514d349a7b4ce53200233c41ebe2a9d7e16",
-      "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-Bold.otf",
-      "sha256": "dcff386362d83223a5f932a10eeb36583c4baa0268c0a8a52b1212ac8109870a",
+      "sha256": "a23e6661efaaa8be02853d2e2b06e7b8b2cc6c01daf3c4a5096f9260099b786c",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf",
-      "sha256": "8186f4c4fb437c24f93b21276ef403a1dcc83249ebeebafec9fd9cf02be11831",
-      "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf",
-      "sha256": "120cd9503b6c6ba68243bd5663cd01289d1d2e813946ccfbe6acf9b123b6e4d9",
+      "sha256": "33c629c0cbad3ee9a6a8f35340d5fe84a252bf3fd38609384e8c38e74588034b",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/OTF/SABModulCode-Medium.otf",
-      "sha256": "db5bd031e4bc06033258af0a222198fb79aa22ebccecb90600ff4c4756b23413",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/OTF/SABModulCode-Light.otf",
-      "sha256": "5c98cd2ae7d00ebbcca2fa0348b8bf98cba3896c982e4ab86add6fdec24dd293",
-      "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-Italic.otf",
-      "sha256": "744dd40b049be79556e411f6e263af32ca2a281542fcc1b32e240050fc69fcd5",
+      "sha256": "b16da6a4d2f895773055dddd006ffc99305838212832b67dc9a03abd97b99dab",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf",
-      "sha256": "b6371835ff8e21078db9738cf34bd951ca074105a7ed7dfa41441fbc0ac72f8c",
+      "file": "SAB-Modul-Code/OTF/SABModulCode-Light.otf",
+      "sha256": "f3c9a727efb9ca9f728a5f7e14b6ebec0c62aa30d4efa65e41198c496e1562a3",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf",
-      "sha256": "83f70af8e6276bf1067f33b22d640e8b00718b1705ede67d12d4095659a930f6",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/OTF/SABModulCode-Regular.otf",
-      "sha256": "321703e237df97ed088c667124258a79e3097c219bf28d55e8de04d0cf5d1870",
-      "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf",
-      "sha256": "3cde735688bf03d0b6edb30715fbf3038e1b96e8178daa33747e129b933582e0",
+      "sha256": "7d0d52cbf17e5e594aae786961798db8b1a68fa0293215e335f2ad5df554fdcc",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-Medium.ttf",
-      "sha256": "fe185ad735eb8953acc2a9bd8226f10bc4dfb1d2ce2002bc5e95a7abfbade67f",
+      "file": "SAB-Modul-Code/OTF/SABModulCode-Medium.otf",
+      "sha256": "ffa1c853ea973f3661cd079ad9736a183cf506fdcbb6d97644470fa92e67140f",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-Bold.ttf",
-      "sha256": "282e6fa426b076bbed6b5a64c7bfb478d5278bc9aca158d51ab800b6eadf439c",
+      "file": "SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf",
+      "sha256": "350f7a13ea1d07cdd1e69dbb750eeb15cd6300b9a450a6aeeb65e5333c00748d",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-BoldItalic.ttf",
-      "sha256": "f8d8f3ec57d69f2330f5852cbfc1f2de933be9c9f6ff60d315764602c8b8d3ac",
+      "file": "SAB-Modul-Code/OTF/SABModulCode-Regular.otf",
+      "sha256": "de31dbe51b39904a544e77833919e502d5511be212de13cc92f265e8e3ab8d1c",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-SemiBold.ttf",
-      "sha256": "d2c83b72c1314dfba2b75ef969a12c3dd446c4b05e66062996039f7fcb2e19bb",
+      "file": "SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf",
+      "sha256": "23f255950a6e81e0a4b6999a610f6c9c123a36d63ce27ee017facccb1afead96",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-LightItalic.ttf",
-      "sha256": "db911f1cfde58e6e169f565be2ff79094f0304f7e81b0ba8417e6a2dd60f9537",
+      "file": "SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf",
+      "sha256": "f8861518ce6dcacfd690829221831d8c7baf54cd9770d117bf7ccb6246f8ded3",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-MediumItalic.ttf",
-      "sha256": "1027ba6054d7946430c825300b992997b5160e4e0652e6f61c7b8e0044d096b4",
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "sha256": "184726b3542161fd2511e011fe383403011e613f4a2ccec168044c13d480e65d",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-Regular.ttf",
-      "sha256": "bcb45fdc8a7162bca5da5b1751e39f0bd36029b1a6fb7922f98290f8d7a8680b",
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "sha256": "8ba533b78744a6ec81a140310258c5aa6cd436be73225e7fa9e48431a6bdb7a7",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "bc28ce3c9c512406de7c813677c07c1f8b34629bfaa33b0a2a90dae08c7d5a1f",
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "sha256": "05173b32dc883708e9268a55034a4c13afb93363738b302d5eab4a4bf3f407e6",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-Light.ttf",
-      "sha256": "7063dce8dfeed46648435fb79f048ce93c001973c25b3d3d9468c33146b6078d",
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "sha256": "115baac400934c9451efa7756fd2813f4ca29491e20289afe6f97e52ff4bfb5d",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-RegularItalic.ttf",
-      "sha256": "a2b459916f94bd31bd80e8ded1b305fe0e8d21dc02388be1d104e0ec44bf6caf",
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "sha256": "b7b3d86986a843b379a7236929ceb87bde64591d898104049f549892906f63f7",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-Medium.ttf",
-      "sha256": "f8c53d26f68c58c931c49f7ef7c2da7fc378a941c0e8c6e139170a7324f9a7b1",
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "sha256": "257b48328d5470b2e9a8fe202fd0590f41989d6cd8c8120075b5733fad4a6153",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "sha256": "fcd04cf1243ec8b0588d070a39b2649023b6f8f71703a8e4693b26799e358254",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "sha256": "d24a75f0f352c1f8778e03d06051a04ac141425ca46dc61a5140e983cec1e2ca",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "sha256": "c3168e583ac1846a15448f9d9693e7c9a0bfcf66415fb7a54670fd3c5b25dbcd",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "9989fabf4909de8e5995ae793b2567d0973ba39d28ed8b77e3c2c1d219626798",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].ttf",
+      "sha256": "de097c813de7f6985e9efda4301db5d859154fac610459082f5a713285ca757e",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "sha256": "a4fd55a0b0474236df2ce7a78aff9058235e3c13b7820f5154d8ed4b9afd424f",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].ttf",
+      "sha256": "cadc599d48809ac4cfdf943e75b209c232c51aa586331c4a1a20e69ab0268a2a",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "sha256": "7d9f35f34652b6e6c757f9df2c5907d50d52e7e4dc82acb7e32947e793a51fc5",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "sha256": "a203dd243fffc418606d8cab012f611cfd7ba042a25435ab617f94c81a7b68c1",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "sha256": "1b80b03f4eaf803a207f46dce41061c9ff5d38754d3bfd743afd466b00b2d096",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "sha256": "990ee58abcd6c54782399ed28d0a374192e94e58378d6709573c4aaddf7597cb",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "sha256": "8c6867ee971ca7970b0f535cd2cba723cf08a6b4424f071227a6c3f98cae8f9d",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "sha256": "b63b2e6552ee43f50b75f0abfe92f3294dbeb973315734d62b1a3171391da3bb",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "sha256": "5ea096c477c7489196fe32625a6afc6b84b0b2a3472470aec19920fb7a2e976a",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "sha256": "6e392832185d5ac188172085b033c5519758eb8a3280bb135d8e6663f73ccbe6",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "sha256": "bad362172930951414c38461b2212effe2d711d0b502d5c78870c5d28151dc4b",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "sha256": "0bba1b1f41a1f6cce32514719f6e4d204a212413dd84991c682c1c22530047de",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "sha256": "414fc98fd15604a3f59043041166305d756a4d10a41a95fe9ef38add73e1adc2",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2",
+      "sha256": "813a5e90c3da175ace94bd6ffbeb3334be7d5693fefdbd76791d7f7c5413d167",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-BoldItalic.woff2",
+      "sha256": "fac7cb91049cd3d59fb7bd421cab6b8291ff520c6a83cb1fe1d224ca9da31f5b",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Italic.woff2",
+      "sha256": "1d7277667bf8d1a3e0dc2f9485b649cd340e553b5d94dbb1f8ce96449b1189b4",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2",
+      "sha256": "c5d168166e1fe07620a65df26d1aad740cca546637d758ca0a4546070059e4dd",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-LightItalic.woff2",
+      "sha256": "3b5a62f279a539913167f166949bb7589293ad8af39518af0a82607d6bfb52ba",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2",
+      "sha256": "9ec92eaa59361f4403515fb2cdce1a9b0d9a529991750ce27f47019a03d3421b",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-MediumItalic.woff2",
+      "sha256": "509904b1ad67eb5fd3b729159c6a54e99f8a8813acaf5a496cfa8614a145b563",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2",
+      "sha256": "6a70601f8032cd4a74bb24961270095a04d6eea187abe71de847440a13e758b5",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2",
+      "sha256": "c7d19e21a0a130df97cdf60ac6bf2b2dd486fcb621d48cbce999eba3f9d362ce",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBoldItalic.woff2",
+      "sha256": "619965bc1dcf5bea9a400a0b51ec9bb4b9dbef10da286bfa21afc01bd8a11af0",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/code-masters/SABModulCode-Bold.ttf",
-      "sha256": "16c3c4702b644911261897a1485c1186bb76a56f93030c8c266299316e339d4e",
+      "sha256": "76fe60e084a7a53c92aa3d27f493912a29099e6c45bc66943b3d86f45933a99d",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/code-masters/SABModulCode-BoldItalic.ttf",
-      "sha256": "849647084e5b2d1895c68228e0ba44e8fa9b118314569c73217aafbb4af36a95",
+      "sha256": "02753bc4ee2ae42c99a8a011560f4012c8c8c69844854decd9ce8b80b5ec74b4",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-SemiBold.ttf",
-      "sha256": "f6c46bf463cc3997ac126ceb5ce185fac6b9d33fc10eb4d96b1f0cb4cb910aaf",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-LightItalic.ttf",
-      "sha256": "432cef0af2540756182912e2339b8313ed7becb4d75ae547cb3581f9e112192c",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-MediumItalic.ttf",
-      "sha256": "e87edf4b0beac420c44ace706ef72fb819a3cf7e2fd0f326fc09401f81e975bc",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-Regular.ttf",
-      "sha256": "587e96688fb652bab549b1e265e4c7b631b9fc6719a89e4bc3ed68f2fefb97cf",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "61d15fc72251b2c78190413ac12c896d10ffd4bef92912b07fb1f79310874106",
-      "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/code-masters/SABModulCode-Light.ttf",
-      "sha256": "849c5b9a806fefa586db8775d542197f975bc15fa6826d48a052597491ab6f0f",
+      "sha256": "4b97116810dab3691aa6870b028065b355ecda7a42b4be89a50619cd8205a3c1",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-LightItalic.ttf",
+      "sha256": "b20664bb64957e465c1140e4cc61df18996c82725bc7e29157e2faa296bb8859",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-Medium.ttf",
+      "sha256": "912815cd83bf1cd87526206faffeaf72fd4de3958125a27933124b9cc038e42f",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-MediumItalic.ttf",
+      "sha256": "5252aee0007900a36e94b6aa9f53b2e647395cb565587f4bae4d018bebeaaa14",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-Regular.ttf",
+      "sha256": "5393465d45bc49d0ba9cda138a6bae3e1ffca3a976b8ce7109fa03e9eb175bd3",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/code-masters/SABModulCode-RegularItalic.ttf",
-      "sha256": "1f8e4e609834b38e2984dabc24af9045866b3b31652d978017be393fba7c726d",
+      "sha256": "c3934aa15c44fdbb380a93d932a03aad2d1fa009c01baafd70a2ad9bc4826528",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-Medium.ttf",
-      "sha256": "f5351e489e9d01add9ba4906d264d562d5a61b0e29f34207dfb7971101631077",
+      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-SemiBold.ttf",
+      "sha256": "44b723de7609fb3162e3695d1213c7ea9cc2dbf21c9a8210e247d7a7d288614b",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-Bold.ttf",
-      "sha256": "3d79fad65e7a3461eda54ffdd4b13a6e275f60d471293ef96ce49845318a2d98",
+      "file": "SAB-Modul-Code/source/code-masters/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "6b4d389e61e7274af85acbc55c91eaf9052896831fa582aa0c784be79328aa99",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-BoldItalic.ttf",
-      "sha256": "da80b4582189ec3cba9d8ed9f1c6062e4c2567bf31ba5c67291aba8269943905",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-SemiBold.ttf",
-      "sha256": "4841b64e9d93f9d653c48eeffd802d47a836c2e086fd2d7f16fa6967c266612b",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-LightItalic.ttf",
-      "sha256": "5dc7454b50d5d7ad9d5294db90099b2769c4fa8b53a13c70ac8a3a82495d1ef4",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-MediumItalic.ttf",
-      "sha256": "4b3673d2e1367308ad52fd1e2a0d53d47d13986511866c03033afaa512b32e46",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-Regular.ttf",
-      "sha256": "36eb95732461f19ad7f46035b55ec52211036cafb24f84fd623d9c4495d522e6",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "87c3e87e5fe6d293f407e24eb8f091b445324ff3a4590065e434d2fb3f4bcd20",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-Light.ttf",
-      "sha256": "0ac11593b6c27c615109223a6c3acf571b7c3753fcc9325165a95217a8d21909",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-RegularItalic.ttf",
-      "sha256": "3b0d4b5eb1c34230e2ae8e809d957575897d5e1b63b6bde414188dfe75954ed1",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Medium.ttf",
-      "sha256": "f31ec9dc4a1bfc1af24d752435b95be50f4311357831dd15a8a282a00f0966f8",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Bold.ttf",
-      "sha256": "bd126e5277b14771e2183dd81c4b938f6a53c9806024569a7396f2f02e4ae466",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-BoldItalic.ttf",
-      "sha256": "3b17cfc591a422d6ca2f37b2968640ec8c011ae7affec115eea7f0d71b338c65",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-SemiBold.ttf",
-      "sha256": "c66e777bb08aa95ab1bf69a86839ba3e5b84ff4b6e5826a2f8057dbf09104c2a",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-LightItalic.ttf",
-      "sha256": "86ade3dada2702a3385fa5b82ec196ffbf01ec95035c5dd47e2e8c75b55071f0",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-MediumItalic.ttf",
-      "sha256": "3c8b6d5f342338f059539a5441baefd1eba4f288d7f81a1fac0430f9063481da",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Regular.ttf",
-      "sha256": "6b2060307fe877f7b4d49f17053970ba4750e4b8b9adf781e6e6dc849a3f94ca",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "5b028e9cbb655ffabca9860604af409f96f015d6817cb6a6c86124177ad068cf",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Light.ttf",
-      "sha256": "a1db228a1413b81e64b2072b0295e4f89d422bcc68f0d1a8819ce51efda0b1f0",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-RegularItalic.ttf",
-      "sha256": "d8dc9ad201f892fbd345e31eda61122cdb54fc54bcf208b9345edb17e302d411",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Medium.ttf",
-      "sha256": "5f696e695325f4e37a8143fed4952b344df95a4470a0179e45bfc82cce4e05e6",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Bold.ttf",
-      "sha256": "8b8dba1e6f69cb665d040ab55b0dc14d29529267ca05095d54577d691c080c52",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-BoldItalic.ttf",
-      "sha256": "d5498faeae0387b8a65d4fcea9b8ded3516a17c86a2d8e3c137ff0dbd31e51be",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-SemiBold.ttf",
-      "sha256": "ad12f945bcb4f1d5385efd35fc236ea188e8adab0e1b8ee8aecf867733a08201",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-LightItalic.ttf",
-      "sha256": "1fec055a5873746e354ec77ad5b8b8720dd7d7b6011c4195d2966e0ca03a0fcf",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-MediumItalic.ttf",
-      "sha256": "7baee538a5e78b7f39b65a09cc5e9e1db2e34237b50401e50c91456d7680de10",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Regular.ttf",
-      "sha256": "eb42d5bb00f39272b6dc04cb5159124fd1b7028ad6daee78a2309217c1a69c03",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "33b4a9e31ecadabe318f07dcb25bf43e4a3c43d96e89f505e46827e46604940d",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Light.ttf",
-      "sha256": "6a43e08ce401922817774ee5e06bf5087f172fa6d53fd37eeb94742d8c91bd67",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-RegularItalic.ttf",
-      "sha256": "a41850fc6508ad27dab937dc713cdff6a89bc6fdd1a4f2af0c71c13bf6d3f356",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-Medium.ttf",
-      "sha256": "13d4e39e34c085187d06e39faa8e77000824b14ed0b8a6b8fad37f547351ec2e",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-Bold.ttf",
-      "sha256": "2e9be06b9ecd76188e369c1362e46b4435fef3cd830d80e8235821e0960c772a",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-BoldItalic.ttf",
-      "sha256": "56d661db9f1b3fe6e4e052cc1260420a0f53de7421a7bace14b42ba256e3cdfe",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-SemiBold.ttf",
-      "sha256": "13d5c4e323c4135e5372d315d2d638a4453f9ea4f9431594906aad5b797288b6",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-LightItalic.ttf",
-      "sha256": "5a3288ced831b4b7bf2cbc249239e340e7005a426fd77e801a500696e0cb371d",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-MediumItalic.ttf",
-      "sha256": "4a5f9fe696a44a225e7734a59b9d348d5e936143c7d6d98ffebb6dbd9e07acc1",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-Regular.ttf",
-      "sha256": "0736f01ca98f812f10227c2db532a9bd559afc9569569bee94ed185a64d2951a",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "5f4a9b102bfbef5883d93d984174cbad026ebd2dac36f472f8b3bc29ece66740",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-Light.ttf",
-      "sha256": "eb27fd214a312c342aeea250e3377c0da6cd18b88d886f0b33d506c2db6c8dd6",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-RegularItalic.ttf",
-      "sha256": "0b47f5dfa4e71cce7d4483819bf66f81156c3e76a4c558e497f2f9252ba3ba97",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-Medium.ttf",
-      "sha256": "db3c36303ec0a178c9344f487a040ac0dba3b88a6c74af0d591f848682cc8f08",
-      "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-Bold.ttf",
-      "sha256": "83491c250448392ce22488a8a382bb76a94619715ff1e7527db7347e5177390c",
+      "sha256": "11a9897693f2c8c81b0883f71afe644b4f58e14872c40578e893b1be25d56f6f",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-BoldItalic.ttf",
-      "sha256": "c6b068b1d52fb859135ea173ee0b78fe890a2ade0e71c72354aa5a30989cdb1d",
+      "sha256": "ad45bd11adcd4938fe293d9a3cbcd28b1b877a818f3050dece125f799e7cf606",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-SemiBold.ttf",
-      "sha256": "b5fcb42d038c52fd89a573be88947845de7ca2afa17c39144819fed629d09236",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-LightItalic.ttf",
-      "sha256": "1fae114d44c5a24527e3e95b9077be06e605bf408457806b8aeba3187d6e35a3",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-MediumItalic.ttf",
-      "sha256": "33818d6f64a8ea221b654b94c19633ffdf0a242519a99ab70922ac0bcda610b4",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-Regular.ttf",
-      "sha256": "41d5f84fb0b90aa577748f64caa4c53a599a619cba9e11392c93ce085a9935c5",
-      "RFN": "SAB Modul",
-      "license_records": 2,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "996fb45c5557b9886c9e5155aa7bfbbfbffe43f06b7fbadc8086995a561ffbca",
-      "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-Light.ttf",
-      "sha256": "0cd559232ef00819beb25e6bae7e64f67ccac819f1cb66b9e30e8978225c1b53",
+      "sha256": "fded1e709d44f95826e32a71f4e7cce9c7e80ac3f5a52f1b40c9d2ae29925745",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-LightItalic.ttf",
+      "sha256": "bc742d2141d7b5b192fdf0d5e0b2295f3f52624345c097c8b9f06aaf9935f526",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-Medium.ttf",
+      "sha256": "e824b4b119005792759abbe3bac2c709f6229f3c6713bcdbf370a870890f856d",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-MediumItalic.ttf",
+      "sha256": "43cded55bfdee984c68a283c764f697ba109898e895aa628282df1ae6134e398",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-Regular.ttf",
+      "sha256": "94ca7f1401b70cf5f64a03d077ef34e77f5247d646d2148a2d9624be19c4a45c",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-RegularItalic.ttf",
-      "sha256": "9ba26397d314921ce49b891f9cc8ebb3459d7c9aaf204f9f69808a23f376be8a",
+      "sha256": "b6a9dd66392b2bd1ad69292f22f9182ca590d5e2ac94c6810dec5fe57f5bc39e",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-BoldItalic.ttf",
-      "sha256": "cdf1fdcf43b7b754aa1b3ba647428f4915c3d8d52b2681f50efe8f71a4a83236",
+      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-SemiBold.ttf",
+      "sha256": "5078e2ff0c2cc89188485c609876b416273ec96857531b52d04dd5080cf74f4e",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-LightItalic.ttf",
-      "sha256": "ce1f9a6f32f5cf0d3ce383a5944887a4bf07c9e0f7fc69faa03b7b477d2aa80a",
+      "file": "SAB-Modul-Code/source/stage2-masters/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "2f784da6d2bebe234828abd0a0a2174d633bb957b1ebd208d0da4b8e915ac977",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-MediumItalic.ttf",
-      "sha256": "501a3f8446e2c82ba7f3ef31a0e12d1136f980c52b95395b5134c085ddb0acc7",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-Bold.ttf",
+      "sha256": "376e0ff030feb15c37af13f77c951289a3b208575facd4ea5318a7e8925fb53c",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "bf4d68db033dd5ed2a0335e3f618c60b7cc614d2b1a221193edfa85f47a5d0c8",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-BoldItalic.ttf",
+      "sha256": "19ca654b3d833bb41b1ef98e5523e95c76b7f7dd1ff89f9d795ee17e4c055ffa",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-RegularItalic.ttf",
-      "sha256": "5a7cce55abc1f97af9a8e6ffdfe7ba43d531b6de417f4b848ab3d7271b8d3071",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-Light.ttf",
+      "sha256": "469821371d2fa65026d36f3afdffebd4d098ca212804f6229e6a1577e1e0cb87",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Medium.ttf",
-      "sha256": "002b530e0f50208570476d64e497f4951040be3588acf012a67e76c768d40993",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-LightItalic.ttf",
+      "sha256": "9fa3ff4b0aba8582f2076bebf67582f6529f19ee75c9490a138e0832fa7c1ed4",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Bold.ttf",
-      "sha256": "d1d54928da89262f02134b108cc5805540326b063f9d9055f91ec007ceff2b0e",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-Medium.ttf",
+      "sha256": "c5884d9a057cc167f29894963380824ac5a8af5e3535e3fc4db54180527908f9",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-SemiBold.ttf",
-      "sha256": "9f6c30206a0bd4cb00ec26218c75cd9153d89a8fbe85627c8e4dc4afb52af129",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-MediumItalic.ttf",
+      "sha256": "0d7848599c1911211ea1b9a48091b8dc027fa2e892247367c0e88c04710ad1c8",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Regular.ttf",
-      "sha256": "15e4e51bc01c7dea7270ca41943e0a4a781c661b43d5391c2415b26ae238f791",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-Regular.ttf",
+      "sha256": "9c3fe8e1040ae641adb80d205afe43d815f4840bf8fe795033dc41fb31cd81f9",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Light.ttf",
-      "sha256": "44b9016ee7ffddc8bc8d608ee354cc7679353cb6c69ee318799757bc272991ec",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-RegularItalic.ttf",
+      "sha256": "ddf0ac9fd512582dffe34ff79d1a233d8a9df0b26584b0511274b322ab3484e8",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-BoldItalic.ttf",
-      "sha256": "6e20b29353dab477055d8e7e4e1504f1711954d95b76e4288efb5a26bc0877d7",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-SemiBold.ttf",
+      "sha256": "5dca710c0675321b54c21a29b6136d86fed676cdf03f704c282e1cc360879318",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-LightItalic.ttf",
-      "sha256": "367699faaa5f28a8e260fca8f728e4bebf92eee1cef9cee0444e164b0ea9d27a",
+      "file": "SAB-Modul-Code/source/stage3-masters/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "967aa84cd57a2ef6f360245d4d52e5b6771ae5f99e6783078afa033476e1fea5",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-MediumItalic.ttf",
-      "sha256": "5c6fa95e1163d56f47ed6e05f6bbf63244c35724553685590037772c9194aeac",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-Bold.ttf",
+      "sha256": "b94f3a46aa5d162fc51a11edb0b8e24d7187fff0cb4766bac2d9493a263a49c5",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-SemiBoldItalic.ttf",
-      "sha256": "7f70ec06f749214d2f012785565587c3c456c9b20ebcd4e8d2f4db22747bf5d1",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-BoldItalic.ttf",
+      "sha256": "1db76ee2d0099d06cffc0ff9e25569221dd1c582d939c11e1da1e7cbd0a8fca1",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-RegularItalic.ttf",
-      "sha256": "d30aa5e9f5aeced4affd968078de3a5314189a16f4a476d0228c8e2c68d6c08f",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-Light.ttf",
+      "sha256": "9a37989cc016a2890902dde545a24e6db1cb818099e5078f40812029481a5051",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Medium.ttf",
-      "sha256": "0b975e298dd38f9fb210b0f1b3d7fb8df578d2e9733175e492a10774988bb45b",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-LightItalic.ttf",
+      "sha256": "3a1119e0e42ae78fc6e272931d6d92b702a98cc2e9c4e06750d9c19a8bbcadeb",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Bold.ttf",
-      "sha256": "55d50be6f3fec7d29ead71a2022f525ad5c06f12be9807775c6336d3449fcb7c",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-Medium.ttf",
+      "sha256": "399088cb9169ca317ed42f3cae34a93b96ad9383a0a1c0777dc18afc88e5d1b5",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-SemiBold.ttf",
-      "sha256": "d5f16d0633b0506598805ad89cf052c9a65f4c3b4ca234682903d82f19c2a68e",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-MediumItalic.ttf",
+      "sha256": "5d33d2b3c6162f9a2b5ca484453d5226a9520b90dcdbe0c443419f6edd80821e",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Regular.ttf",
-      "sha256": "73ea108cb16dd3aeb00ff163bb7d6a04f4acc07a12967505bd9f545b80b1cc2d",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-Regular.ttf",
+      "sha256": "db4383819058469bb751d92bacc9530202f103455196afa92402e55aad04effa",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Light.ttf",
-      "sha256": "2003317fb923e3d65a84587eda2bab0b07bf054ade49610be6cae9d3c1b4a083",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-RegularItalic.ttf",
+      "sha256": "6b3cd4c2cf176b687843c1174d3ef9155b6f24ba6060721f00dd1d71dfd6b61d",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 2,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Regular.ttf",
-      "sha256": "93ae6a28d85131aec8ab4930c28de05c425c4ffe7a3798f93986e28ca4e4c5fc",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-SemiBold.ttf",
+      "sha256": "4a7ca8d41ed7cd95bea638c63af0f85ced89f36335d7d7f8e0b356e9af7d26da",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Bold.ttf",
-      "sha256": "0555f8695cf4f4fda4212871a082b0d488ebe36040c949a5205b6a73315263d0",
+      "file": "SAB-Modul-Code/source/stage4-masters/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "3c75e675b3b8378b35db37557d9fce13f9d4f93a85ef6b008bbf23353b8773b2",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Medium.ttf",
-      "sha256": "5fa14ea26e3ad52ed306d239e85d0a08d8c8f7276b31385d5483fa89485ca7ae",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-Bold.ttf",
+      "sha256": "d7118ab102d4b24ffdc6f46afbd012cd88f17c7880023ded1a7470c6cf4f10c5",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-SemiBold.ttf",
-      "sha256": "242e7d9acb2b98d6073fe4588db96f4882bb7f9f0aa2e265b799a7a2b15b7d5d",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-BoldItalic.ttf",
+      "sha256": "ce738ea6140e0442a66f5cb66f824e07e3b92ebf7c87f03b7a6c7e834a2d7e8b",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Light.ttf",
-      "sha256": "58d322ba048ec79f3f7b7e3d2889d5042c94c788863f1765f7b99b13355fd718",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-Light.ttf",
+      "sha256": "47f276fa5a2ba18174eafb4bd2c56c2cc598a9e9ec6cb432774e7dcb7a36a668",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Thin.ttf",
-      "sha256": "db4509128464a1608e71196c31e6492f453e1d209694b57089e19be11bd4ed85",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-LightItalic.ttf",
+      "sha256": "9d55c81b547f9d4c35debe0726a377d029a0db0f3d6a3de936036ed05847f51e",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-SemiBoldOblique.ttf",
-      "sha256": "9639c008d5da8bf0bb76a94b782bc6aa75327066cec0cb6f5c8608f14d45f7c6",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-Medium.ttf",
+      "sha256": "7303335027ccaba4570b9f55fbd5fd87d0da92447cb80ac631366ffc7725531d",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-BlackOblique.ttf",
-      "sha256": "4466b7706d5731912b54c4a03e1ef0f0b5319f185f2fb313c61debf806917038",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-MediumItalic.ttf",
+      "sha256": "7f01a0a153737da3e49edf1b533677882c0655c64b289c7c0cbb73387f7d3d2a",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-LightOblique.ttf",
-      "sha256": "c00b78df557aecac39f9a1fadc0d1d1eea8d97fb143f81a82cacf93b7072a196",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-Regular.ttf",
+      "sha256": "ddd46afc242890d02b3395beb533e7a842c9769d56e432017e8855eed3c33d7c",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-SemiBold.ttf",
-      "sha256": "e28fda1a59e4a06cbec6cc1891a0c917a55962c609cf3fb15f29befbae6741d6",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-RegularItalic.ttf",
+      "sha256": "556c41343a1422a932e29b95c5b47a0ee4eabca4c2e0f38458ce41e3da6e11d1",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-Light.ttf",
-      "sha256": "cd304792db83e25ad9039ada74cd28314d5a0f8710fd5160da79f5de7fb8f513",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-SemiBold.ttf",
+      "sha256": "67c4e828754d02c7f96e737608703e2aab61e6df93ce3e5606647e5bd6ba9d39",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-Medium.ttf",
-      "sha256": "0cde3679bd5b2f93ab0c3259e180e2cfb4262c3b47ee3b46a5b3d3d7b35eddb4",
+      "file": "SAB-Modul-Code/source/stage5-masters/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "a4eca14a3377222cc7574b02c7a7f133da2f4d725d318362532156c22bf3b837",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-RegularOblique.ttf",
-      "sha256": "b24fcf9c8a4ccf6b5fac41a2eb32516142314be77cc87e15ea397e91db35a6ef",
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Bold.ttf",
+      "sha256": "fda053f8bb6cf17078e138575bc8835103fe0c90874e7f56222bab8f2d8f5518",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-ThinOblique.ttf",
-      "sha256": "28fde7af33c380defcc32fe71efd877d9844886431807338ddb0f573b6e335bf",
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-BoldItalic.ttf",
+      "sha256": "897adcaaac7001efbc3275c3fca39044754edcd3d0f3a94a4dd4fc626da7d9cc",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-Regular.ttf",
-      "sha256": "5c033b7b2ac16921144a1403023ae2e27cc7e7cb58c91f74eec69beff783000a",
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Light.ttf",
+      "sha256": "3e51c4724193f42786bf42b8c1e9f68d21a3854e971abaea1b50e26f6c6c9824",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-SemiBoldOblique.ttf",
-      "sha256": "f1350081be2f9397d06498a64f81bb4d5a552a1628e467f92b6b7e4aa99e03f8",
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-LightItalic.ttf",
+      "sha256": "b65b57355b339c07aa2d17cae153c789fb7197cbb39fce51de28949289fb65c5",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-MediumOblique.ttf",
-      "sha256": "3ad6f2dc894d32a09defc14578d30c14b97675c009d269905f1c1495905bb777",
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Medium.ttf",
+      "sha256": "18ae6e96c0783c15f4f501bcb9142642f5d3da27d56bc99d0c02685237779b27",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-MediumOblique.ttf",
-      "sha256": "f82b8fb132787b6fe65cdaea34d381bd91a78acc0572d43e71baecf82195974a",
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-MediumItalic.ttf",
+      "sha256": "a62ce6a7dd545d898f92b97a71a64c5d5c7778f098e076845ff63937920d6e81",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-Regular.ttf",
+      "sha256": "0b7edc38d3a46276d38c0ed9c6775dfc9abcaa9d7cdf75d3d10eca90956401fa",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-RegularItalic.ttf",
+      "sha256": "47e39edbef2fc0b1ea1b43ec0d6ae02aff322cefe11a891d9de3b6b2c45b0234",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-SemiBold.ttf",
+      "sha256": "ff6a7c4d7598628d8235262c19548a88d3abd8e8119b9bd1250cc619d67058c0",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-before-fable/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "168481fe3cb89bd2315734a1892673079dd788b708369693edd8b3273aaceecf",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Bold.ttf",
+      "sha256": "0cf36d36a255e7b9fec80a2f60a67abbe974a00ff1c759ced3537fb04c9bc661",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-BoldItalic.ttf",
+      "sha256": "5d09a77a3ee03fe54fade81f883e5d2f43d280a94fef32c3301b06275bf46887",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Light.ttf",
+      "sha256": "0cc79b7cee61f2e924898250bc6d3306615f1b8b18330e10a861c22bba468c00",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-LightItalic.ttf",
+      "sha256": "35bed56e0081a38dd46a55e84a37a6584d335f5828189ac9b44f99102cc43924",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Medium.ttf",
+      "sha256": "38cb6da417ec10d063ec361d5f275c3a324780e29467e1f222108f643577ac99",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-MediumItalic.ttf",
+      "sha256": "8b8bc3454721bf1111a9c0e3a94d607a8e90072764725502d76a6dea31711abb",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Regular.ttf",
+      "sha256": "84d4256283f1c0a6005efb42aca4bee54316a1728cd332d53a7ff50400be3296",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-RegularItalic.ttf",
+      "sha256": "7b4a631256ffab48f2c3838e763394b926242a7d8dc9c9bfc0ad25d3758fc7e8",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-SemiBold.ttf",
+      "sha256": "d00c93cebef3d0ddb94aa3f88a0936f2c4b3113e2341df5b18eefd8015087880",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "27cfcbc547fd17b3862220f5c1db6b43b0b3b136befff5412bf9de81699ebea9",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-Black.ttf",
-      "sha256": "eb61c80301d4cc0c0ec7afb9898041bc6b6b9c063cb461f717dd75d8241bcfae",
+      "sha256": "be141917eb215d14679881095786551a744334a52fbd9ad8ba7de7dce96495cf",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-RegularOblique.ttf",
-      "sha256": "4ed306ff828b87e32543ac0e101fa989d5d8eb279ccee7e930ea1e1b9ef747e0",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-BlackOblique.ttf",
+      "sha256": "818297dbd9040481ffd44b602925b8ea169c578fa927639180d0c8b4e5e6f7e5",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-BoldOblique.ttf",
-      "sha256": "c5bdfa9a32b2cc0fba5574fa5e7e75a81b1c890e31a01e8846cf3cfc4670bd7d",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-Bold.ttf",
-      "sha256": "27acda444a70eb65c833c0619d32ff58727bf85720a769374e0f9e4138e993f9",
+      "sha256": "c4b2850233105b852ede1b0dcd117e37e9aaa161566a94a7c319e024055824fd",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-ThinOblique.ttf",
-      "sha256": "bc2a4a3723903471d660b3bd2a22da8b5b09aecabf5f3456ae5d8272a3d934e4",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Black.ttf",
-      "sha256": "0c902e793ce39721300b551b9b0c8082c9929bad75da72a266fbc05ea77b61b5",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-LightOblique.ttf",
-      "sha256": "96f08eee54bd53970e5db972934b5e058fb1af58e9b2f9a529b6af2fca296aed",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-BlackOblique.ttf",
-      "sha256": "53144a27896a8cba45d9b227a13dbb3d8af8cdf777c0a2543cd79665071c85c3",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-BoldOblique.ttf",
-      "sha256": "c4679c6a6727c0220a2f640c5efd323127a4103800c9b39c492366cdb56006da",
+      "sha256": "84ac5df32ee2ed05bdcc113cdf930fa5212f66f97094c629a872c072f7b2af59",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-Light.ttf",
+      "sha256": "e900da1a3bd6e6cc680c21af7b789d7d90cba6c00e5b53f2b788f783b250aa4a",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-LightOblique.ttf",
+      "sha256": "47116f498c0883c80d016b951a23c9491e85bc1bbdee0d558f90c4ac7502e7cb",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-Medium.ttf",
+      "sha256": "0c5eb188d6aa505a310c6aa28bfbb7911f5838611c6683a01675295ffede1a79",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-MediumOblique.ttf",
+      "sha256": "8e6887f0dfb645db2b64278f4476e651ca543fa84f48d39aec6fd9764510a4e5",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-Regular.ttf",
+      "sha256": "dbc545b5373c22fc2c526267415bb66f9fbc25628603f2c8a80e1c9a5bee2104",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-RegularOblique.ttf",
+      "sha256": "7c2ce81a66cf6971a5ba7745e1c491f964f9110a4a332a4e80285a00b6ca4797",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-SemiBold.ttf",
+      "sha256": "f1b0dfff12d9e0fba2ec5b6ec7dca3aa6a4fc491a468a89ef2ca4d05527438cc",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-SemiBoldOblique.ttf",
+      "sha256": "677cbf8173556a3e75855a3d06b6597360a85be1ecc70c830c3995e0b92ad563",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-Thin.ttf",
-      "sha256": "eee0bddf96650bab0803eb0383460de839fc241f2c81be8dc2fdac78d5060fd9",
+      "sha256": "ab7a2c7dbbf03a1773ddcbd5c919f6cfd9ab1743bdb7e1699f4a28b297182ecd",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Light.ttf",
-      "sha256": "265cd9e68a9e801af337b5413f5a970fa8a61ff954e670b76b9396787a8f5661",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulMono-ThinOblique.ttf",
+      "sha256": "2077f438a4c4292f0cb72840fc4c7db135f3482e6c07f0ed9101a3ebdc3c1c55",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/SemiBold.ttf",
-      "sha256": "c6a1ec7e0c825169355495fa5eed3d763c80297eee60b24d62868204e74bc75b",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Black.ttf",
+      "sha256": "38218f3a05774b47698aa438291628e5ff3e19956191e54986bfe6661393a57d",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Medium.ttf",
-      "sha256": "dcc6c5545e680c39ba19f19bbbc969f3afa91e441770cd98a9845c924e85ce98",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-BlackOblique.ttf",
+      "sha256": "2fa923ee9d79bfdd60bc52ba11b351109bc4fbfc7e9df3d070e0b3bc0bf7f323",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Black.ttf",
-      "sha256": "cb22a71336459b68b9b71619327028339915c26ad5225a5b88904b17696f0c1c",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Bold.ttf",
+      "sha256": "ebcfcd6c046c93cffa4c578635e7b12377a127cdd3ea82c6464fc6cd1e19d615",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Bold.ttf",
-      "sha256": "583e1d29be5128ef56f9678efcd296c1e46ab66c93065c558a763c8e2915f8e4",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-BoldOblique.ttf",
+      "sha256": "b44f476d0dcb9c87935e21654a9e346d6bcf85f3d25b1a9572ebd858ab552489",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Regular.ttf",
-      "sha256": "dd96a8395d27c54c10a02dca2370be480ea9fb6c373b637c0f2416b334105c48",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Light.ttf",
+      "sha256": "3d6f1d533db1a14dbd704eeaa5793f12141335ba99792ee802e431c517c477da",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Thin.ttf",
-      "sha256": "62479ab3251efab16888393ea2a25d46f744ac3f1cf379b36fc9b7de4852ccfd",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-LightOblique.ttf",
+      "sha256": "9dcc56c367113c760d87f58c44872ceb58fe7e2d4de0a4b24a2834592226d86a",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Light.ttf",
-      "sha256": "8ba90d1e7d9637b4b2e0c5a90fe13d90ab4d8e7ec29dd65325df46aa302d3983",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Medium.ttf",
+      "sha256": "400fef21b60fa1121291bda8550e0cf0397f0209cc75dbdd9d092712260ea877",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/SemiBold.ttf",
-      "sha256": "d1b38a25b29dd542b8b856acb54123878092e3163e72e5fd90ed8da942bca2be",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-MediumOblique.ttf",
+      "sha256": "f330ed9a515b29bd84c450a4c4aad8ec47b99098e30308af61f2ddb5044264f5",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Medium.ttf",
-      "sha256": "26ca2a896efec9d8a223df20fc41d4e5ce774601aa89284b5ae89ffb6670ad20",
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Regular.ttf",
+      "sha256": "dcec9aa8eca6bf4e1f7cab5ac78dd9626b127f1cc0650e4b9447afb8d9b078b8",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-RegularOblique.ttf",
+      "sha256": "ad4e81fe5f71dc4aaf7723fd3585fb9c99ab006bf89b2bda3136f9cd590fcddb",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-SemiBold.ttf",
+      "sha256": "053e1588bfe9723da8adbf76d68f3d057f138a6ee5c960aa3ab1707c723edacc",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-SemiBoldOblique.ttf",
+      "sha256": "edce49743833c9e78cbd108562a8db6fe595205fe396c02f9c72c0035eee3f41",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-Thin.ttf",
+      "sha256": "0786d38fe68a66eee7728da1885262c468554f51119cc90006382044ffa30720",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/masters/SABModulSans-ThinOblique.ttf",
+      "sha256": "adf2b1b4009c57eba5574fdb72c785f84621ff37ec5e122dc485aab3463b0162",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Black.ttf",
-      "sha256": "d43f815b439019371d9fc5abab82abe3c29ac39e335ee7162c4bca61781154c9",
+      "sha256": "2bb7ab89e18ac9b7cd4f620975ccd63f350fa4072b3168c78320212e86705ce7",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Bold.ttf",
-      "sha256": "3c1ebbd98d2da7db3ea72307b976192d974f5c6fec4b831d6050ee9f00b8e8d0",
+      "sha256": "7eee8c6fb57665c86b4a2e6d8e6520ec6191699a0fabb27afb1faed251051389",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Light.ttf",
+      "sha256": "ef73c81d8bd95d0303f5b0ab22f2aff6c8db201f2133a6894e68066932672957",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Medium.ttf",
+      "sha256": "0d280a6b2d1cf4876d2d803fe2edd9068038abb132d1dfaeda5293a9327fad88",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Regular.ttf",
-      "sha256": "543d8c4c123bee6f5b7a0a5318472764220fbcde4b4f9aa268213501ea2348f3",
+      "sha256": "d8a676896465ada564133f917451f91e3e170e4cf03dfc1608438bd6e1f33843",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/SemiBold.ttf",
+      "sha256": "8a83582f59dd784e7c9890282de0490492656ad770ce88c00e0f3b1805a66ad2",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMono/Thin.ttf",
-      "sha256": "46b9ce6e6f189534bd2f213bfef6fd4d429a454b5ff49dba2414fc9491234138",
+      "sha256": "87836751f1408b4556dcc4aa9a552bc91ff40a7e5d53a8c87bd816b50ebf1bd6",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Light.ttf",
-      "sha256": "72ccbc3cff593cc76b1c3e945905b6a4452b5562b3a2dcd7a3603dd360a98032",
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Black.ttf",
+      "sha256": "6ee9e71b139dbe913cfccec911c6548e5e822363c78c0374f4ffd5fa4dce0e50",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/SemiBold.ttf",
-      "sha256": "93ff88a5747954c7e9223c96cd3c1b6be88ec1f116b815b4bd40b67f0bf78e91",
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Bold.ttf",
+      "sha256": "c71c9b3ed1955a3107e98192d9e5d9eb9b61820393b304c52c57c70080d8eb74",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Medium.ttf",
-      "sha256": "854bb6f6169a3e9d6b9de8938664d7839bb2df1f2336f4d548c8dd381725504e",
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Light.ttf",
+      "sha256": "9819675b9944329609633470874bcd384dd6c8bfce7b3b8a0ec3030af3111211",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Black.ttf",
-      "sha256": "6475d548457982f46a23721eab708f293f2bb859d2b1f0a796c125695f165148",
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Medium.ttf",
+      "sha256": "06e820516191680b050174d39afb7fe7f63baf704fb35ad2e98d41de1c062eb9",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Bold.ttf",
-      "sha256": "895e13a2d089d15016ae364709c909f3bd1e595a51f63a17cf6e4b70976d9b8b",
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Regular.ttf",
+      "sha256": "8037698dbb908ea6bc897762557ebfad6d46ebb2068e9eb1ae31e968a72cb369",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Regular.ttf",
-      "sha256": "ec1b52589141734bc204ca754d0faa9d943bc586e0f3b801994eba979c505fd1",
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/SemiBold.ttf",
+      "sha256": "9857ba7ab3be2fb6749c2595fedf89d94096e10ae0547dcb9d3455074bd50c3a",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Thin.ttf",
-      "sha256": "1c47d777adc72b6559bbefdd529290968c2c276e565236eefe9173d8057eb557",
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulMonoOblique/Thin.ttf",
+      "sha256": "d167a706492f208bb24faf179d8e2457709e400fc97fdc7839e9e4047cdba730",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Light.ttf",
-      "sha256": "f916c21402da8117dc442bd6d1bb6744f80942b2d9447ba4bce490d88829ef94",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/SemiBold.ttf",
-      "sha256": "97ce7a23ace40e2028315fb2b1be6634ae6c962789535900782ed0e781379c8a",
-      "RFN": "SAB Modul",
-      "license_records": 1,
-      "byte_idempotent": true
-    },
-    {
-      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Medium.ttf",
-      "sha256": "c33f3e1ab43721f329a8269176691ae3819bff671f061dd57499e22d80783a0f",
-      "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Black.ttf",
-      "sha256": "9bb00ed6823faa609f16678c26b5a6149a7550263106677783f0efac511d9d1d",
+      "sha256": "68a8ff71c9ff6ad3fb41d3a59ff09187ab8407a264d7120fc4921725e1fa1639",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Bold.ttf",
-      "sha256": "2adf9e09fedb55cbd5ff017f3948123d0a88aecc44243bef8ec688c55679e33b",
+      "sha256": "dffc9df6dfc231c4a6cf6c61a4369930e2a1ad3d57ce62227ceeb5069ff6ed71",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Light.ttf",
+      "sha256": "ab7b602a21e37b42e81bb3d38981e3598d6969da076351f0aa07cb20b6624856",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Medium.ttf",
+      "sha256": "ef1380b83110a1d27b1b7fcd8cb76817e865f1993785112a95c9e5a7fecd4bb8",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Regular.ttf",
-      "sha256": "8cb7a55249cf2ecabd403392c299865a55b755d725fe5c19d810c045d00dbf90",
+      "sha256": "8207314b70fbb15f0cafa019aa6c483269e02622b0650ebb9ce23a3b29ccd350",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/SemiBold.ttf",
+      "sha256": "d9255a38700ac1d8b11d3e353731335af768547661506a06ea22c5f748ec25b2",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     },
     {
       "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSans/Thin.ttf",
-      "sha256": "2c0347380908ced7fc09f0ad651c0f0b6b46f80549f804dd6bea9bc7b2edb4d4",
+      "sha256": "cabb00c77ec7fcca24d1ad1d177c3a03eceb7837bd43e845b2675ecc021ecd3d",
+      "version": "1.004",
       "RFN": "SAB Modul",
-      "license_records": 1,
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Black.ttf",
+      "sha256": "6840471d1c459eee459b9850e3c9e6614a83f7f27ba690ef8a6443b93dddf248",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Bold.ttf",
+      "sha256": "a44d960440202223c7b336e924f50fd2db445e95d94d4e5b63ffd94a8f072225",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Light.ttf",
+      "sha256": "b8c7b8dc66880beefb86b19576feba8791847afa7fcea27024751c714fe153d3",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Medium.ttf",
+      "sha256": "70c03dda5203bc4dd1cda5b88486155adc11e79d713e04d576564b40ca630576",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Regular.ttf",
+      "sha256": "da70e4936a2112a58fce35cfb631279e8758f65e3a3bdd2090616e2896e7c4e3",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/SemiBold.ttf",
+      "sha256": "3640a45283d6a569cac246a9e7e603d30e067b006128e1216ce87e0369730645",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/upstream/variable-masters/SABModulSansOblique/Thin.ttf",
+      "sha256": "e0df5477c5ae707057baee292083a8f3f6dfe7c80d4c9b80d7b05d85e2229b24",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-BoldItalic.ttf",
+      "sha256": "e2e29d301c516f10cbc888acd758f1afb8f283834ab53115b91e045bce06c36a",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-LightItalic.ttf",
+      "sha256": "87315a0f8c1430c1f00e680d46a329cdf0f620ed9983c55d3a1b060b96be46ba",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-MediumItalic.ttf",
+      "sha256": "0a688a8207ff49b50ed1f651d791966fe3320cc8a0052ba70dfc48c697658e93",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-RegularItalic.ttf",
+      "sha256": "396813cdb0d2d2bcb46e1d6c58daa8e17251468ce2a5c6b3318da21026c2f9ef",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Italic/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "e5ec8f10856937abeaeb5d557ffb715d7a0a81ee09b6f6eae9bd530d2723c2ad",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Bold.ttf",
+      "sha256": "eda114e7e40240f33ba6cfaac9ed5a17bd388afaaa02a68fe3cc8b8170cfbc1d",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Light.ttf",
+      "sha256": "d1314d145378b201c61684e38cc019400acf3ffb3af1a4d6649efe5c0f6b2274",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Medium.ttf",
+      "sha256": "dd86b326a75dbd2173b96e857de9d8ebc3a2dd4eb320bb30a552765472537714",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-Regular.ttf",
+      "sha256": "28d8ce6acb83655237bba17d10e845329c12756a24a94858092c8408ac2efc0b",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters/Roman/SABModulCode-SemiBold.ttf",
+      "sha256": "ec2fdd447bd01775c9323295b6abe570e2edc380023aa81e9e3727a629d4a66c",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-BoldItalic.ttf",
+      "sha256": "296e75d24b65405f5fad03fde774ae5c86c3cc506c357a1461d076b9a63fb9d8",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-LightItalic.ttf",
+      "sha256": "e0b51e2c81b38f6de765914683c16f298cf385090184953fd8e68ca2586cf80f",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-MediumItalic.ttf",
+      "sha256": "c9fa7debd0edc3fc57410360a8f218d98b34d4ff426c270b6a0ff554afdc8f6f",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-RegularItalic.ttf",
+      "sha256": "35e513cf891bbdb830c12cb21a4c672813931128d6ada836464675615bb2b6b8",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "12feb6d475f4eacdc7575050e4069086b9cc62574facda6511bf48489fcab877",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Bold.ttf",
+      "sha256": "9dfcd714d9fec07da3dfcb3e608edc164d0043f995fd18373ebf31077dd74e69",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Light.ttf",
+      "sha256": "ae04e8d285a344f0cbe13bad4bccb3f161c200f7d360f81d03b7bd7380c6b186",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Medium.ttf",
+      "sha256": "85f5a605cc413299b144e284065a07cf8994ccc3a1fd430d5ea54bc73dbf2cf0",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Regular.ttf",
+      "sha256": "bca198b75296e4573a26e0e6f8f3710040a72bd1b870935f44e4da5d29f4b2a9",
+      "version": "1.004",
+      "RFN": "SAB Modul",
+      "byte_idempotent": true
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-SemiBold.ttf",
+      "sha256": "c1f9f3d17258b26eb63ba8c8bd02e885f3c3794ace2b4a2c4d4d7098642130af",
+      "version": "1.004",
+      "RFN": "SAB Modul",
       "byte_idempotent": true
     }
   ]

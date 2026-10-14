@@ -20669,7 +20669,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -20701,7 +20701,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -20733,7 +20733,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -20765,7 +20765,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -20797,7 +20797,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -20829,7 +20829,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -20861,7 +20861,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -20893,7 +20893,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -20925,7 +20925,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -20957,7 +20957,7 @@
                         {
                             "message": {
                                 "code": "failed-check",
-                                "message": "Failed with KeyError: 'data'\n```\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"qa-environment/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
                             "status": "ERROR"
                         }
@@ -21949,7 +21949,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Bold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.4kb |\n | Hinted Size   | 204.8kb   |\n | Increase      | 15.4kb      |\n | Change        | 8.1 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Bold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.2kb |\n | Hinted Size   | 204.4kb   |\n | Increase      | 15.2kb      |\n | Change        | 8.1 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -21981,7 +21981,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.6kb |\n | Hinted Size   | 215.3kb   |\n | Increase      | 14.8kb      |\n | Change        | 7.4 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-BoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.3kb |\n | Hinted Size   | 214.9kb   |\n | Increase      | 14.7kb      |\n | Change        | 7.3 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22013,7 +22013,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Italic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.8kb |\n | Hinted Size   | 215.3kb   |\n | Increase      | 14.5kb      |\n | Change        | 7.2 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Italic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.5kb |\n | Hinted Size   | 214.9kb   |\n | Increase      | 14.4kb      |\n | Change        | 7.2 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22045,7 +22045,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Light.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.7kb |\n | Hinted Size   | 205.0kb   |\n | Increase      | 15.2kb      |\n | Change        | 8.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Light.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.5kb |\n | Hinted Size   | 204.6kb   |\n | Increase      | 15.2kb      |\n | Change        | 8.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22077,7 +22077,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.0kb |\n | Hinted Size   | 215.8kb   |\n | Increase      | 14.8kb      |\n | Change        | 7.4 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-LightItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.7kb |\n | Hinted Size   | 215.4kb   |\n | Increase      | 14.7kb      |\n | Change        | 7.3 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22109,7 +22109,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Medium.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.3kb |\n | Hinted Size   | 204.8kb   |\n | Increase      | 15.5kb      |\n | Change        | 8.2 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Medium.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.0kb |\n | Hinted Size   | 204.5kb   |\n | Increase      | 15.4kb      |\n | Change        | 8.2 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22141,7 +22141,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.3kb |\n | Hinted Size   | 214.9kb   |\n | Increase      | 14.6kb      |\n | Change        | 7.3 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-MediumItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 200.0kb |\n | Hinted Size   | 214.5kb   |\n | Increase      | 14.5kb      |\n | Change        | 7.3 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22173,7 +22173,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Regular.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.7kb |\n | Hinted Size   | 205.0kb   |\n | Increase      | 15.3kb      |\n | Change        | 8.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-Regular.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.4kb |\n | Hinted Size   | 204.6kb   |\n | Increase      | 15.2kb      |\n | Change        | 8.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22205,7 +22205,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 190.2kb |\n | Hinted Size   | 205.8kb   |\n | Increase      | 15.5kb      |\n | Change        | 8.2 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 189.9kb |\n | Hinted Size   | 205.4kb   |\n | Increase      | 15.4kb      |\n | Change        | 8.1 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -22237,7 +22237,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.5kb |\n | Hinted Size   | 216.4kb   |\n | Increase      | 14.9kb      |\n | Change        | 7.4 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-Code/OTF/SABModulCode-SemiBoldItalic.otf     |\n |:------------- | ---------------:|\n | Dehinted Size | 201.2kb |\n | Hinted Size   | 216.0kb   |\n | Increase      | 14.8kb      |\n | Change        | 7.3 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -48103,7 +48103,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48136,7 +48136,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48169,7 +48169,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48202,7 +48202,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48235,7 +48235,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48268,7 +48268,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48301,7 +48301,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48334,7 +48334,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48367,7 +48367,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -48400,7 +48400,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, coptic, old-permic, math, hebrew, todhri, malayalam, duployan, syriac, canadian-aboriginal\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, duployan, coptic, math, canadian-aboriginal, tai-le, tifinagh, malayalam, old-permic, syriac, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n167 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`, `symbols2`"
                             },
                             "status": "WARN"
                         }
@@ -62003,7 +62003,7 @@
                         {
                             "message": {
                                 "code": "found-semi-vertical",
-                                "message": "The following glyphs have semi-vertical/semi-horizontal lines:\n\n\t* uni0055 (U+0055): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni006D (U+006D): L<<450.0,0.0>--<449.0,275.0>>\n\n\t* uni006D (U+006D): L<<574.0,325.0>--<575.0,0.0>>\n\n\t* uni00C6 (U+00C6): L<<560.0,8.0>--<402.0,7.0>>\n\n\t* uni00D9 (U+00D9): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni00DA (U+00DA): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni00DB (U+00DB): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni00DC (U+00DC): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni014B (U+014B): L<<410.0,0.0>--<409.0,260.0>>\n\n\t* uni014B (U+014B): L<<534.0,229.0>--<535.0,57.0>>\n\n\t* 8 more.\n\nUse -F or --full-lists to disable shortening of long lists."
+                                "message": "The following glyphs have semi-vertical/semi-horizontal lines:\n\n\t* uni0032 (U+0032): L<<172.0,494.0>--<53.0,495.0>>\n\n\t* uni0055 (U+0055): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni006D (U+006D): L<<450.0,0.0>--<449.0,275.0>>\n\n\t* uni006D (U+006D): L<<574.0,325.0>--<575.0,0.0>>\n\n\t* uni00C6 (U+00C6): L<<560.0,8.0>--<402.0,7.0>>\n\n\t* uni00D9 (U+00D9): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni00DA (U+00DA): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni00DB (U+00DB): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni00DC (U+00DC): L<<26.0,421.0>--<25.0,700.0>>\n\n\t* uni014B (U+014B): L<<410.0,0.0>--<409.0,260.0>>\n\n\t* 9 more.\n\nUse -F or --full-lists to disable shortening of long lists."
                             },
                             "status": "WARN"
                         }

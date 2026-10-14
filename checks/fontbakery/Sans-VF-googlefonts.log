@@ -1,4 +1,66 @@
 Start ... running 455 individual check executions.
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
  >> googlefonts/glyphsets/shape_languages
     Shapes languages in all GF glyphsets.
     with SABModulSans-Italic.ttf
@@ -21,7 +83,7 @@ Start ... running 455 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ӯ, ӣ, ҳ                                     
+          missing from the font: ӯ, ҷ, ӣ, ҳ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -55,7 +117,7 @@ Start ... running 455 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӯ, ҳ, ӣ, ҷ                                     
+          missing from the font: ӯ, ӣ, ҳ, ҷ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -491,8 +553,8 @@ Start ... running 455 individual check executions.
                                                                                 
           Name               current     expected                               
           ─────────────────────────────────────────                             
-          Thin Italic        wght=200.0  N/A                                    
           Regular Italic     wght=400.0  N/A                                    
+          Thin Italic        wght=200.0  N/A                                    
           ExtraLight Italic  N/A         wght=200.0                             
           Light Italic       wght=300.0  wght=300.0                             
           Italic             N/A         wght=400.0                             
@@ -580,17 +642,17 @@ GFAxisRegistry.
 
     Result: FAIL
 
-qa-environment/lib/python3.12/site-packages/fontbakery/checks/vendorspecific/googlefonts/varfont/generate_static.py:39: UserWarning: 'instantiateVariableFont' is deprecated; use fontTools.varLib.instancer.instantiateVariableFont instead for either full or partial instancing
+working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/vendorspecific/googlefonts/varfont/generate_static.py:39: UserWarning: 'instantiateVariableFont' is deprecated; use fontTools.varLib.instancer.instantiateVariableFont instead for either full or partial instancing
   font = mutator.instantiateVariableFont(ttFont, loc)
 
 Total:
-    ERROR: 0
+    ERROR: 2
     FATAL: 0
     FAIL: 16
     WARN: 17
     INFO: 13
     SKIP: 177
-    PASS: 232
+    PASS: 230
 
 
 

@@ -1,0 +1,2648 @@
+{
+    "result": {
+        "(not finished)": 0,
+        "PASS": 40,
+        "SKIP": 38,
+        "WARN": 4
+    },
+    "sections": [
+        {
+            "checks": [
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Black.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                0
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-BlackOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                1
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Bold.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                2
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-BoldOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                3
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Light.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                4
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-LightOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                5
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Medium.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                6
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-MediumOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                7
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Regular.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                8
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-RegularOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                9
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-SemiBold.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                10
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-SemiBoldOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                11
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Thin.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                12
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-ThinOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                13
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Black.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                14
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-BlackOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                15
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Bold.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                16
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-BoldOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                17
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Light.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                18
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-LightOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                19
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Medium.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                20
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-MediumOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                21
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Regular.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                22
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-RegularOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                23
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-SemiBold.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                24
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-SemiBoldOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                25
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Thin.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                26
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-ThinOblique.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                27
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Black.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                28
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-BlackOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                29
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Bold.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                30
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-BoldOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                31
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Light.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                32
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-LightOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                33
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Medium.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                34
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-MediumOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                35
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Regular.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                36
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-RegularOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                37
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-SemiBold.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                38
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-SemiBoldOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                39
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Thin.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                40
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-ThinOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                41
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Black.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                42
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-BlackOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                43
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Bold.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                44
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-BoldOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                45
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Light.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                46
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-LightOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                47
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Medium.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                48
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-MediumOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                49
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Regular.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                50
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-RegularOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                51
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-SemiBold.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                52
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-SemiBoldOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                53
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Thin.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                54
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-ThinOblique.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                55
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono-Italic[wght].ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                56
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulMono[wght].ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                57
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "overlapping-path-segments",
+                                "message": "The following glyphs have overlapping path segments:\n\n\t* uni221E (U+221E): L<<170.0,443.0>--<170.0,443.0>> has the same coordinates as a previous segment.\n\n\t* uni221E (U+221E): L<<450.0,443.0>--<450.0,443.0>> has the same coordinates as a previous segment.\n\n\t* uni221E (U+221E): L<<450.0,443.0>--<450.0,443.0>> has the same coordinates as a previous segment."
+                            },
+                            "status": "WARN"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "WARN",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans-Italic[wght].ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                58
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulSans[wght].ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                59
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "overlapping-path-segments",
+                                "message": "The following glyphs have overlapping path segments:\n\n\t* uni1E9E (U+1E9E): L<<48.0,538.0>--<48.0,538.0>> has the same coordinates as a previous segment."
+                            },
+                            "status": "WARN"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "WARN",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Bold.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                60
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-BoldItalic.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                61
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Italic.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                62
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Light.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                63
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-LightItalic.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                64
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Medium.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                65
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-MediumItalic.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                66
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Regular.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                67
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-SemiBold.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                68
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-SemiBoldItalic.otf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                69
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "unfulfilled-conditions",
+                                "message": "Unfulfilled Conditions: is_ttf"
+                            },
+                            "status": "SKIP"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "SKIP",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Bold.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                70
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-BoldItalic.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                71
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Italic.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                72
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Light.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                73
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-LightItalic.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                74
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Medium.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                75
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-MediumItalic.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                76
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Regular.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                77
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-SemiBold.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                78
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-SemiBoldItalic.ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                79
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": null,
+                                "message": "No overlapping path segments found."
+                            },
+                            "status": "PASS"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "PASS",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode-Italic[wght].ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                80
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "overlapping-path-segments",
+                                "message": "The following glyphs have overlapping path segments:\n\n\t* uni007E (U+007E): L<<456.0,304.0>--<456.0,304.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<536.0,302.0>--<536.0,302.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<541.0,293.0>--<541.0,293.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<541.0,293.0>--<541.0,293.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<425.0,138.0>--<425.0,138.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<405.0,132.0>--<405.0,132.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<336.0,140.0>--<336.0,140.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<144.0,236.0>--<144.0,236.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<64.0,238.0>--<64.0,238.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<59.0,247.0>--<59.0,247.0>> has the same coordinates as a previous segment.\n\n\t* 6 more.\n\nUse -F or --full-lists to disable shortening of long lists."
+                            },
+                            "status": "WARN"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "WARN",
+                    "severity": null
+                },
+                {
+                    "description": "Check there are no overlapping path segments",
+                    "documentation": null,
+                    "experimental": false,
+                    "filename": "SABModulCode[wght].ttf",
+                    "key": [
+                        "<Section: Universal Profile Checks>",
+                        "<FontBakeryCheck:overlapping_path_segments>",
+                        [
+                            [
+                                "font",
+                                81
+                            ]
+                        ]
+                    ],
+                    "logs": [
+                        {
+                            "message": {
+                                "code": "overlapping-path-segments",
+                                "message": "The following glyphs have overlapping path segments:\n\n\t* uni007E (U+007E): L<<83.0,329.0>--<83.0,329.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<95.0,344.0>--<95.0,344.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<105.0,356.0>--<105.0,356.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<397.0,233.0>--<397.0,233.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<425.0,261.0>--<425.0,261.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<476.0,318.0>--<476.0,318.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<547.0,269.0>--<547.0,269.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<517.0,211.0>--<517.0,211.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<505.0,196.0>--<505.0,196.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<495.0,184.0>--<495.0,184.0>> has the same coordinates as a previous segment.\n\n\t* 4 more.\n\nUse -F or --full-lists to disable shortening of long lists."
+                            },
+                            "status": "WARN"
+                        }
+                    ],
+                    "module": "overlapping_path_segments",
+                    "proposal": [
+                        "https://github.com/google/fonts/issues/7594#issuecomment-2401909084"
+                    ],
+                    "rationale": "\n        Some rasterizers encounter difficulties when rendering glyphs with\n        overlapping path segments.\n\n        A path segment is a section of a path defined by two on-curve points.\n        When two segments share the same coordinates, they are considered\n        overlapping.\n    ",
+                    "result": "WARN",
+                    "severity": null
+                }
+            ],
+            "key": [
+                "Universal Profile Checks",
+                null,
+                null
+            ],
+            "result": {
+                "PASS": 40,
+                "SKIP": 38,
+                "WARN": 4
+            }
+        }
+    ]
+}

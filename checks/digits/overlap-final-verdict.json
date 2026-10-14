@@ -1,0 +1,69 @@
+{
+  "scope": "Supplemental FontBakery overlap check across82 main TTF/OTF/VF files; CFF38 skipped by this glyf-only check",
+  "raw_counts": {
+    "(not finished)": 0,
+    "PASS": 40,
+    "SKIP": 38,
+    "WARN": 4
+  },
+  "all38staticTTF_have_no_overlap_warning": true,
+  "remaining_four_warnings_are_identical_non_numeric_baseline_findings": true,
+  "warnings": [
+    {
+      "file": "SABModulMono[wght].ttf",
+      "raw_logs": [
+        {
+          "message": {
+            "code": "overlapping-path-segments",
+            "message": "The following glyphs have overlapping path segments:\n\n\t* uni221E (U+221E): L<<170.0,443.0>--<170.0,443.0>> has the same coordinates as a previous segment.\n\n\t* uni221E (U+221E): L<<450.0,443.0>--<450.0,443.0>> has the same coordinates as a previous segment.\n\n\t* uni221E (U+221E): L<<450.0,443.0>--<450.0,443.0>> has the same coordinates as a previous segment."
+          },
+          "status": "WARN"
+        }
+      ],
+      "identical_to_previous_release": true,
+      "numeric_targets_not_listed": true
+    },
+    {
+      "file": "SABModulSans[wght].ttf",
+      "raw_logs": [
+        {
+          "message": {
+            "code": "overlapping-path-segments",
+            "message": "The following glyphs have overlapping path segments:\n\n\t* uni1E9E (U+1E9E): L<<48.0,538.0>--<48.0,538.0>> has the same coordinates as a previous segment."
+          },
+          "status": "WARN"
+        }
+      ],
+      "identical_to_previous_release": true,
+      "numeric_targets_not_listed": true
+    },
+    {
+      "file": "SABModulCode-Italic[wght].ttf",
+      "raw_logs": [
+        {
+          "message": {
+            "code": "overlapping-path-segments",
+            "message": "The following glyphs have overlapping path segments:\n\n\t* uni007E (U+007E): L<<456.0,304.0>--<456.0,304.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<536.0,302.0>--<536.0,302.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<541.0,293.0>--<541.0,293.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<541.0,293.0>--<541.0,293.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<425.0,138.0>--<425.0,138.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<405.0,132.0>--<405.0,132.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<336.0,140.0>--<336.0,140.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<144.0,236.0>--<144.0,236.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<64.0,238.0>--<64.0,238.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<59.0,247.0>--<59.0,247.0>> has the same coordinates as a previous segment.\n\n\t* 6 more.\n\nUse -F or --full-lists to disable shortening of long lists."
+          },
+          "status": "WARN"
+        }
+      ],
+      "identical_to_previous_release": true,
+      "numeric_targets_not_listed": true
+    },
+    {
+      "file": "SABModulCode[wght].ttf",
+      "raw_logs": [
+        {
+          "message": {
+            "code": "overlapping-path-segments",
+            "message": "The following glyphs have overlapping path segments:\n\n\t* uni007E (U+007E): L<<83.0,329.0>--<83.0,329.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<95.0,344.0>--<95.0,344.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<105.0,356.0>--<105.0,356.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<397.0,233.0>--<397.0,233.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<425.0,261.0>--<425.0,261.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<476.0,318.0>--<476.0,318.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<547.0,269.0>--<547.0,269.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<517.0,211.0>--<517.0,211.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<505.0,196.0>--<505.0,196.0>> has the same coordinates as a previous segment.\n\n\t* uni007E (U+007E): L<<495.0,184.0>--<495.0,184.0>> has the same coordinates as a previous segment.\n\n\t* 4 more.\n\nUse -F or --full-lists to disable shortening of long lists."
+          },
+          "status": "WARN"
+        }
+      ],
+      "identical_to_previous_release": true,
+      "numeric_targets_not_listed": true
+    }
+  ]
+}

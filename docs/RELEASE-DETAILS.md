@@ -1,6 +1,6 @@
 # SAB Modul — OFL distribution
 
-SAB Modul Sans and Mono (1.102) and SAB Modul Code (1.003), by Andrew Sabynin. Published at https://github.com/andrewsabn/sab-modul.
+SAB Modul Sans and Mono (1.103) and SAB Modul Code (1.004), by Andrew Sabynin. Published at https://github.com/andrewsabn/sab-modul.
 
 ## Contents
 
@@ -16,9 +16,9 @@ All supplied SAB Modul fonts and own font source are licensed under SIL Open Fon
 
 ## Fresh verification and limits
 
-OTS: 154/154. Three full FontBakery profiles on every delivered TTF/OTF/VF family group: 27 runs. Raw results include 466 FAIL and 44 ERROR, not a blanket PASS. Adobe profiles have no FAIL/ERROR. Universal negatives concern Code Mac name records; Google-specific negatives concern catalogue naming/copyright/weight/axis conventions and expanded language coverage. The online name checker returns KeyError 'data'; a current HTTP429 cause was not established.
+OTS: 154/154. Three full FontBakery profiles on every delivered TTF/OTF/VF family group: 27 runs. Raw results include 466 FAIL and 164 ERROR, not a blanket PASS. Adobe profiles have no FAIL/ERROR. Universal negatives concern Code Mac name records; Google-specific negatives concern catalogue naming/copyright/weight/axis conventions and expanded language coverage. The online name checker returns KeyError 'data'; the final run includes a directly sampled HTTP429 rate-limit response from the service.
 
-Font Validator 2.1.6 produced 154 reports without raster tests. All 6183 raw E records are identical to the corresponding previously accepted full reports. Known old-parser limitations and intentional contour contacts are documented; raw exit codes and errors remain visible. The RFN/license audit covers all 356 files. Separate Astra drawing audits confirm only authorized a and Ъ/ъ glyphs changed, with advances, layout, unrelated glyphs and variation data preserved. The hard-sign design was accepted at 14/16pt in all 38 static styles.
+Font Validator 2.1.6 produced 154 reports without raster tests. All 6183 raw E records are identical to the corresponding previously accepted full reports. Known old-parser limitations and intentional contour contacts are documented; raw exit codes and errors remain visible. The RFN/license audit covers all 356 files. Separate Astra drawing audits confirm only authorized a, Ъ/ъ and numeric glyphs changed, with advances, layout, unrelated glyphs and variation data preserved. The hard-sign design was accepted at 14/16pt in all 38 static styles.
 
 The carried-forward application scope is Russian/English corporate text and code. Full Ukrainian/Tajik/Uzbek-Cyrillic/Turkmen coverage is NOT claimed: fresh broad language checks report missing codepoints. English auxiliary U+02BB is absent. No Google Fonts catalogue admission or worldwide artistic uniqueness is claimed. Current changed forms were rebuilt and inspected in large and small proofs and the browser; the full historical GUI/device matrix and complete clean drawing-source build were not repeated. A tiny residual a-stem bend in Sans italic VF remains documented. Changed CFF programs omit their former glyph-specific hints; TTF changed glyphs were rehinted. 164 additional Google-specific FAIL results concern license templates and the retained RFN text, not a newly detected outline error. Current limitations are explicit, not silently converted to PASS.
 
@@ -34,3 +34,5 @@ python tools/run_checks.py . /path/to/FontValidator
 ```
 
 Run this in a copy: check outputs are regenerated. The runner removes expected prior JSON/HTML/XML before each job to avoid stale results after a tool failure. A missing output is not a PASS. FontBakery may need network access; external-service failures are retained.
+
+The numeric revision is independently reviewed in checks/astra-digits-final.md. The final 27 profile runs have no new nonservice FAIL/ERROR or WARN messages against the preceding RFN/hard-sign release. Extra ERROR results belong only to fontdata_namecheck; a direct service request returned HTTP429 rate limit exceeded. Name uniqueness is not certified by this run. Raw results remain unchanged. The first fitted draft had real degenerate 5 terminal lines; these were corrected, rehinted and rechecked before publication. The small terminal refit changes the contour by at most 0.707107 units in independently sampled sections. Exact mathematical G1 continuity is not claimed.

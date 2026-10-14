@@ -1,0 +1,749 @@
+{
+  "baseline_failed_styles": 38,
+  "first_draft_zero_length_line_styles": 26,
+  "corrected_failed_styles": 0,
+  "rows": [
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 38.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "5b8b7901243ce96968ed7a35f1d71ebf62037da9c55c6803c1dfc38895d2e557"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 38.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "a053ba2fc7ab76453515193920d19beed5d4e5bfc507e9e61720c4a6fd97bdc8"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 33.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "525e81dbe0886c6ec46ad1eeea2352e5a5ded717e08185b4cb000cc704d75eb2"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 33.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "0498304f1977ffccf2ca039d823090ce1d223451bf5dd4bdfd4faae6ead99a90"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 19.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "3df3b669aa908b3a67c9e1376a560b48ff0c091cd80063247c31c9ae46aa9555"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 19.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "1f65262af27ce20b4a6b7f9f18cb5bf19f802cd4d551b14c1c6386e4fb468d7a"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 25.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "b764f77cbfc2ebedfc83c715246fe4b8a978e96cde7311a89e6f470d3b974238"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 25.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "e1a8f855e6e7f0e7ada462b71bf1175561d1f58c94f6c729f1b35f8121bcc3be"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 21.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "0583e7c2c495922b6c7ffa4a36165bf820606803673f01f6b8eb82503fdf0837"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 21.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "f5aa057a41c3deae40f692a27f0138fb36454d73474670112c304c2d5257baba"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 29.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "4ff2ac1862b1881ee3d0af104eae02029b03ca52311e27dd7d40241ddb85bb59"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 29.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "d689f40211df2d5d482859aca076be294a8ae2b48afc14047918c0619c947faa"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 15.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "60d4d6b5f2aeb1865ed569ea836221dd8b60b283af2fcf58b6f7f54c99bdd872"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 15.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "a72b05d08d46602a5355d7a0f041699af4bc0a73b466b8737770adb148e5e362"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 39.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "474442c286572eb3215dd13d04cbc9f4c35c21d1ce500bc73b07f9263c048a40"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 39.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "5f2607eededf7c8dbc5f11aeae7ef9cb3b04765ea5de38d7bbdbcb3292d4ef62"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 34.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "ca1deb723992a547c278ef20e7a600c529f38c98c33479c889881d597e191ba6"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 34.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "2c9b4e9719d4abee3a05418047644f8382116d8a049d26d24c06f351bd6ef47b"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 19.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "449e3bd62a173d34a31485e6521cff149e6ed44fd1a6dd19df24577417b09eba"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 19.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "860bc2bdbab1be408e683d8000268e7482f737b9615d0e94f7aa2cc5d586b435"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 26.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "4e72963c6df86f0e62761291b6d9dab058e57b7e0ca83ad3fb9b0eb164addbdf"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 26.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "dc02e999fb9c2a5b0ac2c960fdcbb754fdca8c296c776df6eb71626a4bf35c4b"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 22.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "f109495784190e3b53c28f7a6e9ef04911658de9bd3ea6708354b1e19220cdf1"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 22.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "3519f93dcbe5c103dd3174b9b4c133291e417376d234c5bcbb4ef1e44ce0786f"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 30.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "f99e70f67e4090854f2db51221bc4567f3993b208dd98c5aa1711a457b8b9e7a"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 30.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "08b681c77e3bff92c01f53a6f7e2261061385d81b841fb186cde1ce4f5c170b7"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 16.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "bd355ceacf129ccca60a310f2e5d3ecd61a07cab20fc0274fe4307a1b3b4bbf0"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 16.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "0 has no curved segments",
+        "2 has no curved segments",
+        "3 has no curved segments",
+        "5 has no curved segments",
+        "6 has no curved segments",
+        "8 has no curved segments",
+        "9 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "4537ebe487ab3bf3295e051c13fc8f7aca45ec3cda5633644f0ed7847cf3c97e"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 725.500",
+        "7 misses baseline: 32.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "184726b3542161fd2511e011fe383403011e613f4a2ccec168044c13d480e65d"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.200",
+        "7 misses baseline: 33.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "8ba533b78744a6ec81a140310258c5aa6cd436be73225e7fa9e48431a6bdb7a7"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 725.800",
+        "7 misses baseline: 25.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "05173b32dc883708e9268a55034a4c13afb93363738b302d5eab4a4bf3f407e6"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 725.818",
+        "7 misses baseline: 21.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "115baac400934c9451efa7756fd2813f4ca29491e20289afe6f97e52ff4bfb5d"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 725.333",
+        "7 misses baseline: 22.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "b7b3d86986a843b379a7236929ceb87bde64591d898104049f549892906f63f7"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 725.571",
+        "7 misses baseline: 26.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "257b48328d5470b2e9a8fe202fd0590f41989d6cd8c8120075b5733fad4a6153"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 725.800",
+        "7 misses baseline: 27.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "fcd04cf1243ec8b0588d070a39b2649023b6f8f71703a8e4693b26799e358254"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 725.571",
+        "7 misses baseline: 25.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "d24a75f0f352c1f8778e03d06051a04ac141425ca46dc61a5140e983cec1e2ca"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 725.667",
+        "7 misses baseline: 28.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [
+        "5 has a zero-length line after rounding",
+        "5 has a zero-length line after rounding"
+      ],
+      "after": [],
+      "final_sha256": "c3168e583ac1846a15448f9d9693e7c9a0bfcf66415fb7a54670fd3c5b25dbcd"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "before": [
+        "2 exceeds optical cap limit: 726.000",
+        "7 misses baseline: 29.000",
+        "2 lower-left protrusion lies above the baseline",
+        "5 exposed horizontal cap at bowl/stem junction",
+        "3 has no curved segments"
+      ],
+      "first_fitted_draft": [],
+      "after": [],
+      "final_sha256": "9989fabf4909de8e5995ae793b2567d0973ba39d28ed8b77e3c2c1d219626798"
+    }
+  ]
+}

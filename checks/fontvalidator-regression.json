@@ -1,5 +1,5 @@
 {
-  "scope": "Final a+hard-sign+RFN files vs full accepted historical validators; no raster tests",
+  "scope": "Numeric-repair release vs previously accepted RFN a/hard-sign release; all raw E records, not just counts",
   "compared": 154,
   "matched": 154,
   "raw_errors": 6183,

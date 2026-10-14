@@ -1,8 +1,9 @@
 {
     "result": {
         "(not finished)": 0,
+        "ERROR": 14,
         "INFO": 42,
-        "PASS": 1067,
+        "PASS": 1053,
         "SKIP": 513
     },
     "sections": [
@@ -29651,10 +29652,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29662,7 +29663,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29683,10 +29684,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29694,7 +29695,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29715,10 +29716,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29726,7 +29727,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29747,10 +29748,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29758,7 +29759,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29779,10 +29780,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29790,7 +29791,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29811,10 +29812,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29822,7 +29823,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29843,10 +29844,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29854,7 +29855,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29875,10 +29876,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29886,7 +29887,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29907,10 +29908,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29918,7 +29919,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29939,10 +29940,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29950,7 +29951,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29971,10 +29972,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29982,7 +29983,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -30003,10 +30004,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -30014,7 +30015,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -30035,10 +30036,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -30046,7 +30047,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -30067,10 +30068,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -30078,7 +30079,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -31444,7 +31445,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Black.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 152.6kb |\n | Hinted Size   | 176.3kb   |\n | Increase      | 23.8kb      |\n | Change        | 15.6 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Black.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 152.1kb |\n | Hinted Size   | 175.5kb   |\n | Increase      | 23.4kb      |\n | Change        | 15.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31476,7 +31477,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 153.3kb |\n | Hinted Size   | 176.8kb   |\n | Increase      | 23.5kb      |\n | Change        | 15.3 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 152.7kb |\n | Hinted Size   | 175.8kb   |\n | Increase      | 23.1kb      |\n | Change        | 15.1 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31508,7 +31509,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 153.1kb |\n | Hinted Size   | 178.1kb   |\n | Increase      | 25.0kb      |\n | Change        | 16.3 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 152.6kb |\n | Hinted Size   | 177.4kb   |\n | Increase      | 24.8kb      |\n | Change        | 16.3 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31540,7 +31541,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 156.3kb |\n | Hinted Size   | 181.0kb   |\n | Increase      | 24.8kb      |\n | Change        | 15.8 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 155.6kb |\n | Hinted Size   | 180.0kb   |\n | Increase      | 24.4kb      |\n | Change        | 15.7 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31572,7 +31573,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Light.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.7kb |\n | Hinted Size   | 184.6kb   |\n | Increase      | 23.9kb      |\n | Change        | 14.8 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Light.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 159.9kb |\n | Hinted Size   | 183.4kb   |\n | Increase      | 23.5kb      |\n | Change        | 14.7 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31604,7 +31605,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 162.7kb |\n | Hinted Size   | 186.4kb   |\n | Increase      | 23.7kb      |\n | Change        | 14.6 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 161.7kb |\n | Hinted Size   | 185.1kb   |\n | Increase      | 23.4kb      |\n | Change        | 14.5 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31636,7 +31637,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.7kb |\n | Hinted Size   | 185.7kb   |\n | Increase      | 25.0kb      |\n | Change        | 15.6 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 159.9kb |\n | Hinted Size   | 184.5kb   |\n | Increase      | 24.7kb      |\n | Change        | 15.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31668,7 +31669,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 162.7kb |\n | Hinted Size   | 187.2kb   |\n | Increase      | 24.5kb      |\n | Change        | 15.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 161.8kb |\n | Hinted Size   | 186.1kb   |\n | Increase      | 24.2kb      |\n | Change        | 15.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31700,7 +31701,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.9kb |\n | Hinted Size   | 185.1kb   |\n | Increase      | 24.2kb      |\n | Change        | 15.1 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.1kb |\n | Hinted Size   | 184.0kb   |\n | Increase      | 23.9kb      |\n | Change        | 15.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31732,7 +31733,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 165.0kb |\n | Hinted Size   | 188.9kb   |\n | Increase      | 23.9kb      |\n | Change        | 14.5 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 164.1kb |\n | Hinted Size   | 187.8kb   |\n | Increase      | 23.7kb      |\n | Change        | 14.5 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31764,7 +31765,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 154.6kb |\n | Hinted Size   | 180.7kb   |\n | Increase      | 26.1kb      |\n | Change        | 16.9 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 154.1kb |\n | Hinted Size   | 179.7kb   |\n | Increase      | 25.7kb      |\n | Change        | 16.7 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31796,7 +31797,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 158.3kb |\n | Hinted Size   | 183.6kb   |\n | Increase      | 25.3kb      |\n | Change        | 16.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 157.6kb |\n | Hinted Size   | 182.5kb   |\n | Increase      | 24.9kb      |\n | Change        | 15.8 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31828,7 +31829,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.4kb |\n | Hinted Size   | 183.5kb   |\n | Increase      | 23.1kb      |\n | Change        | 14.4 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 159.5kb |\n | Hinted Size   | 182.4kb   |\n | Increase      | 22.9kb      |\n | Change        | 14.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -31860,7 +31861,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 163.4kb |\n | Hinted Size   | 186.3kb   |\n | Increase      | 22.9kb      |\n | Change        | 14.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 162.4kb |\n | Hinted Size   | 185.2kb   |\n | Increase      | 22.8kb      |\n | Change        | 14.1 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -53464,8 +53465,9 @@
                 null
             ],
             "result": {
+                "ERROR": 14,
                 "INFO": 28,
-                "PASS": 675,
+                "PASS": 661,
                 "SKIP": 253
             }
         }

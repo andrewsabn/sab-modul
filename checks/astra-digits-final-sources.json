@@ -1,0 +1,104 @@
+[
+  {
+    "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/fit-report.json",
+    "hash_fields": {
+      "sources": {
+        "count": 7,
+        "mismatches": []
+      },
+      "digit_repair.sources": {
+        "count": 7,
+        "mismatches": []
+      },
+      "digit_repair.frozen_master_sources": {
+        "count": 7,
+        "mismatches": []
+      }
+    }
+  },
+  {
+    "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/fit-report.json",
+    "hash_fields": {
+      "sources": {
+        "count": 7,
+        "mismatches": []
+      },
+      "digit_repair.sources": {
+        "count": 7,
+        "mismatches": []
+      },
+      "digit_repair.frozen_master_sources": {
+        "count": 7,
+        "mismatches": []
+      }
+    }
+  },
+  {
+    "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/fit-report.json",
+    "hash_fields": {
+      "sources": {
+        "count": 7,
+        "mismatches": []
+      },
+      "digit_repair.sources": {
+        "count": 7,
+        "mismatches": []
+      },
+      "digit_repair.frozen_master_sources": {
+        "count": 7,
+        "mismatches": []
+      }
+    }
+  },
+  {
+    "file": "SAB-Modul-1.0/source/variable-masters/SABModulSansOblique/fit-report.json",
+    "hash_fields": {
+      "sources": {
+        "count": 7,
+        "mismatches": []
+      },
+      "digit_repair.sources": {
+        "count": 7,
+        "mismatches": []
+      },
+      "digit_repair.frozen_master_sources": {
+        "count": 7,
+        "mismatches": []
+      }
+    }
+  },
+  {
+    "file": "SAB-Modul-Code/source/variable-masters/Italic/fit-report.json",
+    "hash_fields": {}
+  },
+  {
+    "file": "SAB-Modul-Code/source/variable-masters/Roman/fit-report.json",
+    "hash_fields": {}
+  },
+  {
+    "file": "SAB-Modul-Code/source/variable-masters-refit/Italic/fit-report.json",
+    "hash_fields": {
+      "current_static_master_sha256": {
+        "count": 5,
+        "mismatches": []
+      },
+      "digit_repair.sources": {
+        "count": 5,
+        "mismatches": []
+      }
+    }
+  },
+  {
+    "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/fit-report.json",
+    "hash_fields": {
+      "current_static_master_sha256": {
+        "count": 5,
+        "mismatches": []
+      },
+      "digit_repair.sources": {
+        "count": 5,
+        "mismatches": []
+      }
+    }
+  }
+]

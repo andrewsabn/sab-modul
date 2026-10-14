@@ -1847,13 +1847,13 @@
   },
   "tolerance_units": 0.8,
   "sources": {
-    "source/masters/SABModulMono-SemiBoldOblique.ttf": "9b638c09b1cc7b5b565ebda26665764bb4e456eca1b096a2763944347d64ccb2",
-    "source/masters/SABModulMono-BlackOblique.ttf": "2f2c8000c027ed2aae2e55378142f70fbf500aa38f89afa11d16f00549384fc0",
-    "source/masters/SABModulMono-RegularOblique.ttf": "1500d5ff61bdf7ae8b20db9ecc0885bdeb1feb19412fb178b2bafffe078af58a",
-    "source/masters/SABModulMono-ThinOblique.ttf": "33dd31657df6d382f88dc8bbf74ef165f436f9bd7f07909b091e496194590102",
-    "source/masters/SABModulMono-MediumOblique.ttf": "b200fd54976e9ce4405e7c060f08ee96780042f44e28aec796ea7d31bcbb036d",
-    "source/masters/SABModulMono-LightOblique.ttf": "b38ba394b637808ebb2cc881cbe9bfc82b5b786940e61194447483dcf6c35cfa",
-    "source/masters/SABModulMono-BoldOblique.ttf": "a85badf580d709779f759c87e722774cd3da6a5e50a8c0e4e7269af24d473742"
+    "source/masters/SABModulMono-BlackOblique.ttf": "ddbf02d4488d030cf06117d8eaf577f889ab211df903af90791c9707baffcd7b",
+    "source/masters/SABModulMono-BoldOblique.ttf": "43f74d2ed6071720b427d694f82b532ca9f31451cc4f22ade913d4fba41429d6",
+    "source/masters/SABModulMono-LightOblique.ttf": "9cd42372444666cf07141b59d8df51336408c83c1ff4ee0838506259b95d5f11",
+    "source/masters/SABModulMono-MediumOblique.ttf": "8fdc5fe350a83326236b738c227b37d367c85c7ab7caa3602857ace007d872f6",
+    "source/masters/SABModulMono-RegularOblique.ttf": "d6864d3b02fe7e4161ca9070c703b198ea0665dde88e8c2ae80be6605afe5774",
+    "source/masters/SABModulMono-SemiBoldOblique.ttf": "6dfd94000403a705e4c68f810d3cedc4912ecf36ee7992b9c13514dbaff09983",
+    "source/masters/SABModulMono-ThinOblique.ttf": "84d3d412520e557b5dae44220c562205abe556c7f0af994446b3610def72431d"
   },
   "hard_sign_repair": {
     "glyphs": [
@@ -1872,5 +1872,100 @@
     "source/masters/SABModulMono-SemiBoldOblique.ttf": "d85220812dbcedab1aaaf5816cb8b83e2a5c79ef2e55685c8ab598032b453597",
     "source/masters/SABModulMono-BoldOblique.ttf": "2f2ca652cbb1bac218481c8077f19da13a304085861da26c43888bc52c81d405",
     "source/masters/SABModulMono-BlackOblique.ttf": "62ddf3d2e35abd91927963957caf99fc243dbc8f686e314622739cb6d8c12acb"
+  },
+  "digit_repair": {
+    "original_points_after_deduplication": 6474,
+    "original_points": 6474,
+    "fitted_points": 820,
+    "deduplicated_glyphs": {
+      "uni0030.pnum": "uni0030",
+      "uni0032.pnum": "uni0032",
+      "uni0033.pnum": "uni0033",
+      "uni0035.pnum": "uni0035",
+      "uni0036.pnum": "uni0036",
+      "uni0037.pnum": "uni0037",
+      "uni0038.pnum": "uni0038",
+      "uni0039.pnum": "uni0039"
+    },
+    "glyphs": {
+      "uni0030": {
+        "max_fit_error_units": 0.3051,
+        "segments": 43,
+        "original_points": 728,
+        "fitted_points": 84
+      },
+      "uni0032": {
+        "max_fit_error_units": 0.3463,
+        "segments": 47,
+        "original_points": 579,
+        "fitted_points": 84
+      },
+      "uni0033": {
+        "max_fit_error_units": 0.3403,
+        "segments": 74,
+        "original_points": 1034,
+        "fitted_points": 131
+      },
+      "uni0035": {
+        "max_fit_error_units": 0.3465,
+        "segments": 76,
+        "original_points": 605,
+        "fitted_points": 124
+      },
+      "uni0036": {
+        "max_fit_error_units": 0.3486,
+        "segments": 57,
+        "original_points": 1042,
+        "fitted_points": 111
+      },
+      "uni0037": {
+        "max_fit_error_units": 0.3259,
+        "segments": 14,
+        "original_points": 47,
+        "fitted_points": 19
+      },
+      "uni0038": {
+        "max_fit_error_units": 0.3407,
+        "segments": 80,
+        "original_points": 1393,
+        "fitted_points": 157
+      },
+      "uni0039": {
+        "max_fit_error_units": 0.3157,
+        "segments": 57,
+        "original_points": 1046,
+        "fitted_points": 110
+      }
+    },
+    "tolerance_units": 0.35,
+    "terminal_cleanup": [
+      {
+        "glyph": "uni0035",
+        "removed_indices": [
+          44,
+          45
+        ],
+        "max_master_terminal_deviation_units": 0.7071067811865476
+      }
+    ],
+    "frozen_master_sources": {
+      "source/masters/SABModulMono-BlackOblique.ttf": "ddbf02d4488d030cf06117d8eaf577f889ab211df903af90791c9707baffcd7b",
+      "source/masters/SABModulMono-BoldOblique.ttf": "43f74d2ed6071720b427d694f82b532ca9f31451cc4f22ade913d4fba41429d6",
+      "source/masters/SABModulMono-LightOblique.ttf": "9cd42372444666cf07141b59d8df51336408c83c1ff4ee0838506259b95d5f11",
+      "source/masters/SABModulMono-MediumOblique.ttf": "8fdc5fe350a83326236b738c227b37d367c85c7ab7caa3602857ace007d872f6",
+      "source/masters/SABModulMono-RegularOblique.ttf": "d6864d3b02fe7e4161ca9070c703b198ea0665dde88e8c2ae80be6605afe5774",
+      "source/masters/SABModulMono-SemiBoldOblique.ttf": "6dfd94000403a705e4c68f810d3cedc4912ecf36ee7992b9c13514dbaff09983",
+      "source/masters/SABModulMono-ThinOblique.ttf": "84d3d412520e557b5dae44220c562205abe556c7f0af994446b3610def72431d"
+    },
+    "sources": {
+      "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Light.ttf": "dbb05f5e41f0599a0bfb900774e9dcd7e5be59cdce31f1efac57413d022b2527",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/SemiBold.ttf": "0d6d5521fe26d8a86124c0e7d39a34684d417495382f412005c5ea9d7c02de39",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Medium.ttf": "c580b755a3230b7307d22f5dbcf2d961ddc89b2a77bf9bfac00f2ae4e95c36ae",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Black.ttf": "45e87eb204e18d212afbf6226aca3d059753091efc6c48175a2c84be39f3cce0",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Bold.ttf": "5c2b80a189130c41bacd315e06aed71ffb525942cbdab2c0df13c911f569a06f",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Regular.ttf": "77be41a719256ff849f868dc939e0803700e90a73a21f770a027ce2a4463ab37",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Thin.ttf": "e2e3ee9ccd405f74e789ec997ba470d7bebf821e320011c0ab40b506491d2fd8"
+    },
+    "error_scope": "Pre-rounding fit tolerance0.35 is not a bound for final compiled outlines. Terminal cleanup is separately measured; exact G1 continuity is not claimed. Non-digit fit fields are historical."
   }
 }

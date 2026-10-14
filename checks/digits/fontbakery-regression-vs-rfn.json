@@ -1,0 +1,1230 @@
+{
+  "scope": "Numeric-repair release vs accepted RFN a/hard-sign release, module/status/message-code comparison; full raw reports retained",
+  "raw_counts": {
+    "(not finished)": 0,
+    "ERROR": 164,
+    "INFO": 753,
+    "PASS": 16447,
+    "SKIP": 14023,
+    "FAIL": 466,
+    "WARN": 879
+  },
+  "new_negative_message_counts": [
+    {
+      "profile_group": "Sans-TTF-universal",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 14,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Mono-TTF-googlefonts",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 14,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Mono-VF-googlefonts",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 2,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Sans-OTF-universal",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 14,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Sans-OTF-googlefonts",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 14,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Sans-VF-googlefonts",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 2,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Sans-TTF-googlefonts",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 14,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Mono-VF-universal",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 2,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Mono-TTF-universal",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 14,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Sans-VF-universal",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 2,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Mono-OTF-googlefonts",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 14,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    },
+    {
+      "profile_group": "Mono-OTF-universal",
+      "check": "fontdata_namecheck",
+      "status": "ERROR",
+      "code": "failed-check",
+      "count": 14,
+      "sample": {
+        "code": "failed-check",
+        "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
+      }
+    }
+  ],
+  "removed_negative_message_counts": [],
+  "new_FAIL_ERROR_check_results": [
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Black.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-BlackOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Bold.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-BoldOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Light.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-LightOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Medium.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-MediumOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Regular.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-RegularOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-SemiBold.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-SemiBoldOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Thin.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-ThinOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Black.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-BlackOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Bold.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-BoldOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Light.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-LightOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Medium.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-MediumOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Regular.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-RegularOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-SemiBold.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-SemiBoldOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Thin.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-ThinOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-VF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Italic[wght].ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-VF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono[wght].ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Black.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-BlackOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Bold.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-BoldOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Light.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-LightOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Medium.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-MediumOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Regular.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-RegularOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-SemiBold.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-SemiBoldOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Thin.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-ThinOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Black.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-BlackOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Bold.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-BoldOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Light.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-LightOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Medium.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-MediumOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Regular.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-RegularOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-SemiBold.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-SemiBoldOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Thin.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-ThinOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-VF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Italic[wght].ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-VF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans[wght].ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Black.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-BlackOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Bold.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-BoldOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Light.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-LightOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Medium.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-MediumOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Regular.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-RegularOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-SemiBold.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-SemiBoldOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-Thin.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-TTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulSans-ThinOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-VF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Italic[wght].ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-VF-universal",
+        "fontdata_namecheck",
+        "SABModulMono[wght].ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Black.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-BlackOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Bold.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-BoldOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Light.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-LightOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Medium.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-MediumOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Regular.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-RegularOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-SemiBold.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-SemiBoldOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Thin.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-TTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-ThinOblique.ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-VF-universal",
+        "fontdata_namecheck",
+        "SABModulSans-Italic[wght].ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Sans-VF-universal",
+        "fontdata_namecheck",
+        "SABModulSans[wght].ttf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Black.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-BlackOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Bold.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-BoldOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Light.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-LightOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Medium.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-MediumOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Regular.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-RegularOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-SemiBold.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-SemiBoldOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-Thin.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-googlefonts",
+        "fontdata_namecheck",
+        "SABModulMono-ThinOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Black.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-BlackOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Bold.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-BoldOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Light.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-LightOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Medium.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-MediumOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Regular.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-RegularOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-SemiBold.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-SemiBoldOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-Thin.otf",
+        "ERROR"
+      ],
+      "count": 1
+    },
+    {
+      "key": [
+        "Mono-OTF-universal",
+        "fontdata_namecheck",
+        "SABModulMono-ThinOblique.otf",
+        "ERROR"
+      ],
+      "count": 1
+    }
+  ],
+  "removed_FAIL_ERROR_check_results": []
+}

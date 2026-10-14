@@ -20,19 +20,19 @@ MONO_ADVANCE=620
 XHEIGHT=500
 PASS=26
 
-def curve(start,*segments):
+def curve(start,*segments,steps=24):
     pts=[start]
     for p1,p2,p3 in segments:
         p0=pts[-1]
-        for j in range(1,25):
-            t=j/24; u=1-t
+        for j in range(1,steps+1):
+            t=j/steps; u=1-t
             pts.append((u*u*u*p0[0]+3*u*u*t*p1[0]+3*u*t*t*p2[0]+t*t*t*p3[0],u*u*u*p0[1]+3*u*u*t*p1[1]+3*u*t*t*p2[1]+t*t*t*p3[1]))
     return pts
 
-def ellipse(cx,cy,rx,ry,start=0,end=360,power=2):
+def ellipse(cx,cy,rx,ry,start=0,end=360,power=2,steps=96):
     pts=[]
-    for i in range(97):
-        a=math.radians(start+(end-start)*i/96)
+    for i in range(steps+1):
+        a=math.radians(start+(end-start)*i/steps)
         co,si=math.cos(a),math.sin(a)
         pts.append((cx+rx*math.copysign(abs(co)**(2/power),co),cy+ry*math.copysign(abs(si)**(2/power),si)))
     if end-start==360: pts[-1]=pts[0]
@@ -110,16 +110,16 @@ def alphabet(variant,mono=False):
         put('i',240,[(0,510),(120,510),(120,0)],[(0,0),(240,0)],[(120,680),(120,681)])
         put('l',240,[(0,720),(100,720),(100,85),(135,0),(240,0)])
     # Numerals, tabular in both companions.
-    put('0',450,oval(450),*([[(65,90),(385,610)]] if mono else []))
+    put('0',450,ellipse(225,350,225,350,power=box,steps=384),*([[(65,90),(385,610)]] if mono else []))
     put('1',450,[(70,530),(250,700),(250,0)],[(65,0),(435,0)])
-    put('2',450,curve((0,535),((0,790),(480,795),(450,520)),((435,380),(70,195),(0,0))),[(0,0),(460,0)])
-    put('3',450,curve((0,590),((130,805),(510,700),(435,505)),((410,405),(290,365),(180,365)),((545,420),(570,0),(260,0)),((120,-5),(35,40),(0,115))))
+    put('2',450,curve((0,535),((0,790),(480,795),(450,520)),((435,380),(70,195),(0,0)),steps=192)+[(460,0)])
+    put('3',450,curve((0,590),((130,805),(510,700),(435,505)),((410,405),(290,365),(180,365)),((545,420),(570,0),(260,0)),((120,-5),(35,40),(0,115)),steps=192))
     put('4',450,[(450,220),(0,220),(330,700),(330,0)])
-    put('5',450,[(440,700),(55,700),(25,375)],curve((25,375),((525,540),(580,-10),(235,0)),((95,0),(20,60),(0,110))))
-    put('6',450,curve((425,630),((185,885),(-60,455),(10,195))),ellipse(230,213,220,213,power=box))
+    put('5',450,[(440,700),(55,700)]+curve((55,700),((45,590),(35,480),(25,375)),steps=192)+curve((25,375),((525,540),(580,-10),(235,0)),((95,0),(20,60),(0,110)),steps=192)[1:])
+    put('6',450,curve((425,630),((185,885),(-60,455),(10,195)),steps=192),ellipse(230,213,220,213,power=box,steps=384))
     put('7',450,[(0,700),(450,700),(125,0)])
-    put('8',450,ellipse(225,530,200,170,power=box),ellipse(225,182,225,182,power=box))
-    put('9',450,ellipse(220,487,220,213,power=box),curve((440,505),((510,235),(265,-160),(20,75))))
+    put('8',450,ellipse(225,530,200,170,power=box,steps=384),ellipse(225,182,225,182,power=box,steps=384))
+    put('9',450,ellipse(220,487,220,213,power=box,steps=384),curve((440,505),((510,235),(265,-160),(20,75)),steps=192))
     # Cyrillic: language-specific skeletons, not Latin fallback substitution.
     for cy,lat in zip('АВСЕНКМОРТХаеорсух','ABCEHKMOPT Xaeopcyx'.replace(' ','')):
         d[cy]=d[lat]
@@ -128,7 +128,7 @@ def alphabet(variant,mono=False):
     put('Г',420,[(0,0),(0,700),(420,700)])
     put('Д',590,[(25,-130),(25,0),(590,0),(590,-130)],[(80,0),(160,170),(200,700),(510,700),(510,0)])
     put('Ж',760,[(0,700),(380,330),(760,700)],[(0,0),(310,395)],[(450,395),(760,0)],[(380,700),(380,0)])
-    d['З']=d['3']
+    d['З']=(450,[curve((0,590),((130,805),(510,700),(435,505)),((410,405),(290,365),(180,365)),((545,420),(570,0),(260,0)),((120,-5),(35,40),(0,115)))])
     put('И',510,[(0,700),(0,0),(510,700),(510,0)])
     put('Л',540,[(0,0),(75,35),(125,180),(165,700),(540,700),(540,0)])
     put('П',500,[(0,0),(0,700),(500,700),(500,0)])
@@ -455,14 +455,16 @@ def geometry(w,paths,variant,mono,thickness,oblique,ch,_factor=None):
                     length=math.hypot(dx,dy)
                     if length and abs(dx)<1e-6:
                         x,y=pts[end];pts[end]=(x,y+math.copysign(local/2,dy))
-                    elif length and abs(dy)>abs(dx)*.25 and base.isalpha() and (len(path)<=5 or base in 'yуУ') and ((path[end][1]==0 and dy<0) or (path[end][1]==source_h and dy>0)):
+                    elif length and abs(dy)>abs(dx)*.25 and (base.isalpha() or base=='7') and (len(path)<=5 or base in 'yуУ') and ((path[end][1]==0 and dy<0) or (path[end][1]==source_h and dy>0)):
                         # Extend diagonal ends through the alignment line, then cut horizontally.
                         limit=(0 if path[end][1]==0 else target_h)/ratio
                         sign=1 if dy>0 else -1
                         end_y=limit+sign*(local*abs(dx)/length/2+1)
                         x,y=pts[end];pts[end]=(x+(end_y-y)*dx/dy,end_y)
                         clips.append((limit,sign))
-            g=LineString(pts).buffer(local/2,cap_style='flat',join_style='round',quad_segs=8)
+            g=LineString(pts).buffer(local/2,cap_style='flat',join_style='mitre' if ch=='2' else 'round',quad_segs=32 if ch in '0123456789' else 8)
+            if ch=='2':
+                g=g.intersection(rectangle(-10000,0,10000,10000))
             for limit,sign in clips:
                 x0,y0,x1,y1=g.bounds
                 g=g.intersection(rectangle(x0-1,y0-1 if sign>0 else limit,x1+1,limit if sign>0 else y1+1))
@@ -481,7 +483,16 @@ def geometry(w,paths,variant,mono,thickness,oblique,ch,_factor=None):
         points=[(0,h),(span/2,t*.50),(span,h)] if base in 'мМ' else [(0,t*.25),(span,h-t*.25)]
         diagonal=LineString(points).buffer(t*.45,cap_style='flat',join_style='mitre')
         geoms.append(diagonal.intersection(rectangle(-t/2,0,span+t/2,h)))
-    g=unary_union(geoms).simplify(.3,preserve_topology=True) if geoms else Polygon()
+    if ch=='8':
+        # Keep each oval's counter intact; the other bowl must not cut a wave into it.
+        outer=unary_union([Polygon(part.exterior) for part in geoms])
+        radius=min(12,thickness*.2)
+        outer=outer.buffer(radius,quad_segs=32).buffer(-radius,quad_segs=32)
+        counters=unary_union([Polygon(ring) for part in geoms for ring in part.interiors])
+        geoms=[outer.difference(counters)]
+    g=unary_union(geoms).simplify(.015 if ch in '0123456789' else .3,preserve_topology=True) if geoms else Polygon()
+    if ch=='2' and not g.is_empty:
+        g=affine_transform(g,[1,0,0,708/g.bounds[3],0,0])
     if a_stem_x is not None:
         # Keep the joined outer stem vertical after polygon simplification.
         def straight_stem(ring):

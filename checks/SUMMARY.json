@@ -1,7 +1,12 @@
 {
   "status": "RECHECKED_WITH_DOCUMENTED_LIMITATIONS",
-  "edition": "RFN + Sans a repair + all-family \u042a/\u044a repair",
-  "date": "2026-10-13",
+  "edition": "Refined numerals after terminal cleanup; prior RFN, a and hard-sign repairs preserved",
+  "date": "2026-10-14",
+  "versions": {
+    "Sans": "1.103",
+    "Mono": "1.103",
+    "Code": "1.004"
+  },
   "delivered_fonts": 154,
   "source_fonts": 202,
   "reserved_font_name": "SAB Modul",
@@ -13,17 +18,19 @@
     "profile_runs": 27,
     "raw_counts": {
       "(not finished)": 0,
+      "ERROR": 164,
       "INFO": 753,
-      "PASS": 16567,
+      "PASS": 16447,
       "SKIP": 14023,
       "FAIL": 466,
-      "WARN": 879,
-      "ERROR": 44
+      "WARN": 879
     },
     "adobe_profiles_have_no_FAIL_or_ERROR": true,
-    "additional_FAIL_vs_initial_OFL_release": 164,
-    "new_findings_scope": "Google-specific OFL copyright template and exact nameID13 license text; RFN text is deliberately retained. No new negative check category outside these license checks.",
-    "comparison": "fontbakery-regression.json"
+    "new_nonservice_negative_message_counts_vs_previous_RFN_release": [],
+    "external_namecheck_new_ERROR_results_vs_previous_RFN_release": 120,
+    "external_namecheck_evidence": "digits/namecheck-service-response.json",
+    "comparison": "digits/fontbakery-regression-vs-rfn.json",
+    "initial_public_OFL_comparison_historical": "fontbakery-regression.json"
   },
   "fontvalidator": {
     "reports": 154,
@@ -32,32 +39,45 @@
     "raster_tests": false
   },
   "independent_review": {
-    "hard_sign_design": "Accepted in reviewed conditions by Astra",
+    "model": "Astra",
+    "verdict": "No blocking digit-repair findings in reviewed conditions",
     "fonts_compared": 356,
-    "hard_sign_geometry_cases": 8224,
-    "report": "astra-hard-final.md",
-    "a_report": "astra-rfn-a-final.md",
-    "remaining_a_VF_observation": "Italic VF has a small residual stem bend of1.018 units atwght700, distinct from the eliminated shoulder."
+    "numeric_geometry_cases": 27202,
+    "zero_length_line_cases": 12942,
+    "terminal_micro_sections": 2828,
+    "terminal_cleanup_max_deviation_units": 0.707106782,
+    "report": "astra-digits-final.md",
+    "reviewed_final_font_hashes": "astra-digits-final-reviewed-hashes.json"
   },
-  "drawing_regressions": {
-    "a_cases": 56250,
-    "hard_sign_cases": 52272,
-    "hard_sign_minimum_flag_units": 149.15908869383333,
-    "fixed_advances_and_columns_preserved": true
+  "numeric_regressions": {
+    "static_styles": 38,
+    "primary_geometry_cases": 6712,
+    "binary_files_compared": 356,
+    "web_numeric_glyph_location_matches": 2788,
+    "web_fonts_compared": 72,
+    "unrelated_glyphs_advances_layout_HVAR_and_variations_preserved": true,
+    "head_hhea_bearing_extrema_may_change_with_bounds": true
   },
   "browser": {
-    "web_style_cases": 38,
-    "actual_custom_fonts_verified_without_fallback": true,
-    "report": "hard-sign/browser-proof.json"
+    "static_styles": 38,
+    "large_text_nodes": 38,
+    "small_text_nodes": 76,
+    "actual_custom_fonts_without_fallback": true,
+    "report": "digits/browser-proof.json"
   },
   "license": {
     "fonts_verified": 356,
     "metadata_finalizer_byte_idempotent": true,
     "report": "rfn-update/final-license-audit.json"
   },
-  "scope": "Corporate RU/EN application, limited languages and retained historical exceptions. Not Google Fonts catalogue acceptance.",
+  "retained_design_limits": [
+    "A tiny prior Sans italic VF a-stem bend up to1.018 units atwght700, unchanged by this revision",
+    "Source fitting tolerances precede rounding; exact G1 continuity is not claimed",
+    "Sampled interpolation checks do not prove every real-valued axis coordinate"
+  ],
+  "scope": "Corporate RU/EN use; incomplete extended-language coverage and retained historical exceptions. Not Google Fonts catalogue admission.",
   "not_repeated": [
-    "Full clean drawing rebuild of every glyph",
+    "Full clean drawing rebuild of every historical source stage",
     "Complete native GUI inspector and browser/device matrix",
     "Full expanded-language design acceptance"
   ]

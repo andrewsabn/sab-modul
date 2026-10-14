@@ -3590,10 +3590,68 @@
     "earlier_fit_error_values_not_remeasured_after_piecewise_transform": true
   },
   "current_static_master_sha256": {
-    "SABModulCode-Medium.ttf": "f31ec9dc4a1bfc1af24d752435b95be50f4311357831dd15a8a282a00f0966f8",
-    "SABModulCode-Bold.ttf": "bd126e5277b14771e2183dd81c4b938f6a53c9806024569a7396f2f02e4ae466",
-    "SABModulCode-SemiBold.ttf": "c66e777bb08aa95ab1bf69a86839ba3e5b84ff4b6e5826a2f8057dbf09104c2a",
-    "SABModulCode-Regular.ttf": "6b2060307fe877f7b4d49f17053970ba4750e4b8b9adf781e6e6dc849a3f94ca",
-    "SABModulCode-Light.ttf": "a1db228a1413b81e64b2072b0295e4f89d422bcc68f0d1a8819ce51efda0b1f0"
+    "SABModulCode-Medium.ttf": "38cb6da417ec10d063ec361d5f275c3a324780e29467e1f222108f643577ac99",
+    "SABModulCode-Bold.ttf": "0cf36d36a255e7b9fec80a2f60a67abbe974a00ff1c759ced3537fb04c9bc661",
+    "SABModulCode-SemiBold.ttf": "d00c93cebef3d0ddb94aa3f88a0936f2c4b3113e2341df5b18eefd8015087880",
+    "SABModulCode-Regular.ttf": "84d4256283f1c0a6005efb42aca4bee54316a1728cd332d53a7ff50400be3296",
+    "SABModulCode-Light.ttf": "0cc79b7cee61f2e924898250bc6d3306615f1b8b18330e10a861c22bba468c00"
+  },
+  "digit_repair": {
+    "original_points_after_deduplication": 4018,
+    "original_points": 4018,
+    "fitted_points": 447,
+    "deduplicated_glyphs": {},
+    "glyphs": {
+      "uni0032": {
+        "max_fit_error_units": 0.3499,
+        "segments": 43,
+        "original_points": 572,
+        "fitted_points": 74
+      },
+      "uni0033": {
+        "max_fit_error_units": 0.3487,
+        "segments": 60,
+        "original_points": 1419,
+        "fitted_points": 102
+      },
+      "uni0035": {
+        "max_fit_error_units": 0.3489,
+        "segments": 63,
+        "original_points": 602,
+        "fitted_points": 103
+      },
+      "uni0037": {
+        "max_fit_error_units": 0.3442,
+        "segments": 12,
+        "original_points": 46,
+        "fitted_points": 16
+      },
+      "uni0038": {
+        "max_fit_error_units": 0.3484,
+        "segments": 77,
+        "original_points": 1379,
+        "fitted_points": 152
+      }
+    },
+    "tolerance_units": 0.35,
+    "terminal_cleanup": [
+      {
+        "glyph": "uni0035",
+        "removed_indices": [
+          41,
+          42,
+          43
+        ],
+        "max_master_terminal_deviation_units": 0.7071067811865476
+      }
+    ],
+    "sources": {
+      "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Medium.ttf": "85f5a605cc413299b144e284065a07cf8994ccc3a1fd430d5ea54bc73dbf2cf0",
+      "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Bold.ttf": "9dfcd714d9fec07da3dfcb3e608edc164d0043f995fd18373ebf31077dd74e69",
+      "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-SemiBold.ttf": "c1f9f3d17258b26eb63ba8c8bd02e885f3c3794ace2b4a2c4d4d7098642130af",
+      "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Regular.ttf": "bca198b75296e4573a26e0e6f8f3710040a72bd1b870935f44e4da5d29f4b2a9",
+      "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Light.ttf": "ae04e8d285a344f0cbe13bad4bccb3f161c200f7d360f81d03b7bd7380c6b186"
+    },
+    "error_scope": "Pre-rounding fit tolerance0.35 is not a bound for final compiled outlines. Terminal cleanup is separately measured; exact G1 continuity is not claimed. Non-digit fit fields are historical."
   }
 }

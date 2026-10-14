@@ -1,0 +1,1071 @@
+{
+  "issues": [],
+  "hints": [
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "limit": 380,
+      "actual": 380
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "limit": 439,
+      "actual": 439
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "limit": 483,
+      "actual": 483
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "limit": 482,
+      "actual": 482
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "limit": 327,
+      "actual": 327
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "limit": 270,
+      "actual": 270
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "limit": 415,
+      "actual": 415
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "limit": 287,
+      "actual": 287
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "limit": 309,
+      "actual": 309
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "limit": 296,
+      "actual": 296
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "limit": 445,
+      "actual": 445
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "limit": 440,
+      "actual": 440
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "limit": 339,
+      "actual": 339
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "limit": 284,
+      "actual": 284
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "limit": 337,
+      "actual": 337
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "limit": 331,
+      "actual": 331
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "limit": 745,
+      "actual": 745
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "limit": 707,
+      "actual": 707
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "limit": 230,
+      "actual": 230
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "limit": 226,
+      "actual": 226
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "limit": 371,
+      "actual": 371
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "limit": 318,
+      "actual": 318
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "limit": 328,
+      "actual": 328
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "limit": 252,
+      "actual": 252
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "limit": 675,
+      "actual": 675
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "limit": 633,
+      "actual": 633
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "limit": 237,
+      "actual": 237
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "limit": 237,
+      "actual": 237
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "limit": 414,
+      "actual": 414
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "limit": 446,
+      "actual": 446
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "limit": 401,
+      "actual": 401
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "limit": 947,
+      "actual": 947
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "limit": 915,
+      "actual": 915
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "limit": 549,
+      "actual": 549
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "limit": 527,
+      "actual": 527
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "limit": 307,
+      "actual": 307
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "limit": 294,
+      "actual": 294
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "limit": 707,
+      "actual": 707
+    }
+  ],
+  "zero_line_cases": 12942,
+  "zero_line_fonts": 82,
+  "web_fonts": 72,
+  "web_glyph_location_cases": 2788,
+  "web_records": [
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin-ext.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-cyrillic.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-symbols.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-cyrillic.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-symbols.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin-ext.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin.woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght].woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin-ext.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-symbols.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-cyrillic.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-symbols.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans-Italic[wght]-latin-ext.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "weight": 200.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "weight": 400,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-cyrillic.woff2",
+      "weight": 900.0,
+      "glyphs": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "weight": 200.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "weight": 400,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans-Italic[wght].woff2",
+      "weight": 900.0,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2",
+      "weight": null,
+      "glyphs": 26
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "weight": 300.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "weight": 400,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "weight": 450.5,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "weight": 700.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "weight": 300.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "weight": 400,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "weight": 700.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "weight": 300.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "weight": 400,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "weight": 450.5,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-latin.woff2",
+      "weight": 700.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "weight": 300.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "weight": 400,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "weight": 450.5,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "weight": 700.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "weight": 300.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "weight": 400,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "weight": 700.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "weight": 300.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "weight": 400,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "weight": 450.5,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "weight": 700.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "weight": 300.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "weight": 400,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "weight": 450.5,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-box-powerline.woff2",
+      "weight": 700.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "weight": 300.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "weight": 400,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "weight": 450.5,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-symbols.woff2",
+      "weight": 700.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "weight": 300.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "weight": 400,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "weight": 450.5,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght]-cyrillic.woff2",
+      "weight": 700.0,
+      "glyphs": 17
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "weight": 300.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "weight": 400,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode-Italic[wght].woff2",
+      "weight": 700.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "weight": 300.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "weight": 400,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "weight": 700.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "weight": 300.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "weight": 400,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "weight": 450.5,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode-Italic[wght].woff2",
+      "weight": 700.0,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-BoldItalic.woff2",
+      "weight": null,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Italic.woff2",
+      "weight": null,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBoldItalic.woff2",
+      "weight": null,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2",
+      "weight": null,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2",
+      "weight": null,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2",
+      "weight": null,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2",
+      "weight": null,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2",
+      "weight": null,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-LightItalic.woff2",
+      "weight": null,
+      "glyphs": 18
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-MediumItalic.woff2",
+      "weight": null,
+      "glyphs": 18
+    }
+  ]
+}

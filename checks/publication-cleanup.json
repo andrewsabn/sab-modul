@@ -89,5 +89,6 @@
     "checks/fontvalidator/SAB-Modul-1.0__VF__SABModulMono[wght].woff2/SABModulMono[wght].ttf",
     "checks/fontvalidator/SAB-Modul-1.0__WEB__SABModulSans-Italic[wght]-latin.woff2/SABModulSans-Italic[wght]-latin.ttf"
   ],
-  "reports_unchanged_by_binary_fixture_removal": true
+  "reports_unchanged_by_binary_fixture_removal": true,
+  "edition": "2026-10-14numeric"
 }

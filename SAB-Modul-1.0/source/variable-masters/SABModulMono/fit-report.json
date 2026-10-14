@@ -1847,13 +1847,13 @@
   },
   "tolerance_units": 0.8,
   "sources": {
-    "source/masters/SABModulMono-SemiBold.ttf": "7b9de6ed1f217e9140c115dfa15f86e4ed462558b01297453e6a2a27cf0c661d",
-    "source/masters/SABModulMono-Light.ttf": "20e9e78d86403cd8909725114e87e9e0a2d3702477db7345d5e86b1a56ae8c7e",
-    "source/masters/SABModulMono-Medium.ttf": "e74631e2f1bf1548e38d23471df2effc82641b480b3513703100c959cb9626d7",
-    "source/masters/SABModulMono-Regular.ttf": "70176652450b9261bfe6d9ad4bf8f1d1b462f5db282d3dd7025e77acfde356c7",
-    "source/masters/SABModulMono-Black.ttf": "6294b7ac7648e372e52df9df999e722ccd1eb55276ef2139d8b2111fccb886b5",
-    "source/masters/SABModulMono-Bold.ttf": "90452ed2b9ab8421eed92f74437220a62fc780b6825410114f462913eb6c9f04",
-    "source/masters/SABModulMono-Thin.ttf": "1249f5fca1527d10b2fef62de5bec32e7701e8dd11350d1c309258910dc01281"
+    "source/masters/SABModulMono-Black.ttf": "3c7bf69cad04bd6f53d7a0c56a7d4219e9bc3e4a64108a41cd82e95eee2b5c41",
+    "source/masters/SABModulMono-Bold.ttf": "2f096fedf3f5d07c1887d0f104e4018cffff6e9072a4693a4debbd67911f6de0",
+    "source/masters/SABModulMono-Light.ttf": "7bf3cde2d86de4a33665bf26a06bf1cf163bc1f4e4b0c2817d28a2505e48d003",
+    "source/masters/SABModulMono-Medium.ttf": "b0ac40ed4759d6a6f4a3f592b49fad077ff1fc570d4198afb57b32f35c9870fa",
+    "source/masters/SABModulMono-Regular.ttf": "4ed08d84786052adead9b5da38f1534411149881ec90f86afaaf96f829da47ab",
+    "source/masters/SABModulMono-SemiBold.ttf": "a6a35ce9d5d306188ec0034c7626cf964afea8df97105d9be9c6c2166e5381b0",
+    "source/masters/SABModulMono-Thin.ttf": "efbf7557e64a4c59264e76ff07165f65b4d483b97a3479b8fc9a1559036f15cf"
   },
   "hard_sign_repair": {
     "glyphs": [
@@ -1872,5 +1872,102 @@
     "source/masters/SABModulMono-SemiBold.ttf": "8f21325a6c4c9b4fcba0d70d0afcc0c39d9be12008e6964ff5636df77682897a",
     "source/masters/SABModulMono-Bold.ttf": "1d0914d1352381852742d4c95292d2cf2263cd8f03b1e22aa132057fe31df0ed",
     "source/masters/SABModulMono-Black.ttf": "21ff4deefa30b44f433272227fb920ec8842f6fb8db3be8a1b6d5df3b7d566b2"
+  },
+  "digit_repair": {
+    "original_points_after_deduplication": 6474,
+    "original_points": 6474,
+    "fitted_points": 830,
+    "deduplicated_glyphs": {
+      "uni0030.pnum": "uni0030",
+      "uni0032.pnum": "uni0032",
+      "uni0033.pnum": "uni0033",
+      "uni0035.pnum": "uni0035",
+      "uni0036.pnum": "uni0036",
+      "uni0037.pnum": "uni0037",
+      "uni0038.pnum": "uni0038",
+      "uni0039.pnum": "uni0039"
+    },
+    "glyphs": {
+      "uni0030": {
+        "max_fit_error_units": 0.3118,
+        "segments": 44,
+        "original_points": 728,
+        "fitted_points": 86
+      },
+      "uni0032": {
+        "max_fit_error_units": 0.3338,
+        "segments": 47,
+        "original_points": 579,
+        "fitted_points": 83
+      },
+      "uni0033": {
+        "max_fit_error_units": 0.3487,
+        "segments": 80,
+        "original_points": 1034,
+        "fitted_points": 141
+      },
+      "uni0035": {
+        "max_fit_error_units": 0.3445,
+        "segments": 74,
+        "original_points": 605,
+        "fitted_points": 119
+      },
+      "uni0036": {
+        "max_fit_error_units": 0.3462,
+        "segments": 58,
+        "original_points": 1042,
+        "fitted_points": 115
+      },
+      "uni0037": {
+        "max_fit_error_units": 0.3333,
+        "segments": 16,
+        "original_points": 47,
+        "fitted_points": 20
+      },
+      "uni0038": {
+        "max_fit_error_units": 0.3447,
+        "segments": 77,
+        "original_points": 1393,
+        "fitted_points": 153
+      },
+      "uni0039": {
+        "max_fit_error_units": 0.3462,
+        "segments": 57,
+        "original_points": 1046,
+        "fitted_points": 113
+      }
+    },
+    "tolerance_units": 0.35,
+    "terminal_cleanup": [
+      {
+        "glyph": "uni0035",
+        "removed_indices": [
+          43,
+          44,
+          45,
+          46
+        ],
+        "max_master_terminal_deviation_units": 0.7071067811865476
+      }
+    ],
+    "frozen_master_sources": {
+      "source/masters/SABModulMono-Black.ttf": "3c7bf69cad04bd6f53d7a0c56a7d4219e9bc3e4a64108a41cd82e95eee2b5c41",
+      "source/masters/SABModulMono-Bold.ttf": "2f096fedf3f5d07c1887d0f104e4018cffff6e9072a4693a4debbd67911f6de0",
+      "source/masters/SABModulMono-Light.ttf": "7bf3cde2d86de4a33665bf26a06bf1cf163bc1f4e4b0c2817d28a2505e48d003",
+      "source/masters/SABModulMono-Medium.ttf": "b0ac40ed4759d6a6f4a3f592b49fad077ff1fc570d4198afb57b32f35c9870fa",
+      "source/masters/SABModulMono-Regular.ttf": "4ed08d84786052adead9b5da38f1534411149881ec90f86afaaf96f829da47ab",
+      "source/masters/SABModulMono-SemiBold.ttf": "a6a35ce9d5d306188ec0034c7626cf964afea8df97105d9be9c6c2166e5381b0",
+      "source/masters/SABModulMono-Thin.ttf": "efbf7557e64a4c59264e76ff07165f65b4d483b97a3479b8fc9a1559036f15cf"
+    },
+    "sources": {
+      "SAB-Modul-1.0/source/variable-masters/SABModulMono/Light.ttf": "dfd0063a9b1de8b82f0150688c59cf870ed78c91c4348581fa12d6d2e0c548c3",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMono/SemiBold.ttf": "f745fa88fa9ac7e364917afdf5f36e93c29c5ef548d10c00a60730c7a7c7a843",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMono/Medium.ttf": "f42609b9db8abb0c20acfd544a8a98f46d723162b1d04fb4922f3fb205f91501",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMono/Black.ttf": "2ac8e88c6f9f78898223437eb16cd7966ae9cd419c74f288b4e68a8b6dd6db30",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMono/Bold.ttf": "58186ea93b264fde677a8bea925ef6eabfbcf33a5af36dc932f4bc6f0c349ed9",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMono/Regular.ttf": "d19554f4678370ab52c4957062f1017e3df089421a7928b0ad5f5baeb3c6d7bb",
+      "SAB-Modul-1.0/source/variable-masters/SABModulMono/Thin.ttf": "d0e878ba3a3e6d9126b2269b5383effc9b3fcf50051f6ad0b46809202cd23abf"
+    },
+    "error_scope": "Pre-rounding fit tolerance0.35 is not a bound for final compiled outlines. Terminal cleanup is separately measured; exact G1 continuity is not claimed. Non-digit fit fields are historical."
   }
 }

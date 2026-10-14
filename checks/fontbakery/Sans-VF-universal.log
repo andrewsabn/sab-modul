@@ -1,13 +1,75 @@
 Start ... running 242 individual check executions.
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Italic.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
 
 Total:
-    ERROR: 0
+    ERROR: 2
     FATAL: 0
     FAIL: 0
     WARN: 3
     INFO: 6
     SKIP: 39
-    PASS: 194
+    PASS: 192
 
 
 
@@ -26,34 +88,6 @@ And a  SKIP happens when the check does not apply to the given font.
     reports and/or feature requests are also always welcome, of course!)
 
 
-
-
-                           ,@.
-                         ,@.@@,.
-                   ,@@,.@@@.  @.@@@,.
-                 ,@@. @@@.     @@. @@,.
-         ,@@@.@,.@.              @.  @@@@,.@.@@,.
-    ,@@.@.     @@.@@.            @,.    .@’ @’  @@,
-  ,@@. @.          .@@.@@@.  @@’                  @,
- ,@.  @@.                                          @,
- @.     @,@@,.     ,                             .@@,
- @,.       .@,@@,.         .@@,.  ,       .@@,  @, @,
- @.                             .@. @ @@,.    ,      @
-  @,.@@.     @,.      @@,.      @.           @,.    @’
-   @@||@,.  @’@,.       @@,.  @@ @,.        @’@@,  @’
-      \\@@@@’  @,.      @’@@@@’   @@,.   @@@’ //@@@’
-       |||||||| @@,.  @@’ |||||||  |@@@|@||  ||
-        \\\\\\\  ||@@@||  |||||||  |||||||  //
-         |||||||  ||||||  ||||||   ||||||  ||
-          \\\\\\  ||||||  ||||||  ||||||  //
-           ||||||  |||||  |||||   |||||  ||
-            \\\\\  |||||  |||||  |||||  //
-             |||||  ||||  |||||  ||||  ||
-              \\\\  ||||  ||||  ||||  //
-               ||||||||||||||||||||||||
-
-         No check is failing. Get a cupcake!
-       <<Art by Tony de Marco, July 26, 2018>>
 
 DONE!
 A report in JSON format has been saved to "sab-modul/checks/fontbakery/Sans-VF-universal.json"

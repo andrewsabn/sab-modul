@@ -1,4 +1,438 @@
 Start ... running 3083 individual check executions.
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Black.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-BlackOblique.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Bold.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-BoldOblique.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Light.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-LightOblique.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Medium.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-MediumOblique.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Regular.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-RegularOblique.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-SemiBold.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-SemiBoldOblique.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Thin.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-ThinOblique.otf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
  >> googlefonts/glyphsets/shape_languages
     Shapes languages in all GF glyphsets.
     with SABModulSans-Black.otf
@@ -21,7 +455,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ӣ, ӯ, ҳ                                     
+          missing from the font: ҳ, ҷ, ӣ, ӯ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -55,13 +489,13 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ҳ, ӣ, ӯ                                     
+          missing from the font: ҷ, ҳ, ӯ, ӣ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: Җ, җ                                           
+          missing from the font: җ, Җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -89,7 +523,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҳ, ӣ, ӯ, ҷ                                     
+          missing from the font: ҳ, ӯ, ӣ, ҷ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -123,7 +557,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӣ, ҷ, ҳ, ӯ                                     
+          missing from the font: ӣ, ӯ, ҳ, ҷ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -157,7 +591,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӯ, ҳ, ҷ, ӣ                                     
+          missing from the font: ӯ, ӣ, ҳ, ҷ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -191,7 +625,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ҳ, ӣ, ӯ                                     
+          missing from the font: ҳ, ӯ, ҷ, ӣ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -225,7 +659,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ӣ, ҳ, ӯ                                     
+          missing from the font: ӣ, ӯ, ҷ, ҳ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -259,13 +693,13 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҳ, ӯ, ӣ, ҷ                                     
+          missing from the font: ҷ, ҳ, ӣ, ӯ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
+          missing from the font: Җ, җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -299,7 +733,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
+          missing from the font: Җ, җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -327,13 +761,13 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӯ, ҷ, ӣ, ҳ                                     
+          missing from the font: ӣ, ӯ, ҳ, ҷ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: Җ, җ                                           
+          missing from the font: җ, Җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -361,7 +795,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӯ, ҷ, ӣ, ҳ                                     
+          missing from the font: ҳ, ҷ, ӯ, ӣ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -395,7 +829,7 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ӣ, ҳ, ӯ, ҷ                                     
+          missing from the font: ҳ, ҷ, ӣ, ӯ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
@@ -429,13 +863,13 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҷ, ӯ, ҳ, ӣ                                     
+          missing from the font: ӯ, ҷ, ҳ, ӣ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
+          missing from the font: Җ, җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -463,13 +897,13 @@ Start ... running 3083 individual check executions.
           missing from the font: ʼ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tg_Cyrl (Tajik)                
-          missing from the font: ҳ, ӣ, ҷ, ӯ                                     
+          missing from the font: ӣ, ӯ, ҷ, ҳ                                     
           Mandatory orthography codepoints:                                     
           The following base characters are      uz_Cyrl (Uzbek (Cyrillic))     
           missing from the font: ҳ                                              
           Mandatory orthography codepoints:                                     
           The following base characters are      tk_Cyrl (Turkmen (Cyrillic))   
-          missing from the font: җ, Җ                                           
+          missing from the font: Җ, җ                                           
           [code: failed-language-shaping]                                       
                                                                                 
 
@@ -3187,13 +3621,13 @@ name.
 
 
 Total:
-    ERROR: 0
+    ERROR: 14
     FATAL: 0
     FAIL: 81
     WARN: 104
     INFO: 57
     SKIP: 1712
-    PASS: 1129
+    PASS: 1115
 
 
 

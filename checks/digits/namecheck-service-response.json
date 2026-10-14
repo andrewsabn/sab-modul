@@ -1,0 +1,12 @@
+{
+  "check": "fontdata_namecheck",
+  "family": "SAB Modul Sans",
+  "http_status": 429,
+  "content_type": "application/json; charset=UTF-8",
+  "response": {
+    "error": {
+      "message": "Rate limit exceeded. Consider requesting an API key."
+    }
+  },
+  "interpretation": "External service evidence only; not an outline, naming-table or uniqueness PASS."
+}

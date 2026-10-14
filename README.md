@@ -10,9 +10,9 @@ Read how the family was made: [A corporate typeface of our own with Codex: the F
 
 | Family | Purpose | Static TTF styles | Internal OFL version |
 |---|---|---:|---|
-| SAB Modul Sans | Body text, headings and interfaces | 14 | 1.102 |
-| SAB Modul Mono | Numbers, tables and technical materials | 14 | 1.102 |
-| SAB Modul Code | Programming and terminals | 10 | 1.003 |
+| SAB Modul Sans | Body text, headings and interfaces | 14 | 1.103 |
+| SAB Modul Mono | Numbers, tables and technical materials | 14 | 1.103 |
+| SAB Modul Code | Programming and terminals | 10 | 1.004 |
 
 There are 38 static styles for installation. The complete distribution contains 154 files across TTF, OTF, variable fonts and WOFF2, including web subsets. The source includes 202 master and intermediate font files.
 
@@ -42,13 +42,17 @@ The [methodology](METHODOLOGY.md) explains the creation and verification process
 
 ## Changes in this release
 
-The shoulder at the upper arc/stem junction of Sans `а/a` and related forms has been removed. The left flags of the Cyrillic hard signs `ъ` and `Ъ` have been lengthened in Sans, Mono and Code. Character advances, code columns and layout tables are preserved. Web files and source masters are updated.
+Digit outlines have been corrected across all three families and every weight/slant. The exposed joins in `2` and `5` are removed, `7` meets the baseline, and `2` has a restrained optical cap overshoot. The counters of `8` no longer contain the reverse wave from intersecting bowls. Curved numerals in Sans/Mono and the flat-topped Code `3` use smooth curves in the static fonts as well as the variable files. Existing proportional-number and Code zero alternatives are covered by regression checks.
 
-[а/a proofs at 300/600 pt](checks/a-junction/README.md) · [ъ/Ъ in every style at 14/16 pt](checks/hard-sign/README.md) · [Web proofs](checks/hard-sign/web-proof.html).
+All character advances, columns, layout and unrelated glyphs remain unchanged. The earlier Sans `а/a` and Cyrillic `ъ/Ъ` corrections are preserved. Updated sources, static fonts, variable fonts and web files are included.
+
+[Digit proofs in every style](checks/digits/web-proof.html) · [Digit repair and checks](checks/digits/README.md) · [Earlier а/a proofs](checks/a-junction/README.md) · [Earlier ъ/Ъ proofs](checks/hard-sign/README.md).
 
 ## Validation of this distribution
 
-Current counts and files are recorded in [checks/SUMMARY.json](checks/SUMMARY.json). OTS checks all 154 delivered files. FontBakery was run with the universal, googlefonts and adobefonts profiles for every TTF/OTF/VF family group. Font Validator was run without raster tests. Raw negative results are retained; exceptions are documented in [ACCEPTANCE.md](ACCEPTANCE.md).
+Current counts and files are recorded in [checks/SUMMARY.json](checks/SUMMARY.json). OTS checks all 154 delivered files. FontBakery was run with the universal, googlefonts and adobefonts profiles for every TTF/OTF/VF family group. Font Validator was run without raster tests. The final external name check was rate-limited (HTTP429); its raw ERROR results remain visible and name uniqueness is not certified. Raw negative results are retained; exceptions are documented in [ACCEPTANCE.md](ACCEPTANCE.md).
+
+For this numeric revision, Astra independently compared all 356 delivered/source fonts, checked 27,202 geometric cases, 12,942 zero-line cases and 2,788 web glyph/location combinations. No blocking digit-repair findings remain. The primary numeric audit covers 6,712 cases; all 38 static styles and 76 small browser text nodes use the actual custom fonts. The old 5-terminal warning from the first fitted draft was corrected and the full gates rerun. See the [final independent review (in Russian)](checks/astra-digits-final.md) and [numeric checks](checks/digits/README.md).
 
 Astra independently reviewed the licensing transition and the а/a repair, then the ъ/Ъ change. The latter comparison covered 356 files and confirmed that unrelated glyphs, metrics, columns, layout tables and variation data were preserved. Astra checked 8,224 geometric cases and accepted the hard-sign design in the reviewed conditions. The primary а/a junction regression covered 56,250 cases; the ъ/Ъ flag regression covered 52,272.
 
@@ -57,6 +61,7 @@ Limitations remain. The italic Sans VF has a small residual а/a stem bend of up
 The license and RFN were verified in all 356 delivered and source font files. Metadata finalization is byte-idempotent. All 38 web styles were checked in the browser on the diagnostic words without font fallback. A complete clean rebuild of every drawing and all historical graphical-inspector sessions were not repeated. The affected forms were rebuilt; each report states its conditions and limits.
 
 - [Validation summary](checks/SUMMARY.json)
+- [Independent final digit review (in Russian)](checks/astra-digits-final.md)
 - [Independent ъ/Ъ review (in Russian)](checks/astra-hard-final.md)
 - [Independent а/a and RFN review (in Russian)](checks/astra-rfn-a-final.md)
 - [License audit of all final files](checks/rfn-update/final-license-audit.json)

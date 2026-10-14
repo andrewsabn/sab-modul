@@ -1,0 +1,8899 @@
+{
+  "static_font_count": 38,
+  "digit_cases": 380,
+  "issues": [],
+  "bounds_summary": {
+    "Sans": {
+      "0": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "1": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "2": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 726,
+        "max_y_max": 726
+      },
+      "3": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 709,
+        "max_y_max": 709
+      },
+      "4": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "5": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "6": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 708,
+        "max_y_max": 708
+      },
+      "7": {
+        "min_y_min": 16,
+        "max_y_min": 39,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "8": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "9": {
+        "min_y_min": 3,
+        "max_y_min": 3,
+        "min_y_max": 700,
+        "max_y_max": 700
+      }
+    },
+    "Mono": {
+      "0": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "1": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "2": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 726,
+        "max_y_max": 726
+      },
+      "3": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 709,
+        "max_y_max": 709
+      },
+      "4": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "5": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "6": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 708,
+        "max_y_max": 708
+      },
+      "7": {
+        "min_y_min": 15,
+        "max_y_min": 38,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "8": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "9": {
+        "min_y_min": 3,
+        "max_y_min": 3,
+        "min_y_max": 700,
+        "max_y_max": 700
+      }
+    },
+    "Code": {
+      "0": {
+        "min_y_min": 0.11764705882352944,
+        "max_y_min": 0.5,
+        "min_y_max": 699.7222222222222,
+        "max_y_max": 700.25
+      },
+      "1": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 699.75,
+        "max_y_max": 700.1
+      },
+      "2": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 725.3333333333334,
+        "max_y_max": 726.2
+      },
+      "3": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 700,
+        "max_y_max": 700
+      },
+      "4": {
+        "min_y_min": 0,
+        "max_y_min": 0,
+        "min_y_max": 699,
+        "max_y_max": 700
+      },
+      "5": {
+        "min_y_min": -0.23076923076923084,
+        "max_y_min": 0.30434782608695654,
+        "min_y_max": 700,
+        "max_y_max": 700.3076923076923
+      },
+      "6": {
+        "min_y_min": -0.0625,
+        "max_y_min": 0.518518518518519,
+        "min_y_max": 707.3478260869565,
+        "max_y_max": 707.76
+      },
+      "7": {
+        "min_y_min": 21,
+        "max_y_min": 33,
+        "min_y_max": 700,
+        "max_y_max": 700.0769230769231
+      },
+      "8": {
+        "min_y_min": 0.0,
+        "max_y_min": 0.5,
+        "min_y_max": 699.7619047619048,
+        "max_y_max": 700.4285714285714
+      },
+      "9": {
+        "min_y_min": 2.5,
+        "max_y_min": 3.6315789473684212,
+        "min_y_max": 699.4814814814815,
+        "max_y_max": 700.5588235294117
+      }
+    }
+  },
+  "waist_measurements": [
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        174.0,
+        125.0,
+        444.0,
+        297.0
+      ],
+      "upper_center_indent": 0.9444444444444571,
+      "upper_counter_bounds": [
+        198.0,
+        423.0,
+        420.0,
+        575.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        156.02929593547316,
+        125.0,
+        426.03173726342925,
+        297.0
+      ],
+      "upper_center_indent": 0.9403304980589837,
+      "upper_counter_bounds": [
+        179.59977945285215,
+        423.0,
+        402.59977945285215,
+        575.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        161.0,
+        110.0,
+        459.0,
+        305.0
+      ],
+      "upper_center_indent": 0.9565217391304373,
+      "upper_counter_bounds": [
+        185.0,
+        416.0,
+        435.0,
+        590.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        141.91093083901546,
+        110.0,
+        440.3239880126393,
+        305.0
+      ],
+      "upper_center_indent": 0.9412504583683585,
+      "upper_counter_bounds": [
+        166.07079851072677,
+        416.0,
+        416.07323983868287,
+        590.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        129.0,
+        63.0,
+        491.0,
+        329.0
+      ],
+      "upper_center_indent": 1.0,
+      "upper_counter_bounds": [
+        153.0,
+        393.0,
+        467.0,
+        637.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        110.14766103193082,
+        63.0,
+        472.2635848004324,
+        329.0
+      ],
+      "upper_center_indent": 1.0,
+      "upper_counter_bounds": [
+        134.3075287036421,
+        393.0,
+        448.367931915849,
+        637.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.9499999999999886,
+      "lower_counter_bounds": [
+        142.0,
+        85.0,
+        476.0,
+        318.0
+      ],
+      "upper_center_indent": 1.954545454545439,
+      "upper_counter_bounds": [
+        166.0,
+        403.0,
+        452.0,
+        615.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.968145287391792,
+      "lower_counter_bounds": [
+        124.38194989689008,
+        85.0,
+        459.442353109097,
+        318.0
+      ],
+      "upper_center_indent": 1.9751043778912276,
+      "upper_counter_bounds": [
+        148.4258938000998,
+        403.0,
+        435.66262399301513,
+        615.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "lower_center_indent": 2.0,
+      "lower_counter_bounds": [
+        134.0,
+        72.0,
+        486.0,
+        325.0
+      ],
+      "upper_center_indent": 1.9499999999999886,
+      "upper_counter_bounds": [
+        158.0,
+        397.0,
+        462.0,
+        628.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "lower_center_indent": 2.0,
+      "lower_counter_bounds": [
+        114.91093083901546,
+        72.0,
+        466.97133405122236,
+        325.0
+      ],
+      "upper_center_indent": 1.9618342162813747,
+      "upper_counter_bounds": [
+        138.8969128579744,
+        397.0,
+        442.95731607018126,
+        628.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        151.0,
+        98.0,
+        467.0,
+        311.0
+      ],
+      "upper_center_indent": 0.9565217391304373,
+      "upper_counter_bounds": [
+        175.0,
+        410.0,
+        443.0,
+        603.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        132.43991178114086,
+        98.0,
+        449.85296895476466,
+        311.0
+      ],
+      "upper_center_indent": 0.9400531369938676,
+      "upper_counter_bounds": [
+        156.367931915849,
+        410.0,
+        425.9548747422252,
+        603.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "lower_center_indent": 2.0,
+      "lower_counter_bounds": [
+        122.0,
+        50.0,
+        498.0,
+        336.0
+      ],
+      "upper_center_indent": 1.0,
+      "upper_counter_bounds": [
+        146.0,
+        387.0,
+        474.0,
+        649.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "lower_center_indent": 2.0,
+      "lower_counter_bounds": [
+        103.7925657425578,
+        50.0,
+        479.9084895110594,
+        336.0
+      ],
+      "upper_center_indent": 1.0,
+      "upper_counter_bounds": [
+        127.77854776151672,
+        387.0,
+        455.8389509737236,
+        649.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        208.0,
+        125.0,
+        456.0,
+        297.0
+      ],
+      "upper_center_indent": 0.9393939393939377,
+      "upper_counter_bounds": [
+        231.0,
+        423.0,
+        433.0,
+        575.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        191.03173726342925,
+        125.0,
+        439.2056229161816,
+        297.0
+      ],
+      "upper_center_indent": 0.9368022294462435,
+      "upper_counter_bounds": [
+        213.59977945285215,
+        423.0,
+        416.59977945285215,
+        575.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        189.0,
+        110.0,
+        465.0,
+        305.0
+      ],
+      "upper_center_indent": 0.9565217391304373,
+      "upper_counter_bounds": [
+        212.0,
+        416.0,
+        442.0,
+        590.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        170.3239880126393,
+        110.0,
+        445.5607182055546,
+        305.0
+      ],
+      "upper_center_indent": 0.934813587674455,
+      "upper_counter_bounds": [
+        192.8969128579744,
+        416.0,
+        423.0707985107268,
+        590.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        143.0,
+        63.0,
+        483.0,
+        329.0
+      ],
+      "upper_center_indent": 1.0,
+      "upper_counter_bounds": [
+        166.0,
+        393.0,
+        460.0,
+        637.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        124.14766103193082,
+        63.0,
+        463.379508568934,
+        329.0
+      ],
+      "upper_center_indent": 1.0,
+      "upper_counter_bounds": [
+        147.3075287036421,
+        393.0,
+        441.367931915849,
+        637.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.9499999999999886,
+      "lower_counter_bounds": [
+        162.0,
+        85.0,
+        474.0,
+        318.0
+      ],
+      "upper_center_indent": 1.9523809523809632,
+      "upper_counter_bounds": [
+        185.0,
+        403.0,
+        451.0,
+        615.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.9680574667787027,
+      "lower_counter_bounds": [
+        144.3819498968901,
+        85.0,
+        457.3819498968901,
+        318.0
+      ],
+      "upper_center_indent": 1.9795929940091241,
+      "upper_counter_bounds": [
+        167.66262399301513,
+        403.0,
+        434.66262399301513,
+        615.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "lower_center_indent": 2.0,
+      "lower_counter_bounds": [
+        150.0,
+        72.0,
+        480.0,
+        325.0
+      ],
+      "upper_center_indent": 1.9523809523809632,
+      "upper_counter_bounds": [
+        173.0,
+        397.0,
+        457.0,
+        628.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "lower_center_indent": 2.0,
+      "lower_counter_bounds": [
+        131.91093083901546,
+        72.0,
+        461.91093083901546,
+        325.0
+      ],
+      "upper_center_indent": 1.965282991377478,
+      "upper_counter_bounds": [
+        154.95731607018126,
+        397.0,
+        438.95731607018126,
+        628.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        175.0,
+        98.0,
+        469.0,
+        311.0
+      ],
+      "upper_center_indent": 0.954545454545439,
+      "upper_counter_bounds": [
+        198.0,
+        410.0,
+        446.0,
+        603.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        156.85296895476466,
+        98.0,
+        451.08969914768005,
+        311.0
+      ],
+      "upper_center_indent": 0.9400531369938676,
+      "upper_counter_bounds": [
+        179.367931915849,
+        410.0,
+        428.9548747422252,
+        603.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "lower_center_indent": 2.0,
+      "lower_counter_bounds": [
+        132.0,
+        50.0,
+        485.0,
+        336.0
+      ],
+      "upper_center_indent": 1.0,
+      "upper_counter_bounds": [
+        155.0,
+        387.0,
+        462.0,
+        649.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "lower_center_indent": 2.0,
+      "lower_counter_bounds": [
+        113.7925657425578,
+        50.0,
+        466.9084895110594,
+        336.0
+      ],
+      "upper_center_indent": 1.0,
+      "upper_counter_bounds": [
+        136.72302720522202,
+        387.0,
+        444.8389509737236,
+        649.0
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "lower_center_indent": 1.0211181640625,
+      "lower_counter_bounds": [
+        153.2314453125,
+        106.734130859375,
+        447.4443359375,
+        307.0
+      ],
+      "upper_center_indent": 0.9639933268229015,
+      "upper_counter_bounds": [
+        176.714599609375,
+        415.0,
+        423.125,
+        593.83984375
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "lower_center_indent": 1.0,
+      "lower_counter_bounds": [
+        136.33783083206663,
+        108.0,
+        427.9428674625031,
+        306.0
+      ],
+      "upper_center_indent": 0.9970902550746246,
+      "upper_counter_bounds": [
+        158.64551269379888,
+        415.0,
+        404.4885197740134,
+        592.34765625
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "lower_center_indent": 1.9217008740320125,
+      "lower_counter_bounds": [
+        120.35875788337509,
+        85.740966796875,
+        443.6572910511155,
+        317.0
+      ],
+      "upper_center_indent": 1.9724714837727788,
+      "upper_counter_bounds": [
+        143.47033635320088,
+        404.0,
+        420.4258938000998,
+        614.322509765625
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "lower_center_indent": 2.0,
+      "lower_counter_bounds": [
+        130.2314453125,
+        72.9453125,
+        469.5,
+        324.0
+      ],
+      "upper_center_indent": 1.9520806206597285,
+      "upper_counter_bounds": [
+        153.875,
+        398.0,
+        446.39990234375,
+        627.427001953125
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "lower_center_indent": 2.233897297982992,
+      "lower_counter_bounds": [
+        112.73341061082742,
+        73.741943359375,
+        451.0018426699963,
+        324.0
+      ],
+      "upper_center_indent": 1.9762261340959526,
+      "upper_counter_bounds": [
+        136.18868476513677,
+        398.0,
+        427.92602930943895,
+        626.125
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "lower_center_indent": 1.9968764361213402,
+      "lower_counter_bounds": [
+        140.727294921875,
+        88.765625,
+        459.16650390625,
+        316.0
+      ],
+      "upper_center_indent": 1.9393939393939377,
+      "upper_counter_bounds": [
+        163.875,
+        405.0,
+        436.125,
+        611.6328125
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "lower_center_indent": 0.9644511577012622,
+      "lower_counter_bounds": [
+        122.96604609419418,
+        90.0,
+        440.7868086529187,
+        315.0
+      ],
+      "upper_center_indent": 1.9976150636641705,
+      "upper_counter_bounds": [
+        146.68662237494138,
+        405.0,
+        417.705353486532,
+        610.6328125
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "lower_center_indent": 1.988554113051464,
+      "lower_counter_bounds": [
+        138.22265625,
+        84.789794921875,
+        462.16650390625,
+        318.0
+      ],
+      "upper_center_indent": 1.9417006548713402,
+      "upper_counter_bounds": [
+        161.875,
+        403.0,
+        438.142822265625,
+        615.451416015625
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "lower_center_indent": 1.9803825827206083,
+      "lower_counter_bounds": [
+        145.22265625,
+        94.93359375,
+        455.4443359375,
+        313.0
+      ],
+      "upper_center_indent": 1.9462418094757936,
+      "upper_counter_bounds": [
+        168.33349609375,
+        408.0,
+        432.0,
+        605.6328125
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "lower_center_indent": 0.9590749257633888,
+      "lower_counter_bounds": [
+        127.68107488189003,
+        96.5,
+        436.58215530296076,
+        311.0
+      ],
+      "upper_center_indent": 1.9301672194967523,
+      "upper_counter_bounds": [
+        151.22282463472862,
+        409.0,
+        413.9560074446924,
+        604.1416015625
+      ]
+    }
+  ],
+  "pnum_max_shape_distance": 1.1368683772161603e-13,
+  "pnum_cases": 280,
+  "pnum_details": [
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 2.842170943040401e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 5.684341886080802e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 5.684341886080802e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 1.4210854715202004e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 1.4210854715202004e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 5.684341886080802e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 5.684341886080802e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 1.4210854715202004e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 1.4210854715202004e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 1.4210854715202004e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 1.4210854715202004e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 1.4210854715202004e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 2.842170943040401e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 5.684341886080802e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 2.842170943040401e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 7.105427357601002e-15
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 1.4210854715202004e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 2.842170943040401e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "0",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "1",
+      "shape_distance_after_horizontal_alignment": 5.684341886080802e-14
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "2",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "3",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "4",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "5",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "6",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "7",
+      "shape_distance_after_horizontal_alignment": 0.0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "8",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "digit": "9",
+      "shape_distance_after_horizontal_alignment": 1.1368683772161603e-13
+    }
+  ],
+  "digits": [
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        13,
+        0,
+        605,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        13
+      ],
+      "points": 166,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        105,
+        0,
+        513,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        105
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        13,
+        0,
+        607,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        13
+      ],
+      "points": 110,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        5,
+        0,
+        615,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        5
+      ],
+      "points": 197,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        53,
+        0,
+        565,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        53
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        14,
+        0,
+        606,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        14
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        12,
+        0,
+        606,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        12
+      ],
+      "points": 193,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        53,
+        38,
+        565,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        53
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        13,
+        0,
+        605,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        13
+      ],
+      "points": 252,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        12,
+        3,
+        606,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        12
+      ],
+      "points": 193,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        48,
+        0,
+        658,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        48
+      ],
+      "points": 166,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        140,
+        0,
+        517,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        140
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        15,
+        0,
+        682,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        15
+      ],
+      "points": 110,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        10,
+        0,
+        661,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        10
+      ],
+      "points": 197,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        78,
+        0,
+        627,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        78
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        19,
+        0,
+        629,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        19
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        42,
+        0,
+        652,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        42
+      ],
+      "points": 193,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        96,
+        38,
+        660,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        96
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        29,
+        0,
+        654,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        29
+      ],
+      "points": 252,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        52,
+        3,
+        664,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        52
+      ],
+      "points": 193,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        27,
+        0,
+        593,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        27
+      ],
+      "points": 174,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        110,
+        0,
+        508,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        110
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        26,
+        0,
+        592,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        26
+      ],
+      "points": 111,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        18,
+        0,
+        602,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        18
+      ],
+      "points": 191,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        60,
+        0,
+        558,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        60
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        27,
+        0,
+        593,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        27
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        26,
+        0,
+        594,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        26
+      ],
+      "points": 200,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        60,
+        33,
+        558,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        60
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        27,
+        0,
+        593,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        27
+      ],
+      "points": 261,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        26,
+        3,
+        594,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        26
+      ],
+      "points": 200,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        61,
+        0,
+        645,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        61
+      ],
+      "points": 174,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        135,
+        0,
+        509,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        135
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        26,
+        0,
+        669,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        26
+      ],
+      "points": 111,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        23,
+        0,
+        649,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        23
+      ],
+      "points": 191,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        84,
+        0,
+        608,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        84
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        31,
+        0,
+        616,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        31
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        55,
+        0,
+        642,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        55
+      ],
+      "points": 200,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        114,
+        33,
+        655,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        114
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        42,
+        0,
+        641,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        42
+      ],
+      "points": 261,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        62,
+        3,
+        651,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        62
+      ],
+      "points": 200,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        59,
+        0,
+        561,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        59
+      ],
+      "points": 186,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        122,
+        0,
+        498,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        122
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        58,
+        0,
+        560,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        58
+      ],
+      "points": 103,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        48,
+        0,
+        570,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        48
+      ],
+      "points": 180,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        76,
+        0,
+        542,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        76
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        58,
+        0,
+        562,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        58
+      ],
+      "points": 114,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        57,
+        0,
+        561,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        57
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        76,
+        19,
+        542,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        76
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        59,
+        0,
+        561,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        59
+      ],
+      "points": 318,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        58,
+        3,
+        562,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        58
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        92,
+        0,
+        614,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        92
+      ],
+      "points": 186,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        124,
+        0,
+        491,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        124
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        50,
+        0,
+        638,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        50
+      ],
+      "points": 103,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        52,
+        0,
+        620,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        52
+      ],
+      "points": 180,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        98,
+        0,
+        571,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        98
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        61,
+        0,
+        618,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        61
+      ],
+      "points": 114,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        86,
+        0,
+        619,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        86
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        154,
+        19,
+        644,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        154
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        72,
+        0,
+        612,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        72
+      ],
+      "points": 318,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        84,
+        3,
+        621,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        84
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        45,
+        0,
+        573,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        45
+      ],
+      "points": 180,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        117,
+        0,
+        501,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        117
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        45,
+        0,
+        575,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        45
+      ],
+      "points": 105,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        36,
+        0,
+        584,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        36
+      ],
+      "points": 187,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        69,
+        0,
+        549,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        69
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        45,
+        0,
+        575,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        45
+      ],
+      "points": 115,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        44,
+        0,
+        574,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        44
+      ],
+      "points": 226,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        69,
+        25,
+        549,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        69
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        45,
+        0,
+        573,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        45
+      ],
+      "points": 284,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        44,
+        3,
+        574,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        44
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        79,
+        0,
+        627,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        79
+      ],
+      "points": 180,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        129,
+        0,
+        499,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        129
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        40,
+        0,
+        651,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        40
+      ],
+      "points": 105,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        40,
+        0,
+        632,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        40
+      ],
+      "points": 187,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        92,
+        0,
+        581,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        92
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        48,
+        0,
+        617,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        48
+      ],
+      "points": 115,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        73,
+        0,
+        629,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        73
+      ],
+      "points": 226,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        137,
+        25,
+        648,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        137
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        60,
+        0,
+        625,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        60
+      ],
+      "points": 284,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        75,
+        3,
+        634,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        75
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        54,
+        0,
+        566,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        54
+      ],
+      "points": 183,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        120,
+        0,
+        498,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        120
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        53,
+        0,
+        565,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        53
+      ],
+      "points": 104,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        44,
+        0,
+        576,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        44
+      ],
+      "points": 189,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        74,
+        0,
+        546,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        74
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        53,
+        0,
+        567,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        53
+      ],
+      "points": 114,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        53,
+        0,
+        567,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        53
+      ],
+      "points": 228,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        74,
+        21,
+        546,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        74
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        54,
+        0,
+        566,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        54
+      ],
+      "points": 307,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        53,
+        3,
+        567,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        53
+      ],
+      "points": 228,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        87,
+        0,
+        618,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        87
+      ],
+      "points": 183,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        126,
+        0,
+        494,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        126
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        47,
+        0,
+        644,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        47
+      ],
+      "points": 104,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        47,
+        0,
+        624,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        47
+      ],
+      "points": 189,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        96,
+        0,
+        574,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        96
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        56,
+        0,
+        617,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        56
+      ],
+      "points": 114,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        81,
+        0,
+        623,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        81
+      ],
+      "points": 228,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        148,
+        21,
+        646,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        148
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        67,
+        0,
+        616,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        67
+      ],
+      "points": 307,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        81,
+        3,
+        626,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        81
+      ],
+      "points": 228,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        36,
+        0,
+        582,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        36
+      ],
+      "points": 176,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        114,
+        0,
+        506,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        114
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        36,
+        0,
+        584,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        36
+      ],
+      "points": 107,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        27,
+        0,
+        591,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        27
+      ],
+      "points": 189,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        65,
+        0,
+        555,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        65
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        36,
+        0,
+        582,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        36
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        35,
+        0,
+        583,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        35
+      ],
+      "points": 210,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        65,
+        29,
+        555,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        65
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        36,
+        0,
+        582,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        36
+      ],
+      "points": 270,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        35,
+        3,
+        583,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        35
+      ],
+      "points": 210,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        70,
+        0,
+        635,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        70
+      ],
+      "points": 176,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        132,
+        0,
+        505,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        132
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        33,
+        0,
+        659,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        33
+      ],
+      "points": 107,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        31,
+        0,
+        639,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        31
+      ],
+      "points": 189,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        88,
+        0,
+        593,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        88
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        40,
+        0,
+        616,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        40
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        64,
+        0,
+        635,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        64
+      ],
+      "points": 210,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        126,
+        29,
+        651,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        126
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        51,
+        0,
+        633,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        51
+      ],
+      "points": 270,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        69,
+        3,
+        642,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        69
+      ],
+      "points": 210,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        66,
+        0,
+        554,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        66
+      ],
+      "points": 188,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        124,
+        0,
+        494,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        124
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        65,
+        0,
+        555,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        65
+      ],
+      "points": 97,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        55,
+        0,
+        563,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        55
+      ],
+      "points": 176,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        80,
+        0,
+        540,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        80
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        64,
+        0,
+        554,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        64
+      ],
+      "points": 103,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        64,
+        0,
+        554,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        64
+      ],
+      "points": 228,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        80,
+        15,
+        540,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        80
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        66,
+        0,
+        554,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        66
+      ],
+      "points": 338,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        65,
+        3,
+        555,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        65
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "0",
+      "bounds": [
+        99,
+        0,
+        607,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        99
+      ],
+      "points": 188,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "1",
+      "bounds": [
+        121,
+        0,
+        485,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        121
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "2",
+      "bounds": [
+        55,
+        0,
+        633,
+        726
+      ],
+      "advance_lsb": [
+        620,
+        55
+      ],
+      "points": 97,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "3",
+      "bounds": [
+        58,
+        0,
+        614,
+        709
+      ],
+      "advance_lsb": [
+        620,
+        58
+      ],
+      "points": 176,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "4",
+      "bounds": [
+        102,
+        0,
+        567,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        102
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "5",
+      "bounds": [
+        67,
+        0,
+        618,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        67
+      ],
+      "points": 103,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "6",
+      "bounds": [
+        93,
+        0,
+        616,
+        708
+      ],
+      "advance_lsb": [
+        620,
+        93
+      ],
+      "points": 228,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "7",
+      "bounds": [
+        162,
+        15,
+        640,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        162
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "8",
+      "bounds": [
+        79,
+        0,
+        606,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        79
+      ],
+      "points": 338,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "family": "Mono",
+      "digit": "9",
+      "bounds": [
+        88,
+        3,
+        613,
+        700
+      ],
+      "advance_lsb": [
+        620,
+        88
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        47,
+        0,
+        617,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        47
+      ],
+      "points": 189,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        137,
+        0,
+        529,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        137
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        47,
+        0,
+        619,
+        726
+      ],
+      "advance_lsb": [
+        666,
+        47
+      ],
+      "points": 108,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        39,
+        0,
+        625,
+        709
+      ],
+      "advance_lsb": [
+        666,
+        39
+      ],
+      "points": 193,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        88,
+        0,
+        578,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        88
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        48,
+        0,
+        618,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        48
+      ],
+      "points": 118,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        46,
+        0,
+        618,
+        708
+      ],
+      "advance_lsb": [
+        666,
+        46
+      ],
+      "points": 191,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        88,
+        39,
+        578,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        88
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        47,
+        0,
+        617,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        47
+      ],
+      "points": 254,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        46,
+        3,
+        618,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        46
+      ],
+      "points": 190,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        82,
+        0,
+        671,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        82
+      ],
+      "points": 189,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        174,
+        0,
+        536,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        174
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        48,
+        0,
+        692,
+        726
+      ],
+      "advance_lsb": [
+        666,
+        48
+      ],
+      "points": 108,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        45,
+        0,
+        674,
+        709
+      ],
+      "advance_lsb": [
+        666,
+        45
+      ],
+      "points": 193,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        112,
+        0,
+        644,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        112
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        53,
+        0,
+        641,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        53
+      ],
+      "points": 118,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        76,
+        0,
+        666,
+        708
+      ],
+      "advance_lsb": [
+        666,
+        76
+      ],
+      "points": 191,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        124,
+        39,
+        673,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        124
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        64,
+        0,
+        668,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        64
+      ],
+      "points": 254,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        84,
+        3,
+        676,
+        700
+      ],
+      "advance_lsb": [
+        666,
+        84
+      ],
+      "points": 190,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        55,
+        0,
+        599,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        55
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        136,
+        0,
+        518,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        136
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        54,
+        0,
+        598,
+        726
+      ],
+      "advance_lsb": [
+        654,
+        54
+      ],
+      "points": 110,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        46,
+        0,
+        606,
+        709
+      ],
+      "advance_lsb": [
+        654,
+        46
+      ],
+      "points": 193,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        88,
+        0,
+        564,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        88
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        55,
+        0,
+        599,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        55
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        54,
+        0,
+        600,
+        708
+      ],
+      "advance_lsb": [
+        654,
+        54
+      ],
+      "points": 196,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        88,
+        34,
+        564,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        88
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        55,
+        0,
+        599,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        55
+      ],
+      "points": 262,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        54,
+        3,
+        600,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        54
+      ],
+      "points": 197,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        89,
+        0,
+        651,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        89
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        162,
+        0,
+        518,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        162
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        53,
+        0,
+        674,
+        726
+      ],
+      "advance_lsb": [
+        654,
+        53
+      ],
+      "points": 110,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        51,
+        0,
+        655,
+        709
+      ],
+      "advance_lsb": [
+        654,
+        51
+      ],
+      "points": 193,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        112,
+        0,
+        618,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        112
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        59,
+        0,
+        623,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        59
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        83,
+        0,
+        650,
+        708
+      ],
+      "advance_lsb": [
+        654,
+        83
+      ],
+      "points": 196,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        135,
+        34,
+        661,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        135
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        70,
+        0,
+        649,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        70
+      ],
+      "points": 262,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        88,
+        3,
+        656,
+        700
+      ],
+      "advance_lsb": [
+        654,
+        88
+      ],
+      "points": 197,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        73,
+        0,
+        553,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        73
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        134,
+        0,
+        492,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        134
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        72,
+        0,
+        552,
+        726
+      ],
+      "advance_lsb": [
+        626,
+        72
+      ],
+      "points": 103,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        63,
+        0,
+        561,
+        709
+      ],
+      "advance_lsb": [
+        626,
+        63
+      ],
+      "points": 179,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        90,
+        0,
+        534,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        90
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        72,
+        0,
+        554,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        72
+      ],
+      "points": 112,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        72,
+        0,
+        554,
+        708
+      ],
+      "advance_lsb": [
+        626,
+        72
+      ],
+      "points": 228,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        90,
+        19,
+        534,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        90
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        73,
+        0,
+        553,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        73
+      ],
+      "points": 314,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        72,
+        3,
+        554,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        72
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        106,
+        0,
+        606,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        106
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        137,
+        0,
+        485,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        137
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        64,
+        0,
+        631,
+        726
+      ],
+      "advance_lsb": [
+        626,
+        64
+      ],
+      "points": 103,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        67,
+        0,
+        614,
+        709
+      ],
+      "advance_lsb": [
+        626,
+        67
+      ],
+      "points": 179,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        113,
+        0,
+        564,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        113
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        75,
+        0,
+        610,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        75
+      ],
+      "points": 112,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        100,
+        0,
+        613,
+        708
+      ],
+      "advance_lsb": [
+        626,
+        100
+      ],
+      "points": 228,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        161,
+        19,
+        635,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        161
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        86,
+        0,
+        605,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        86
+      ],
+      "points": 314,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        96,
+        3,
+        612,
+        700
+      ],
+      "advance_lsb": [
+        626,
+        96
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        65,
+        0,
+        571,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        65
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        135,
+        0,
+        503,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        135
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        65,
+        0,
+        573,
+        726
+      ],
+      "advance_lsb": [
+        638,
+        65
+      ],
+      "points": 106,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        56,
+        0,
+        580,
+        709
+      ],
+      "advance_lsb": [
+        638,
+        56
+      ],
+      "points": 189,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        90,
+        0,
+        548,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        90
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        65,
+        0,
+        573,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        65
+      ],
+      "points": 115,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        64,
+        0,
+        572,
+        708
+      ],
+      "advance_lsb": [
+        638,
+        64
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        90,
+        26,
+        548,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        90
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        65,
+        0,
+        571,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        65
+      ],
+      "points": 277,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        64,
+        3,
+        572,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        64
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        99,
+        0,
+        625,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        99
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        147,
+        0,
+        499,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        147
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        60,
+        0,
+        650,
+        726
+      ],
+      "advance_lsb": [
+        638,
+        60
+      ],
+      "points": 106,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        60,
+        0,
+        630,
+        709
+      ],
+      "advance_lsb": [
+        638,
+        60
+      ],
+      "points": 189,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        113,
+        0,
+        586,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        113
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        69,
+        0,
+        616,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        69
+      ],
+      "points": 115,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        93,
+        0,
+        628,
+        708
+      ],
+      "advance_lsb": [
+        638,
+        93
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        151,
+        26,
+        646,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        151
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        80,
+        0,
+        624,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        80
+      ],
+      "points": 277,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        93,
+        3,
+        631,
+        700
+      ],
+      "advance_lsb": [
+        638,
+        93
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        70,
+        0,
+        560,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        70
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        134,
+        0,
+        494,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        134
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        69,
+        0,
+        559,
+        726
+      ],
+      "advance_lsb": [
+        630,
+        69
+      ],
+      "points": 104,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        60,
+        0,
+        568,
+        709
+      ],
+      "advance_lsb": [
+        630,
+        60
+      ],
+      "points": 184,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        90,
+        0,
+        540,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        90
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        69,
+        0,
+        559,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        69
+      ],
+      "points": 116,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        69,
+        0,
+        561,
+        708
+      ],
+      "advance_lsb": [
+        630,
+        69
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        90,
+        22,
+        540,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        90
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        70,
+        0,
+        560,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        70
+      ],
+      "points": 292,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        69,
+        3,
+        561,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        69
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        103,
+        0,
+        613,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        103
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        140,
+        0,
+        489,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        140
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        62,
+        0,
+        637,
+        726
+      ],
+      "advance_lsb": [
+        630,
+        62
+      ],
+      "points": 104,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        64,
+        0,
+        619,
+        709
+      ],
+      "advance_lsb": [
+        630,
+        64
+      ],
+      "points": 184,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        112,
+        0,
+        569,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        112
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        72,
+        0,
+        612,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        72
+      ],
+      "points": 116,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        97,
+        0,
+        618,
+        708
+      ],
+      "advance_lsb": [
+        630,
+        97
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        157,
+        22,
+        638,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        157
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        84,
+        0,
+        612,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        84
+      ],
+      "points": 292,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        95,
+        3,
+        619,
+        700
+      ],
+      "advance_lsb": [
+        630,
+        95
+      ],
+      "points": 227,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        60,
+        0,
+        584,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        60
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        136,
+        0,
+        510,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        136
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        60,
+        0,
+        586,
+        726
+      ],
+      "advance_lsb": [
+        646,
+        60
+      ],
+      "points": 107,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        52,
+        0,
+        594,
+        709
+      ],
+      "advance_lsb": [
+        646,
+        52
+      ],
+      "points": 190,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        89,
+        0,
+        555,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        89
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        60,
+        0,
+        584,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        60
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        59,
+        0,
+        585,
+        708
+      ],
+      "advance_lsb": [
+        646,
+        59
+      ],
+      "points": 204,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        89,
+        30,
+        555,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        89
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        60,
+        0,
+        584,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        60
+      ],
+      "points": 267,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        59,
+        3,
+        585,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        59
+      ],
+      "points": 205,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        94,
+        0,
+        638,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        94
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        155,
+        0,
+        509,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        155
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        57,
+        0,
+        662,
+        726
+      ],
+      "advance_lsb": [
+        646,
+        57
+      ],
+      "points": 107,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        56,
+        0,
+        642,
+        709
+      ],
+      "advance_lsb": [
+        646,
+        56
+      ],
+      "points": 190,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        112,
+        0,
+        601,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        112
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        64,
+        0,
+        619,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        64
+      ],
+      "points": 117,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        88,
+        0,
+        639,
+        708
+      ],
+      "advance_lsb": [
+        646,
+        88
+      ],
+      "points": 204,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        144,
+        30,
+        654,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        144
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        75,
+        0,
+        636,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        75
+      ],
+      "points": 267,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        91,
+        3,
+        643,
+        700
+      ],
+      "advance_lsb": [
+        646,
+        91
+      ],
+      "points": 205,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        76,
+        0,
+        541,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        76
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        133,
+        0,
+        486,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        133
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        76,
+        0,
+        543,
+        726
+      ],
+      "advance_lsb": [
+        619,
+        76
+      ],
+      "points": 94,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        66,
+        0,
+        551,
+        709
+      ],
+      "advance_lsb": [
+        619,
+        66
+      ],
+      "points": 175,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        90,
+        0,
+        527,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        90
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        75,
+        0,
+        542,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        75
+      ],
+      "points": 104,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        75,
+        0,
+        542,
+        708
+      ],
+      "advance_lsb": [
+        619,
+        75
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        90,
+        16,
+        527,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        90
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        76,
+        0,
+        541,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        76
+      ],
+      "points": 334,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        75,
+        3,
+        542,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        75
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "0",
+      "bounds": [
+        109,
+        0,
+        596,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        109
+      ],
+      "points": 192,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "1",
+      "bounds": [
+        131,
+        0,
+        477,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        131
+      ],
+      "points": 22,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "2",
+      "bounds": [
+        65,
+        0,
+        621,
+        726
+      ],
+      "advance_lsb": [
+        619,
+        65
+      ],
+      "points": 94,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "3",
+      "bounds": [
+        70,
+        0,
+        604,
+        709
+      ],
+      "advance_lsb": [
+        619,
+        70
+      ],
+      "points": 175,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "4",
+      "bounds": [
+        112,
+        0,
+        554,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        112
+      ],
+      "points": 36,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "5",
+      "bounds": [
+        78,
+        0,
+        608,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        78
+      ],
+      "points": 104,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "6",
+      "bounds": [
+        103,
+        0,
+        604,
+        708
+      ],
+      "advance_lsb": [
+        619,
+        103
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "7",
+      "bounds": [
+        166,
+        16,
+        629,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        166
+      ],
+      "points": 16,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "8",
+      "bounds": [
+        89,
+        0,
+        595,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        89
+      ],
+      "points": 334,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "family": "Sans",
+      "digit": "9",
+      "bounds": [
+        98,
+        3,
+        603,
+        700
+      ],
+      "advance_lsb": [
+        619,
+        98
+      ],
+      "points": 229,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        28.5,
+        0.5,
+        572,
+        699.8823529411765
+      ],
+      "advance_lsb": [
+        600,
+        27
+      ],
+      "points": 95,
+      "offcurve": 41
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        108,
+        0,
+        492,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        108
+      ],
+      "points": 23,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        29,
+        0,
+        571.5,
+        725.5
+      ],
+      "advance_lsb": [
+        600,
+        29
+      ],
+      "points": 80,
+      "offcurve": 32
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        58,
+        0,
+        570,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        58
+      ],
+      "points": 178,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        60,
+        0,
+        540,
+        699.8
+      ],
+      "advance_lsb": [
+        600,
+        60
+      ],
+      "points": 40,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        29,
+        0.30434782608695654,
+        571.2631578947369,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        29
+      ],
+      "points": 87,
+      "offcurve": 37
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        27.666666666666668,
+        0.518518518518519,
+        572.3333333333334,
+        707.3478260869565
+      ],
+      "advance_lsb": [
+        600,
+        27
+      ],
+      "points": 115,
+      "offcurve": 49
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        60,
+        32,
+        539.6923076923077,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        60
+      ],
+      "points": 19,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        28.636363636363637,
+        0.5,
+        571.5714285714286,
+        699.7619047619048
+      ],
+      "advance_lsb": [
+        600,
+        27
+      ],
+      "points": 138,
+      "offcurve": 59
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        27.307692307692307,
+        3.5,
+        572.25,
+        699.4814814814815
+      ],
+      "advance_lsb": [
+        600,
+        25
+      ],
+      "points": 112,
+      "offcurve": 50
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        62,
+        0.2777777777777777,
+        626,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        62
+      ],
+      "points": 85,
+      "offcurve": 36
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        131,
+        0,
+        493,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        131
+      ],
+      "points": 28,
+      "offcurve": 7
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        26,
+        0,
+        648,
+        726.2
+      ],
+      "advance_lsb": [
+        600,
+        26
+      ],
+      "points": 87,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        21,
+        0,
+        579,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        21
+      ],
+      "points": 197,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        82,
+        0,
+        589.0,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        82
+      ],
+      "points": 41,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        33,
+        0.25,
+        601,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        33
+      ],
+      "points": 84,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        56.35714285714286,
+        0.44444444444444464,
+        625,
+        707.6538461538462
+      ],
+      "advance_lsb": [
+        600,
+        54
+      ],
+      "points": 125,
+      "offcurve": 56
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        113,
+        33,
+        636.8,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        113
+      ],
+      "points": 19,
+      "offcurve": 4
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        43.5,
+        0.5,
+        622.1428571428571,
+        700.25
+      ],
+      "advance_lsb": [
+        600,
+        42
+      ],
+      "points": 136,
+      "offcurve": 60
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        61,
+        2.95,
+        632,
+        699.939393939394
+      ],
+      "advance_lsb": [
+        600,
+        61
+      ],
+      "points": 102,
+      "offcurve": 46
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        77,
+        0.2777777777777777,
+        610,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        77
+      ],
+      "points": 85,
+      "offcurve": 36
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        125,
+        0,
+        483,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        125
+      ],
+      "points": 28,
+      "offcurve": 7
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        39,
+        0,
+        634,
+        725.8
+      ],
+      "advance_lsb": [
+        600,
+        39
+      ],
+      "points": 87,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        35,
+        0,
+        565,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        35
+      ],
+      "points": 198,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        89.75,
+        0,
+        567.2272727272727,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        89
+      ],
+      "points": 41,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        47,
+        -0.23076923076923084,
+        601,
+        700.0909090909091
+      ],
+      "advance_lsb": [
+        600,
+        47
+      ],
+      "points": 84,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        71.71428571428572,
+        0.117647058823529,
+        613,
+        707.5
+      ],
+      "advance_lsb": [
+        600,
+        70
+      ],
+      "points": 125,
+      "offcurve": 56
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        132,
+        25,
+        631,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        132
+      ],
+      "points": 19,
+      "offcurve": 4
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        57.833333333333336,
+        0.2424242424242422,
+        608.125,
+        700.4102564102565
+      ],
+      "advance_lsb": [
+        600,
+        57
+      ],
+      "points": 136,
+      "offcurve": 60
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        72,
+        3.4444444444444446,
+        616.1666666666666,
+        700.4571428571428
+      ],
+      "advance_lsb": [
+        600,
+        72
+      ],
+      "points": 102,
+      "offcurve": 46
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        51.5,
+        0.5,
+        548.0555555555555,
+        700.25
+      ],
+      "advance_lsb": [
+        600,
+        50
+      ],
+      "points": 95,
+      "offcurve": 41
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        117,
+        0,
+        483,
+        699.75
+      ],
+      "advance_lsb": [
+        600,
+        117
+      ],
+      "points": 23,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        51,
+        0,
+        549,
+        725.8181818181819
+      ],
+      "advance_lsb": [
+        600,
+        51
+      ],
+      "points": 80,
+      "offcurve": 32
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        81,
+        0,
+        547,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        81
+      ],
+      "points": 196,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        71,
+        0,
+        529,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        71
+      ],
+      "points": 40,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        51,
+        0.19999999999999996,
+        548.5625,
+        700.3076923076923
+      ],
+      "advance_lsb": [
+        600,
+        51
+      ],
+      "points": 87,
+      "offcurve": 37
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        51.5,
+        0.235294117647058,
+        549.0,
+        707.5333333333333
+      ],
+      "advance_lsb": [
+        600,
+        51
+      ],
+      "points": 115,
+      "offcurve": 49
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        71,
+        21,
+        529,
+        700.0714285714286
+      ],
+      "advance_lsb": [
+        600,
+        71
+      ],
+      "points": 19,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        51.63636363636363,
+        0.24489795918367285,
+        548.9259259259259,
+        700.2592592592592
+      ],
+      "advance_lsb": [
+        600,
+        50
+      ],
+      "points": 138,
+      "offcurve": 59
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        50.357142857142854,
+        3.4,
+        549.3333333333334,
+        699.9655172413793
+      ],
+      "advance_lsb": [
+        600,
+        48
+      ],
+      "points": 112,
+      "offcurve": 50
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        85,
+        0.11764705882352944,
+        602,
+        700.047619047619
+      ],
+      "advance_lsb": [
+        600,
+        85
+      ],
+      "points": 85,
+      "offcurve": 36
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        122,
+        0,
+        479,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        122
+      ],
+      "points": 28,
+      "offcurve": 7
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        44,
+        0,
+        626.6428571428571,
+        725.3333333333334
+      ],
+      "advance_lsb": [
+        600,
+        44
+      ],
+      "points": 87,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        42,
+        0,
+        558,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        42
+      ],
+      "points": 198,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        94,
+        0,
+        558,
+        699
+      ],
+      "advance_lsb": [
+        600,
+        94
+      ],
+      "points": 41,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        54,
+        -0.23076923076923084,
+        601,
+        700.3076923076923
+      ],
+      "advance_lsb": [
+        600,
+        54
+      ],
+      "points": 84,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        78.71428571428572,
+        0.0,
+        608,
+        707.5333333333333
+      ],
+      "advance_lsb": [
+        600,
+        77
+      ],
+      "points": 125,
+      "offcurve": 56
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        141,
+        22,
+        628.8,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        141
+      ],
+      "points": 19,
+      "offcurve": 4
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        65,
+        0.2424242424242422,
+        600.8,
+        700.4102564102565
+      ],
+      "advance_lsb": [
+        600,
+        65
+      ],
+      "points": 136,
+      "offcurve": 60
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        77,
+        3.6315789473684212,
+        609.0416666666666,
+        700.3142857142857
+      ],
+      "advance_lsb": [
+        600,
+        77
+      ],
+      "points": 102,
+      "offcurve": 46
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        42.0,
+        0.5,
+        558.1818181818181,
+        699.7222222222222
+      ],
+      "advance_lsb": [
+        600,
+        41
+      ],
+      "points": 95,
+      "offcurve": 41
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        113,
+        0,
+        487,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        113
+      ],
+      "points": 23,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        41,
+        0,
+        559,
+        725.5714285714286
+      ],
+      "advance_lsb": [
+        600,
+        41
+      ],
+      "points": 80,
+      "offcurve": 32
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        71,
+        0,
+        557,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        71
+      ],
+      "points": 191,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        66,
+        0,
+        534,
+        699.6666666666666
+      ],
+      "advance_lsb": [
+        600,
+        66
+      ],
+      "points": 40,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        41,
+        -0.08695652173913038,
+        558.5625,
+        700.0909090909091
+      ],
+      "advance_lsb": [
+        600,
+        41
+      ],
+      "points": 87,
+      "offcurve": 37
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        41.5,
+        0.5,
+        559.5,
+        707.5
+      ],
+      "advance_lsb": [
+        600,
+        41
+      ],
+      "points": 115,
+      "offcurve": 49
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        66,
+        26,
+        533,
+        700.0769230769231
+      ],
+      "advance_lsb": [
+        600,
+        66
+      ],
+      "points": 19,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        41.714285714285715,
+        0.5,
+        558.8148148148148,
+        700.0
+      ],
+      "advance_lsb": [
+        600,
+        40
+      ],
+      "points": 138,
+      "offcurve": 59
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        40.76470588235294,
+        3.4,
+        559.25,
+        700.0
+      ],
+      "advance_lsb": [
+        600,
+        39
+      ],
+      "points": 112,
+      "offcurve": 50
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        75,
+        0.2777777777777777,
+        613,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        75
+      ],
+      "points": 85,
+      "offcurve": 36
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        125,
+        0,
+        485,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        125
+      ],
+      "points": 28,
+      "offcurve": 7
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        37,
+        0,
+        636,
+        725.8
+      ],
+      "advance_lsb": [
+        600,
+        37
+      ],
+      "points": 87,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        33,
+        0,
+        567,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        33
+      ],
+      "points": 198,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        88.75,
+        0,
+        570.1363636363636,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        88
+      ],
+      "points": 41,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        45,
+        0.18181818181818188,
+        601,
+        700.0909090909091
+      ],
+      "advance_lsb": [
+        600,
+        45
+      ],
+      "points": 84,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        69.66666666666667,
+        -0.0625,
+        615,
+        707.76
+      ],
+      "advance_lsb": [
+        600,
+        68
+      ],
+      "points": 125,
+      "offcurve": 56
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        129,
+        27,
+        632,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        129
+      ],
+      "points": 19,
+      "offcurve": 4
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        55.42857142857143,
+        0.2424242424242422,
+        610.5714285714286,
+        700.4102564102565
+      ],
+      "advance_lsb": [
+        600,
+        54
+      ],
+      "points": 136,
+      "offcurve": 60
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        70,
+        2.9499999999999993,
+        618.1739130434783,
+        700.5588235294117
+      ],
+      "advance_lsb": [
+        600,
+        70
+      ],
+      "points": 102,
+      "offcurve": 46
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        44.0,
+        0.5,
+        556.05,
+        699.7222222222222
+      ],
+      "advance_lsb": [
+        600,
+        43
+      ],
+      "points": 95,
+      "offcurve": 41
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        114,
+        0,
+        486,
+        700.1
+      ],
+      "advance_lsb": [
+        600,
+        114
+      ],
+      "points": 23,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        43,
+        0,
+        557,
+        725.5714285714286
+      ],
+      "advance_lsb": [
+        600,
+        43
+      ],
+      "points": 80,
+      "offcurve": 32
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        73,
+        0,
+        554,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        73
+      ],
+      "points": 190,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        68,
+        0,
+        532,
+        699.6666666666666
+      ],
+      "advance_lsb": [
+        600,
+        68
+      ],
+      "points": 40,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        43,
+        -0.08695652173913038,
+        556.0666666666667,
+        700.0909090909091
+      ],
+      "advance_lsb": [
+        600,
+        43
+      ],
+      "points": 87,
+      "offcurve": 37
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        43.5,
+        0.4666666666666668,
+        557.0625,
+        707.5
+      ],
+      "advance_lsb": [
+        600,
+        43
+      ],
+      "points": 115,
+      "offcurve": 49
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        68,
+        25,
+        532,
+        700.0769230769231
+      ],
+      "advance_lsb": [
+        600,
+        68
+      ],
+      "points": 19,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        43.91666666666667,
+        0.0,
+        556.3846153846154,
+        700.0
+      ],
+      "advance_lsb": [
+        600,
+        43
+      ],
+      "points": 138,
+      "offcurve": 59
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        42.75,
+        3.4,
+        557,
+        700.0
+      ],
+      "advance_lsb": [
+        600,
+        41
+      ],
+      "points": 112,
+      "offcurve": 50
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        37.5,
+        0.5,
+        563,
+        699.8823529411765
+      ],
+      "advance_lsb": [
+        600,
+        36
+      ],
+      "points": 95,
+      "offcurve": 41
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        111,
+        0,
+        489,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        111
+      ],
+      "points": 23,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        37,
+        0,
+        563.0909090909091,
+        725.6666666666666
+      ],
+      "advance_lsb": [
+        600,
+        37
+      ],
+      "points": 80,
+      "offcurve": 32
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        66,
+        0,
+        561,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        66
+      ],
+      "points": 190,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        63.8,
+        0,
+        536,
+        699.8
+      ],
+      "advance_lsb": [
+        600,
+        63
+      ],
+      "points": 40,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        37,
+        0.2727272727272727,
+        562.6666666666666,
+        700.0909090909091
+      ],
+      "advance_lsb": [
+        600,
+        37
+      ],
+      "points": 87,
+      "offcurve": 37
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        36.5,
+        0.2413793103448274,
+        563.5555555555555,
+        707.5384615384615
+      ],
+      "advance_lsb": [
+        600,
+        36
+      ],
+      "points": 115,
+      "offcurve": 49
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        64,
+        28,
+        536,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        64
+      ],
+      "points": 19,
+      "offcurve": 5
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        36.9,
+        0.24444444444444535,
+        563.4615384615385,
+        700.2608695652174
+      ],
+      "advance_lsb": [
+        600,
+        36
+      ],
+      "points": 138,
+      "offcurve": 59
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        36.8,
+        3.1,
+        563.6666666666666,
+        700.0357142857143
+      ],
+      "advance_lsb": [
+        600,
+        35
+      ],
+      "points": 112,
+      "offcurve": 50
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "0",
+      "bounds": [
+        70,
+        0.2777777777777777,
+        617,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        70
+      ],
+      "points": 85,
+      "offcurve": 36
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "1",
+      "bounds": [
+        127,
+        0,
+        488,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        127
+      ],
+      "points": 28,
+      "offcurve": 7
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "2",
+      "bounds": [
+        34,
+        0,
+        640,
+        726.0
+      ],
+      "advance_lsb": [
+        600,
+        34
+      ],
+      "points": 87,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "3",
+      "bounds": [
+        29,
+        0,
+        571,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        29
+      ],
+      "points": 198,
+      "offcurve": 0
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "4",
+      "bounds": [
+        87,
+        0,
+        576.375,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        87
+      ],
+      "points": 41,
+      "offcurve": 12
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "5",
+      "bounds": [
+        41,
+        0.25,
+        601,
+        700.0833333333334
+      ],
+      "advance_lsb": [
+        600,
+        41
+      ],
+      "points": 84,
+      "offcurve": 34
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "6",
+      "bounds": [
+        64.33333333333333,
+        0.5,
+        618,
+        707.5384615384615
+      ],
+      "advance_lsb": [
+        600,
+        63
+      ],
+      "points": 125,
+      "offcurve": 56
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "7",
+      "bounds": [
+        123,
+        29,
+        634,
+        700
+      ],
+      "advance_lsb": [
+        600,
+        123
+      ],
+      "points": 19,
+      "offcurve": 4
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "8",
+      "bounds": [
+        51.333333333333336,
+        0.5,
+        615,
+        700.4285714285714
+      ],
+      "advance_lsb": [
+        600,
+        50
+      ],
+      "points": 136,
+      "offcurve": 60
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "family": "Code",
+      "digit": "9",
+      "bounds": [
+        67,
+        2.5,
+        623,
+        699.9032258064516
+      ],
+      "advance_lsb": [
+        600,
+        67
+      ],
+      "points": 102,
+      "offcurve": 46
+    }
+  ],
+  "font_hashes": [
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "sha256": "939654bf1f8297afd53350df140190bec46a66acdaf00987c53428e1c11bbf1c"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "sha256": "89fed832934c6647310579eb0ae0d171c863b6448205d20e4875537564ab1198"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "sha256": "86b97c7d40413d8339fa161c051bfe06382b50af98a151945399ac6465e4d1e4"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "sha256": "9c8fff603ccfab8e060fd5a9e6b3698cafb6186e42952441c52f7f43d6bd4b7c"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "sha256": "2028e346ceb481b368379fa2627fc81f9fe5447fec7e55cfd8a56b94fb6fc254"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "sha256": "059a6cb58219de2e314685ba9b964cbb2f570dd57e316cb9fd11c56d85df510d"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "sha256": "fef60d013dc32a2333792dafbd5fdba7dda75ecb4ef8f173a2e5fcbe13cc04ab"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "sha256": "7d8c6a6c6ba479610f6e49548a074655bb21db70839eab326982634ce9c2de95"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "sha256": "e494761ab7d4c598c3d1ea005c546cf8385e17aab35fc68167a6428617f20bfc"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "sha256": "42ded8796dc17c855af79e4c3fae4747180c00a35fd574e9c1f4ddc9c167fef3"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "sha256": "a37f2d8bc4775bb666cae44b78a4660b16c12b7d227cb2b121527053c4c6370d"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "sha256": "83a117653de6be9922021c2cc488c98f5780160a8afda35600175f25c5c9867b"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "sha256": "8bdeb43f363f8f065c1d95204919c3fd72dbb1637a1781c1dcf79d4c72f41aeb"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "sha256": "1397857078d65b7ff2b52df2890de7ed767959142dfcec9717ea49968aa39b95"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "sha256": "7c0186b796c114e7212ad3466e64649e68c9d7fd397b6919be56efa7e62cc560"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf",
+      "sha256": "98ea9da76cb148dd5eca4f1abf774205b44f59ddfc5e0a19746ec8410ba4509d"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "sha256": "7326d8a8ae2aacaa83662ac71cca8fa3b3a708646099ab6be1c63a22e14a8303"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf",
+      "sha256": "2e05ffa1daac76e0a8aefea0e10c2e17918ccbba706bb3aad358de6e7d877ad9"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "sha256": "e8345de83cc7359e9cfbf1b1f0bc7721fb51910628a0887deb6985ba163b6d6c"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf",
+      "sha256": "d5df7006e3d5815b1d0cc9691cbced26a47cb0c6ec4b8bf2874846951ebff527"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "sha256": "1de9e8a69483769270afc4470940c77f8624998566b85efe7193cea20d2462de"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf",
+      "sha256": "88236ef42c43cc055569d781c9d090c89b81a28120f187d8893473ce96f50f35"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "sha256": "1f207c9e2c43525d450048068400b9fa1bdda299de5c4115dcdeb2de47b09fc2"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf",
+      "sha256": "5a3564be75ddeafa8e606b99a66219f0c856dffdf6bbc492dea127f5d11e83cd"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "sha256": "b7b5f9d45d95a1d4bd3ab050979fb8154eb3af80a74732ef960e5b064f3e700b"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf",
+      "sha256": "c5a327b56bf104228a14ad718eab8148b935a6d38b006ab5bba3b247b516cc3a"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "sha256": "59a2e32ca7c3347a37fe50854513c11fb101ec59d13beed2ca43164c43068b1e"
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf",
+      "sha256": "e5df853a5cb413d64141c6ec58bc86380b648d8e4e102f42be0501982554b202"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "sha256": "194077d182fc1808b91581debc34e5345e8fc3e7f2c3d78a3d9cf1940b84a101"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-BoldItalic.ttf",
+      "sha256": "bb13226d37007bd44b0ad9af4fdbfb2b20496c700fc0fc7364cfdb7c86286d10"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Italic.ttf",
+      "sha256": "b36ce78da563583cc62127f4f5d8473f207b774c324c786281006a874dc1a0bb"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "sha256": "21c23c90b28f255aa4c68a3f4707b0a499e67be40a7e4e1979a16de5116146cf"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-LightItalic.ttf",
+      "sha256": "6431adcc40481e4c3aae71935db6f488fb8059d4f7291be56efbdfac087b243a"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "sha256": "f0e5f276901dda0272a41776cd7948ce1ae9e9794eff523fa8ec6d36f64562d9"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-MediumItalic.ttf",
+      "sha256": "0b2214aa13b72fa4b6bdff5fd5d83bb90d138179d02331613a202ce28e06693e"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "sha256": "32edb5266cf1069b02395965eb517713117006381ac3232c44f2147386252005"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "sha256": "9a30a160b7d55189c099dc1ea8c260cae8f5baaf0001e9c336ef55e820fa13f1"
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBoldItalic.ttf",
+      "sha256": "c0fd5ea417b70c2097aad702930949b9ad81c7af2e77186a4960936ab7cba011"
+    }
+  ]
+}

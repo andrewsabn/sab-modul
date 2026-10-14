@@ -1,12 +1,13 @@
 [
   {
     "label": "Sans-TTF-universal",
-    "exit_code": 0,
+    "exit_code": 1,
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 14,
       "INFO": 42,
-      "PASS": 1067,
+      "PASS": 1053,
       "SKIP": 513
     },
     "json": "checks/fontbakery/Sans-TTF-universal.json"
@@ -17,9 +18,10 @@
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 14,
       "FAIL": 81,
       "INFO": 85,
-      "PASS": 1311,
+      "PASS": 1297,
       "SKIP": 1488,
       "WARN": 118
     },
@@ -39,12 +41,13 @@
   },
   {
     "label": "Sans-OTF-universal",
-    "exit_code": 0,
+    "exit_code": 1,
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 14,
       "INFO": 42,
-      "PASS": 899,
+      "PASS": 885,
       "SKIP": 681
     },
     "json": "checks/fontbakery/Sans-OTF-universal.json"
@@ -55,9 +58,10 @@
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 14,
       "FAIL": 81,
       "INFO": 57,
-      "PASS": 1129,
+      "PASS": 1115,
       "SKIP": 1712,
       "WARN": 104
     },
@@ -77,12 +81,13 @@
   },
   {
     "label": "Sans-VF-universal",
-    "exit_code": 0,
+    "exit_code": 1,
     "fonts": 2,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 2,
       "INFO": 6,
-      "PASS": 194,
+      "PASS": 192,
       "SKIP": 39,
       "WARN": 3
     },
@@ -94,9 +99,10 @@
     "fonts": 2,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 2,
       "FAIL": 16,
       "INFO": 13,
-      "PASS": 232,
+      "PASS": 230,
       "SKIP": 177,
       "WARN": 17
     },
@@ -116,12 +122,13 @@
   },
   {
     "label": "Mono-TTF-universal",
-    "exit_code": 0,
+    "exit_code": 1,
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 14,
       "INFO": 42,
-      "PASS": 1053,
+      "PASS": 1039,
       "SKIP": 513,
       "WARN": 14
     },
@@ -133,9 +140,10 @@
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 14,
       "FAIL": 81,
       "INFO": 85,
-      "PASS": 1302,
+      "PASS": 1288,
       "SKIP": 1488,
       "WARN": 127
     },
@@ -156,12 +164,13 @@
   },
   {
     "label": "Mono-OTF-universal",
-    "exit_code": 0,
+    "exit_code": 1,
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 14,
       "INFO": 42,
-      "PASS": 885,
+      "PASS": 871,
       "SKIP": 681,
       "WARN": 14
     },
@@ -173,9 +182,10 @@
     "fonts": 14,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 14,
       "FAIL": 81,
       "INFO": 57,
-      "PASS": 1117,
+      "PASS": 1103,
       "SKIP": 1712,
       "WARN": 116
     },
@@ -196,12 +206,13 @@
   },
   {
     "label": "Mono-VF-universal",
-    "exit_code": 0,
+    "exit_code": 1,
     "fonts": 2,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 2,
       "INFO": 6,
-      "PASS": 192,
+      "PASS": 190,
       "SKIP": 39,
       "WARN": 5
     },
@@ -213,9 +224,10 @@
     "fonts": 2,
     "counts": {
       "(not finished)": 0,
+      "ERROR": 2,
       "FAIL": 16,
       "INFO": 13,
-      "PASS": 230,
+      "PASS": 228,
       "SKIP": 177,
       "WARN": 19
     },

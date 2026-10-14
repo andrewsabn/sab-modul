@@ -1,0 +1,842 @@
+{
+  "counts": {
+    "fonts": 356,
+    "VF": 40
+  },
+  "versions": {
+    "Version 1.103": 166,
+    "Version 1.004": 190
+  },
+  "issues": [],
+  "changed_files": [
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Black.otf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Bold.otf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-BoldOblique.otf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Regular.otf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-RegularOblique.otf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-SemiBold.otf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-Thin.otf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/OTF/SABModulMono-ThinOblique.otf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Black.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BlackOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Bold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-BoldOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Light.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-LightOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Medium.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-MediumOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Regular.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-RegularOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-SemiBoldOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-Thin.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulMono-ThinOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Black.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Light.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono-Italic[wght].woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulMono[wght].woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/VF/SABModulSans[wght].woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono-Italic[wght]-latin.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulMono[wght]-latin.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght]-latin.woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WEB/SABModulSans[wght].woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Black.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-BlackOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Bold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-BoldOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Light.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-LightOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Medium.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-MediumOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Regular.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-RegularOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-SemiBold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-SemiBoldOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-Thin.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulMono-ThinOblique.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Black.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Bold.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Light.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Medium.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Regular.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-SemiBold.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/masters/SABModulSans-Thin.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Black.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Bold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Light.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Medium.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Regular.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/SemiBold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMono/Thin.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Black.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Bold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Light.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Medium.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Regular.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/SemiBold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulMonoOblique/Thin.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Black.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Bold.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Light.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Medium.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Regular.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/SemiBold.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-1.0/source/variable-masters/SABModulSans/Thin.ttf",
+      "glyphs": [
+        "uni0035",
+        "uni0035.pnum"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-Medium.otf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/OTF/SABModulCode-SemiBold.otf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Bold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Light.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Medium.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-Regular.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/TTF/SABModulCode-SemiBold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/VF/SABModulCode[wght].woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-box-powerline.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-cyrillic.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-latin.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght]-symbols.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WEB/SABModulCode[wght].woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Bold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Light.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Medium.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-Regular.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/stage6-masters/SABModulCode-SemiBold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Bold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Light.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Medium.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-Regular.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    },
+    {
+      "file": "SAB-Modul-Code/source/variable-masters-refit/Roman/SABModulCode-SemiBold.ttf",
+      "glyphs": [
+        "uni0035"
+      ]
+    }
+  ],
+  "hhea_bounds_changed": [],
+  "manifest_count": 154,
+  "manifest_mismatches": []
+}

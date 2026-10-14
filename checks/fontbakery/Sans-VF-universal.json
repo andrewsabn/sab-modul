@@ -1,8 +1,9 @@
 {
     "result": {
         "(not finished)": 0,
+        "ERROR": 2,
         "INFO": 6,
-        "PASS": 194,
+        "PASS": 192,
         "SKIP": 39,
         "WARN": 3
     },
@@ -4513,10 +4514,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -4524,7 +4525,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -4545,10 +4546,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -4556,7 +4557,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -4770,7 +4771,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 472.3kb |\n | Hinted Size   | 472.3kb   |\n | Increase      | 24 bytes      |\n | Change        | 0.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/VF/SABModulSans-Italic[wght].ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 485.2kb |\n | Hinted Size   | 485.2kb   |\n | Increase      | 24 bytes      |\n | Change        | 0.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -4802,7 +4803,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/VF/SABModulSans[wght].ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 462.9kb |\n | Hinted Size   | 462.9kb   |\n | Increase      | 24 bytes      |\n | Change        | 0.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/VF/SABModulSans[wght].ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 476.4kb |\n | Hinted Size   | 476.5kb   |\n | Increase      | 24 bytes      |\n | Change        | 0.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -7950,8 +7951,9 @@
                 null
             ],
             "result": {
+                "ERROR": 2,
                 "INFO": 4,
-                "PASS": 108,
+                "PASS": 106,
                 "SKIP": 25,
                 "WARN": 3
             }

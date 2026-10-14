@@ -1,0 +1,149 @@
+[
+  {
+    "family": "Sans",
+    "slant": "",
+    "changes": [
+      {
+        "glyph": "uni0035",
+        "removed_indices": [
+          41
+        ],
+        "max_master_terminal_deviation_units": 0
+      },
+      {
+        "glyph": "uni0035.pnum",
+        "removed_indices": [
+          41
+        ],
+        "max_master_terminal_deviation_units": 0
+      }
+    ],
+    "names": {
+      "uni0035": {
+        "remaining_master_duplicate_lines": [],
+        "minimum_interpolated_line_length": 0.7071067811865476,
+        "microsection_max_sampled_Hausdorff": 0,
+        "interpolation_cases": 606
+      },
+      "uni0035.pnum": {
+        "remaining_master_duplicate_lines": [],
+        "minimum_interpolated_line_length": 0.7071067811865476,
+        "microsection_max_sampled_Hausdorff": 0,
+        "interpolation_cases": 606
+      }
+    },
+    "final_master_mismatches": []
+  },
+  {
+    "family": "Sans",
+    "slant": "Oblique",
+    "changes": [],
+    "names": {
+      "uni0035": {
+        "remaining_master_duplicate_lines": [],
+        "minimum_interpolated_line_length": 0.7071067811865476,
+        "microsection_max_sampled_Hausdorff": 0,
+        "interpolation_cases": 0
+      },
+      "uni0035.pnum": {
+        "remaining_master_duplicate_lines": [],
+        "minimum_interpolated_line_length": 0.7071067811865476,
+        "microsection_max_sampled_Hausdorff": 0,
+        "interpolation_cases": 0
+      }
+    },
+    "final_master_mismatches": []
+  },
+  {
+    "family": "Mono",
+    "slant": "",
+    "changes": [
+      {
+        "glyph": "uni0035",
+        "removed_indices": [
+          43,
+          44,
+          45,
+          46
+        ],
+        "max_master_terminal_deviation_units": 0.7071067811865476
+      }
+    ],
+    "names": {
+      "uni0035": {
+        "remaining_master_duplicate_lines": [],
+        "minimum_interpolated_line_length": 1.0,
+        "microsection_max_sampled_Hausdorff": 0.7071067811865476,
+        "interpolation_cases": 606
+      },
+      "uni0035.pnum": {
+        "composite_uses_base_glyph": true
+      }
+    },
+    "final_master_mismatches": []
+  },
+  {
+    "family": "Mono",
+    "slant": "Oblique",
+    "changes": [
+      {
+        "glyph": "uni0035",
+        "removed_indices": [
+          44,
+          45
+        ],
+        "max_master_terminal_deviation_units": 0.7071067811865476
+      }
+    ],
+    "names": {
+      "uni0035": {
+        "remaining_master_duplicate_lines": [],
+        "minimum_interpolated_line_length": 0.4472135954999579,
+        "microsection_max_sampled_Hausdorff": 0.7071067811865476,
+        "interpolation_cases": 606
+      },
+      "uni0035.pnum": {
+        "composite_uses_base_glyph": true
+      }
+    },
+    "final_master_mismatches": []
+  },
+  {
+    "family": "Code",
+    "slant": "",
+    "changes": [
+      {
+        "glyph": "uni0035",
+        "removed_indices": [
+          41,
+          42,
+          43
+        ],
+        "max_master_terminal_deviation_units": 0.7071067811865476
+      }
+    ],
+    "names": {
+      "uni0035": {
+        "remaining_master_duplicate_lines": [],
+        "minimum_interpolated_line_length": 1.0,
+        "microsection_max_sampled_Hausdorff": 0.7071067811865526,
+        "interpolation_cases": 404
+      }
+    },
+    "final_master_mismatches": []
+  },
+  {
+    "family": "Code",
+    "slant": "Italic",
+    "changes": [],
+    "names": {
+      "uni0035": {
+        "remaining_master_duplicate_lines": [],
+        "minimum_interpolated_line_length": 7.0710678118654755,
+        "microsection_max_sampled_Hausdorff": 0,
+        "interpolation_cases": 0
+      }
+    },
+    "final_master_mismatches": []
+  }
+]

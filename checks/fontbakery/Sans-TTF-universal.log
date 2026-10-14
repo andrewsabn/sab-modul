@@ -1,13 +1,447 @@
 Start ... running 1622 individual check executions.
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Black.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-BlackOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Bold.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-BoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Light.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-LightOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Medium.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-MediumOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Regular.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-RegularOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-SemiBold.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-SemiBoldOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-Thin.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
+ >> fontdata_namecheck
+    Familyname must be unique according to namecheck.fontdata.com
+    with SABModulSans-ThinOblique.ttf
+
+    Rationale:                                                                
+                                                                                
+    We need to check names are not already used, and today the best place to    
+    check that is http://namecheck.fontdata.com                                 
+                                                                                
+    More info: https://github.com/fonttools/fontbakery/issues/494
+
+    ERROR Failed with KeyError: 'data'                                          
+                                                                                
+                                                                                
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checkrunner.py", line 223, in _run_check        
+              subresults = list(subresults)                                     
+                           ^^^^^^^^^^^^^^^^                                     
+            File                                                                
+          "working-evidence/font-qa-env/lib/python3.12/sit   
+          e-packages/fontbakery/checks/fontdata_namecheck.py", line 24, in      
+          check_fontdata_namecheck                                              
+              if data["data"]["confidence"]["1.0"] > 0:                         
+                 ~~~~^^^^^^^^                                                   
+                                                                                
+          ``` [code: failed-check]                                              
+                                                                                
+
+    Result: ERROR
+
 
 Total:
-    ERROR: 0
+    ERROR: 14
     FATAL: 0
     FAIL: 0
     WARN: 0
     INFO: 42
     SKIP: 513
-    PASS: 1067
+    PASS: 1053
 
 
 
@@ -26,34 +460,6 @@ And a  SKIP happens when the check does not apply to the given font.
     reports and/or feature requests are also always welcome, of course!)
 
 
-
-
-                           ,@.
-                         ,@.@@,.
-                   ,@@,.@@@.  @.@@@,.
-                 ,@@. @@@.     @@. @@,.
-         ,@@@.@,.@.              @.  @@@@,.@.@@,.
-    ,@@.@.     @@.@@.            @,.    .@’ @’  @@,
-  ,@@. @.          .@@.@@@.  @@’                  @,
- ,@.  @@.                                          @,
- @.     @,@@,.     ,                             .@@,
- @,.       .@,@@,.         .@@,.  ,       .@@,  @, @,
- @.                             .@. @ @@,.    ,      @
-  @,.@@.     @,.      @@,.      @.           @,.    @’
-   @@||@,.  @’@,.       @@,.  @@ @,.        @’@@,  @’
-      \\@@@@’  @,.      @’@@@@’   @@,.   @@@’ //@@@’
-       |||||||| @@,.  @@’ |||||||  |@@@|@||  ||
-        \\\\\\\  ||@@@||  |||||||  |||||||  //
-         |||||||  ||||||  ||||||   ||||||  ||
-          \\\\\\  ||||||  ||||||  ||||||  //
-           ||||||  |||||  |||||   |||||  ||
-            \\\\\  |||||  |||||  |||||  //
-             |||||  ||||  |||||  ||||  ||
-              \\\\  ||||  ||||  ||||  //
-               ||||||||||||||||||||||||
-
-         No check is failing. Get a cupcake!
-       <<Art by Tony de Marco, July 26, 2018>>
 
 DONE!
 A report in JSON format has been saved to "sab-modul/checks/fontbakery/Sans-TTF-universal.json"

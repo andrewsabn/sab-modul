@@ -1,9 +1,10 @@
 {
     "result": {
         "(not finished)": 0,
+        "ERROR": 14,
         "FAIL": 81,
         "INFO": 85,
-        "PASS": 1311,
+        "PASS": 1297,
         "SKIP": 1488,
         "WARN": 118
     },
@@ -28757,10 +28758,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -28768,7 +28769,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -28789,10 +28790,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -28800,7 +28801,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -28821,10 +28822,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -28832,7 +28833,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -28853,10 +28854,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -28864,7 +28865,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -28885,10 +28886,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -28896,7 +28897,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -28917,10 +28918,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -28928,7 +28929,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -28949,10 +28950,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -28960,7 +28961,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -28981,10 +28982,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -28992,7 +28993,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29013,10 +29014,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29024,7 +29025,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29045,10 +29046,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29056,7 +29057,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29077,10 +29078,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29088,7 +29089,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29109,10 +29110,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29120,7 +29121,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29141,10 +29142,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29152,7 +29153,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -29173,10 +29174,10 @@
                     "logs": [
                         {
                             "message": {
-                                "code": null,
-                                "message": "Font familyname seems to be unique."
+                                "code": "failed-check",
+                                "message": "Failed with KeyError: 'data'\n```\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checkrunner.py\", line 223, in _run_check\n    subresults = list(subresults)\n                 ^^^^^^^^^^^^^^^^\n  File \"working-evidence/font-qa-env/lib/python3.12/site-packages/fontbakery/checks/fontdata_namecheck.py\", line 24, in check_fontdata_namecheck\n    if data[\"data\"][\"confidence\"][\"1.0\"] > 0:\n       ~~~~^^^^^^^^\n\n```"
                             },
-                            "status": "PASS"
+                            "status": "ERROR"
                         }
                     ],
                     "module": "fontdata_namecheck",
@@ -29184,7 +29185,7 @@
                         "https://github.com/fonttools/fontbakery/issues/494"
                     ],
                     "rationale": "\n        We need to check names are not already used, and today the best place to check\n        that is http://namecheck.fontdata.com\n    ",
-                    "result": "PASS",
+                    "result": "ERROR",
                     "severity": null
                 },
                 {
@@ -30550,7 +30551,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Black.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 152.6kb |\n | Hinted Size   | 176.3kb   |\n | Increase      | 23.8kb      |\n | Change        | 15.6 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Black.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 152.1kb |\n | Hinted Size   | 175.5kb   |\n | Increase      | 23.4kb      |\n | Change        | 15.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30582,7 +30583,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 153.3kb |\n | Hinted Size   | 176.8kb   |\n | Increase      | 23.5kb      |\n | Change        | 15.3 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-BlackOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 152.7kb |\n | Hinted Size   | 175.8kb   |\n | Increase      | 23.1kb      |\n | Change        | 15.1 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30614,7 +30615,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 153.1kb |\n | Hinted Size   | 178.1kb   |\n | Increase      | 25.0kb      |\n | Change        | 16.3 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Bold.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 152.6kb |\n | Hinted Size   | 177.4kb   |\n | Increase      | 24.8kb      |\n | Change        | 16.3 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30646,7 +30647,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 156.3kb |\n | Hinted Size   | 181.0kb   |\n | Increase      | 24.8kb      |\n | Change        | 15.8 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-BoldOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 155.6kb |\n | Hinted Size   | 180.0kb   |\n | Increase      | 24.4kb      |\n | Change        | 15.7 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30678,7 +30679,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Light.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.7kb |\n | Hinted Size   | 184.6kb   |\n | Increase      | 23.9kb      |\n | Change        | 14.8 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Light.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 159.9kb |\n | Hinted Size   | 183.4kb   |\n | Increase      | 23.5kb      |\n | Change        | 14.7 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30710,7 +30711,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 162.7kb |\n | Hinted Size   | 186.4kb   |\n | Increase      | 23.7kb      |\n | Change        | 14.6 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-LightOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 161.7kb |\n | Hinted Size   | 185.1kb   |\n | Increase      | 23.4kb      |\n | Change        | 14.5 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30742,7 +30743,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.7kb |\n | Hinted Size   | 185.7kb   |\n | Increase      | 25.0kb      |\n | Change        | 15.6 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Medium.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 159.9kb |\n | Hinted Size   | 184.5kb   |\n | Increase      | 24.7kb      |\n | Change        | 15.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30774,7 +30775,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 162.7kb |\n | Hinted Size   | 187.2kb   |\n | Increase      | 24.5kb      |\n | Change        | 15.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-MediumOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 161.8kb |\n | Hinted Size   | 186.1kb   |\n | Increase      | 24.2kb      |\n | Change        | 15.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30806,7 +30807,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.9kb |\n | Hinted Size   | 185.1kb   |\n | Increase      | 24.2kb      |\n | Change        | 15.1 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Regular.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.1kb |\n | Hinted Size   | 184.0kb   |\n | Increase      | 23.9kb      |\n | Change        | 15.0 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30838,7 +30839,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 165.0kb |\n | Hinted Size   | 188.9kb   |\n | Increase      | 23.9kb      |\n | Change        | 14.5 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-RegularOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 164.1kb |\n | Hinted Size   | 187.8kb   |\n | Increase      | 23.7kb      |\n | Change        | 14.5 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30870,7 +30871,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 154.6kb |\n | Hinted Size   | 180.7kb   |\n | Increase      | 26.1kb      |\n | Change        | 16.9 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-SemiBold.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 154.1kb |\n | Hinted Size   | 179.7kb   |\n | Increase      | 25.7kb      |\n | Change        | 16.7 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30902,7 +30903,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 158.3kb |\n | Hinted Size   | 183.6kb   |\n | Increase      | 25.3kb      |\n | Change        | 16.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-SemiBoldOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 157.6kb |\n | Hinted Size   | 182.5kb   |\n | Increase      | 24.9kb      |\n | Change        | 15.8 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30934,7 +30935,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 160.4kb |\n | Hinted Size   | 183.5kb   |\n | Increase      | 23.1kb      |\n | Change        | 14.4 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-Thin.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 159.5kb |\n | Hinted Size   | 182.4kb   |\n | Increase      | 22.9kb      |\n | Change        | 14.4 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -30966,7 +30967,7 @@
                         {
                             "message": {
                                 "code": "size-impact",
-                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 163.4kb |\n | Hinted Size   | 186.3kb   |\n | Increase      | 22.9kb      |\n | Change        | 14.0 %  |\n"
+                                "message": "Hinting filesize impact:\n\n |               | sab-modul/SAB-Modul-1.0/TTF/SABModulSans-ThinOblique.ttf     |\n |:------------- | ---------------:|\n | Dehinted Size | 162.4kb |\n | Hinted Size   | 185.2kb   |\n | Increase      | 22.8kb      |\n | Change        | 14.1 %  |\n"
                             },
                             "status": "INFO"
                         }
@@ -50024,8 +50025,9 @@
                 null
             ],
             "result": {
+                "ERROR": 14,
                 "INFO": 28,
-                "PASS": 632,
+                "PASS": 618,
                 "SKIP": 225
             }
         },
@@ -67142,7 +67144,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67175,7 +67177,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67208,7 +67210,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67241,7 +67243,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67274,7 +67276,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67307,7 +67309,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67340,7 +67342,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67373,7 +67375,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67406,7 +67408,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67439,7 +67441,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67472,7 +67474,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67505,7 +67507,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67538,7 +67540,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -67571,7 +67573,7 @@
                         {
                             "message": {
                                 "code": "unreachable-subsetting",
-                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal\n * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee\n * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n * U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, syriac, tifinagh, canadian-aboriginal, todhri, duployan, hebrew, tai-le, coptic, malayalam\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n * U+030C COMBINING CARON: try adding one of: tai-le, cherokee\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
+                                "message": "The following codepoints supported by the font are not covered by\n    any subsets defined in the font's metadata file, and will never\n    be served. You can solve this by either manually adding additional\n    subset declarations to METADATA.pb, or by editing the glyphset\n    definitions.\n\n * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi\n * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic\n * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, old-permic, canadian-aboriginal, tifinagh, math, coptic, duployan, tai-le, hebrew, todhri\n * U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan\n * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage\n * U+030C COMBINING CARON: try adding one of: cherokee, tai-le\n * U+0312 COMBINING TURNED COMMA ABOVE: try adding math\n18 more.\n\nUse -F or --full-lists to disable shortening of long lists.\n\nOr you can add the above codepoints to one of the subsets supported by the font: `cyrillic`, `cyrillic-ext`, `latin`, `latin-ext`"
                             },
                             "status": "WARN"
                         }
@@ -70348,7 +70350,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04b7, \u04ef, \u04b3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04b7, \u04b3, \u04ef | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70387,7 +70389,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b7, \u04b3, \u04e3, \u04ef | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04b3, \u04ef, \u04b7 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70426,7 +70428,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b7, \u04b3, \u04ef, \u04e3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3, \u04ef, \u04e3, \u04b7 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70465,7 +70467,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3, \u04e3, \u04ef, \u04b7 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04b3, \u04ef, \u04b7 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70504,7 +70506,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b7, \u04ef, \u04b3, \u04e3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04ef, \u04e3, \u04b3, \u04b7 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70543,7 +70545,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04ef, \u04b3, \u04b7, \u04e3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04ef, \u04b3, \u04b7 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70582,7 +70584,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3, \u04b7, \u04e3, \u04ef | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b7, \u04b3, \u04e3, \u04ef | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70621,7 +70623,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04ef, \u04b3, \u04b7 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b7, \u04ef, \u04e3, \u04b3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70660,7 +70662,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b7, \u04ef, \u04e3, \u04b3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04b7, \u04ef, \u04b3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70699,7 +70701,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b7, \u04b3, \u04e3, \u04ef | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b7, \u04e3, \u04b3, \u04ef | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70738,7 +70740,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04ef, \u04b7, \u04b3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3, \u04e3, \u04ef, \u04b7 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70777,7 +70779,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3, \u04ef, \u04e3, \u04b7 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04ef, \u04e3, \u04b7, \u04b3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70816,7 +70818,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04b7, \u04ef, \u04b3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04ef, \u04b7, \u04e3, \u04b3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -70855,7 +70857,7 @@
                         {
                             "message": {
                                 "code": "failed-language-shaping",
-                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04e3, \u04b3, \u04b7, \u04ef | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0497, \u0496 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
+                                "message": "GF_TransLatin_Arabic glyphset:\n| FAIL messages | Languages |\n| :--- | :--- |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u02bc | uk_Cyrl (Ukrainian) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b7, \u04ef, \u04e3, \u04b3 | tg_Cyrl (Tajik) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u04b3 | uz_Cyrl (Uzbek (Cyrillic)) |\n| Mandatory orthography codepoints:\n  The following base characters are missing from the font: \u0496, \u0497 | tk_Cyrl (Turkmen (Cyrillic)) |\n"
                             },
                             "status": "FAIL"
                         },
@@ -86420,7 +86422,7 @@
                         {
                             "message": {
                                 "code": "found-semi-vertical",
-                                "message": "The following glyphs have semi-vertical/semi-horizontal lines:\n\n\t* uni006D (U+006D): L<<493.0,296.0>--<494.0,0.0>>\n\n\t* uni0142 (U+0142): L<<279.0,125.0>--<280.0,0.0>>\n\n\t* uni014B (U+014B): L<<405.0,0.0>--<404.0,283.0>>\n\n\t* uni014B (U+014B): L<<565.0,286.0>--<566.0,62.0>>"
+                                "message": "The following glyphs have semi-vertical/semi-horizontal lines:\n\n\t* uni0032 (U+0032): L<<228.0,489.0>--<75.0,490.0>>\n\n\t* uni0032.pnum: L<<221.0,489.0>--<68.0,490.0>>\n\n\t* uni006D (U+006D): L<<493.0,296.0>--<494.0,0.0>>\n\n\t* uni0142 (U+0142): L<<279.0,125.0>--<280.0,0.0>>\n\n\t* uni014B (U+014B): L<<405.0,0.0>--<404.0,283.0>>\n\n\t* uni014B (U+014B): L<<565.0,286.0>--<566.0,62.0>>"
                             },
                             "status": "WARN"
                         }
@@ -86484,7 +86486,7 @@
                         {
                             "message": {
                                 "code": "found-semi-vertical",
-                                "message": "The following glyphs have semi-vertical/semi-horizontal lines:\n\n\t* uni0068 (U+0068): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni006E (U+006E): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni00F1 (U+00F1): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0125 (U+0125): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0144 (U+0144): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0146 (U+0146): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0148 (U+0148): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0149 (U+0149): L<<606.0,0.0>--<605.0,285.0>>\n\n\t* uni014B (U+014B): L<<407.0,0.0>--<406.0,285.0>>\n\n\t* uni014B (U+014B): L<<540.0,287.0>--<541.0,54.0>>\n\n\t* uni045B (U+045B): L<<407.0,0.0>--<406.0,285.0>>"
+                                "message": "The following glyphs have semi-vertical/semi-horizontal lines:\n\n\t* uni0032 (U+0032): L<<206.0,493.0>--<78.0,494.0>>\n\n\t* uni0032.pnum: L<<192.0,493.0>--<64.0,494.0>>\n\n\t* uni0068 (U+0068): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni006E (U+006E): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni00F1 (U+00F1): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0125 (U+0125): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0144 (U+0144): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0146 (U+0146): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0148 (U+0148): L<<417.0,0.0>--<416.0,285.0>>\n\n\t* uni0149 (U+0149): L<<606.0,0.0>--<605.0,285.0>>\n\n\t* 3 more.\n\nUse -F or --full-lists to disable shortening of long lists."
                             },
                             "status": "WARN"
                         }
@@ -95002,7 +95004,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95034,7 +95036,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95066,7 +95068,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95098,7 +95100,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95130,7 +95132,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95162,7 +95164,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95194,7 +95196,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95226,7 +95228,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95258,7 +95260,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95290,7 +95292,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95322,7 +95324,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95354,7 +95356,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95386,7 +95388,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }
@@ -95418,7 +95420,7 @@
                         {
                             "message": {
                                 "code": "version-not-detected",
-                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.102']"
+                                "message": "Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.103']"
                             },
                             "status": "INFO"
                         }

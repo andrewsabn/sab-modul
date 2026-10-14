@@ -1,0 +1,61 @@
+{
+  "scope": "Numeric-repair release vs accepted RFN a/hard-sign release, module/status/message-code comparison; full raw reports retained",
+  "raw_counts": {
+    "(not finished)": 0,
+    "INFO": 753,
+    "PASS": 16535,
+    "SKIP": 14023,
+    "FAIL": 466,
+    "WARN": 911,
+    "ERROR": 44
+  },
+  "new_negative_message_counts": [
+    {
+      "profile_group": "Mono-TTF-googlefonts",
+      "check": "overlapping_path_segments",
+      "status": "WARN",
+      "code": "overlapping-path-segments",
+      "count": 11,
+      "sample": {
+        "code": "overlapping-path-segments",
+        "message": "The following glyphs have overlapping path segments:\n\n\t* uni0035 (U+0035): L<<64.0,118.0>--<64.0,118.0>> has the same coordinates as a previous segment.\n\n\t* uni0035.pnum: L<<64.0,118.0>--<64.0,118.0>> has the same coordinates as a previous segment."
+      }
+    },
+    {
+      "profile_group": "Code-TTF-universal",
+      "check": "overlapping_path_segments",
+      "status": "WARN",
+      "code": "overlapping-path-segments",
+      "count": 5,
+      "sample": {
+        "code": "overlapping-path-segments",
+        "message": "The following glyphs have overlapping path segments:\n\n\t* uni0035 (U+0035): L<<37.0,125.0>--<37.0,125.0>> has the same coordinates as a previous segment."
+      }
+    },
+    {
+      "profile_group": "Code-TTF-googlefonts",
+      "check": "overlapping_path_segments",
+      "status": "WARN",
+      "code": "overlapping-path-segments",
+      "count": 5,
+      "sample": {
+        "code": "overlapping-path-segments",
+        "message": "The following glyphs have overlapping path segments:\n\n\t* uni0035 (U+0035): L<<37.0,125.0>--<37.0,125.0>> has the same coordinates as a previous segment."
+      }
+    },
+    {
+      "profile_group": "Mono-TTF-universal",
+      "check": "overlapping_path_segments",
+      "status": "WARN",
+      "code": "overlapping-path-segments",
+      "count": 11,
+      "sample": {
+        "code": "overlapping-path-segments",
+        "message": "The following glyphs have overlapping path segments:\n\n\t* uni0035 (U+0035): L<<64.0,118.0>--<64.0,118.0>> has the same coordinates as a previous segment.\n\n\t* uni0035.pnum: L<<64.0,118.0>--<64.0,118.0>> has the same coordinates as a previous segment."
+      }
+    }
+  ],
+  "removed_negative_message_counts": [],
+  "new_FAIL_ERROR_check_results": [],
+  "removed_FAIL_ERROR_check_results": []
+}

@@ -1,0 +1,209 @@
+{
+  "browser": "Codex in-app Chromium",
+  "method": "DOM.querySelectorAll and CSS.getPlatformFontsForNode via documented CDP capability; document.fonts.ready",
+  "static_styles": 38,
+  "large_text_nodes": 38,
+  "small_text_nodes": 76,
+  "custom_fonts_only": true,
+  "large_size_pt": 300,
+  "small_sizes_pt": [
+    14,
+    16
+  ],
+  "no_synthetic_bold_or_italic": true,
+  "files": [
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2",
+      "expected_postscript_name": "SABModulSans-Black"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2",
+      "expected_postscript_name": "SABModulSans-BlackOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2",
+      "expected_postscript_name": "SABModulSans-Bold"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2",
+      "expected_postscript_name": "SABModulSans-BoldOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2",
+      "expected_postscript_name": "SABModulSans-Light"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2",
+      "expected_postscript_name": "SABModulSans-LightOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2",
+      "expected_postscript_name": "SABModulSans-Medium"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2",
+      "expected_postscript_name": "SABModulSans-MediumOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2",
+      "expected_postscript_name": "SABModulSans-Regular"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2",
+      "expected_postscript_name": "SABModulSans-RegularOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2",
+      "expected_postscript_name": "SABModulSans-SemiBold"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2",
+      "expected_postscript_name": "SABModulSans-SemiBoldOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2",
+      "expected_postscript_name": "SABModulSans-Thin"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2",
+      "expected_postscript_name": "SABModulSans-ThinOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2",
+      "expected_postscript_name": "SABModulMono-Black"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2",
+      "expected_postscript_name": "SABModulMono-BlackOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2",
+      "expected_postscript_name": "SABModulMono-Bold"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2",
+      "expected_postscript_name": "SABModulMono-BoldOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2",
+      "expected_postscript_name": "SABModulMono-Light"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2",
+      "expected_postscript_name": "SABModulMono-LightOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2",
+      "expected_postscript_name": "SABModulMono-Medium"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2",
+      "expected_postscript_name": "SABModulMono-MediumOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2",
+      "expected_postscript_name": "SABModulMono-Regular"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2",
+      "expected_postscript_name": "SABModulMono-RegularOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2",
+      "expected_postscript_name": "SABModulMono-SemiBold"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2",
+      "expected_postscript_name": "SABModulMono-SemiBoldOblique"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2",
+      "expected_postscript_name": "SABModulMono-Thin"
+    },
+    {
+      "file": "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2",
+      "expected_postscript_name": "SABModulMono-ThinOblique"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2",
+      "expected_postscript_name": "SABModulCode-Bold"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-BoldItalic.woff2",
+      "expected_postscript_name": "SABModulCode-BoldItalic"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Italic.woff2",
+      "expected_postscript_name": "SABModulCode-Italic"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2",
+      "expected_postscript_name": "SABModulCode-Light"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-LightItalic.woff2",
+      "expected_postscript_name": "SABModulCode-LightItalic"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2",
+      "expected_postscript_name": "SABModulCode-Medium"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-MediumItalic.woff2",
+      "expected_postscript_name": "SABModulCode-MediumItalic"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2",
+      "expected_postscript_name": "SABModulCode-Regular"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2",
+      "expected_postscript_name": "SABModulCode-SemiBold"
+    },
+    {
+      "file": "SAB-Modul-Code/WOFF2/SABModulCode-SemiBoldItalic.woff2",
+      "expected_postscript_name": "SABModulCode-SemiBoldItalic"
+    }
+  ],
+  "final_font_hashes": {
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Black.woff2": "0b1f4b29d3cb1c549546b6dd23ed88cf2c7c6198e0ffaa5e78aa00c9ad20cae3",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-BlackOblique.woff2": "b8d20f0864c88995f2b6a764e86a307525b5a7a7e358db880e426ac9dadc1dd2",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Bold.woff2": "9cd04097341558dd70b582afe9e9fdb26e8d966120b59a1c9a361252c4f314c9",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-BoldOblique.woff2": "5ea1105ba1d74a4814a4e7452cfe5bee96cd67bef2ccc084a7573e0434b0e5e1",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Light.woff2": "8360e5489433c8b7300288a802fb41105ff14f91857087c068afbb2b5a087691",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-LightOblique.woff2": "b9e8fee3156ea24d177157343fd1da7d3dbd5f2fe77e50123d0e936880bcc001",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Medium.woff2": "a75601b45ea046054308164394d351d6bb29e1a987d4696c2612f1b2d15572d1",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-MediumOblique.woff2": "2d4afa0500a9465e8f1d1eda6525d1b088bd5d3b8d9dfd92ecd0b224096962e3",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Regular.woff2": "9464d259e0607516bf1fd0b35bea56e325941789821b6187adf94fbe70bd0bd0",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-RegularOblique.woff2": "231516b2c3006ebd666f6e52e04b190385aab05ea8df6ab002477ac76d7cd1a9",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBold.woff2": "d4136c4965cbe06c5b09d09746e2da5b3d7c163ccece2625fbf0517ff56209f8",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-SemiBoldOblique.woff2": "d8f340c4947901a86d9545e51619ce4f7cc92d8eca4b5974a0fb43a2a8f627bf",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-Thin.woff2": "97dacbc436ebdbe8b2dfd588304cad5515a21f268c27577793d010f878baaa12",
+    "SAB-Modul-1.0/WOFF2/SABModulSans-ThinOblique.woff2": "467f381bda3fd80c7fac8b27ead49b68c7a10908b4cbfae90b347286916d76de",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Black.woff2": "889c628ae25cf003802c225c51fe66203ab456ae6a2b9262057de9e0220b15b5",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-BlackOblique.woff2": "520d5f7a6af57080f079ad62dbc20a31e8ebfbb8f57c7f0bb864bb3838da0eb3",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Bold.woff2": "bec3293db7554bc8a39b3ab724d90b936b586079add31657ecba046e93200b08",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-BoldOblique.woff2": "afb0b420793b50e82b83d2a2b07c6fd60ca82370cb15c35986023265e215ef7a",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Light.woff2": "da48fb2c0c3c2b5a9b6f6f6f12b25d5c45436d61458d2f6e713009a88ffb38ef",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-LightOblique.woff2": "9f31d8e01bae3efa0b06baf97bd75efaca3a07b7382524bcfb5638c742e213cb",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Medium.woff2": "c0a79102173d3042ba6220ca4b8c95d54250017537c75144e840ca3dcc359309",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-MediumOblique.woff2": "12f6eface860ed3ff88463eef24a635d1ee3afdb565ef1924d873634d5073426",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Regular.woff2": "81486a4314dd5ef4670c266d65185a400d8453da1e3854b5e75d1d5ea7230eb6",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-RegularOblique.woff2": "eea2874c3bf124bd866cf55558abdade8cd642a6a2aa23c80f35befdd68373c9",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBold.woff2": "c7f6c14fe74615e81d141d36b083f725a2293bc9b6c63a17f141d08af976a454",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-SemiBoldOblique.woff2": "2dba6607af8e386b9f6901320ac1386254689a7cd4915d9e6f58a0252652242c",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-Thin.woff2": "35785196634ea54e5cc234764d6ad7b188f47657bb07dde62a44372bfa97f9ab",
+    "SAB-Modul-1.0/WOFF2/SABModulMono-ThinOblique.woff2": "2b73ddccf31edeea0b8332f8a348dd94a4f6327ac1474e29ee49399922763894",
+    "SAB-Modul-Code/WOFF2/SABModulCode-Bold.woff2": "813a5e90c3da175ace94bd6ffbeb3334be7d5693fefdbd76791d7f7c5413d167",
+    "SAB-Modul-Code/WOFF2/SABModulCode-BoldItalic.woff2": "fac7cb91049cd3d59fb7bd421cab6b8291ff520c6a83cb1fe1d224ca9da31f5b",
+    "SAB-Modul-Code/WOFF2/SABModulCode-Italic.woff2": "1d7277667bf8d1a3e0dc2f9485b649cd340e553b5d94dbb1f8ce96449b1189b4",
+    "SAB-Modul-Code/WOFF2/SABModulCode-Light.woff2": "c5d168166e1fe07620a65df26d1aad740cca546637d758ca0a4546070059e4dd",
+    "SAB-Modul-Code/WOFF2/SABModulCode-LightItalic.woff2": "3b5a62f279a539913167f166949bb7589293ad8af39518af0a82607d6bfb52ba",
+    "SAB-Modul-Code/WOFF2/SABModulCode-Medium.woff2": "9ec92eaa59361f4403515fb2cdce1a9b0d9a529991750ce27f47019a03d3421b",
+    "SAB-Modul-Code/WOFF2/SABModulCode-MediumItalic.woff2": "509904b1ad67eb5fd3b729159c6a54e99f8a8813acaf5a496cfa8614a145b563",
+    "SAB-Modul-Code/WOFF2/SABModulCode-Regular.woff2": "6a70601f8032cd4a74bb24961270095a04d6eea187abe71de847440a13e758b5",
+    "SAB-Modul-Code/WOFF2/SABModulCode-SemiBold.woff2": "c7d19e21a0a130df97cdf60ac6bf2b2dd486fcb621d48cbce999eba3f9d362ce",
+    "SAB-Modul-Code/WOFF2/SABModulCode-SemiBoldItalic.woff2": "619965bc1dcf5bea9a400a0b51ec9bb4b9dbef10da286bfa21afc01bd8a11af0"
+  },
+  "stage": "Final cleaned numeric binaries, after page reload"
+}

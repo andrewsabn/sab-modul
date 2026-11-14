@@ -30,6 +30,8 @@ For websites, use the [Sans/Mono CSS](SAB-Modul-1.0/WEB/fonts.css) and [Code CSS
 
 The license permits use, including commercial use, modification and redistribution under the OFL conditions. Fonts cannot be sold on their own; they can be used in paid products. **Reserved Font Name (RFN): SAB Modul.** Modified versions may not use this name without separate written permission from the copyright holder. The declaration appears beside the copyright notice in OFL.txt and in the font metadata.
 
+**Written permission for subsets and web formats.** The copyright holder permits the Reserved Font Name "SAB Modul" for subsets of this Font Software (files that keep only part of the glyphs, for example one script or one character range) and for conversions to other font formats such as WOFF and WOFF2, provided that the outlines and metrics of the retained glyphs are not changed and their OpenType layout behaviour is preserved. Any other modification remains subject to the RFN condition above.
+
 The earlier public edition without an RFN retains its original terms. Adding an RFN to this edition does not revoke rights already granted. See the [official OFL FAQ, section 8.7](https://openfontlicense.org/ofl-faq/).
 
 The OFL covers the original Font Software in this distribution. Third-party tools and report components retain their own licenses; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). The blog article and its illustrations are not included in this repository.
